@@ -1,0 +1,2 @@
+android.app.Application
+MS1.Android

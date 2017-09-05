@@ -1,0 +1,16 @@
+C:\Users\Helmi\source\repos\Purpose\Purpose\Purpose\bin\Debug\Purpose.dll
+C:\Users\Helmi\source\repos\Purpose\Purpose\Purpose\bin\Debug\Purpose.pdb
+C:\Users\Helmi\source\repos\Purpose\Purpose\Purpose\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\Helmi\source\repos\Purpose\Purpose\Purpose\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\Helmi\source\repos\Purpose\Purpose\Purpose\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Helmi\source\repos\Purpose\Purpose\Purpose\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\Helmi\source\repos\Purpose\Purpose\Purpose\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\Helmi\source\repos\Purpose\Purpose\Purpose\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Users\Helmi\source\repos\Purpose\Purpose\Purpose\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\Helmi\source\repos\Purpose\Purpose\Purpose\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\Helmi\source\repos\Purpose\Purpose\Purpose\obj\Debug\Purpose.csprojResolveAssemblyReference.cache
+C:\Users\Helmi\source\repos\Purpose\Purpose\Purpose\obj\Debug\Purpose.csproj.CoreCompileInputs.cache
+C:\Users\Helmi\source\repos\Purpose\Purpose\Purpose\obj\Debug\Purpose.MainPage.xaml.g.cs
+C:\Users\Helmi\source\repos\Purpose\Purpose\Purpose\obj\Debug\Purpose.App.xaml.g.cs
+C:\Users\Helmi\source\repos\Purpose\Purpose\Purpose\obj\Debug\Purpose.dll
+C:\Users\Helmi\source\repos\Purpose\Purpose\Purpose\obj\Debug\Purpose.pdb

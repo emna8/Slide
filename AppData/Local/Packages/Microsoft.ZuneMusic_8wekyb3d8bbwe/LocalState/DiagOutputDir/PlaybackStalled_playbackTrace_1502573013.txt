@@ -1,0 +1,1026 @@
+1	08/12/17 23:21:51	9024	MS::Entertainment::Music::Playback::PlaybackPositionMonitor::OnMediaSessionPlaybackStateChanged - MediaPlaybackState: Opening
+2	08/12/17 23:21:51	6396	----MS::Entertainment::Music::Playback::NowPlayingQueueMetadataProvider::HydrateTracks >> ENTER: - hydrationLevel = Display
+3	08/12/17 23:21:51	6036	MS::Entertainment::Music::Playback::MediaPlaybackListManager::CreatePlaybackContext - trackId = 0x00000008
+4	08/12/17 23:21:51	6036	MS::Entertainment::Music::Playback::NowPlayingQueueMetadataProvider::HydrateTrack >> ENTER:
+5	08/12/17 23:21:51	6396	----MS::Entertainment::Music::Playback::NowPlayingQueueMetadataProvider::HydrateTracks << EXIT: 0.084ms - hydrationLevel = Display
+6	08/12/17 23:21:51	6396	--MS::Entertainment::Music::Playback::SingleProcMusicPlaybackService::AddTracksToPlaybackQueueEpilogueImpl << EXIT: 0.356ms - Hydrating tracks to HydrationLevel::Display...
+7	08/12/17 23:21:51	6396	--MS::Entertainment::Music::Playback::MusicPlaybackServiceBase::UpdateVisibleStateAndFireEventsAsync - m_currentState is { TransportState = Playing, PlayerState = Loading, TrackId = 0x00000008, DirtyFlags = 135 }
+8	08/12/17 23:21:51	6396	--MS::Entertainment::Music::Playback::PlatformMetadataProvider::UpdateButtonStates - trackIsValid: true, nextEnabled: false
+9	08/12/17 23:21:51	6036	MS::Entertainment::Music::Playback::NowPlayingQueueMetadataProvider::HydrateTrack << EXIT: 0.246ms
+10	08/12/17 23:21:51	6036	MS::Entertainment::Music::Playback::Counted<class MS::Entertainment::Music::Playback::TrackPlaybackContext,unsigned int>::Counted - NumInstances = 1, ObjectId = 2
+11	08/12/17 23:21:51	6396	--MS::Entertainment::Music::Playback::NowPlayingQueueMetadataProvider::GetMetadataPacketForTrack - trackId: 8
+12	08/12/17 23:21:51	6396	--MS::Entertainment::Music::Playback::PlatformMetadataProvider::UpdateMetadata - Found metadata to show for currentTrackId: 8
+13	08/12/17 23:21:51	6396	--MS::Entertainment::Music::Playback::PlatformMetadataProvider::UpdateSMTC - Updating SMTC metadata. Title = Circuits Artist = Klangkarussell
+14	08/12/17 23:21:51	6396	--MS::Entertainment::Music::Playback::PlatformMetadataProvider::UpdateSMTCTimelineProperties - Updating SMTC time line properties' position: 0 ms
+15	08/12/17 23:21:51	6396	--MS::Entertainment::Music::Playback::NowPlayingQueueMetadataProvider::GetMetadataPacketForTrack - trackId: 0
+16	08/12/17 23:21:51	6396	--MS::Entertainment::Music::Playback::MusicPlaybackServiceBase::UpdateNowPlayingQueueSavability >> ENTER: - Checking if NowPlayingQueue is savable, queue size: 1
+17	08/12/17 23:21:51	6396	--MS::Entertainment::Music::Playback::MusicPlaybackServiceBase::UpdateNowPlayingQueueSavability << EXIT: 0.010ms - Checking if NowPlayingQueue is savable, queue size: 1
+18	08/12/17 23:21:51	6396	MS::Entertainment::Music::Playback::MusicPlaybackServiceBase::AddTracksToPlaybackQueue::<lambda_dee2e11d8cccfcaf8b7d73ab3214a568>::operator () << EXIT: 52.128ms - Clearing and adding 1 out of 1 tracks. Play@0
+19	08/12/17 23:21:51	8760	MS::Entertainment::Music::Playback::MusicPlaybackServiceBase::UpdateVisibleStateAndFireEventsAsync::<lambda_fc2893abbb5aed69e392a6221069ce86>::operator () >> ENTER: - UI task
+20	08/12/17 23:21:51	8760	--MS::Entertainment::Music::Playback::MusicPlaybackServiceBase::UpdateVisibleStateAndFireEventsAsync::<lambda_fc2893abbb5aed69e392a6221069ce86>::operator () - Updated visible state to TransportState = Playing, PlayerState = Loading, TrackId = 0x00000008
+21	08/12/17 23:21:51	8760	--MS::Entertainment::Music::Playback::MusicNowPlayingQueue::Update
+22	08/12/17 23:21:51	8760	--MS::Entertainment::Music::Playback::MusicNowPlayingQueue::Update
+23	08/12/17 23:21:51	8760	--MS::Entertainment::Music::Controls::NowPlayingFlipView::OnSelectionChanged >> ENTER:
+24	08/12/17 23:21:51	8760	----MS::Entertainment::Music::Controls::NowPlayingFlipView::OnSelectionChanged - Selection changed. SelectedIndex: -1, Last SelectedIndex: 0
+25	08/12/17 23:21:51	8760	--MS::Entertainment::Music::Controls::NowPlayingFlipView::OnSelectionChanged << EXIT: 0.228ms
+26	08/12/17 23:21:51	8760	--MS::Entertainment::Music::Controls::NowPlayingFlipView::OnSelectionChanged >> ENTER:
+27	08/12/17 23:21:51	8760	----MS::Entertainment::Music::Controls::NowPlayingFlipView::OnSelectionChanged - Selection changed. SelectedIndex: 0, Last SelectedIndex: -1
+28	08/12/17 23:21:51	8760	--MS::Entertainment::Music::Controls::NowPlayingFlipView::OnSelectionChanged << EXIT: 0.090ms
+29	08/12/17 23:21:51	8760	--MS::Entertainment::Music::Playback::MusicPlaybackServiceBase::FireStateChangedEvents >> ENTER: - Firing QueuePositionsChanged
+30	08/12/17 23:21:51	8760	----MS::Entertainment::Music::ViewModel::MediaTransportControlsViewModel::UpdateDuration - trackDuration = 571000
+31	08/12/17 23:21:51	8760	----MS::Entertainment::Music::Controls::NowPlayingFlipView::OnHeaderPropertyChanged >> ENTER:
+32	08/12/17 23:21:51	8760	------MS::Entertainment::Music::Controls::NowPlayingFlipView::UpdateSelection >> ENTER:
+33	08/12/17 23:21:51	8760	--------MS::Entertainment::Music::Controls::NowPlayingFlipView::SetSelection - New: 0,  Old: 0
+34	08/12/17 23:21:51	8760	------MS::Entertainment::Music::Controls::NowPlayingFlipView::UpdateSelection << EXIT: 0.142ms
+35	08/12/17 23:21:51	8760	----MS::Entertainment::Music::Controls::NowPlayingFlipView::OnHeaderPropertyChanged << EXIT: 0.278ms
+36	08/12/17 23:21:51	8760	----MS::Entertainment::Music::AV::PlaybackNotificationService::OnPlaybackQueuePositionsChanged - current: 0
+37	08/12/17 23:21:51	8760	----MS::Entertainment::Music::AV::PlaybackNotificationService::ClearErrorCodes
+38	08/12/17 23:21:51	6036	MS::Entertainment::Music::Playback::Counted<class MS::Entertainment::Music::Playback::MasterPlaybackInfoManager,unsigned int>::Counted - NumInstances = 1, ObjectId = 0
+39	08/12/17 23:21:51	6036	MS::Entertainment::Music::Playback::MasterPlaybackInfoManager::MasterPlaybackInfoManager - Parent TPC id = 2
+40	08/12/17 23:21:51	6036	MS::Entertainment::Music::Playback::PlaybackTrack::EnsureHydrateToPlaybackInfo
+41	08/12/17 23:21:51	6036	MS::Entertainment::Music::Playback::MasterPlaybackInfoManager::MasterPlaybackInfoManager - requestMediaType: Audio
+42	08/12/17 23:21:51	6036	MS::Entertainment::Music::Playback::Counted<class MS::Entertainment::Music::Playback::PlaybackInfoManager,unsigned int>::Counted - NumInstances = 1, ObjectId = 0
+43	08/12/17 23:21:51	6036	MS::Entertainment::Music::Playback::PlaybackInfoManager::PlaybackInfoManager - Parent MasterPIM id = 0
+44	08/12/17 23:21:51	1272	MS::Entertainment::Music::Playback::PlaybackInfoManager::RunMonitoringTask
+45	08/12/17 23:21:51	7136	MS::Entertainment::Music::Playback::PlaybackInfoManager::RunRetryTask
+46	08/12/17 23:21:51	7136	MS::Entertainment::Music::Playback::Counted<class MS::Entertainment::Music::Playback::PlaybackInfoRequest,unsigned int>::Counted - NumInstances = 1, ObjectId = 0
+47	08/12/17 23:21:51	7136	MS::Entertainment::Music::Playback::PlaybackInfoRequest::PlaybackInfoRequest - Parent PIM id = 0, CurrentUsageContext = 1
+48	08/12/17 23:21:51	7136	MS::Entertainment::Music::Playback::PlaybackInfoManager::RunRetryTask - TrackId = 0x00000008, m_retryAttempts = 1
+49	08/12/17 23:21:51	7136	MS::Entertainment::Music::Playback::PlaybackInfoManager::RunRetryTask - Calling this_thread::sleep_for... TrackId = 0x00000008, retryDelay = 1500
+50	08/12/17 23:21:51	6036	MS::Entertainment::Music::Playback::PlaybackInfoManager::OnCurrentChanged
+51	08/12/17 23:21:51	6036	MS::Entertainment::Music::Playback::TrackPlaybackContext::RealizeBinding - TrackId = 0x00000008
+52	08/12/17 23:21:51	6036	MS::Entertainment::Music::Playback::TrackPlaybackContext::UpdateTelemetryObjects
+53	08/12/17 23:21:51	6036	MS::Entertainment::Music::Playback::TrackPlaybackContext::PlaybackInfo::get >> ENTER: - Track 0x00000008
+54	08/12/17 23:21:51	6036	--MS::Entertainment::Music::Playback::TrackPlaybackContext::ResolvePlaybackInfoAsync - Track 0x00000008
+55	08/12/17 23:21:51	8008	MS::Entertainment::Music::AV::PlaybackHelper::ClearAndOrNavigate - autoNavigateBehavior=2, clearQueue = false
+56	08/12/17 23:21:51	6212	MS::Entertainment::Music::Playback::MusicPlaybackServiceBase::AddTracksToPlaybackQueue::<lambda_dee2e11d8cccfcaf8b7d73ab3214a568>::operator () >> ENTER: - adding 23 out of 23 tracks. Play@0
+57	08/12/17 23:21:51	6212	--MS::Entertainment::Music::Playback::TrackVectorShuffleView::SetIsShuffled >> ENTER: - isShuffled = false, currentTrackId = 0x00000000, doShuffleNow = true
+58	08/12/17 23:21:51	6212	--MS::Entertainment::Music::Playback::TrackVectorShuffleView::SetIsShuffled << EXIT: 0.002ms - isShuffled = false, currentTrackId = 0x00000000, doShuffleNow = true
+59	08/12/17 23:21:51	6212	--MS::Entertainment::Music::Playback::NowPlayingQueueMetadataProvider::SetAcquisitionInformation
+60	08/12/17 23:21:51	6212	--MS::Entertainment::Music::Playback::TrackVector::AppendMany >> ENTER: - tracks->Size = 23
+61	08/12/17 23:21:51	8760	----MS::Entertainment::Music::AV::PlaybackNotificationService::HandleCurrentIdChange - newCurrentPlaybackId: 0x00000008, newCurrentDatabaseId: 0, newCatalogId: {2510960A-0100-11DB-89CA-0019B92A3933}
+62	08/12/17 23:21:51	8760	----MS::Entertainment::Music::AV::PlaybackNotificationService::SetErrorCode
+63	08/12/17 23:21:51	8760	----MS::Entertainment::Music::AV::PlaybackNotificationService::SetCurrentPlaybackId - newCurrentPlaybackId: 0x00000008, oldCurrentPlaybackId: 7
+64	08/12/17 23:21:51	8760	----MS::Entertainment::Music::AV::PlaybackNotificationService::SetCurrentDatabaseId - newCurrentDatabaseId: 0, oldCurrentDatabaseId: 0
+65	08/12/17 23:21:51	8760	----MS::Entertainment::Music::AV::PlaybackNotificationService::SetCurrentCatalogId - newCatalogId: {2510960a-0100-11db-89ca-0019b92a3933}, oldCatalogId: {00000000-0000-0000-0000-000000000000}
+66	08/12/17 23:21:51	8760	--MS::Entertainment::Music::Playback::MusicPlaybackServiceBase::FireStateChangedEvents << EXIT: 64.813ms - Firing QueuePositionsChanged
+67	08/12/17 23:21:51	8760	--MS::Entertainment::Music::Playback::MusicPlaybackServiceBase::FireStateChangedEvents >> ENTER: - Firing PlaybackStateChanged
+68	08/12/17 23:21:51	8760	----MS::Entertainment::Music::ViewModel::MediaTransportControlsViewModel::OnPlaybackStateChanged - TransportState = Playing, PlayerState = Loading
+69	08/12/17 23:21:51	8760	----MS::Entertainment::Music::ViewModel::MediaTransportControlsViewModel::SyncElapsedTimeUpdateTimer - m_numElapsedTimeChangedHandlers = 2, m_isInElapsedTimePollingState = false.  Canceling position polling timer...
+70	08/12/17 23:21:51	8760	----MS::Entertainment::Music::ViewModel::MediaTransportControlsViewModel::UpdateDuration - trackDuration = 571000
+71	08/12/17 23:21:51	8760	--MS::Entertainment::Music::Playback::MusicPlaybackServiceBase::FireStateChangedEvents << EXIT: 5.823ms - Firing PlaybackStateChanged
+72	08/12/17 23:21:51	8760	MS::Entertainment::Music::Playback::MusicPlaybackServiceBase::UpdateVisibleStateAndFireEventsAsync::<lambda_fc2893abbb5aed69e392a6221069ce86>::operator () << EXIT: 79.676ms - UI task
+73	08/12/17 23:21:51	4044	MS::Entertainment::Music::Playback::NowPlayingQueueMetadataProvider::HydrateTracks >> ENTER: - hydrationLevel = TrackUsageRights
+74	08/12/17 23:21:51	4044	MS::Entertainment::Music::Playback::NowPlayingQueueMetadataProvider::HydrateTracks << EXIT: 7.076ms - hydrationLevel = TrackUsageRights
+75	08/12/17 23:21:51	8760	MS::Entertainment::Music::AV::PlaybackNotificationService::SetCurrentDatabaseId - newCurrentDatabaseId: 0, oldCurrentDatabaseId: 0
+76	08/12/17 23:21:51	6212	--MS::Entertainment::Music::Playback::TrackVector::AppendMany << EXIT: 98.513ms - tracks->Size = 23
+77	08/12/17 23:21:51	6212	--MS::Entertainment::Music::Playback::MusicPlaybackServiceBase::UpdateCurrentPositions >> ENTER: - oldCurrentTrackId = 0x00000008, newCurrentTrackId = 0x00000008, forceUpdate = true
+78	08/12/17 23:21:51	6212	--MS::Entertainment::Music::Playback::MusicPlaybackServiceBase::UpdateCurrentPositions << EXIT: 0.006ms - oldCurrentTrackId = 0x00000008, newCurrentTrackId = 0x00000008, forceUpdate = true
+79	08/12/17 23:21:51	6212	--MS::Entertainment::Music::Playback::SingleProcMusicPlaybackService::AddTracksToPlaybackQueueEpilogueImpl - originalQueueSize:1, options.beginPlayback:false
+80	08/12/17 23:21:51	6212	--MS::Entertainment::Music::Playback::MediaPlaybackListManager::UpdatePlaybackOrder - isShuffled = false
+81	08/12/17 23:21:51	6212	--MS::Entertainment::Music::Playback::SingleProcMusicPlaybackService::AddTracksToPlaybackQueueEpilogueImpl >> ENTER: - Hydrating tracks to HydrationLevel::Display...
+82	08/12/17 23:21:51	1184	MS::Entertainment::Music::Playback::MediaPlaybackListManager::PausePreroll
+83	08/12/17 23:21:51	6212	----MS::Entertainment::Music::Playback::NowPlayingQueueMetadataProvider::HydrateTracks >> ENTER: - hydrationLevel = Display
+84	08/12/17 23:21:51	1184	MS::Entertainment::Music::Playback::MediaPlaybackListManager::CleanupOutOfScopePlaybackContexts - currentTrackId = 0x00000008, currentTrackIndex = 0, keepPrerolledTracks = true, keepErroredTracks = false
+85	08/12/17 23:21:51	1184	MS::Entertainment::Music::Playback::MediaPlaybackListManager::CleanupOutOfScopePlaybackContexts >> ENTER:
+86	08/12/17 23:21:51	1184	MS::Entertainment::Music::Playback::MediaPlaybackListManager::CleanupOutOfScopePlaybackContexts << EXIT: 0.002ms
+87	08/12/17 23:21:51	1184	MS::Entertainment::Music::Playback::MediaPlaybackListManager::CleanupOutOfScopePlaybackContexts - Size of m_playbackContexts after cleanup: 1
+88	08/12/17 23:21:51	1184	MS::Entertainment::Music::Playback::MediaPlaybackListManager::ResumePreroll
+89	08/12/17 23:21:51	6212	----MS::Entertainment::Music::Playback::NowPlayingQueueMetadataProvider::HydrateTracks << EXIT: 0.544ms - hydrationLevel = Display
+90	08/12/17 23:21:51	6212	--MS::Entertainment::Music::Playback::SingleProcMusicPlaybackService::AddTracksToPlaybackQueueEpilogueImpl << EXIT: 0.659ms - Hydrating tracks to HydrationLevel::Display...
+91	08/12/17 23:21:51	6212	--MS::Entertainment::Music::Playback::MusicPlaybackServiceBase::UpdateVisibleStateAndFireEventsAsync - m_currentState is { TransportState = Playing, PlayerState = Loading, TrackId = 0x00000008, DirtyFlags = 1 }
+92	08/12/17 23:21:51	6212	--MS::Entertainment::Music::Playback::PlatformMetadataProvider::UpdateButtonStates - trackIsValid: true, nextEnabled: true
+93	08/12/17 23:21:51	6212	--MS::Entertainment::Music::Playback::MusicPlaybackServiceBase::UpdateNowPlayingQueueSavability >> ENTER: - Checking if NowPlayingQueue is savable, queue size: 24
+94	08/12/17 23:21:51	6212	--MS::Entertainment::Music::Playback::MusicPlaybackServiceBase::UpdateNowPlayingQueueSavability << EXIT: 0.005ms - Checking if NowPlayingQueue is savable, queue size: 24
+95	08/12/17 23:21:51	6212	MS::Entertainment::Music::Playback::MusicPlaybackServiceBase::AddTracksToPlaybackQueue::<lambda_dee2e11d8cccfcaf8b7d73ab3214a568>::operator () << EXIT: 100.629ms - adding 23 out of 23 tracks. Play@0
+96	08/12/17 23:21:51	8760	MS::Entertainment::Music::Playback::MusicPlaybackServiceBase::UpdateVisibleStateAndFireEventsAsync::<lambda_fc2893abbb5aed69e392a6221069ce86>::operator () >> ENTER: - UI task
+97	08/12/17 23:21:51	8760	--MS::Entertainment::Music::Playback::MusicPlaybackServiceBase::UpdateVisibleStateAndFireEventsAsync::<lambda_fc2893abbb5aed69e392a6221069ce86>::operator () - Updated visible state to TransportState = Playing, PlayerState = Loading, TrackId = 0x00000008
+98	08/12/17 23:21:51	8760	--MS::Entertainment::Music::Playback::MusicNowPlayingQueue::Update
+99	08/12/17 23:21:51	8760	--MS::Entertainment::Music::Playback::MusicNowPlayingQueue::Update
+100	08/12/17 23:21:51	8760	--MS::Entertainment::Music::Playback::MusicPlaybackServiceBase::FireStateChangedEvents >> ENTER: - Firing QueuePositionsChanged
+101	08/12/17 23:21:51	8760	----MS::Entertainment::Music::AV::PlaybackNotificationService::OnPlaybackQueuePositionsChanged - current: 0
+102	08/12/17 23:21:51	8760	----MS::Entertainment::Music::AV::PlaybackNotificationService::ClearErrorCodes
+103	08/12/17 23:21:51	8760	----MS::Entertainment::Music::AV::PlaybackNotificationService::HandleCurrentIdChange - newCurrentPlaybackId: 0x00000008, newCurrentDatabaseId: 0, newCatalogId: {2510960A-0100-11DB-89CA-0019B92A3933}
+104	08/12/17 23:21:51	8760	----MS::Entertainment::Music::AV::PlaybackNotificationService::SetErrorCode
+105	08/12/17 23:21:51	8760	----MS::Entertainment::Music::AV::PlaybackNotificationService::SetCurrentPlaybackId - newCurrentPlaybackId: 0x00000008, oldCurrentPlaybackId: 8
+106	08/12/17 23:21:51	8760	----MS::Entertainment::Music::AV::PlaybackNotificationService::SetCurrentDatabaseId - newCurrentDatabaseId: 0, oldCurrentDatabaseId: 0
+107	08/12/17 23:21:51	8760	----MS::Entertainment::Music::AV::PlaybackNotificationService::SetCurrentCatalogId - newCatalogId: {2510960a-0100-11db-89ca-0019b92a3933}, oldCatalogId: {2510960a-0100-11db-89ca-0019b92a3933}
+108	08/12/17 23:21:51	8760	--MS::Entertainment::Music::Playback::MusicPlaybackServiceBase::FireStateChangedEvents << EXIT: 37.702ms - Firing QueuePositionsChanged
+109	08/12/17 23:21:51	8760	MS::Entertainment::Music::Playback::MusicPlaybackServiceBase::UpdateVisibleStateAndFireEventsAsync::<lambda_fc2893abbb5aed69e392a6221069ce86>::operator () << EXIT: 57.797ms - UI task
+110	08/12/17 23:21:51	4760	MS::Entertainment::Music::Playback::NowPlayingQueueMetadataProvider::HydrateTracks >> ENTER: - hydrationLevel = TrackUsageRights
+111	08/12/17 23:21:51	4760	MS::Entertainment::Music::Playback::NowPlayingQueueMetadataProvider::HydrateTracks << EXIT: 0.447ms - hydrationLevel = TrackUsageRights
+112	08/12/17 23:21:51	8760	MS::Entertainment::Music::AV::PlaybackNotificationService::SetCurrentDatabaseId - newCurrentDatabaseId: 0, oldCurrentDatabaseId: 0
+113	08/12/17 23:21:52	7136	MS::Entertainment::Music::Playback::PlaybackInfoManager::AbortIfStuck
+114	08/12/17 23:21:52	7136	MS::Entertainment::Music::Playback::PlaybackInfoManager::RetryConditionSatisfied - TrackId = 0x00000008, IsCurrent = true, m_retryAttempts = 1, PlaybackState = Loading, ShouldRetry = true, objectId = 0, HR=S_OK
+115	08/12/17 23:21:52	7136	MS::Entertainment::Music::Playback::Counted<class MS::Entertainment::Music::Playback::PlaybackInfoRequest,unsigned int>::Counted - NumInstances = 2, ObjectId = 1
+116	08/12/17 23:21:52	7136	MS::Entertainment::Music::Playback::PlaybackInfoRequest::PlaybackInfoRequest - Parent PIM id = 0, CurrentUsageContext = 1
+117	08/12/17 23:21:52	7136	MS::Entertainment::Music::Playback::PlaybackInfoManager::RunRetryTask - TrackId = 0x00000008, m_retryAttempts = 2
+118	08/12/17 23:21:52	7136	MS::Entertainment::Music::Playback::PlaybackInfoManager::RunRetryTask - Calling this_thread::sleep_for... TrackId = 0x00000008, retryDelay = 1650
+119	08/12/17 23:21:53	4760	MS::Entertainment::Music::Playback::PlaybackInfoRequest::{ctor}::<lambda_4f851f6a26978fc0326f18500ace39ad>::operator () - Got playback info: TrackId = 0x00000008, TrackingId = 
+120	08/12/17 23:21:53	4760	MS::Entertainment::Music::Playback::PlaybackInfoManager::SetPlaybackInfo
+121	08/12/17 23:21:53	4760	MS::Entertainment::Music::Playback::Counted<class MS::Entertainment::Music::Playback::PlaybackInfoRequest,unsigned int>::~Counted - NumInstances = 1, ObjectId = 1
+122	08/12/17 23:21:53	1272	MS::Entertainment::Music::Playback::PlaybackInfoManager::RunMonitoringTask - Got playback info: TrackId = 0x00000008, TrackingId = 
+123	08/12/17 23:21:53	1272	MS::Entertainment::Music::Playback::MasterPlaybackInfoManager::SetPlaybackInfo
+124	08/12/17 23:21:53	1272	MS::Entertainment::Music::Playback::PlaybackInfoRequest::SetCurrentUsageContextToAutomatic
+125	08/12/17 23:21:53	1272	MS::Entertainment::Music::Playback::TrackPlaybackContext::UpdateTelemetryObjects
+126	08/12/17 23:21:53	6036	MS::Entertainment::Music::Playback::TrackPlaybackContext::PlaybackInfo::get << EXIT: 2377.343ms - Track 0x00000008
+127	08/12/17 23:21:53	6036	MS::Entertainment::Music::Playback::TrackPlaybackContext::RealizeBinding - Setting Media Binder URL source
+128	08/12/17 23:21:53	6036	MS::Entertainment::Music::Playback::MediaPlaybackListManager::AddVideoSourceConfiguration
+129	08/12/17 23:21:53	1272	MS::Entertainment::Music::AV::PlaybackHelper::ClearAndOrNavigate - autoNavigateBehavior=2, clearQueue = false
+130	08/12/17 23:21:53	6312	MS::Entertainment::Music::Playback::MusicPlaybackServiceBase::AddTracksToPlaybackQueue::<lambda_dee2e11d8cccfcaf8b7d73ab3214a568>::operator () >> ENTER: - adding 12 out of 12 tracks. Hold@4294967295
+131	08/12/17 23:21:53	6312	--MS::Entertainment::Music::Playback::TrackVectorShuffleView::SetIsShuffled >> ENTER: - isShuffled = false, currentTrackId = 0x00000000, doShuffleNow = true
+132	08/12/17 23:21:53	6312	--MS::Entertainment::Music::Playback::TrackVectorShuffleView::SetIsShuffled << EXIT: 0.002ms - isShuffled = false, currentTrackId = 0x00000000, doShuffleNow = true
+133	08/12/17 23:21:53	6312	--MS::Entertainment::Music::Playback::NowPlayingQueueMetadataProvider::SetAcquisitionInformation
+134	08/12/17 23:21:53	6312	--MS::Entertainment::Music::Playback::TrackVector::AppendMany >> ENTER: - tracks->Size = 12
+135	08/12/17 23:21:54	6312	--MS::Entertainment::Music::Playback::TrackVector::AppendMany << EXIT: 17.876ms - tracks->Size = 12
+136	08/12/17 23:21:54	6312	--MS::Entertainment::Music::Playback::MusicPlaybackServiceBase::UpdateCurrentPositions >> ENTER: - oldCurrentTrackId = 0x00000008, newCurrentTrackId = 0x00000008, forceUpdate = true
+137	08/12/17 23:21:54	6312	--MS::Entertainment::Music::Playback::MusicPlaybackServiceBase::UpdateCurrentPositions << EXIT: 0.010ms - oldCurrentTrackId = 0x00000008, newCurrentTrackId = 0x00000008, forceUpdate = true
+138	08/12/17 23:21:54	6312	--MS::Entertainment::Music::Playback::SingleProcMusicPlaybackService::AddTracksToPlaybackQueueEpilogueImpl - originalQueueSize:24, options.beginPlayback:false
+139	08/12/17 23:21:54	6312	--MS::Entertainment::Music::Playback::MediaPlaybackListManager::UpdatePlaybackOrder - isShuffled = false
+140	08/12/17 23:21:54	6312	--MS::Entertainment::Music::Playback::SingleProcMusicPlaybackService::AddTracksToPlaybackQueueEpilogueImpl >> ENTER: - Hydrating tracks to HydrationLevel::Display...
+141	08/12/17 23:21:54	1184	MS::Entertainment::Music::Playback::MediaPlaybackListManager::PausePreroll
+142	08/12/17 23:21:54	6312	----MS::Entertainment::Music::Playback::NowPlayingQueueMetadataProvider::HydrateTracks >> ENTER: - hydrationLevel = Display
+143	08/12/17 23:21:54	1184	MS::Entertainment::Music::Playback::MediaPlaybackListManager::CleanupOutOfScopePlaybackContexts - currentTrackId = 0x00000008, currentTrackIndex = 0, keepPrerolledTracks = true, keepErroredTracks = false
+144	08/12/17 23:21:54	1184	MS::Entertainment::Music::Playback::MediaPlaybackListManager::CleanupOutOfScopePlaybackContexts >> ENTER:
+145	08/12/17 23:21:54	1184	MS::Entertainment::Music::Playback::MediaPlaybackListManager::CleanupOutOfScopePlaybackContexts << EXIT: 0.004ms
+146	08/12/17 23:21:54	1184	MS::Entertainment::Music::Playback::MediaPlaybackListManager::CleanupOutOfScopePlaybackContexts - Size of m_playbackContexts after cleanup: 1
+147	08/12/17 23:21:54	1184	MS::Entertainment::Music::Playback::MediaPlaybackListManager::ResumePreroll
+148	08/12/17 23:21:54	6312	----MS::Entertainment::Music::Playback::NowPlayingQueueMetadataProvider::HydrateTracks << EXIT: 6.770ms - hydrationLevel = Display
+149	08/12/17 23:21:54	6312	--MS::Entertainment::Music::Playback::SingleProcMusicPlaybackService::AddTracksToPlaybackQueueEpilogueImpl << EXIT: 7.039ms - Hydrating tracks to HydrationLevel::Display...
+150	08/12/17 23:21:54	6312	--MS::Entertainment::Music::Playback::MusicPlaybackServiceBase::UpdateVisibleStateAndFireEventsAsync - m_currentState is { TransportState = Playing, PlayerState = Loading, TrackId = 0x00000008, DirtyFlags = 1 }
+151	08/12/17 23:21:54	6312	--MS::Entertainment::Music::Playback::PlatformMetadataProvider::UpdateButtonStates - trackIsValid: true, nextEnabled: true
+152	08/12/17 23:21:54	6312	--MS::Entertainment::Music::Playback::MusicPlaybackServiceBase::UpdateNowPlayingQueueSavability >> ENTER: - Checking if NowPlayingQueue is savable, queue size: 36
+153	08/12/17 23:21:54	6312	--MS::Entertainment::Music::Playback::MusicPlaybackServiceBase::UpdateNowPlayingQueueSavability << EXIT: 0.006ms - Checking if NowPlayingQueue is savable, queue size: 36
+154	08/12/17 23:21:54	6312	MS::Entertainment::Music::Playback::MusicPlaybackServiceBase::AddTracksToPlaybackQueue::<lambda_dee2e11d8cccfcaf8b7d73ab3214a568>::operator () << EXIT: 27.058ms - adding 12 out of 12 tracks. Hold@4294967295
+155	08/12/17 23:21:54	8760	MS::Entertainment::Music::Playback::MusicPlaybackServiceBase::UpdateVisibleStateAndFireEventsAsync::<lambda_fc2893abbb5aed69e392a6221069ce86>::operator () >> ENTER: - UI task
+156	08/12/17 23:21:54	8760	--MS::Entertainment::Music::Playback::MusicPlaybackServiceBase::UpdateVisibleStateAndFireEventsAsync::<lambda_fc2893abbb5aed69e392a6221069ce86>::operator () - Updated visible state to TransportState = Playing, PlayerState = Loading, TrackId = 0x00000008
+157	08/12/17 23:21:54	8760	--MS::Entertainment::Music::Playback::MusicNowPlayingQueue::Update
+158	08/12/17 23:21:54	8760	--MS::Entertainment::Music::Playback::MusicNowPlayingQueue::Update
+159	08/12/17 23:21:54	8760	--MS::Entertainment::Music::Playback::MusicPlaybackServiceBase::FireStateChangedEvents >> ENTER: - Firing QueuePositionsChanged
+160	08/12/17 23:21:54	8760	----MS::Entertainment::Music::AV::PlaybackNotificationService::OnPlaybackQueuePositionsChanged - current: 0
+161	08/12/17 23:21:54	8760	----MS::Entertainment::Music::AV::PlaybackNotificationService::ClearErrorCodes
+162	08/12/17 23:21:54	8760	----MS::Entertainment::Music::AV::PlaybackNotificationService::HandleCurrentIdChange - newCurrentPlaybackId: 0x00000008, newCurrentDatabaseId: 0, newCatalogId: {2510960A-0100-11DB-89CA-0019B92A3933}
+163	08/12/17 23:21:54	8760	----MS::Entertainment::Music::AV::PlaybackNotificationService::SetErrorCode
+164	08/12/17 23:21:54	8760	----MS::Entertainment::Music::AV::PlaybackNotificationService::SetCurrentPlaybackId - newCurrentPlaybackId: 0x00000008, oldCurrentPlaybackId: 8
+165	08/12/17 23:21:54	8760	----MS::Entertainment::Music::AV::PlaybackNotificationService::SetCurrentDatabaseId - newCurrentDatabaseId: 0, oldCurrentDatabaseId: 0
+166	08/12/17 23:21:54	8760	----MS::Entertainment::Music::AV::PlaybackNotificationService::SetCurrentCatalogId - newCatalogId: {2510960a-0100-11db-89ca-0019b92a3933}, oldCatalogId: {2510960a-0100-11db-89ca-0019b92a3933}
+167	08/12/17 23:21:54	8760	--MS::Entertainment::Music::Playback::MusicPlaybackServiceBase::FireStateChangedEvents << EXIT: 58.513ms - Firing QueuePositionsChanged
+168	08/12/17 23:21:54	8760	MS::Entertainment::Music::Playback::MusicPlaybackServiceBase::UpdateVisibleStateAndFireEventsAsync::<lambda_fc2893abbb5aed69e392a6221069ce86>::operator () << EXIT: 71.965ms - UI task
+169	08/12/17 23:21:54	8996	MS::Entertainment::Music::Playback::NowPlayingQueueMetadataProvider::HydrateTracks >> ENTER: - hydrationLevel = TrackUsageRights
+170	08/12/17 23:21:54	8996	MS::Entertainment::Music::Playback::NowPlayingQueueMetadataProvider::HydrateTracks << EXIT: 0.742ms - hydrationLevel = TrackUsageRights
+171	08/12/17 23:21:54	8760	MS::Entertainment::Music::Playback::SingleProcMusicPlaybackService::OnQueueHydrationCompleteImpl - UpdatePlayableTracksView = true
+172	08/12/17 23:21:54	5744	MS::Entertainment::Music::Playback::SingleProcMusicPlaybackService::OnQueueHydrationCompleteImpl::<lambda_4856cdb3759c9ecaa2b8e000ec2f8d8e>::operator () >> ENTER: - Updating PlayableTracksView
+173	08/12/17 23:21:54	5744	--MS::Entertainment::Music::Playback::TrackVectorPlayableView::RecalculateAll >> ENTER:
+174	08/12/17 23:21:54	5744	----MS::Entertainment::Music::Playback::TrackVectorPlayableView::RecalculateAll - Source size = 36. Playable vector size changed from 36 to 36
+175	08/12/17 23:21:54	5744	--MS::Entertainment::Music::Playback::TrackVectorPlayableView::RecalculateAll << EXIT: 2.745ms
+176	08/12/17 23:21:54	5744	MS::Entertainment::Music::Playback::SingleProcMusicPlaybackService::OnQueueHydrationCompleteImpl::<lambda_4856cdb3759c9ecaa2b8e000ec2f8d8e>::operator () << EXIT: 4.073ms - Updating PlayableTracksView
+177	08/12/17 23:21:54	8968	MS::Entertainment::Music::Playback::SaveNowPlayingQueueToFile
+178	08/12/17 23:21:54	8968	MS::Entertainment::Music::Playback::SaveNowPlayingQueueToJson
+179	08/12/17 23:21:54	8968	MS::Entertainment::Music::Playback::SaveNowPlayingQueueToJson - queueSourceType: Other, shouldPersistQueue: false
+180	08/12/17 23:21:54	8760	MS::Entertainment::Music::AV::PlaybackNotificationService::SetCurrentDatabaseId - newCurrentDatabaseId: 0, oldCurrentDatabaseId: 0
+181	08/12/17 23:21:54	4116	MS::Entertainment::Music::Playback::PlaybackInfoRequest::{ctor}::<lambda_4f851f6a26978fc0326f18500ace39ad>::operator () - Got playback info: TrackId = 0x00000008, TrackingId = 
+182	08/12/17 23:21:54	4116	MS::Entertainment::Music::Playback::PlaybackInfoManager::SetPlaybackInfo
+183	08/12/17 23:21:54	4116	MS::Entertainment::Music::Playback::Counted<class MS::Entertainment::Music::Playback::PlaybackInfoRequest,unsigned int>::~Counted - NumInstances = 0, ObjectId = 0
+184	08/12/17 23:21:54	9024	MS::Entertainment::Music::Playback::MediaPlaybackListManager::OnMediaPlaylistItemOpened - trackId = 0x00000008
+185	08/12/17 23:21:54	8464	MS::Entertainment::Music::Playback::MediaPlaybackListManager::OnPlaybackItemBinding - trackId = 0x00000009
+186	08/12/17 23:21:54	4116	MS::Entertainment::Music::Playback::MediaPlaybackListManager::OnMediaPlaylistCurrentItemChanged::<lambda_0d6cf0fefd3d55ad1235441415345df9>::operator () - oldTrackId = 0x00000000, newTrackId = 0x00000008
+187	08/12/17 23:21:54	4044	MS::Entertainment::Music::Playback::MediaPlaybackListManager::CreatePlaybackContext - trackId = 0x00000009
+188	08/12/17 23:21:54	4044	MS::Entertainment::Music::Playback::NowPlayingQueueMetadataProvider::HydrateTrack >> ENTER:
+189	08/12/17 23:21:54	4044	MS::Entertainment::Music::Playback::NowPlayingQueueMetadataProvider::HydrateTrack << EXIT: 0.306ms
+190	08/12/17 23:21:54	4044	MS::Entertainment::Music::Playback::Counted<class MS::Entertainment::Music::Playback::TrackPlaybackContext,unsigned int>::Counted - NumInstances = 2, ObjectId = 3
+191	08/12/17 23:21:54	4044	MS::Entertainment::Music::Playback::Counted<class MS::Entertainment::Music::Playback::MasterPlaybackInfoManager,unsigned int>::Counted - NumInstances = 2, ObjectId = 1
+192	08/12/17 23:21:54	4044	MS::Entertainment::Music::Playback::MasterPlaybackInfoManager::MasterPlaybackInfoManager - Parent TPC id = 3
+193	08/12/17 23:21:54	4044	MS::Entertainment::Music::Playback::PlaybackTrack::EnsureHydrateToPlaybackInfo
+194	08/12/17 23:21:54	4044	MS::Entertainment::Music::Playback::MasterPlaybackInfoManager::MasterPlaybackInfoManager - requestMediaType: Audio
+195	08/12/17 23:21:54	4044	MS::Entertainment::Music::Playback::Counted<class MS::Entertainment::Music::Playback::PlaybackInfoManager,unsigned int>::Counted - NumInstances = 2, ObjectId = 1
+196	08/12/17 23:21:54	4044	MS::Entertainment::Music::Playback::PlaybackInfoManager::PlaybackInfoManager - Parent MasterPIM id = 1
+197	08/12/17 23:21:54	8996	MS::Entertainment::Music::Playback::PlaybackInfoManager::RunMonitoringTask
+198	08/12/17 23:21:54	1272	MS::Entertainment::Music::Playback::PlaybackInfoManager::RunRetryTask
+199	08/12/17 23:21:54	4044	MS::Entertainment::Music::Playback::PlaybackInfoManager::OnCurrentChanged
+200	08/12/17 23:21:54	4116	MS::Entertainment::Music::Playback::MediaPlaybackListManager::ProcessPositionTransition - Stage: MovedTo, trackId = 0x00000008, trackIndex = 0, TPC is NOT null
+201	08/12/17 23:21:54	4116	MS::Entertainment::Music::Playback::MediaPlaybackListManager::UpdateCurrentTrack - trackId: 0x00000008, trackIndex: 0
+202	08/12/17 23:21:54	4116	MS::Entertainment::Music::Playback::PlaybackInfoManager::OnCurrentChanged
+203	08/12/17 23:21:54	4116	MS::Entertainment::Music::Playback::MediaPlaybackListManager::IsPlaylistCriticallyErrored - false, m_numConsecutiveErrors = 0, queueSize = 36
+204	08/12/17 23:21:54	4116	MS::Entertainment::Music::Playback::MediaPlaybackListManager::ProcessErrors - numErrors: 0
+205	08/12/17 23:21:54	4116	MS::Entertainment::Music::Playback::MediaPlaybackListManager::PausePreroll
+206	08/12/17 23:21:54	4116	MS::Entertainment::Music::Playback::MediaPlaybackListManager::CleanupOutOfScopePlaybackContexts - currentTrackId = 0x00000008, currentTrackIndex = 0, keepPrerolledTracks = true, keepErroredTracks = true
+207	08/12/17 23:21:54	4116	MS::Entertainment::Music::Playback::MediaPlaybackListManager::CleanupOutOfScopePlaybackContexts >> ENTER:
+208	08/12/17 23:21:54	4116	--MS::Entertainment::Music::Playback::MediaPlaybackListManager::CleanupOutOfScopePlaybackContexts - Keeping prerolled track 0x00000009 at index 1
+209	08/12/17 23:21:54	4116	MS::Entertainment::Music::Playback::MediaPlaybackListManager::CleanupOutOfScopePlaybackContexts << EXIT: 0.108ms
+210	08/12/17 23:21:54	4116	MS::Entertainment::Music::Playback::MediaPlaybackListManager::CleanupOutOfScopePlaybackContexts - Size of m_playbackContexts after cleanup: 2
+211	08/12/17 23:21:54	4116	MS::Entertainment::Music::Playback::MediaPlaybackListManager::ResumePreroll
+212	08/12/17 23:21:54	4044	MS::Entertainment::Music::Playback::TrackPlaybackContext::RealizeBinding - TrackId = 0x00000009
+213	08/12/17 23:21:54	4044	MS::Entertainment::Music::Playback::TrackPlaybackContext::UpdateTelemetryObjects
+214	08/12/17 23:21:54	4044	MS::Entertainment::Music::Playback::TrackPlaybackContext::PlaybackInfo::get >> ENTER: - Track 0x00000009
+215	08/12/17 23:21:54	4044	--MS::Entertainment::Music::Playback::TrackPlaybackContext::ResolvePlaybackInfoAsync - Track 0x00000009
+216	08/12/17 23:21:54	6212	MS::Entertainment::Music::Playback::Counted<class MS::Entertainment::Music::Playback::TrackPlaybackContext,unsigned int>::Counted - NumInstances = 3, ObjectId = 4
+217	08/12/17 23:21:54	6212	MS::Entertainment::Music::Playback::Counted<class MS::Entertainment::Music::Playback::MasterPlaybackInfoManager,unsigned int>::Counted - NumInstances = 3, ObjectId = 2
+218	08/12/17 23:21:54	6212	MS::Entertainment::Music::Playback::MasterPlaybackInfoManager::MasterPlaybackInfoManager - Parent TPC id = 4
+219	08/12/17 23:21:54	6212	MS::Entertainment::Music::Playback::PlaybackTrack::EnsureHydrateToPlaybackInfo
+220	08/12/17 23:21:54	1272	MS::Entertainment::Music::Playback::Counted<class MS::Entertainment::Music::Playback::PlaybackInfoRequest,unsigned int>::Counted - NumInstances = 1, ObjectId = 2
+221	08/12/17 23:21:54	1272	MS::Entertainment::Music::Playback::PlaybackInfoRequest::PlaybackInfoRequest - Parent PIM id = 1, CurrentUsageContext = 0
+222	08/12/17 23:21:54	1272	MS::Entertainment::Music::Playback::PlaybackInfoManager::RunRetryTask - TrackId = 0x00000009, m_retryAttempts = 1
+223	08/12/17 23:21:54	1272	MS::Entertainment::Music::Playback::PlaybackInfoManager::RunRetryTask - Calling this_thread::sleep_for... TrackId = 0x00000009, retryDelay = 1500
+224	08/12/17 23:21:54	6212	MS::Entertainment::Music::Playback::MasterPlaybackInfoManager::MasterPlaybackInfoManager - requestMediaType: Audio
+225	08/12/17 23:21:54	4116	MS::Entertainment::Music::Playback::MediaPlaybackListManager::OnMediaPlaylistCurrentItemChanged::<lambda_0d6cf0fefd3d55ad1235441415345df9>::()::<lambda_e0f4ef829d3d2c96993fa6b385ccb796>::operator () - Signaling that track 0x00000008 is playing
+226	08/12/17 23:21:54	6212	MS::Entertainment::Music::Playback::Counted<class MS::Entertainment::Music::Playback::PlaybackInfoManager,unsigned int>::Counted - NumInstances = 3, ObjectId = 2
+227	08/12/17 23:21:54	4116	MS::Entertainment::Music::Playback::SingleProcMusicPlaybackService::OnPlaybackListManagerItemPlaying - trackId:0x00000008
+228	08/12/17 23:21:54	6212	MS::Entertainment::Music::Playback::PlaybackInfoManager::PlaybackInfoManager - Parent MasterPIM id = 2
+229	08/12/17 23:21:54	4116	MS::Entertainment::Music::Playback::SingleProcMusicPlaybackService::SetVolumeImpl - volume: 0.594, trackMediaType: Audio
+230	08/12/17 23:21:54	4116	MS::Entertainment::Music::Playback::SingleProcMusicPlaybackService::OnPlaybackListManagerItemPlaying - CurrentTransportState == TransportState::Playing, call Play() on MediaPlayer
+231	08/12/17 23:21:54	4116	MS::Entertainment::Music::Playback::MusicPlaybackServiceBase::UpdateCurrentPositions >> ENTER: - oldCurrentTrackId = 0x00000008, newCurrentTrackId = 0x00000008, forceUpdate = true
+232	08/12/17 23:21:54	6212	MS::Entertainment::Music::Playback::TrackPlaybackContext::ResolvePlaybackInfoAsync - Track 0x00000008
+233	08/12/17 23:21:54	4116	MS::Entertainment::Music::Playback::MusicPlaybackServiceBase::UpdateCurrentPositions << EXIT: 0.014ms - oldCurrentTrackId = 0x00000008, newCurrentTrackId = 0x00000008, forceUpdate = true
+234	08/12/17 23:21:54	4116	MS::Entertainment::Music::Playback::MusicPlaybackServiceBase::EndPerfTrackEvent
+235	08/12/17 23:21:54	4116	MS::Entertainment::Music::Playback::MusicPlaybackServiceBase::UpdateVisibleStateAndFireEventsAsync - m_currentState is { TransportState = Playing, PlayerState = Playing, TrackId = 0x00000008, DirtyFlags = 133 }
+236	08/12/17 23:21:54	4116	MS::Entertainment::Music::Playback::PlatformMetadataProvider::UpdateButtonStates - trackIsValid: true, nextEnabled: true
+237	08/12/17 23:21:54	8968	MS::Entertainment::Music::Playback::PlaybackInfoManager::RunMonitoringTask
+238	08/12/17 23:21:54	8760	MS::Entertainment::Music::Playback::MusicPlaybackServiceBase::UpdateVisibleStateAndFireEventsAsync::<lambda_fc2893abbb5aed69e392a6221069ce86>::operator () >> ENTER: - UI task
+239	08/12/17 23:21:54	8008	MS::Entertainment::Music::Playback::PlaybackInfoManager::RunRetryTask
+240	08/12/17 23:21:54	8760	--MS::Entertainment::Music::Playback::MusicPlaybackServiceBase::UpdateVisibleStateAndFireEventsAsync::<lambda_fc2893abbb5aed69e392a6221069ce86>::operator () - Updated visible state to TransportState = Playing, PlayerState = Playing, TrackId = 0x00000008
+241	08/12/17 23:21:54	8760	--MS::Entertainment::Music::Playback::MusicPlaybackServiceBase::FireStateChangedEvents >> ENTER: - Firing PlaybackStateChanged
+242	08/12/17 23:21:54	8760	----MS::Entertainment::Music::ViewModel::MediaTransportControlsViewModel::OnPlaybackStateChanged - TransportState = Playing, PlayerState = Playing
+243	08/12/17 23:21:54	8760	----MS::Entertainment::Music::ViewModel::MediaTransportControlsViewModel::SyncElapsedTimeUpdateTimer - m_numElapsedTimeChangedHandlers = 2, m_isInElapsedTimePollingState = true.  Starting position polling timer...
+244	08/12/17 23:21:54	8008	MS::Entertainment::Music::Playback::Counted<class MS::Entertainment::Music::Playback::PlaybackInfoRequest,unsigned int>::Counted - NumInstances = 2, ObjectId = 3
+245	08/12/17 23:21:54	8008	MS::Entertainment::Music::Playback::PlaybackInfoRequest::PlaybackInfoRequest - Parent PIM id = 2, CurrentUsageContext = 0
+246	08/12/17 23:21:54	8008	MS::Entertainment::Music::Playback::PlaybackInfoManager::RunRetryTask - TrackId = 0x00000008, m_retryAttempts = 1
+247	08/12/17 23:21:54	8008	MS::Entertainment::Music::Playback::PlaybackInfoManager::RunRetryTask - Calling this_thread::sleep_for... TrackId = 0x00000008, retryDelay = 1500
+248	08/12/17 23:21:54	8760	----MS::Entertainment::Music::ViewModel::MediaTransportControlsViewModel::UpdateDuration - trackDuration = 30000
+249	08/12/17 23:21:54	8760	--MS::Entertainment::Music::Playback::MusicPlaybackServiceBase::FireStateChangedEvents << EXIT: 12.300ms - Firing PlaybackStateChanged
+250	08/12/17 23:21:54	8760	MS::Entertainment::Music::Playback::MusicPlaybackServiceBase::UpdateVisibleStateAndFireEventsAsync::<lambda_fc2893abbb5aed69e392a6221069ce86>::operator () << EXIT: 13.266ms - UI task
+251	08/12/17 23:21:54	7136	MS::Entertainment::Music::Playback::PlaybackInfoManager::RetryConditionSatisfied - Will not retry.  We've already received playback info.  TrackingId = , Url = http://progdownload.zune.net/177/606/693/140/audio.wma?rid=AABEkh3Z0ku5/U9n.44.3
+252	08/12/17 23:21:54	5744	MS::Entertainment::Music::Playback::PlaybackInfoRequest::{ctor}::<lambda_4f851f6a26978fc0326f18500ace39ad>::operator () - Got playback info: TrackId = 0x00000009, TrackingId = 
+253	08/12/17 23:21:54	5744	MS::Entertainment::Music::Playback::PlaybackInfoManager::SetPlaybackInfo
+254	08/12/17 23:21:54	5744	MS::Entertainment::Music::Playback::Counted<class MS::Entertainment::Music::Playback::PlaybackInfoRequest,unsigned int>::~Counted - NumInstances = 1, ObjectId = 2
+255	08/12/17 23:21:54	8996	MS::Entertainment::Music::Playback::PlaybackInfoManager::RunMonitoringTask - Got playback info: TrackId = 0x00000009, TrackingId = 
+256	08/12/17 23:21:54	8996	MS::Entertainment::Music::Playback::MasterPlaybackInfoManager::SetPlaybackInfo
+257	08/12/17 23:21:54	8996	MS::Entertainment::Music::Playback::PlaybackInfoRequest::SetCurrentUsageContextToAutomatic
+258	08/12/17 23:21:54	8996	MS::Entertainment::Music::Playback::TrackPlaybackContext::UpdateTelemetryObjects
+259	08/12/17 23:21:54	4044	MS::Entertainment::Music::Playback::TrackPlaybackContext::PlaybackInfo::get << EXIT: 182.139ms - Track 0x00000009
+260	08/12/17 23:21:54	4044	MS::Entertainment::Music::Playback::TrackPlaybackContext::RealizeBinding - Setting Media Binder URL source
+261	08/12/17 23:21:54	4044	MS::Entertainment::Music::Playback::MediaPlaybackListManager::AddVideoSourceConfiguration
+262	08/12/17 23:21:54	9024	MS::Entertainment::Music::Playback::PlaybackPositionMonitor::OnMediaSessionPlaybackStateChanged - MediaPlaybackState: Paused
+263	08/12/17 23:21:55	1328	MS::Entertainment::Music::Playback::PlaybackPositionMonitor::OnMediaSessionPlaybackStateChanged - MediaPlaybackState: Buffering
+264	08/12/17 23:21:55	1328	MS::Entertainment::Music::Playback::PlaybackPositionMonitor::OnMediaSessionBufferingStarted
+265	08/12/17 23:21:55	1644	MS::Entertainment::Music::Playback::PlaybackInfoRequest::{ctor}::<lambda_4f851f6a26978fc0326f18500ace39ad>::operator () - Got playback info: TrackId = 0x00000008, TrackingId = 
+266	08/12/17 23:21:55	1644	MS::Entertainment::Music::Playback::PlaybackInfoManager::SetPlaybackInfo
+267	08/12/17 23:21:55	1644	MS::Entertainment::Music::Playback::Counted<class MS::Entertainment::Music::Playback::PlaybackInfoRequest,unsigned int>::~Counted - NumInstances = 0, ObjectId = 3
+268	08/12/17 23:21:55	8968	MS::Entertainment::Music::Playback::PlaybackInfoManager::RunMonitoringTask - Got playback info: TrackId = 0x00000008, TrackingId = 
+269	08/12/17 23:21:55	8968	MS::Entertainment::Music::Playback::MasterPlaybackInfoManager::SetPlaybackInfo
+270	08/12/17 23:21:55	8968	MS::Entertainment::Music::Playback::PlaybackInfoRequest::SetCurrentUsageContextToAutomatic
+271	08/12/17 23:21:55	8968	MS::Entertainment::Music::Playback::TrackPlaybackContext::UpdateTelemetryObjects
+272	08/12/17 23:21:55	8968	MS::Entertainment::Music::Playback::TrackPlaybackContext::LogFinalPlaybackTelemetry - TrackId = 0x00000008, MaxPosition = 0, Duration = 30000, TrackingId = Unknown
+273	08/12/17 23:21:55	8968	MS::Entertainment::Music::Playback::TrackPlaybackContext::LogFinalPlaybackTelemetry - Setting PlaybackInfoManager's Position = 0
+274	08/12/17 23:21:55	8968	MS::Entertainment::Music::Playback::Counted<class MS::Entertainment::Music::Playback::TrackPlaybackContext,unsigned int>::~Counted - NumInstances = 2, ObjectId = 4
+275	08/12/17 23:21:55	4896	--- App: total commit = 82.871 MB / 10027.914 MB ---
+276	08/12/17 23:21:55	9024	MS::Entertainment::Music::Playback::PlaybackPositionMonitor::OnMediaSessionPlaybackStateChanged - MediaPlaybackState: Paused
+277	08/12/17 23:21:55	9024	MS::Entertainment::Music::Playback::PlaybackPositionMonitor::OnMediaSessionBufferingEnded
+278	08/12/17 23:21:55	1644	MS::Entertainment::Music::Playback::SingleProcMusicPlaybackService::OnPlayerTrackPlaybackStalledChange - IsStalled:false, ExcessiveStallTimerFired:false, PlayerState:Playing
+279	08/12/17 23:21:55	8464	MS::Entertainment::Music::Playback::PlaybackPositionMonitor::OnMediaSessionPlaybackStateChanged - MediaPlaybackState: Playing
+280	08/12/17 23:21:55	8464	MS::Entertainment::Music::Playback::PlaybackPositionMonitor::MonitorPlayerPositionForStalls
+281	08/12/17 23:21:56	1272	MS::Entertainment::Music::Playback::PlaybackInfoManager::RetryConditionSatisfied - Will not retry.  We've already received playback info.  TrackingId = , Url = http://progdownload.zune.net/175/872/763/140/audio.wma?rid=AABEkh3Z0ku5/U9n.45.3
+282	08/12/17 23:21:56	8008	MS::Entertainment::Music::Playback::Counted<class MS::Entertainment::Music::Playback::MasterPlaybackInfoManager,unsigned int>::~Counted - NumInstances = 2, ObjectId = 2
+283	08/12/17 23:21:56	8008	MS::Entertainment::Music::Playback::PlaybackInfoManager::RetryConditionSatisfied - Will not retry.  We've already received playback info.  TrackingId = , Url = http://progdownload.zune.net/177/606/693/140/audio.wma?rid=AABEkh3Z0ku5/U9n.46.3
+284	08/12/17 23:21:56	8008	MS::Entertainment::Music::Playback::PlaybackInfoManager::RetryConditionSatisfied - Will not retry.  Weak reference to track playback context is nullptr.
+285	08/12/17 23:21:56	4116	MS::Entertainment::Music::Playback::PlaybackInfoManager::SendPlaybackDurationTracking
+286	08/12/17 23:21:56	4116	MS::Entertainment::Music::Playback::Counted<class MS::Entertainment::Music::Playback::PlaybackInfoManager,unsigned int>::~Counted - NumInstances = 2, ObjectId = 2
+287	08/12/17 23:21:56	8464	MS::Entertainment::Music::Playback::PlaybackPositionMonitor::OnMediaSessionPlaybackStateChanged - MediaPlaybackState: Buffering
+288	08/12/17 23:21:56	8464	MS::Entertainment::Music::Playback::PlaybackPositionMonitor::CancelPlayerPositionMonitorTimer
+289	08/12/17 23:21:56	8464	MS::Entertainment::Music::Playback::PlaybackPositionMonitor::OnMediaSessionBufferingStarted
+290	08/12/17 23:21:56	4896	MS::Entertainment::Music::Playback::MusicPlaybackServiceBase::GetSeekPositionNoLock - Position is changing...  Last position was 459.  Will not log any more position updates unless the position stops changing.
+291	08/12/17 23:21:58	4896	MS::Entertainment::Music::Playback::PlaybackPositionMonitor::OnMediaSessionBufferingStarted::<lambda_af838b79a41116fe0c51f395a0099361>::operator () - Detected excessive buffering in Audio track
+292	08/12/17 23:21:58	1272	MS::Entertainment::Music::Playback::SingleProcMusicPlaybackService::OnPlayerTrackPlaybackStalledChange - IsStalled:true, ExcessiveStallTimerFired:false, PlayerState:Playing
+293	08/12/17 23:21:58	1272	MS::Entertainment::Music::Playback::MusicPlaybackServiceBase::UpdateVisibleStateAndFireEventsAsync - m_currentState is { TransportState = Playing, PlayerState = Stalled, TrackId = 0x00000008, DirtyFlags = 4 }
+294	08/12/17 23:21:58	1272	MS::Entertainment::Music::Playback::PlatformMetadataProvider::UpdateButtonStates - trackIsValid: true, nextEnabled: true
+295	08/12/17 23:21:58	8760	MS::Entertainment::Music::Playback::MusicPlaybackServiceBase::UpdateVisibleStateAndFireEventsAsync::<lambda_fc2893abbb5aed69e392a6221069ce86>::operator () >> ENTER: - UI task
+296	08/12/17 23:21:58	8760	--MS::Entertainment::Music::Playback::MusicPlaybackServiceBase::UpdateVisibleStateAndFireEventsAsync::<lambda_fc2893abbb5aed69e392a6221069ce86>::operator () - Updated visible state to TransportState = Playing, PlayerState = Stalled, TrackId = 0x00000008
+297	08/12/17 23:21:58	8760	--MS::Entertainment::Music::Playback::MusicPlaybackServiceBase::FireStateChangedEvents >> ENTER: - Firing PlaybackStateChanged
+298	08/12/17 23:21:58	8760	----MS::Entertainment::Music::ViewModel::MediaTransportControlsViewModel::OnPlaybackStateChanged - TransportState = Playing, PlayerState = Stalled
+299	08/12/17 23:21:58	8760	----MS::Entertainment::Music::ViewModel::MediaTransportControlsViewModel::SyncElapsedTimeUpdateTimer - m_numElapsedTimeChangedHandlers = 2, m_isInElapsedTimePollingState = false.  Canceling position polling timer...
+300	08/12/17 23:21:58	8760	----MS::Entertainment::Music::ViewModel::MediaTransportControlsViewModel::UpdateDuration - trackDuration = 30000
+301	08/12/17 23:21:58	8760	--MS::Entertainment::Music::Playback::MusicPlaybackServiceBase::FireStateChangedEvents << EXIT: 11.457ms - Firing PlaybackStateChanged
+302	08/12/17 23:21:58	8760	MS::Entertainment::Music::Playback::MusicPlaybackServiceBase::UpdateVisibleStateAndFireEventsAsync::<lambda_fc2893abbb5aed69e392a6221069ce86>::operator () << EXIT: 11.946ms - UI task
+303	08/12/17 23:21:58	9024	MS::Entertainment::Music::Playback::MediaPlaybackListManager::OnMediaPlaylistItemOpened - trackId = 0x00000009
+304	08/12/17 23:22:00	4896	--- App: total commit = 83.973 MB / 10027.914 MB ---
+305	08/12/17 23:22:02	4116	MS::Entertainment::Music::AV::PlaybackHelper::ClearAndOrNavigate - autoNavigateBehavior=1, clearQueue = true
+306	08/12/17 23:22:02	9188	MS::Entertainment::Music::Playback::MusicPlaybackServiceBase::AddTracksToPlaybackQueue::<lambda_dee2e11d8cccfcaf8b7d73ab3214a568>::operator () >> ENTER: - Clearing and adding 1 out of 1 tracks. Play@0
+307	08/12/17 23:22:02	9188	--MS::Entertainment::Music::Playback::TrackVectorPlayableView::HandleSourceVectorCleared
+308	08/12/17 23:22:02	9188	--MS::Entertainment::Music::Playback::MediaPlaybackListManager::OnMasterTrackVectorChanged - VectorOperation::Cleared
+309	08/12/17 23:22:02	9188	--MS::Entertainment::Music::Playback::MediaPlaybackListManager::Clear
+310	08/12/17 23:22:02	8008	MS::Entertainment::Music::Playback::MediaPlaybackListManager::OnMediaPlaylistCurrentItemChanged::<lambda_0d6cf0fefd3d55ad1235441415345df9>::operator () - oldTrackId = 0x00000008, newTrackId = 0x00000000
+311	08/12/17 23:22:02	9024	MS::Entertainment::Music::Playback::PlaybackPositionMonitor::OnMediaSessionPlaybackStateChanged - MediaPlaybackState: None
+312	08/12/17 23:22:02	9188	--MS::Entertainment::Music::Playback::MediaPlaybackListManager::ProcessPositionTransition - Stage: ClearingQueue, trackId = 0x00000008, trackIndex = 0, TPC is NOT null
+313	08/12/17 23:22:02	9188	--MS::Entertainment::Music::Playback::TrackPlaybackContext::CancelLoading - Track 0x00000008, PlaybackState: Playing
+314	08/12/17 23:22:02	9188	--MS::Entertainment::Music::Playback::PlaybackInfoManager::OnCurrentChanged
+315	08/12/17 23:22:02	9188	--MS::Entertainment::Music::Playback::MediaPlaybackListManager::RemoveTrackPlaybackContext - trackId = 0x00000008
+316	08/12/17 23:22:02	9188	--MS::Entertainment::Music::Playback::TrackPlaybackContext::LogFinalPlaybackTelemetry - TrackId = 0x00000008, MaxPosition = 0, Duration = 30000, TrackingId = Unknown
+317	08/12/17 23:22:02	9188	--MS::Entertainment::Music::Playback::TrackPlaybackContext::LogFinalPlaybackTelemetry - Setting PlaybackInfoManager's Position = 0
+318	08/12/17 23:22:02	9188	--MS::Entertainment::Music::Playback::PlaybackInfoManager::SendPlaybackDurationTracking
+319	08/12/17 23:22:02	9188	--MS::Entertainment::Music::Playback::Counted<class MS::Entertainment::Music::Playback::PlaybackInfoManager,unsigned int>::~Counted - NumInstances = 1, ObjectId = 0
+320	08/12/17 23:22:02	9188	--MS::Entertainment::Music::Playback::Counted<class MS::Entertainment::Music::Playback::MasterPlaybackInfoManager,unsigned int>::~Counted - NumInstances = 1, ObjectId = 0
+321	08/12/17 23:22:02	9188	--MS::Entertainment::Music::Playback::Counted<class MS::Entertainment::Music::Playback::TrackPlaybackContext,unsigned int>::~Counted - NumInstances = 1, ObjectId = 2
+322	08/12/17 23:22:02	9188	--MS::Entertainment::Music::Playback::TrackPlaybackContext::LogFinalPlaybackTelemetry - TrackId = 0x00000009, MaxPosition = 0, Duration = 30011, TrackingId = Unknown
+323	08/12/17 23:22:02	9188	--MS::Entertainment::Music::Playback::TrackPlaybackContext::LogFinalPlaybackTelemetry - Setting PlaybackInfoManager's Position = 0
+324	08/12/17 23:22:02	9188	--MS::Entertainment::Music::Playback::PlaybackInfoManager::SendPlaybackDurationTracking
+325	08/12/17 23:22:02	9188	--MS::Entertainment::Music::Playback::Counted<class MS::Entertainment::Music::Playback::PlaybackInfoManager,unsigned int>::~Counted - NumInstances = 0, ObjectId = 1
+326	08/12/17 23:22:02	9188	--MS::Entertainment::Music::Playback::Counted<class MS::Entertainment::Music::Playback::MasterPlaybackInfoManager,unsigned int>::~Counted - NumInstances = 0, ObjectId = 1
+327	08/12/17 23:22:02	9188	--MS::Entertainment::Music::Playback::Counted<class MS::Entertainment::Music::Playback::TrackPlaybackContext,unsigned int>::~Counted - NumInstances = 0, ObjectId = 3
+328	08/12/17 23:22:02	9188	--MS::Entertainment::Music::Playback::MediaPlaybackListManager::ResetErrors
+329	08/12/17 23:22:02	9188	--MS::Entertainment::Music::Playback::MediaPlaybackListManager::ResetConsecutiveErrors
+330	08/12/17 23:22:02	9188	--MS::Entertainment::Music::Playback::NowPlayingQueueMetadataProvider::Clear
+331	08/12/17 23:22:02	8008	MS::Entertainment::Music::Playback::MediaPlaybackListManager::ProcessPositionTransition - Stage: MovedFrom, trackId = 0x00000008, trackIndex = 0, TPC is null
+332	08/12/17 23:22:02	9188	--MS::Entertainment::Music::Playback::MetadataProviderEventWrapper::ClearWatchedTracks
+333	08/12/17 23:22:02	9188	--MS::Entertainment::Music::Playback::TrackVectorShuffleView::SetIsShuffled >> ENTER: - isShuffled = false, currentTrackId = 0x00000000, doShuffleNow = true
+334	08/12/17 23:22:02	9188	--MS::Entertainment::Music::Playback::TrackVectorShuffleView::SetIsShuffled << EXIT: 0.002ms - isShuffled = false, currentTrackId = 0x00000000, doShuffleNow = true
+335	08/12/17 23:22:02	9188	--MS::Entertainment::Music::Playback::NowPlayingQueueMetadataProvider::SetAcquisitionInformation
+336	08/12/17 23:22:02	9188	--MS::Entertainment::Music::Playback::TrackVector::ReplaceAll >> ENTER: - tracks->Size = 1, currentIndex = 0
+337	08/12/17 23:22:02	9188	----MS::Entertainment::Music::Playback::TrackVectorPlayableView::HandleSourceVectorReplacedAll - currentTrackId = 0x0000002c
+338	08/12/17 23:22:02	9188	----MS::Entertainment::Music::Playback::TrackVectorPlayableView::HandleSourceVectorCleared
+339	08/12/17 23:22:02	9188	----MS::Entertainment::Music::Playback::TrackVectorPlayableView::RecalculateAll >> ENTER:
+340	08/12/17 23:22:02	9188	------MS::Entertainment::Music::Playback::TrackVectorPlayableView::RecalculateAll - Source size = 1. Playable vector size changed from 0 to 1
+341	08/12/17 23:22:02	9188	----MS::Entertainment::Music::Playback::TrackVectorPlayableView::RecalculateAll << EXIT: 0.191ms
+342	08/12/17 23:22:02	9188	----MS::Entertainment::Music::Playback::MediaPlaybackListManager::OnMasterTrackVectorChanged - VectorOperation::ReplacedAll
+343	08/12/17 23:22:02	9188	--MS::Entertainment::Music::Playback::TrackVector::ReplaceAll << EXIT: 2.102ms - tracks->Size = 1, currentIndex = 0
+344	08/12/17 23:22:02	9188	--MS::Entertainment::Music::Playback::NowPlayingQueueMetadataProvider::HydrateUntilFirstPlayable >> ENTER:
+345	08/12/17 23:22:02	9188	--MS::Entertainment::Music::Playback::NowPlayingQueueMetadataProvider::HydrateUntilFirstPlayable << EXIT: 1.884ms
+346	08/12/17 23:22:02	9188	--MS::Entertainment::Music::Playback::MusicPlaybackServiceBase::UpdateCurrentPositions >> ENTER: - oldCurrentTrackId = 0x00000008, newCurrentTrackId = 0x0000002c, forceUpdate = true
+347	08/12/17 23:22:02	9188	--MS::Entertainment::Music::Playback::MusicPlaybackServiceBase::UpdateCurrentPositions << EXIT: 0.006ms - oldCurrentTrackId = 0x00000008, newCurrentTrackId = 0x0000002c, forceUpdate = true
+348	08/12/17 23:22:02	9188	--MS::Entertainment::Music::Playback::SingleProcMusicPlaybackService::AddTracksToPlaybackQueueEpilogueImpl - originalQueueSize:0, options.beginPlayback:true
+349	08/12/17 23:22:02	9188	--MS::Entertainment::Music::Playback::MediaPlaybackListManager::UpdatePlaybackOrder - isShuffled = false
+350	08/12/17 23:22:02	9188	--MS::Entertainment::Music::Playback::PlaybackInfoRequest::SetCurrentUsageContextToUser
+351	08/12/17 23:22:02	9188	--MS::Entertainment::Music::Playback::MediaPlaybackListManager::StartPlayback
+352	08/12/17 23:22:02	6720	MS::Entertainment::Music::Playback::MediaPlaybackListManager::OnPlaybackItemBinding - trackId = 0x0000002c
+353	08/12/17 23:22:02	9188	--MS::Entertainment::Music::Playback::SingleProcMusicPlaybackService::AddTracksToPlaybackQueueEpilogueImpl >> ENTER: - Hydrating tracks to HydrationLevel::Display...
+354	08/12/17 23:22:02	8464	MS::Entertainment::Music::Playback::PlaybackPositionMonitor::OnMediaSessionPlaybackStateChanged - MediaPlaybackState: Opening
+355	08/12/17 23:22:02	9188	----MS::Entertainment::Music::Playback::NowPlayingQueueMetadataProvider::HydrateTracks >> ENTER: - hydrationLevel = Display
+356	08/12/17 23:22:02	6036	MS::Entertainment::Music::Playback::MediaPlaybackListManager::CreatePlaybackContext - trackId = 0x0000002c
+357	08/12/17 23:22:02	6036	MS::Entertainment::Music::Playback::NowPlayingQueueMetadataProvider::HydrateTrack >> ENTER:
+358	08/12/17 23:22:02	9188	----MS::Entertainment::Music::Playback::NowPlayingQueueMetadataProvider::HydrateTracks << EXIT: 0.094ms - hydrationLevel = Display
+359	08/12/17 23:22:02	9188	--MS::Entertainment::Music::Playback::SingleProcMusicPlaybackService::AddTracksToPlaybackQueueEpilogueImpl << EXIT: 0.353ms - Hydrating tracks to HydrationLevel::Display...
+360	08/12/17 23:22:02	9188	--MS::Entertainment::Music::Playback::MusicPlaybackServiceBase::UpdateVisibleStateAndFireEventsAsync - m_currentState is { TransportState = Playing, PlayerState = Loading, TrackId = 0x0000002c, DirtyFlags = 133 }
+361	08/12/17 23:22:02	9188	--MS::Entertainment::Music::Playback::PlatformMetadataProvider::UpdateButtonStates - trackIsValid: true, nextEnabled: false
+362	08/12/17 23:22:02	6036	MS::Entertainment::Music::Playback::NowPlayingQueueMetadataProvider::HydrateTrack << EXIT: 0.291ms
+363	08/12/17 23:22:02	9188	--MS::Entertainment::Music::Playback::MusicPlaybackServiceBase::GetSeekPositionNoLock - Position is stopped at 0
+364	08/12/17 23:22:02	9188	--MS::Entertainment::Music::Playback::NowPlayingQueueMetadataProvider::GetMetadataPacketForTrack - trackId: 44
+365	08/12/17 23:22:02	9188	--MS::Entertainment::Music::Playback::PlatformMetadataProvider::UpdateMetadata - Found metadata to show for currentTrackId: 44
+366	08/12/17 23:22:02	9188	--MS::Entertainment::Music::Playback::PlatformMetadataProvider::UpdateSMTC - Updating SMTC metadata. Title = Circuits Artist = Klangkarussell
+367	08/12/17 23:22:02	6036	MS::Entertainment::Music::Playback::Counted<class MS::Entertainment::Music::Playback::TrackPlaybackContext,unsigned int>::Counted - NumInstances = 1, ObjectId = 5
+368	08/12/17 23:22:02	9188	--MS::Entertainment::Music::Playback::NowPlayingQueueMetadataProvider::GetMetadataPacketForTrack - trackId: 0
+369	08/12/17 23:22:02	9188	--MS::Entertainment::Music::Playback::MusicPlaybackServiceBase::UpdateNowPlayingQueueSavability >> ENTER: - Checking if NowPlayingQueue is savable, queue size: 1
+370	08/12/17 23:22:02	9188	--MS::Entertainment::Music::Playback::MusicPlaybackServiceBase::UpdateNowPlayingQueueSavability << EXIT: 0.007ms - Checking if NowPlayingQueue is savable, queue size: 1
+371	08/12/17 23:22:02	9188	MS::Entertainment::Music::Playback::MusicPlaybackServiceBase::AddTracksToPlaybackQueue::<lambda_dee2e11d8cccfcaf8b7d73ab3214a568>::operator () << EXIT: 90.013ms - Clearing and adding 1 out of 1 tracks. Play@0
+372	08/12/17 23:22:02	6036	MS::Entertainment::Music::Playback::Counted<class MS::Entertainment::Music::Playback::MasterPlaybackInfoManager,unsigned int>::Counted - NumInstances = 1, ObjectId = 3
+373	08/12/17 23:22:02	6036	MS::Entertainment::Music::Playback::MasterPlaybackInfoManager::MasterPlaybackInfoManager - Parent TPC id = 5
+374	08/12/17 23:22:02	6036	MS::Entertainment::Music::Playback::PlaybackTrack::EnsureHydrateToPlaybackInfo
+375	08/12/17 23:22:02	6036	MS::Entertainment::Music::Playback::MasterPlaybackInfoManager::MasterPlaybackInfoManager - requestMediaType: Audio
+376	08/12/17 23:22:02	6036	MS::Entertainment::Music::Playback::Counted<class MS::Entertainment::Music::Playback::PlaybackInfoManager,unsigned int>::Counted - NumInstances = 1, ObjectId = 3
+377	08/12/17 23:22:02	6036	MS::Entertainment::Music::Playback::PlaybackInfoManager::PlaybackInfoManager - Parent MasterPIM id = 3
+378	08/12/17 23:22:02	8760	MS::Entertainment::Music::Playback::MusicPlaybackServiceBase::UpdateVisibleStateAndFireEventsAsync::<lambda_fc2893abbb5aed69e392a6221069ce86>::operator () >> ENTER: - UI task
+379	08/12/17 23:22:02	8760	--MS::Entertainment::Music::Playback::MusicPlaybackServiceBase::UpdateVisibleStateAndFireEventsAsync::<lambda_fc2893abbb5aed69e392a6221069ce86>::operator () - Updated visible state to TransportState = Playing, PlayerState = Loading, TrackId = 0x0000002c
+380	08/12/17 23:22:02	8760	--MS::Entertainment::Music::Playback::MusicNowPlayingQueue::Update
+381	08/12/17 23:22:02	8760	--MS::Entertainment::Music::Playback::MusicNowPlayingQueue::Update
+382	08/12/17 23:22:02	6036	MS::Entertainment::Music::Playback::PlaybackInfoManager::OnCurrentChanged
+383	08/12/17 23:22:02	8760	--MS::Entertainment::Music::Controls::NowPlayingFlipView::OnSelectionChanged >> ENTER:
+384	08/12/17 23:22:02	8760	----MS::Entertainment::Music::Controls::NowPlayingFlipView::OnSelectionChanged - Selection changed. SelectedIndex: -1, Last SelectedIndex: 0
+385	08/12/17 23:22:02	8760	--MS::Entertainment::Music::Controls::NowPlayingFlipView::OnSelectionChanged << EXIT: 0.146ms
+386	08/12/17 23:22:02	6036	MS::Entertainment::Music::Playback::TrackPlaybackContext::RealizeBinding - TrackId = 0x0000002c
+387	08/12/17 23:22:02	6036	MS::Entertainment::Music::Playback::TrackPlaybackContext::UpdateTelemetryObjects
+388	08/12/17 23:22:02	6036	MS::Entertainment::Music::Playback::TrackPlaybackContext::PlaybackInfo::get >> ENTER: - Track 0x0000002c
+389	08/12/17 23:22:02	6036	--MS::Entertainment::Music::Playback::TrackPlaybackContext::ResolvePlaybackInfoAsync - Track 0x0000002c
+390	08/12/17 23:22:02	8760	--MS::Entertainment::Music::Controls::NowPlayingFlipView::OnSelectionChanged >> ENTER:
+391	08/12/17 23:22:02	8760	----MS::Entertainment::Music::Controls::NowPlayingFlipView::OnSelectionChanged - Selection changed. SelectedIndex: 0, Last SelectedIndex: -1
+392	08/12/17 23:22:02	8760	--MS::Entertainment::Music::Controls::NowPlayingFlipView::OnSelectionChanged << EXIT: 0.122ms
+393	08/12/17 23:22:02	8760	--MS::Entertainment::Music::Playback::MusicPlaybackServiceBase::FireStateChangedEvents >> ENTER: - Firing QueuePositionsChanged
+394	08/12/17 23:22:02	8760	----MS::Entertainment::Music::ViewModel::MediaTransportControlsViewModel::UpdateDuration - trackDuration = 571000
+395	08/12/17 23:22:02	5744	MS::Entertainment::Music::Playback::PlaybackInfoManager::RunMonitoringTask
+396	08/12/17 23:22:02	8760	----MS::Entertainment::Music::Controls::NowPlayingFlipView::OnHeaderPropertyChanged >> ENTER:
+397	08/12/17 23:22:02	8760	------MS::Entertainment::Music::Controls::NowPlayingFlipView::UpdateSelection >> ENTER:
+398	08/12/17 23:22:02	2464	MS::Entertainment::Music::Playback::PlaybackInfoManager::RunRetryTask
+399	08/12/17 23:22:02	8760	--------MS::Entertainment::Music::Controls::NowPlayingFlipView::SetSelection - New: 0,  Old: 0
+400	08/12/17 23:22:02	8760	------MS::Entertainment::Music::Controls::NowPlayingFlipView::UpdateSelection << EXIT: 0.208ms
+401	08/12/17 23:22:02	8760	----MS::Entertainment::Music::Controls::NowPlayingFlipView::OnHeaderPropertyChanged << EXIT: 0.352ms
+402	08/12/17 23:22:02	2464	MS::Entertainment::Music::Playback::Counted<class MS::Entertainment::Music::Playback::PlaybackInfoRequest,unsigned int>::Counted - NumInstances = 1, ObjectId = 4
+403	08/12/17 23:22:02	2464	MS::Entertainment::Music::Playback::PlaybackInfoRequest::PlaybackInfoRequest - Parent PIM id = 3, CurrentUsageContext = 1
+404	08/12/17 23:22:02	2464	MS::Entertainment::Music::Playback::PlaybackInfoManager::RunRetryTask - TrackId = 0x0000002c, m_retryAttempts = 1
+405	08/12/17 23:22:02	2464	MS::Entertainment::Music::Playback::PlaybackInfoManager::RunRetryTask - Calling this_thread::sleep_for... TrackId = 0x0000002c, retryDelay = 1500
+406	08/12/17 23:22:02	8760	----MS::Entertainment::Music::AV::PlaybackNotificationService::OnPlaybackQueuePositionsChanged - current: 0
+407	08/12/17 23:22:02	8760	----MS::Entertainment::Music::AV::PlaybackNotificationService::ClearErrorCodes
+408	08/12/17 23:22:02	5060	MS::Entertainment::Music::AV::PlaybackHelper::ClearAndOrNavigate - autoNavigateBehavior=2, clearQueue = false
+409	08/12/17 23:22:02	6212	MS::Entertainment::Music::Playback::MusicPlaybackServiceBase::AddTracksToPlaybackQueue::<lambda_dee2e11d8cccfcaf8b7d73ab3214a568>::operator () >> ENTER: - adding 23 out of 23 tracks. Play@0
+410	08/12/17 23:22:02	6212	--MS::Entertainment::Music::Playback::TrackVectorShuffleView::SetIsShuffled >> ENTER: - isShuffled = false, currentTrackId = 0x00000000, doShuffleNow = true
+411	08/12/17 23:22:02	6212	--MS::Entertainment::Music::Playback::TrackVectorShuffleView::SetIsShuffled << EXIT: 0.001ms - isShuffled = false, currentTrackId = 0x00000000, doShuffleNow = true
+412	08/12/17 23:22:02	6212	--MS::Entertainment::Music::Playback::NowPlayingQueueMetadataProvider::SetAcquisitionInformation
+413	08/12/17 23:22:02	6212	--MS::Entertainment::Music::Playback::TrackVector::AppendMany >> ENTER: - tracks->Size = 23
+414	08/12/17 23:22:02	8760	----MS::Entertainment::Music::AV::PlaybackNotificationService::HandleCurrentIdChange - newCurrentPlaybackId: 0x0000002c, newCurrentDatabaseId: 0, newCatalogId: {2510960A-0100-11DB-89CA-0019B92A3933}
+415	08/12/17 23:22:02	8760	----MS::Entertainment::Music::AV::PlaybackNotificationService::SetErrorCode
+416	08/12/17 23:22:02	8760	----MS::Entertainment::Music::AV::PlaybackNotificationService::SetCurrentPlaybackId - newCurrentPlaybackId: 0x0000002c, oldCurrentPlaybackId: 8
+417	08/12/17 23:22:02	8760	----MS::Entertainment::Music::AV::PlaybackNotificationService::SetCurrentDatabaseId - newCurrentDatabaseId: 0, oldCurrentDatabaseId: 0
+418	08/12/17 23:22:02	8760	----MS::Entertainment::Music::AV::PlaybackNotificationService::SetCurrentCatalogId - newCatalogId: {2510960a-0100-11db-89ca-0019b92a3933}, oldCatalogId: {2510960a-0100-11db-89ca-0019b92a3933}
+419	08/12/17 23:22:02	8760	--MS::Entertainment::Music::Playback::MusicPlaybackServiceBase::FireStateChangedEvents << EXIT: 54.383ms - Firing QueuePositionsChanged
+420	08/12/17 23:22:02	8760	--MS::Entertainment::Music::Playback::MusicPlaybackServiceBase::FireStateChangedEvents >> ENTER: - Firing PlaybackStateChanged
+421	08/12/17 23:22:02	8760	----MS::Entertainment::Music::ViewModel::MediaTransportControlsViewModel::OnPlaybackStateChanged - TransportState = Playing, PlayerState = Loading
+422	08/12/17 23:22:02	8760	----MS::Entertainment::Music::ViewModel::MediaTransportControlsViewModel::SyncElapsedTimeUpdateTimer - m_numElapsedTimeChangedHandlers = 2, m_isInElapsedTimePollingState = false.  Canceling position polling timer...
+423	08/12/17 23:22:02	8760	----MS::Entertainment::Music::ViewModel::MediaTransportControlsViewModel::UpdateDuration - trackDuration = 571000
+424	08/12/17 23:22:02	8760	--MS::Entertainment::Music::Playback::MusicPlaybackServiceBase::FireStateChangedEvents << EXIT: 1.995ms - Firing PlaybackStateChanged
+425	08/12/17 23:22:02	8760	MS::Entertainment::Music::Playback::MusicPlaybackServiceBase::UpdateVisibleStateAndFireEventsAsync::<lambda_fc2893abbb5aed69e392a6221069ce86>::operator () << EXIT: 62.340ms - UI task
+426	08/12/17 23:22:02	4884	MS::Entertainment::Music::Playback::NowPlayingQueueMetadataProvider::HydrateTracks >> ENTER: - hydrationLevel = TrackUsageRights
+427	08/12/17 23:22:02	4884	MS::Entertainment::Music::Playback::NowPlayingQueueMetadataProvider::HydrateTracks << EXIT: 4.383ms - hydrationLevel = TrackUsageRights
+428	08/12/17 23:22:02	8760	MS::Entertainment::Music::AV::PlaybackNotificationService::SetCurrentDatabaseId - newCurrentDatabaseId: 0, oldCurrentDatabaseId: 0
+429	08/12/17 23:22:02	6212	--MS::Entertainment::Music::Playback::TrackVector::AppendMany << EXIT: 44.129ms - tracks->Size = 23
+430	08/12/17 23:22:02	6212	--MS::Entertainment::Music::Playback::MusicPlaybackServiceBase::UpdateCurrentPositions >> ENTER: - oldCurrentTrackId = 0x0000002c, newCurrentTrackId = 0x0000002c, forceUpdate = true
+431	08/12/17 23:22:02	6212	--MS::Entertainment::Music::Playback::MusicPlaybackServiceBase::UpdateCurrentPositions << EXIT: 0.007ms - oldCurrentTrackId = 0x0000002c, newCurrentTrackId = 0x0000002c, forceUpdate = true
+432	08/12/17 23:22:02	6212	--MS::Entertainment::Music::Playback::SingleProcMusicPlaybackService::AddTracksToPlaybackQueueEpilogueImpl - originalQueueSize:1, options.beginPlayback:false
+433	08/12/17 23:22:02	6212	--MS::Entertainment::Music::Playback::MediaPlaybackListManager::UpdatePlaybackOrder - isShuffled = false
+434	08/12/17 23:22:02	6212	--MS::Entertainment::Music::Playback::SingleProcMusicPlaybackService::AddTracksToPlaybackQueueEpilogueImpl >> ENTER: - Hydrating tracks to HydrationLevel::Display...
+435	08/12/17 23:22:02	4420	MS::Entertainment::Music::Playback::MediaPlaybackListManager::PausePreroll
+436	08/12/17 23:22:02	6212	----MS::Entertainment::Music::Playback::NowPlayingQueueMetadataProvider::HydrateTracks >> ENTER: - hydrationLevel = Display
+437	08/12/17 23:22:02	4420	MS::Entertainment::Music::Playback::MediaPlaybackListManager::CleanupOutOfScopePlaybackContexts - currentTrackId = 0x0000002c, currentTrackIndex = 0, keepPrerolledTracks = true, keepErroredTracks = false
+438	08/12/17 23:22:02	4420	MS::Entertainment::Music::Playback::MediaPlaybackListManager::CleanupOutOfScopePlaybackContexts >> ENTER:
+439	08/12/17 23:22:02	4420	MS::Entertainment::Music::Playback::MediaPlaybackListManager::CleanupOutOfScopePlaybackContexts << EXIT: 0.008ms
+440	08/12/17 23:22:02	4420	MS::Entertainment::Music::Playback::MediaPlaybackListManager::CleanupOutOfScopePlaybackContexts - Size of m_playbackContexts after cleanup: 1
+441	08/12/17 23:22:02	4420	MS::Entertainment::Music::Playback::MediaPlaybackListManager::ResumePreroll
+442	08/12/17 23:22:02	6212	----MS::Entertainment::Music::Playback::NowPlayingQueueMetadataProvider::HydrateTracks << EXIT: 0.827ms - hydrationLevel = Display
+443	08/12/17 23:22:02	6212	--MS::Entertainment::Music::Playback::SingleProcMusicPlaybackService::AddTracksToPlaybackQueueEpilogueImpl << EXIT: 1.066ms - Hydrating tracks to HydrationLevel::Display...
+444	08/12/17 23:22:02	6212	--MS::Entertainment::Music::Playback::MusicPlaybackServiceBase::UpdateVisibleStateAndFireEventsAsync - m_currentState is { TransportState = Playing, PlayerState = Loading, TrackId = 0x0000002c, DirtyFlags = 1 }
+445	08/12/17 23:22:02	6212	--MS::Entertainment::Music::Playback::PlatformMetadataProvider::UpdateButtonStates - trackIsValid: true, nextEnabled: true
+446	08/12/17 23:22:02	6212	--MS::Entertainment::Music::Playback::MusicPlaybackServiceBase::UpdateNowPlayingQueueSavability >> ENTER: - Checking if NowPlayingQueue is savable, queue size: 24
+447	08/12/17 23:22:02	6212	--MS::Entertainment::Music::Playback::MusicPlaybackServiceBase::UpdateNowPlayingQueueSavability << EXIT: 0.005ms - Checking if NowPlayingQueue is savable, queue size: 24
+448	08/12/17 23:22:02	6212	MS::Entertainment::Music::Playback::MusicPlaybackServiceBase::AddTracksToPlaybackQueue::<lambda_dee2e11d8cccfcaf8b7d73ab3214a568>::operator () << EXIT: 46.536ms - adding 23 out of 23 tracks. Play@0
+449	08/12/17 23:22:02	8760	MS::Entertainment::Music::Playback::MusicPlaybackServiceBase::UpdateVisibleStateAndFireEventsAsync::<lambda_fc2893abbb5aed69e392a6221069ce86>::operator () >> ENTER: - UI task
+450	08/12/17 23:22:02	8760	--MS::Entertainment::Music::Playback::MusicPlaybackServiceBase::UpdateVisibleStateAndFireEventsAsync::<lambda_fc2893abbb5aed69e392a6221069ce86>::operator () - Updated visible state to TransportState = Playing, PlayerState = Loading, TrackId = 0x0000002c
+451	08/12/17 23:22:02	8760	--MS::Entertainment::Music::Playback::MusicNowPlayingQueue::Update
+452	08/12/17 23:22:02	8760	--MS::Entertainment::Music::Playback::MusicNowPlayingQueue::Update
+453	08/12/17 23:22:02	8760	--MS::Entertainment::Music::Playback::MusicPlaybackServiceBase::FireStateChangedEvents >> ENTER: - Firing QueuePositionsChanged
+454	08/12/17 23:22:02	8760	----MS::Entertainment::Music::AV::PlaybackNotificationService::OnPlaybackQueuePositionsChanged - current: 0
+455	08/12/17 23:22:02	8760	----MS::Entertainment::Music::AV::PlaybackNotificationService::ClearErrorCodes
+456	08/12/17 23:22:02	8760	----MS::Entertainment::Music::AV::PlaybackNotificationService::HandleCurrentIdChange - newCurrentPlaybackId: 0x0000002c, newCurrentDatabaseId: 0, newCatalogId: {2510960A-0100-11DB-89CA-0019B92A3933}
+457	08/12/17 23:22:02	8760	----MS::Entertainment::Music::AV::PlaybackNotificationService::SetErrorCode
+458	08/12/17 23:22:02	8760	----MS::Entertainment::Music::AV::PlaybackNotificationService::SetCurrentPlaybackId - newCurrentPlaybackId: 0x0000002c, oldCurrentPlaybackId: 44
+459	08/12/17 23:22:02	8760	----MS::Entertainment::Music::AV::PlaybackNotificationService::SetCurrentDatabaseId - newCurrentDatabaseId: 0, oldCurrentDatabaseId: 0
+460	08/12/17 23:22:02	8760	----MS::Entertainment::Music::AV::PlaybackNotificationService::SetCurrentCatalogId - newCatalogId: {2510960a-0100-11db-89ca-0019b92a3933}, oldCatalogId: {2510960a-0100-11db-89ca-0019b92a3933}
+461	08/12/17 23:22:02	8760	--MS::Entertainment::Music::Playback::MusicPlaybackServiceBase::FireStateChangedEvents << EXIT: 31.955ms - Firing QueuePositionsChanged
+462	08/12/17 23:22:02	8760	MS::Entertainment::Music::Playback::MusicPlaybackServiceBase::UpdateVisibleStateAndFireEventsAsync::<lambda_fc2893abbb5aed69e392a6221069ce86>::operator () << EXIT: 48.439ms - UI task
+463	08/12/17 23:22:02	5060	MS::Entertainment::Music::Playback::NowPlayingQueueMetadataProvider::HydrateTracks >> ENTER: - hydrationLevel = TrackUsageRights
+464	08/12/17 23:22:02	5060	MS::Entertainment::Music::Playback::NowPlayingQueueMetadataProvider::HydrateTracks << EXIT: 0.442ms - hydrationLevel = TrackUsageRights
+465	08/12/17 23:22:02	8760	MS::Entertainment::Music::AV::PlaybackNotificationService::SetCurrentDatabaseId - newCurrentDatabaseId: 0, oldCurrentDatabaseId: 0
+466	08/12/17 23:22:02	7596	MS::Entertainment::Music::AV::PlaybackHelper::ClearAndOrNavigate - autoNavigateBehavior=2, clearQueue = false
+467	08/12/17 23:22:02	1184	MS::Entertainment::Music::Playback::MusicPlaybackServiceBase::AddTracksToPlaybackQueue::<lambda_dee2e11d8cccfcaf8b7d73ab3214a568>::operator () >> ENTER: - adding 12 out of 12 tracks. Hold@4294967295
+468	08/12/17 23:22:02	1184	--MS::Entertainment::Music::Playback::TrackVectorShuffleView::SetIsShuffled >> ENTER: - isShuffled = false, currentTrackId = 0x00000000, doShuffleNow = true
+469	08/12/17 23:22:02	1184	--MS::Entertainment::Music::Playback::TrackVectorShuffleView::SetIsShuffled << EXIT: 0.001ms - isShuffled = false, currentTrackId = 0x00000000, doShuffleNow = true
+470	08/12/17 23:22:02	1184	--MS::Entertainment::Music::Playback::NowPlayingQueueMetadataProvider::SetAcquisitionInformation
+471	08/12/17 23:22:02	1184	--MS::Entertainment::Music::Playback::TrackVector::AppendMany >> ENTER: - tracks->Size = 12
+472	08/12/17 23:22:02	1184	--MS::Entertainment::Music::Playback::TrackVector::AppendMany << EXIT: 3.474ms - tracks->Size = 12
+473	08/12/17 23:22:02	1184	--MS::Entertainment::Music::Playback::MusicPlaybackServiceBase::UpdateCurrentPositions >> ENTER: - oldCurrentTrackId = 0x0000002c, newCurrentTrackId = 0x0000002c, forceUpdate = true
+474	08/12/17 23:22:02	1184	--MS::Entertainment::Music::Playback::MusicPlaybackServiceBase::UpdateCurrentPositions << EXIT: 0.004ms - oldCurrentTrackId = 0x0000002c, newCurrentTrackId = 0x0000002c, forceUpdate = true
+475	08/12/17 23:22:02	1184	--MS::Entertainment::Music::Playback::SingleProcMusicPlaybackService::AddTracksToPlaybackQueueEpilogueImpl - originalQueueSize:24, options.beginPlayback:false
+476	08/12/17 23:22:02	1184	--MS::Entertainment::Music::Playback::MediaPlaybackListManager::UpdatePlaybackOrder - isShuffled = false
+477	08/12/17 23:22:02	1184	--MS::Entertainment::Music::Playback::SingleProcMusicPlaybackService::AddTracksToPlaybackQueueEpilogueImpl >> ENTER: - Hydrating tracks to HydrationLevel::Display...
+478	08/12/17 23:22:02	4420	MS::Entertainment::Music::Playback::MediaPlaybackListManager::PausePreroll
+479	08/12/17 23:22:02	1184	----MS::Entertainment::Music::Playback::NowPlayingQueueMetadataProvider::HydrateTracks >> ENTER: - hydrationLevel = Display
+480	08/12/17 23:22:02	4420	MS::Entertainment::Music::Playback::MediaPlaybackListManager::CleanupOutOfScopePlaybackContexts - currentTrackId = 0x0000002c, currentTrackIndex = 0, keepPrerolledTracks = true, keepErroredTracks = false
+481	08/12/17 23:22:02	4420	MS::Entertainment::Music::Playback::MediaPlaybackListManager::CleanupOutOfScopePlaybackContexts >> ENTER:
+482	08/12/17 23:22:02	4420	MS::Entertainment::Music::Playback::MediaPlaybackListManager::CleanupOutOfScopePlaybackContexts << EXIT: 0.001ms
+483	08/12/17 23:22:02	4420	MS::Entertainment::Music::Playback::MediaPlaybackListManager::CleanupOutOfScopePlaybackContexts - Size of m_playbackContexts after cleanup: 1
+484	08/12/17 23:22:02	4420	MS::Entertainment::Music::Playback::MediaPlaybackListManager::ResumePreroll
+485	08/12/17 23:22:02	1184	----MS::Entertainment::Music::Playback::NowPlayingQueueMetadataProvider::HydrateTracks << EXIT: 1.280ms - hydrationLevel = Display
+486	08/12/17 23:22:02	1184	--MS::Entertainment::Music::Playback::SingleProcMusicPlaybackService::AddTracksToPlaybackQueueEpilogueImpl << EXIT: 1.354ms - Hydrating tracks to HydrationLevel::Display...
+487	08/12/17 23:22:02	1184	--MS::Entertainment::Music::Playback::MusicPlaybackServiceBase::UpdateVisibleStateAndFireEventsAsync - m_currentState is { TransportState = Playing, PlayerState = Loading, TrackId = 0x0000002c, DirtyFlags = 1 }
+488	08/12/17 23:22:02	1184	--MS::Entertainment::Music::Playback::PlatformMetadataProvider::UpdateButtonStates - trackIsValid: true, nextEnabled: true
+489	08/12/17 23:22:02	1184	--MS::Entertainment::Music::Playback::MusicPlaybackServiceBase::UpdateNowPlayingQueueSavability >> ENTER: - Checking if NowPlayingQueue is savable, queue size: 36
+490	08/12/17 23:22:02	1184	--MS::Entertainment::Music::Playback::MusicPlaybackServiceBase::UpdateNowPlayingQueueSavability << EXIT: 0.002ms - Checking if NowPlayingQueue is savable, queue size: 36
+491	08/12/17 23:22:02	1184	MS::Entertainment::Music::Playback::MusicPlaybackServiceBase::AddTracksToPlaybackQueue::<lambda_dee2e11d8cccfcaf8b7d73ab3214a568>::operator () << EXIT: 5.493ms - adding 12 out of 12 tracks. Hold@4294967295
+492	08/12/17 23:22:02	8760	MS::Entertainment::Music::Playback::MusicPlaybackServiceBase::UpdateVisibleStateAndFireEventsAsync::<lambda_fc2893abbb5aed69e392a6221069ce86>::operator () >> ENTER: - UI task
+493	08/12/17 23:22:02	8760	--MS::Entertainment::Music::Playback::MusicPlaybackServiceBase::UpdateVisibleStateAndFireEventsAsync::<lambda_fc2893abbb5aed69e392a6221069ce86>::operator () - Updated visible state to TransportState = Playing, PlayerState = Loading, TrackId = 0x0000002c
+494	08/12/17 23:22:02	8760	--MS::Entertainment::Music::Playback::MusicNowPlayingQueue::Update
+495	08/12/17 23:22:02	8760	--MS::Entertainment::Music::Playback::MusicNowPlayingQueue::Update
+496	08/12/17 23:22:02	8760	--MS::Entertainment::Music::Playback::MusicPlaybackServiceBase::FireStateChangedEvents >> ENTER: - Firing QueuePositionsChanged
+497	08/12/17 23:22:02	8760	----MS::Entertainment::Music::AV::PlaybackNotificationService::OnPlaybackQueuePositionsChanged - current: 0
+498	08/12/17 23:22:02	8760	----MS::Entertainment::Music::AV::PlaybackNotificationService::ClearErrorCodes
+499	08/12/17 23:22:02	8760	----MS::Entertainment::Music::AV::PlaybackNotificationService::HandleCurrentIdChange - newCurrentPlaybackId: 0x0000002c, newCurrentDatabaseId: 0, newCatalogId: {2510960A-0100-11DB-89CA-0019B92A3933}
+500	08/12/17 23:22:02	8760	----MS::Entertainment::Music::AV::PlaybackNotificationService::SetErrorCode
+501	08/12/17 23:22:02	8760	----MS::Entertainment::Music::AV::PlaybackNotificationService::SetCurrentPlaybackId - newCurrentPlaybackId: 0x0000002c, oldCurrentPlaybackId: 44
+502	08/12/17 23:22:02	8760	----MS::Entertainment::Music::AV::PlaybackNotificationService::SetCurrentDatabaseId - newCurrentDatabaseId: 0, oldCurrentDatabaseId: 0
+503	08/12/17 23:22:02	8760	----MS::Entertainment::Music::AV::PlaybackNotificationService::SetCurrentCatalogId - newCatalogId: {2510960a-0100-11db-89ca-0019b92a3933}, oldCatalogId: {2510960a-0100-11db-89ca-0019b92a3933}
+504	08/12/17 23:22:02	8760	--MS::Entertainment::Music::Playback::MusicPlaybackServiceBase::FireStateChangedEvents << EXIT: 18.855ms - Firing QueuePositionsChanged
+505	08/12/17 23:22:02	8760	MS::Entertainment::Music::Playback::MusicPlaybackServiceBase::UpdateVisibleStateAndFireEventsAsync::<lambda_fc2893abbb5aed69e392a6221069ce86>::operator () << EXIT: 24.660ms - UI task
+506	08/12/17 23:22:02	6212	MS::Entertainment::Music::Playback::NowPlayingQueueMetadataProvider::HydrateTracks >> ENTER: - hydrationLevel = TrackUsageRights
+507	08/12/17 23:22:02	6212	MS::Entertainment::Music::Playback::NowPlayingQueueMetadataProvider::HydrateTracks << EXIT: 0.408ms - hydrationLevel = TrackUsageRights
+508	08/12/17 23:22:02	8760	MS::Entertainment::Music::Playback::SingleProcMusicPlaybackService::OnQueueHydrationCompleteImpl - UpdatePlayableTracksView = true
+509	08/12/17 23:22:02	4960	MS::Entertainment::Music::Playback::SingleProcMusicPlaybackService::OnQueueHydrationCompleteImpl::<lambda_4856cdb3759c9ecaa2b8e000ec2f8d8e>::operator () >> ENTER: - Updating PlayableTracksView
+510	08/12/17 23:22:02	4960	--MS::Entertainment::Music::Playback::TrackVectorPlayableView::RecalculateAll >> ENTER:
+511	08/12/17 23:22:02	4960	----MS::Entertainment::Music::Playback::TrackVectorPlayableView::RecalculateAll - Source size = 36. Playable vector size changed from 36 to 36
+512	08/12/17 23:22:02	4960	--MS::Entertainment::Music::Playback::TrackVectorPlayableView::RecalculateAll << EXIT: 0.756ms
+513	08/12/17 23:22:02	4960	MS::Entertainment::Music::Playback::SingleProcMusicPlaybackService::OnQueueHydrationCompleteImpl::<lambda_4856cdb3759c9ecaa2b8e000ec2f8d8e>::operator () << EXIT: 1.141ms - Updating PlayableTracksView
+514	08/12/17 23:22:02	2708	MS::Entertainment::Music::Playback::SaveNowPlayingQueueToFile
+515	08/12/17 23:22:02	2708	MS::Entertainment::Music::Playback::SaveNowPlayingQueueToJson
+516	08/12/17 23:22:02	2708	MS::Entertainment::Music::Playback::SaveNowPlayingQueueToJson - queueSourceType: Other, shouldPersistQueue: false
+517	08/12/17 23:22:02	8760	MS::Entertainment::Music::AV::PlaybackNotificationService::SetCurrentDatabaseId - newCurrentDatabaseId: 0, oldCurrentDatabaseId: 0
+518	08/12/17 23:22:02	4860	MS::Entertainment::Music::Playback::PlaybackInfoRequest::{ctor}::<lambda_4f851f6a26978fc0326f18500ace39ad>::operator () - Got playback info: TrackId = 0x0000002c, TrackingId = 
+519	08/12/17 23:22:02	4860	MS::Entertainment::Music::Playback::PlaybackInfoManager::SetPlaybackInfo
+520	08/12/17 23:22:02	4860	MS::Entertainment::Music::Playback::Counted<class MS::Entertainment::Music::Playback::PlaybackInfoRequest,unsigned int>::~Counted - NumInstances = 0, ObjectId = 4
+521	08/12/17 23:22:02	5744	MS::Entertainment::Music::Playback::PlaybackInfoManager::RunMonitoringTask - Got playback info: TrackId = 0x0000002c, TrackingId = 
+522	08/12/17 23:22:02	5744	MS::Entertainment::Music::Playback::MasterPlaybackInfoManager::SetPlaybackInfo
+523	08/12/17 23:22:02	5744	MS::Entertainment::Music::Playback::PlaybackInfoRequest::SetCurrentUsageContextToAutomatic
+524	08/12/17 23:22:02	5744	MS::Entertainment::Music::Playback::TrackPlaybackContext::UpdateTelemetryObjects
+525	08/12/17 23:22:02	6036	MS::Entertainment::Music::Playback::TrackPlaybackContext::PlaybackInfo::get << EXIT: 200.991ms - Track 0x0000002c
+526	08/12/17 23:22:02	6036	MS::Entertainment::Music::Playback::TrackPlaybackContext::RealizeBinding - Setting Media Binder URL source
+527	08/12/17 23:22:02	6036	MS::Entertainment::Music::Playback::MediaPlaybackListManager::AddVideoSourceConfiguration
+528	08/12/17 23:22:03	6720	MS::Entertainment::Music::Playback::MediaPlaybackListManager::OnMediaPlaylistItemOpened - trackId = 0x0000002c
+529	08/12/17 23:22:03	3476	MS::Entertainment::Music::Playback::MediaPlaybackListManager::OnPlaybackItemBinding - trackId = 0x0000002d
+530	08/12/17 23:22:03	5060	MS::Entertainment::Music::Playback::MediaPlaybackListManager::OnMediaPlaylistCurrentItemChanged::<lambda_0d6cf0fefd3d55ad1235441415345df9>::operator () - oldTrackId = 0x00000000, newTrackId = 0x0000002c
+531	08/12/17 23:22:03	4860	MS::Entertainment::Music::Playback::MediaPlaybackListManager::CreatePlaybackContext - trackId = 0x0000002d
+532	08/12/17 23:22:03	4860	MS::Entertainment::Music::Playback::NowPlayingQueueMetadataProvider::HydrateTrack >> ENTER:
+533	08/12/17 23:22:03	4860	MS::Entertainment::Music::Playback::NowPlayingQueueMetadataProvider::HydrateTrack << EXIT: 0.298ms
+534	08/12/17 23:22:03	4860	MS::Entertainment::Music::Playback::Counted<class MS::Entertainment::Music::Playback::TrackPlaybackContext,unsigned int>::Counted - NumInstances = 2, ObjectId = 6
+535	08/12/17 23:22:03	4860	MS::Entertainment::Music::Playback::Counted<class MS::Entertainment::Music::Playback::MasterPlaybackInfoManager,unsigned int>::Counted - NumInstances = 2, ObjectId = 4
+536	08/12/17 23:22:03	4860	MS::Entertainment::Music::Playback::MasterPlaybackInfoManager::MasterPlaybackInfoManager - Parent TPC id = 6
+537	08/12/17 23:22:03	4860	MS::Entertainment::Music::Playback::PlaybackTrack::EnsureHydrateToPlaybackInfo
+538	08/12/17 23:22:03	4860	MS::Entertainment::Music::Playback::MasterPlaybackInfoManager::MasterPlaybackInfoManager - requestMediaType: Audio
+539	08/12/17 23:22:03	4860	MS::Entertainment::Music::Playback::Counted<class MS::Entertainment::Music::Playback::PlaybackInfoManager,unsigned int>::Counted - NumInstances = 2, ObjectId = 4
+540	08/12/17 23:22:03	4860	MS::Entertainment::Music::Playback::PlaybackInfoManager::PlaybackInfoManager - Parent MasterPIM id = 4
+541	08/12/17 23:22:03	2708	MS::Entertainment::Music::Playback::PlaybackInfoManager::RunMonitoringTask
+542	08/12/17 23:22:03	6036	MS::Entertainment::Music::Playback::PlaybackInfoManager::RunRetryTask
+543	08/12/17 23:22:03	4860	MS::Entertainment::Music::Playback::PlaybackInfoManager::OnCurrentChanged
+544	08/12/17 23:22:03	5060	MS::Entertainment::Music::Playback::MediaPlaybackListManager::ProcessPositionTransition - Stage: MovedTo, trackId = 0x0000002c, trackIndex = 0, TPC is NOT null
+545	08/12/17 23:22:03	5060	MS::Entertainment::Music::Playback::MediaPlaybackListManager::UpdateCurrentTrack - trackId: 0x0000002c, trackIndex: 0
+546	08/12/17 23:22:03	6036	MS::Entertainment::Music::Playback::Counted<class MS::Entertainment::Music::Playback::PlaybackInfoRequest,unsigned int>::Counted - NumInstances = 1, ObjectId = 5
+547	08/12/17 23:22:03	6036	MS::Entertainment::Music::Playback::PlaybackInfoRequest::PlaybackInfoRequest - Parent PIM id = 4, CurrentUsageContext = 0
+548	08/12/17 23:22:03	5060	MS::Entertainment::Music::Playback::PlaybackInfoManager::OnCurrentChanged
+549	08/12/17 23:22:03	6036	MS::Entertainment::Music::Playback::PlaybackInfoManager::RunRetryTask - TrackId = 0x0000002d, m_retryAttempts = 1
+550	08/12/17 23:22:03	5060	MS::Entertainment::Music::Playback::MediaPlaybackListManager::IsPlaylistCriticallyErrored - false, m_numConsecutiveErrors = 0, queueSize = 36
+551	08/12/17 23:22:03	6036	MS::Entertainment::Music::Playback::PlaybackInfoManager::RunRetryTask - Calling this_thread::sleep_for... TrackId = 0x0000002d, retryDelay = 1500
+552	08/12/17 23:22:03	5060	MS::Entertainment::Music::Playback::MediaPlaybackListManager::ProcessErrors - numErrors: 0
+553	08/12/17 23:22:03	5060	MS::Entertainment::Music::Playback::MediaPlaybackListManager::PausePreroll
+554	08/12/17 23:22:03	5060	MS::Entertainment::Music::Playback::MediaPlaybackListManager::CleanupOutOfScopePlaybackContexts - currentTrackId = 0x0000002c, currentTrackIndex = 0, keepPrerolledTracks = true, keepErroredTracks = true
+555	08/12/17 23:22:03	5060	MS::Entertainment::Music::Playback::MediaPlaybackListManager::CleanupOutOfScopePlaybackContexts >> ENTER:
+556	08/12/17 23:22:03	5060	--MS::Entertainment::Music::Playback::MediaPlaybackListManager::CleanupOutOfScopePlaybackContexts - Keeping prerolled track 0x0000002d at index 1
+557	08/12/17 23:22:03	5060	MS::Entertainment::Music::Playback::MediaPlaybackListManager::CleanupOutOfScopePlaybackContexts << EXIT: 0.132ms
+558	08/12/17 23:22:03	5060	MS::Entertainment::Music::Playback::MediaPlaybackListManager::CleanupOutOfScopePlaybackContexts - Size of m_playbackContexts after cleanup: 2
+559	08/12/17 23:22:03	5060	MS::Entertainment::Music::Playback::MediaPlaybackListManager::ResumePreroll
+560	08/12/17 23:22:03	4860	MS::Entertainment::Music::Playback::TrackPlaybackContext::RealizeBinding - TrackId = 0x0000002d
+561	08/12/17 23:22:03	4860	MS::Entertainment::Music::Playback::TrackPlaybackContext::UpdateTelemetryObjects
+562	08/12/17 23:22:03	4860	MS::Entertainment::Music::Playback::TrackPlaybackContext::PlaybackInfo::get >> ENTER: - Track 0x0000002d
+563	08/12/17 23:22:03	4860	--MS::Entertainment::Music::Playback::TrackPlaybackContext::ResolvePlaybackInfoAsync - Track 0x0000002d
+564	08/12/17 23:22:03	5744	MS::Entertainment::Music::Playback::Counted<class MS::Entertainment::Music::Playback::TrackPlaybackContext,unsigned int>::Counted - NumInstances = 3, ObjectId = 7
+565	08/12/17 23:22:03	5744	MS::Entertainment::Music::Playback::Counted<class MS::Entertainment::Music::Playback::MasterPlaybackInfoManager,unsigned int>::Counted - NumInstances = 3, ObjectId = 5
+566	08/12/17 23:22:03	9016	MS::Entertainment::Music::Playback::MediaPlaybackListManager::OnMediaPlaylistCurrentItemChanged::<lambda_0d6cf0fefd3d55ad1235441415345df9>::()::<lambda_e0f4ef829d3d2c96993fa6b385ccb796>::operator () - Signaling that track 0x0000002c is playing
+567	08/12/17 23:22:03	5744	MS::Entertainment::Music::Playback::MasterPlaybackInfoManager::MasterPlaybackInfoManager - Parent TPC id = 7
+568	08/12/17 23:22:03	5744	MS::Entertainment::Music::Playback::PlaybackTrack::EnsureHydrateToPlaybackInfo
+569	08/12/17 23:22:03	9016	MS::Entertainment::Music::Playback::SingleProcMusicPlaybackService::OnPlaybackListManagerItemPlaying - trackId:0x0000002c
+570	08/12/17 23:22:03	9016	MS::Entertainment::Music::Playback::SingleProcMusicPlaybackService::SetVolumeImpl - volume: 0.594, trackMediaType: Audio
+571	08/12/17 23:22:03	9016	MS::Entertainment::Music::Playback::SingleProcMusicPlaybackService::OnPlaybackListManagerItemPlaying - CurrentTransportState == TransportState::Playing, call Play() on MediaPlayer
+572	08/12/17 23:22:03	5744	MS::Entertainment::Music::Playback::MasterPlaybackInfoManager::MasterPlaybackInfoManager - requestMediaType: Audio
+573	08/12/17 23:22:03	5744	MS::Entertainment::Music::Playback::Counted<class MS::Entertainment::Music::Playback::PlaybackInfoManager,unsigned int>::Counted - NumInstances = 3, ObjectId = 5
+574	08/12/17 23:22:03	9016	MS::Entertainment::Music::Playback::MusicPlaybackServiceBase::UpdateCurrentPositions >> ENTER: - oldCurrentTrackId = 0x0000002c, newCurrentTrackId = 0x0000002c, forceUpdate = true
+575	08/12/17 23:22:03	5744	MS::Entertainment::Music::Playback::PlaybackInfoManager::PlaybackInfoManager - Parent MasterPIM id = 5
+576	08/12/17 23:22:03	9016	MS::Entertainment::Music::Playback::MusicPlaybackServiceBase::UpdateCurrentPositions << EXIT: 0.012ms - oldCurrentTrackId = 0x0000002c, newCurrentTrackId = 0x0000002c, forceUpdate = true
+577	08/12/17 23:22:03	9016	MS::Entertainment::Music::Playback::MusicPlaybackServiceBase::EndPerfTrackEvent
+578	08/12/17 23:22:03	9016	MS::Entertainment::Music::Playback::MusicPlaybackServiceBase::UpdateVisibleStateAndFireEventsAsync - m_currentState is { TransportState = Playing, PlayerState = Playing, TrackId = 0x0000002c, DirtyFlags = 133 }
+579	08/12/17 23:22:03	9016	MS::Entertainment::Music::Playback::PlatformMetadataProvider::UpdateButtonStates - trackIsValid: true, nextEnabled: true
+580	08/12/17 23:22:03	5744	MS::Entertainment::Music::Playback::TrackPlaybackContext::ResolvePlaybackInfoAsync - Track 0x0000002c
+581	08/12/17 23:22:03	9016	MS::Entertainment::Music::Playback::PlaybackInfoManager::RunMonitoringTask
+582	08/12/17 23:22:03	8760	MS::Entertainment::Music::Playback::MusicPlaybackServiceBase::UpdateVisibleStateAndFireEventsAsync::<lambda_fc2893abbb5aed69e392a6221069ce86>::operator () >> ENTER: - UI task
+583	08/12/17 23:22:03	4760	MS::Entertainment::Music::Playback::PlaybackInfoManager::RunRetryTask
+584	08/12/17 23:22:03	8760	--MS::Entertainment::Music::Playback::MusicPlaybackServiceBase::UpdateVisibleStateAndFireEventsAsync::<lambda_fc2893abbb5aed69e392a6221069ce86>::operator () - Updated visible state to TransportState = Playing, PlayerState = Playing, TrackId = 0x0000002c
+585	08/12/17 23:22:03	8760	--MS::Entertainment::Music::Playback::MusicPlaybackServiceBase::FireStateChangedEvents >> ENTER: - Firing PlaybackStateChanged
+586	08/12/17 23:22:03	8760	----MS::Entertainment::Music::ViewModel::MediaTransportControlsViewModel::OnPlaybackStateChanged - TransportState = Playing, PlayerState = Playing
+587	08/12/17 23:22:03	8760	----MS::Entertainment::Music::ViewModel::MediaTransportControlsViewModel::SyncElapsedTimeUpdateTimer - m_numElapsedTimeChangedHandlers = 2, m_isInElapsedTimePollingState = true.  Starting position polling timer...
+588	08/12/17 23:22:03	4760	MS::Entertainment::Music::Playback::Counted<class MS::Entertainment::Music::Playback::PlaybackInfoRequest,unsigned int>::Counted - NumInstances = 2, ObjectId = 6
+589	08/12/17 23:22:03	4760	MS::Entertainment::Music::Playback::PlaybackInfoRequest::PlaybackInfoRequest - Parent PIM id = 5, CurrentUsageContext = 0
+590	08/12/17 23:22:03	4760	MS::Entertainment::Music::Playback::PlaybackInfoManager::RunRetryTask - TrackId = 0x0000002c, m_retryAttempts = 1
+591	08/12/17 23:22:03	4760	MS::Entertainment::Music::Playback::PlaybackInfoManager::RunRetryTask - Calling this_thread::sleep_for... TrackId = 0x0000002c, retryDelay = 1500
+592	08/12/17 23:22:03	8760	----MS::Entertainment::Music::ViewModel::MediaTransportControlsViewModel::UpdateDuration - trackDuration = 30000
+593	08/12/17 23:22:03	8760	--MS::Entertainment::Music::Playback::MusicPlaybackServiceBase::FireStateChangedEvents << EXIT: 11.653ms - Firing PlaybackStateChanged
+594	08/12/17 23:22:03	8760	MS::Entertainment::Music::Playback::MusicPlaybackServiceBase::UpdateVisibleStateAndFireEventsAsync::<lambda_fc2893abbb5aed69e392a6221069ce86>::operator () << EXIT: 12.338ms - UI task
+595	08/12/17 23:22:03	5060	MS::Entertainment::Music::Playback::PlaybackInfoRequest::{ctor}::<lambda_4f851f6a26978fc0326f18500ace39ad>::operator () - Got playback info: TrackId = 0x0000002d, TrackingId = 
+596	08/12/17 23:22:03	5060	MS::Entertainment::Music::Playback::PlaybackInfoManager::SetPlaybackInfo
+597	08/12/17 23:22:03	5060	MS::Entertainment::Music::Playback::Counted<class MS::Entertainment::Music::Playback::PlaybackInfoRequest,unsigned int>::~Counted - NumInstances = 1, ObjectId = 5
+598	08/12/17 23:22:03	2708	MS::Entertainment::Music::Playback::PlaybackInfoManager::RunMonitoringTask - Got playback info: TrackId = 0x0000002d, TrackingId = 
+599	08/12/17 23:22:03	2708	MS::Entertainment::Music::Playback::MasterPlaybackInfoManager::SetPlaybackInfo
+600	08/12/17 23:22:03	2708	MS::Entertainment::Music::Playback::PlaybackInfoRequest::SetCurrentUsageContextToAutomatic
+601	08/12/17 23:22:03	2708	MS::Entertainment::Music::Playback::TrackPlaybackContext::UpdateTelemetryObjects
+602	08/12/17 23:22:03	4860	MS::Entertainment::Music::Playback::TrackPlaybackContext::PlaybackInfo::get << EXIT: 164.719ms - Track 0x0000002d
+603	08/12/17 23:22:03	4860	MS::Entertainment::Music::Playback::TrackPlaybackContext::RealizeBinding - Setting Media Binder URL source
+604	08/12/17 23:22:03	4860	MS::Entertainment::Music::Playback::MediaPlaybackListManager::AddVideoSourceConfiguration
+605	08/12/17 23:22:03	3476	MS::Entertainment::Music::Playback::PlaybackPositionMonitor::OnMediaSessionPlaybackStateChanged - MediaPlaybackState: Paused
+606	08/12/17 23:22:03	9024	MS::Entertainment::Music::Playback::PlaybackPositionMonitor::OnMediaSessionPlaybackStateChanged - MediaPlaybackState: Buffering
+607	08/12/17 23:22:03	9024	MS::Entertainment::Music::Playback::PlaybackPositionMonitor::OnMediaSessionBufferingStarted
+608	08/12/17 23:22:03	1184	MS::Entertainment::Music::Playback::PlaybackInfoRequest::{ctor}::<lambda_4f851f6a26978fc0326f18500ace39ad>::operator () - Got playback info: TrackId = 0x0000002c, TrackingId = 
+609	08/12/17 23:22:03	1184	MS::Entertainment::Music::Playback::PlaybackInfoManager::SetPlaybackInfo
+610	08/12/17 23:22:03	1184	MS::Entertainment::Music::Playback::Counted<class MS::Entertainment::Music::Playback::PlaybackInfoRequest,unsigned int>::~Counted - NumInstances = 0, ObjectId = 6
+611	08/12/17 23:22:03	9016	MS::Entertainment::Music::Playback::PlaybackInfoManager::RunMonitoringTask - Got playback info: TrackId = 0x0000002c, TrackingId = 
+612	08/12/17 23:22:03	9016	MS::Entertainment::Music::Playback::MasterPlaybackInfoManager::SetPlaybackInfo
+613	08/12/17 23:22:03	9016	MS::Entertainment::Music::Playback::PlaybackInfoRequest::SetCurrentUsageContextToAutomatic
+614	08/12/17 23:22:03	9016	MS::Entertainment::Music::Playback::TrackPlaybackContext::UpdateTelemetryObjects
+615	08/12/17 23:22:03	9016	MS::Entertainment::Music::Playback::TrackPlaybackContext::LogFinalPlaybackTelemetry - TrackId = 0x0000002c, MaxPosition = 0, Duration = 30000, TrackingId = Unknown
+616	08/12/17 23:22:03	9016	MS::Entertainment::Music::Playback::TrackPlaybackContext::LogFinalPlaybackTelemetry - Setting PlaybackInfoManager's Position = 0
+617	08/12/17 23:22:03	9016	MS::Entertainment::Music::Playback::Counted<class MS::Entertainment::Music::Playback::TrackPlaybackContext,unsigned int>::~Counted - NumInstances = 2, ObjectId = 7
+618	08/12/17 23:22:04	2464	MS::Entertainment::Music::Playback::PlaybackInfoManager::RetryConditionSatisfied - Will not retry.  We've already received playback info.  TrackingId = , Url = http://progdownload.zune.net/177/606/693/140/audio.wma?rid=AABEkh3Z0ku5/U9n.47.3
+619	08/12/17 23:22:04	4760	MS::Entertainment::Music::Playback::Counted<class MS::Entertainment::Music::Playback::MasterPlaybackInfoManager,unsigned int>::~Counted - NumInstances = 2, ObjectId = 5
+620	08/12/17 23:22:04	6036	MS::Entertainment::Music::Playback::PlaybackInfoManager::RetryConditionSatisfied - Will not retry.  We've already received playback info.  TrackingId = , Url = http://progdownload.zune.net/175/872/763/140/audio.wma?rid=AABEkh3Z0ku5/U9n.50.3
+621	08/12/17 23:22:04	4760	MS::Entertainment::Music::Playback::PlaybackInfoManager::RetryConditionSatisfied - Will not retry.  We've already received playback info.  TrackingId = , Url = http://progdownload.zune.net/177/606/693/140/audio.wma?rid=AABEkh3Z0ku5/U9n.51.3
+622	08/12/17 23:22:04	4760	MS::Entertainment::Music::Playback::PlaybackInfoManager::RetryConditionSatisfied - Will not retry.  Weak reference to track playback context is nullptr.
+623	08/12/17 23:22:04	8996	MS::Entertainment::Music::Playback::PlaybackInfoManager::SendPlaybackDurationTracking
+624	08/12/17 23:22:04	8996	MS::Entertainment::Music::Playback::Counted<class MS::Entertainment::Music::Playback::PlaybackInfoManager,unsigned int>::~Counted - NumInstances = 2, ObjectId = 5
+625	08/12/17 23:22:05	3504	--- App: total commit = 83.254 MB / 10027.914 MB ---
+626	08/12/17 23:22:05	3504	MS::Entertainment::Music::Playback::PlaybackPositionMonitor::OnMediaSessionBufferingStarted::<lambda_af838b79a41116fe0c51f395a0099361>::operator () - Detected excessive buffering in Audio track
+627	08/12/17 23:22:05	6036	MS::Entertainment::Music::Playback::SingleProcMusicPlaybackService::OnPlayerTrackPlaybackStalledChange - IsStalled:true, ExcessiveStallTimerFired:false, PlayerState:Playing
+628	08/12/17 23:22:05	6036	MS::Entertainment::Music::Playback::MusicPlaybackServiceBase::UpdateVisibleStateAndFireEventsAsync - m_currentState is { TransportState = Playing, PlayerState = Stalled, TrackId = 0x0000002c, DirtyFlags = 4 }
+629	08/12/17 23:22:05	6036	MS::Entertainment::Music::Playback::PlatformMetadataProvider::UpdateButtonStates - trackIsValid: true, nextEnabled: true
+630	08/12/17 23:22:05	8760	MS::Entertainment::Music::Playback::MusicPlaybackServiceBase::UpdateVisibleStateAndFireEventsAsync::<lambda_fc2893abbb5aed69e392a6221069ce86>::operator () >> ENTER: - UI task
+631	08/12/17 23:22:05	8760	--MS::Entertainment::Music::Playback::MusicPlaybackServiceBase::UpdateVisibleStateAndFireEventsAsync::<lambda_fc2893abbb5aed69e392a6221069ce86>::operator () - Updated visible state to TransportState = Playing, PlayerState = Stalled, TrackId = 0x0000002c
+632	08/12/17 23:22:05	8760	--MS::Entertainment::Music::Playback::MusicPlaybackServiceBase::FireStateChangedEvents >> ENTER: - Firing PlaybackStateChanged
+633	08/12/17 23:22:05	8760	----MS::Entertainment::Music::ViewModel::MediaTransportControlsViewModel::OnPlaybackStateChanged - TransportState = Playing, PlayerState = Stalled
+634	08/12/17 23:22:05	8760	----MS::Entertainment::Music::ViewModel::MediaTransportControlsViewModel::SyncElapsedTimeUpdateTimer - m_numElapsedTimeChangedHandlers = 2, m_isInElapsedTimePollingState = false.  Canceling position polling timer...
+635	08/12/17 23:22:05	8760	----MS::Entertainment::Music::ViewModel::MediaTransportControlsViewModel::UpdateDuration - trackDuration = 30000
+636	08/12/17 23:22:05	8760	--MS::Entertainment::Music::Playback::MusicPlaybackServiceBase::FireStateChangedEvents << EXIT: 12.427ms - Firing PlaybackStateChanged
+637	08/12/17 23:22:05	8760	MS::Entertainment::Music::Playback::MusicPlaybackServiceBase::UpdateVisibleStateAndFireEventsAsync::<lambda_fc2893abbb5aed69e392a6221069ce86>::operator () << EXIT: 12.952ms - UI task
+638	08/12/17 23:22:06	3476	MS::Entertainment::Music::Playback::MediaPlaybackListManager::OnMediaPlaylistItemOpened - trackId = 0x0000002d
+639	08/12/17 23:22:09	9024	MS::Entertainment::Music::Playback::PlaybackPositionMonitor::OnMediaSessionPlaybackStateChanged - MediaPlaybackState: Paused
+640	08/12/17 23:22:09	9024	MS::Entertainment::Music::Playback::PlaybackPositionMonitor::OnMediaSessionBufferingEnded
+641	08/12/17 23:22:09	4760	MS::Entertainment::Music::Playback::SingleProcMusicPlaybackService::OnPlayerTrackPlaybackStalledChange - IsStalled:false, ExcessiveStallTimerFired:false, PlayerState:Stalled
+642	08/12/17 23:22:09	4760	MS::Entertainment::Music::Playback::MusicPlaybackServiceBase::UpdateVisibleStateAndFireEventsAsync - m_currentState is { TransportState = Playing, PlayerState = Playing, TrackId = 0x0000002c, DirtyFlags = 4 }
+643	08/12/17 23:22:09	4760	MS::Entertainment::Music::Playback::PlatformMetadataProvider::UpdateButtonStates - trackIsValid: true, nextEnabled: true
+644	08/12/17 23:22:09	8760	MS::Entertainment::Music::Playback::MusicPlaybackServiceBase::UpdateVisibleStateAndFireEventsAsync::<lambda_fc2893abbb5aed69e392a6221069ce86>::operator () >> ENTER: - UI task
+645	08/12/17 23:22:09	8760	--MS::Entertainment::Music::Playback::MusicPlaybackServiceBase::UpdateVisibleStateAndFireEventsAsync::<lambda_fc2893abbb5aed69e392a6221069ce86>::operator () - Updated visible state to TransportState = Playing, PlayerState = Playing, TrackId = 0x0000002c
+646	08/12/17 23:22:09	8760	--MS::Entertainment::Music::Playback::MusicPlaybackServiceBase::FireStateChangedEvents >> ENTER: - Firing PlaybackStateChanged
+647	08/12/17 23:22:09	8760	----MS::Entertainment::Music::ViewModel::MediaTransportControlsViewModel::OnPlaybackStateChanged - TransportState = Playing, PlayerState = Playing
+648	08/12/17 23:22:09	8760	----MS::Entertainment::Music::ViewModel::MediaTransportControlsViewModel::SyncElapsedTimeUpdateTimer - m_numElapsedTimeChangedHandlers = 2, m_isInElapsedTimePollingState = true.  Starting position polling timer...
+649	08/12/17 23:22:09	8760	----MS::Entertainment::Music::ViewModel::MediaTransportControlsViewModel::UpdateDuration - trackDuration = 30000
+650	08/12/17 23:22:09	8760	--MS::Entertainment::Music::Playback::MusicPlaybackServiceBase::FireStateChangedEvents << EXIT: 15.846ms - Firing PlaybackStateChanged
+651	08/12/17 23:22:09	8760	MS::Entertainment::Music::Playback::MusicPlaybackServiceBase::UpdateVisibleStateAndFireEventsAsync::<lambda_fc2893abbb5aed69e392a6221069ce86>::operator () << EXIT: 16.567ms - UI task
+652	08/12/17 23:22:09	8824	MS::Entertainment::Music::Playback::PlaybackPositionMonitor::OnMediaSessionPlaybackStateChanged - MediaPlaybackState: Playing
+653	08/12/17 23:22:09	8824	MS::Entertainment::Music::Playback::PlaybackPositionMonitor::MonitorPlayerPositionForStalls
+654	08/12/17 23:22:10	3504	--- App: total commit = 84.016 MB / 10027.914 MB ---
+655	08/12/17 23:22:10	3504	MS::Entertainment::Music::Playback::MusicPlaybackServiceBase::GetSeekPositionNoLock - Position is changing...  Last position was 991.  Will not log any more position updates unless the position stops changing.
+656	08/12/17 23:22:11	6396	MS::Entertainment::Music::Playback::MediaPlaybackListManager::OnPlaybackConfidence - trackId: 0x0000002c
+657	08/12/17 23:22:11	6396	MS::Entertainment::Music::Playback::MediaPlaybackListManager::ResetConsecutiveErrors
+658	08/12/17 23:22:15	3504	--- App: total commit = 84.020 MB / 10027.914 MB ---
+659	08/12/17 23:22:17	9024	MS::Entertainment::Music::Playback::PlaybackPositionMonitor::OnMediaSessionPlaybackStateChanged - MediaPlaybackState: Buffering
+660	08/12/17 23:22:17	9024	MS::Entertainment::Music::Playback::PlaybackPositionMonitor::CancelPlayerPositionMonitorTimer
+661	08/12/17 23:22:17	9024	MS::Entertainment::Music::Playback::PlaybackPositionMonitor::OnMediaSessionBufferingStarted
+662	08/12/17 23:22:19	3504	MS::Entertainment::Music::Playback::PlaybackPositionMonitor::OnMediaSessionBufferingStarted::<lambda_af838b79a41116fe0c51f395a0099361>::operator () - Detected excessive buffering in Audio track
+663	08/12/17 23:22:19	1780	MS::Entertainment::Music::Playback::SingleProcMusicPlaybackService::OnPlayerTrackPlaybackStalledChange - IsStalled:true, ExcessiveStallTimerFired:false, PlayerState:Playing
+664	08/12/17 23:22:19	1780	MS::Entertainment::Music::Playback::MusicPlaybackServiceBase::UpdateVisibleStateAndFireEventsAsync - m_currentState is { TransportState = Playing, PlayerState = Stalled, TrackId = 0x0000002c, DirtyFlags = 4 }
+665	08/12/17 23:22:19	1780	MS::Entertainment::Music::Playback::PlatformMetadataProvider::UpdateButtonStates - trackIsValid: true, nextEnabled: true
+666	08/12/17 23:22:19	8760	MS::Entertainment::Music::Playback::MusicPlaybackServiceBase::UpdateVisibleStateAndFireEventsAsync::<lambda_fc2893abbb5aed69e392a6221069ce86>::operator () >> ENTER: - UI task
+667	08/12/17 23:22:19	8760	--MS::Entertainment::Music::Playback::MusicPlaybackServiceBase::UpdateVisibleStateAndFireEventsAsync::<lambda_fc2893abbb5aed69e392a6221069ce86>::operator () - Updated visible state to TransportState = Playing, PlayerState = Stalled, TrackId = 0x0000002c
+668	08/12/17 23:22:19	8760	--MS::Entertainment::Music::Playback::MusicPlaybackServiceBase::FireStateChangedEvents >> ENTER: - Firing PlaybackStateChanged
+669	08/12/17 23:22:19	8760	----MS::Entertainment::Music::ViewModel::MediaTransportControlsViewModel::OnPlaybackStateChanged - TransportState = Playing, PlayerState = Stalled
+670	08/12/17 23:22:19	8760	----MS::Entertainment::Music::ViewModel::MediaTransportControlsViewModel::SyncElapsedTimeUpdateTimer - m_numElapsedTimeChangedHandlers = 2, m_isInElapsedTimePollingState = false.  Canceling position polling timer...
+671	08/12/17 23:22:19	8760	----MS::Entertainment::Music::ViewModel::MediaTransportControlsViewModel::UpdateDuration - trackDuration = 30000
+672	08/12/17 23:22:19	8760	--MS::Entertainment::Music::Playback::MusicPlaybackServiceBase::FireStateChangedEvents << EXIT: 13.310ms - Firing PlaybackStateChanged
+673	08/12/17 23:22:19	8760	MS::Entertainment::Music::Playback::MusicPlaybackServiceBase::UpdateVisibleStateAndFireEventsAsync::<lambda_fc2893abbb5aed69e392a6221069ce86>::operator () << EXIT: 14.392ms - UI task
+674	08/12/17 23:22:20	3504	--- App: total commit = 83.816 MB / 10027.914 MB ---
+675	08/12/17 23:22:20	8824	MS::Entertainment::Music::Playback::PlaybackPositionMonitor::OnMediaSessionPlaybackStateChanged - MediaPlaybackState: Playing
+676	08/12/17 23:22:20	8824	MS::Entertainment::Music::Playback::PlaybackPositionMonitor::MonitorPlayerPositionForStalls
+677	08/12/17 23:22:20	8824	MS::Entertainment::Music::Playback::PlaybackPositionMonitor::OnMediaSessionBufferingEnded
+678	08/12/17 23:22:20	1272	MS::Entertainment::Music::Playback::SingleProcMusicPlaybackService::OnPlayerTrackPlaybackStalledChange - IsStalled:false, ExcessiveStallTimerFired:false, PlayerState:Stalled
+679	08/12/17 23:22:20	1272	MS::Entertainment::Music::Playback::MusicPlaybackServiceBase::UpdateVisibleStateAndFireEventsAsync - m_currentState is { TransportState = Playing, PlayerState = Playing, TrackId = 0x0000002c, DirtyFlags = 4 }
+680	08/12/17 23:22:20	1272	MS::Entertainment::Music::Playback::PlatformMetadataProvider::UpdateButtonStates - trackIsValid: true, nextEnabled: true
+681	08/12/17 23:22:20	8760	MS::Entertainment::Music::Playback::MusicPlaybackServiceBase::UpdateVisibleStateAndFireEventsAsync::<lambda_fc2893abbb5aed69e392a6221069ce86>::operator () >> ENTER: - UI task
+682	08/12/17 23:22:20	8760	--MS::Entertainment::Music::Playback::MusicPlaybackServiceBase::UpdateVisibleStateAndFireEventsAsync::<lambda_fc2893abbb5aed69e392a6221069ce86>::operator () - Updated visible state to TransportState = Playing, PlayerState = Playing, TrackId = 0x0000002c
+683	08/12/17 23:22:20	8760	--MS::Entertainment::Music::Playback::MusicPlaybackServiceBase::FireStateChangedEvents >> ENTER: - Firing PlaybackStateChanged
+684	08/12/17 23:22:20	8760	----MS::Entertainment::Music::ViewModel::MediaTransportControlsViewModel::OnPlaybackStateChanged - TransportState = Playing, PlayerState = Playing
+685	08/12/17 23:22:20	8760	----MS::Entertainment::Music::ViewModel::MediaTransportControlsViewModel::SyncElapsedTimeUpdateTimer - m_numElapsedTimeChangedHandlers = 2, m_isInElapsedTimePollingState = true.  Starting position polling timer...
+686	08/12/17 23:22:20	8760	----MS::Entertainment::Music::ViewModel::MediaTransportControlsViewModel::UpdateDuration - trackDuration = 30000
+687	08/12/17 23:22:20	8760	--MS::Entertainment::Music::Playback::MusicPlaybackServiceBase::FireStateChangedEvents << EXIT: 9.627ms - Firing PlaybackStateChanged
+688	08/12/17 23:22:20	8760	MS::Entertainment::Music::Playback::MusicPlaybackServiceBase::UpdateVisibleStateAndFireEventsAsync::<lambda_fc2893abbb5aed69e392a6221069ce86>::operator () << EXIT: 10.267ms - UI task
+689	08/12/17 23:22:25	3504	--- App: total commit = 82.836 MB / 10027.914 MB ---
+690	08/12/17 23:22:30	3504	--- App: total commit = 82.410 MB / 10027.914 MB ---
+691	08/12/17 23:22:35	3504	--- App: total commit = 82.613 MB / 10027.914 MB ---
+692	08/12/17 23:22:40	3504	--- App: total commit = 82.266 MB / 10027.914 MB ---
+693	08/12/17 23:22:43	5216	MS::Entertainment::Music::Playback::PlaybackPositionMonitor::OnMediaSessionPlaybackStateChanged - MediaPlaybackState: Buffering
+694	08/12/17 23:22:43	5216	MS::Entertainment::Music::Playback::PlaybackPositionMonitor::CancelPlayerPositionMonitorTimer
+695	08/12/17 23:22:43	5216	MS::Entertainment::Music::Playback::PlaybackPositionMonitor::OnMediaSessionBufferingStarted
+696	08/12/17 23:22:43	8996	MS::Entertainment::Music::Playback::MediaPlaybackListManager::OnMediaPlaylistCurrentItemChanged::<lambda_0d6cf0fefd3d55ad1235441415345df9>::operator () - oldTrackId = 0x0000002c, newTrackId = 0x0000002d
+697	08/12/17 23:22:43	8996	MS::Entertainment::Music::Playback::MediaPlaybackListManager::ProcessPositionTransition - Stage: MovedFrom, trackId = 0x0000002c, trackIndex = 0, TPC is NOT null
+698	08/12/17 23:22:43	8996	MS::Entertainment::Music::Playback::PlaybackInfoManager::OnCurrentChanged
+699	08/12/17 23:22:43	8996	MS::Entertainment::Music::Playback::TrackPlaybackContext::UpdateMaxPositionToDuration - TrackId = 0x0000002c naturally finished.
+700	08/12/17 23:22:43	8996	MS::Entertainment::Music::Playback::MediaPlaybackListManager::RemoveTrackPlaybackContext - trackId = 0x0000002c
+701	08/12/17 23:22:43	8996	MS::Entertainment::Music::Playback::MediaPlaybackListManager::ProcessPositionTransition - Stage: MovedTo, trackId = 0x0000002d, trackIndex = 1, TPC is NOT null
+702	08/12/17 23:22:43	8996	MS::Entertainment::Music::Playback::MediaPlaybackListManager::UpdateCurrentTrack - trackId: 0x0000002d, trackIndex: 1
+703	08/12/17 23:22:43	8996	MS::Entertainment::Music::Playback::PlaybackInfoManager::OnCurrentChanged
+704	08/12/17 23:22:43	8996	MS::Entertainment::Music::Playback::TrackPlaybackContext::LogFinalPlaybackTelemetry - TrackId = 0x0000002c, MaxPosition = 30000, Duration = 30000, TrackingId = Unknown
+705	08/12/17 23:22:43	8996	MS::Entertainment::Music::Playback::TrackPlaybackContext::LogFinalPlaybackTelemetry - Setting PlaybackInfoManager's Position = 30000
+706	08/12/17 23:22:43	8996	MS::Entertainment::Music::Playback::PlaybackInfoManager::SendPlaybackDurationTracking
+707	08/12/17 23:22:43	8996	MS::Entertainment::Music::Playback::Counted<class MS::Entertainment::Music::Playback::PlaybackInfoManager,unsigned int>::~Counted - NumInstances = 1, ObjectId = 3
+708	08/12/17 23:22:43	8996	MS::Entertainment::Music::Playback::Counted<class MS::Entertainment::Music::Playback::MasterPlaybackInfoManager,unsigned int>::~Counted - NumInstances = 1, ObjectId = 3
+709	08/12/17 23:22:43	8996	MS::Entertainment::Music::Playback::Counted<class MS::Entertainment::Music::Playback::TrackPlaybackContext,unsigned int>::~Counted - NumInstances = 1, ObjectId = 5
+710	08/12/17 23:22:43	8996	MS::Entertainment::Music::Playback::MediaPlaybackListManager::IsPlaylistCriticallyErrored - false, m_numConsecutiveErrors = 0, queueSize = 36
+711	08/12/17 23:22:43	8996	MS::Entertainment::Music::Playback::MediaPlaybackListManager::ProcessErrors - numErrors: 0
+712	08/12/17 23:22:43	8996	MS::Entertainment::Music::Playback::MediaPlaybackListManager::PausePreroll
+713	08/12/17 23:22:43	2728	MS::Entertainment::Music::Playback::Counted<class MS::Entertainment::Music::Playback::TrackPlaybackContext,unsigned int>::Counted - NumInstances = 2, ObjectId = 8
+714	08/12/17 23:22:43	8996	MS::Entertainment::Music::Playback::MediaPlaybackListManager::CleanupOutOfScopePlaybackContexts - currentTrackId = 0x0000002d, currentTrackIndex = 1, keepPrerolledTracks = true, keepErroredTracks = true
+715	08/12/17 23:22:43	8996	MS::Entertainment::Music::Playback::MediaPlaybackListManager::CleanupOutOfScopePlaybackContexts >> ENTER:
+716	08/12/17 23:22:43	2728	MS::Entertainment::Music::Playback::Counted<class MS::Entertainment::Music::Playback::MasterPlaybackInfoManager,unsigned int>::Counted - NumInstances = 2, ObjectId = 6
+717	08/12/17 23:22:43	8996	MS::Entertainment::Music::Playback::MediaPlaybackListManager::CleanupOutOfScopePlaybackContexts << EXIT: 0.001ms
+718	08/12/17 23:22:43	2728	MS::Entertainment::Music::Playback::MasterPlaybackInfoManager::MasterPlaybackInfoManager - Parent TPC id = 8
+719	08/12/17 23:22:43	2728	MS::Entertainment::Music::Playback::PlaybackTrack::EnsureHydrateToPlaybackInfo
+720	08/12/17 23:22:43	8996	MS::Entertainment::Music::Playback::MediaPlaybackListManager::CleanupOutOfScopePlaybackContexts - Size of m_playbackContexts after cleanup: 1
+721	08/12/17 23:22:43	8996	MS::Entertainment::Music::Playback::MediaPlaybackListManager::ResumePreroll
+722	08/12/17 23:22:43	8900	MS::Entertainment::Music::Playback::MediaPlaybackListManager::OnMediaPlaylistCurrentItemChanged::<lambda_0d6cf0fefd3d55ad1235441415345df9>::()::<lambda_e0f4ef829d3d2c96993fa6b385ccb796>::operator () - Signaling that track 0x0000002d is playing
+723	08/12/17 23:22:43	8900	MS::Entertainment::Music::Playback::SingleProcMusicPlaybackService::OnPlaybackListManagerItemPlaying - trackId:0x0000002d
+724	08/12/17 23:22:43	8900	MS::Entertainment::Music::Playback::SingleProcMusicPlaybackService::SetVolumeImpl - volume: 0.594, trackMediaType: Audio
+725	08/12/17 23:22:43	2728	MS::Entertainment::Music::Playback::MasterPlaybackInfoManager::MasterPlaybackInfoManager - requestMediaType: Audio
+726	08/12/17 23:22:43	8900	MS::Entertainment::Music::Playback::SingleProcMusicPlaybackService::OnPlaybackListManagerItemPlaying - CurrentTransportState == TransportState::Playing, call Play() on MediaPlayer
+727	08/12/17 23:22:43	2728	MS::Entertainment::Music::Playback::Counted<class MS::Entertainment::Music::Playback::PlaybackInfoManager,unsigned int>::Counted - NumInstances = 2, ObjectId = 6
+728	08/12/17 23:22:43	2728	MS::Entertainment::Music::Playback::PlaybackInfoManager::PlaybackInfoManager - Parent MasterPIM id = 6
+729	08/12/17 23:22:43	8900	MS::Entertainment::Music::Playback::MusicPlaybackServiceBase::UpdateCurrentPositions >> ENTER: - oldCurrentTrackId = 0x0000002c, newCurrentTrackId = 0x0000002d, forceUpdate = false
+730	08/12/17 23:22:43	8900	MS::Entertainment::Music::Playback::MusicPlaybackServiceBase::UpdateCurrentPositions << EXIT: 0.005ms - oldCurrentTrackId = 0x0000002c, newCurrentTrackId = 0x0000002d, forceUpdate = false
+731	08/12/17 23:22:43	8900	MS::Entertainment::Music::Playback::MusicPlaybackServiceBase::EndPerfTrackEvent
+732	08/12/17 23:22:43	8900	MS::Entertainment::Music::Playback::MusicPlaybackServiceBase::UpdateVisibleStateAndFireEventsAsync - m_currentState is { TransportState = Playing, PlayerState = Playing, TrackId = 0x0000002d, DirtyFlags = 129 }
+733	08/12/17 23:22:43	2728	MS::Entertainment::Music::Playback::TrackPlaybackContext::ResolvePlaybackInfoAsync - Track 0x0000002d
+734	08/12/17 23:22:43	8900	MS::Entertainment::Music::Playback::PlatformMetadataProvider::UpdateButtonStates - trackIsValid: true, nextEnabled: true
+735	08/12/17 23:22:43	8900	MS::Entertainment::Music::Playback::NowPlayingQueueMetadataProvider::GetMetadataPacketForTrack - trackId: 45
+736	08/12/17 23:22:43	8900	MS::Entertainment::Music::Playback::PlatformMetadataProvider::UpdateMetadata - Found metadata to show for currentTrackId: 45
+737	08/12/17 23:22:43	8900	MS::Entertainment::Music::Playback::PlatformMetadataProvider::UpdateSMTC - Updating SMTC metadata. Title = 3:00 Artist = Danger
+738	08/12/17 23:22:43	8996	MS::Entertainment::Music::Playback::PlaybackInfoManager::RunMonitoringTask
+739	08/12/17 23:22:43	1644	MS::Entertainment::Music::Playback::PlaybackInfoManager::RunRetryTask
+740	08/12/17 23:22:43	8900	MS::Entertainment::Music::Playback::PlatformMetadataProvider::UpdateSMTCTimelineProperties - Updating SMTC time line properties' position: 50 ms
+741	08/12/17 23:22:43	8900	MS::Entertainment::Music::Playback::NowPlayingQueueMetadataProvider::GetMetadataPacketForTrack - trackId: 46
+742	08/12/17 23:22:43	1644	MS::Entertainment::Music::Playback::Counted<class MS::Entertainment::Music::Playback::PlaybackInfoRequest,unsigned int>::Counted - NumInstances = 1, ObjectId = 7
+743	08/12/17 23:22:43	1644	MS::Entertainment::Music::Playback::PlaybackInfoRequest::PlaybackInfoRequest - Parent PIM id = 6, CurrentUsageContext = 0
+744	08/12/17 23:22:43	1644	MS::Entertainment::Music::Playback::PlaybackInfoManager::RunRetryTask - TrackId = 0x0000002d, m_retryAttempts = 1
+745	08/12/17 23:22:43	1644	MS::Entertainment::Music::Playback::PlaybackInfoManager::RunRetryTask - Calling this_thread::sleep_for... TrackId = 0x0000002d, retryDelay = 1500
+746	08/12/17 23:22:43	8760	MS::Entertainment::Music::Playback::MusicPlaybackServiceBase::UpdateVisibleStateAndFireEventsAsync::<lambda_fc2893abbb5aed69e392a6221069ce86>::operator () >> ENTER: - UI task
+747	08/12/17 23:22:43	8760	--MS::Entertainment::Music::Playback::MusicPlaybackServiceBase::UpdateVisibleStateAndFireEventsAsync::<lambda_fc2893abbb5aed69e392a6221069ce86>::operator () - Updated visible state to TransportState = Playing, PlayerState = Playing, TrackId = 0x0000002d
+748	08/12/17 23:22:43	8760	--MS::Entertainment::Music::Playback::MusicPlaybackServiceBase::FireStateChangedEvents >> ENTER: - Firing QueuePositionsChanged
+749	08/12/17 23:22:43	8760	----MS::Entertainment::Music::ViewModel::MediaTransportControlsViewModel::UpdateDuration - trackDuration = 30011
+750	08/12/17 23:22:43	8760	----MS::Entertainment::Music::Controls::NowPlayingFlipView::OnHeaderPropertyChanged >> ENTER:
+751	08/12/17 23:22:43	8760	------MS::Entertainment::Music::Controls::NowPlayingFlipView::UpdateSelection >> ENTER:
+752	08/12/17 23:22:43	8760	--------MS::Entertainment::Music::Controls::NowPlayingFlipView::SetSelection - New: 1,  Old: 0
+753	08/12/17 23:22:43	8760	--------MS::Entertainment::Music::Controls::NowPlayingFlipView::OnSelectionChanged >> ENTER:
+754	08/12/17 23:22:43	8760	----------MS::Entertainment::Music::Controls::NowPlayingFlipView::OnSelectionChanged - Selection changed. SelectedIndex: 1, Last SelectedIndex: 0
+755	08/12/17 23:22:43	8760	--------MS::Entertainment::Music::Controls::NowPlayingFlipView::OnSelectionChanged << EXIT: 1.106ms
+756	08/12/17 23:22:43	8760	------MS::Entertainment::Music::Controls::NowPlayingFlipView::UpdateSelection << EXIT: 1.612ms
+757	08/12/17 23:22:43	8760	----MS::Entertainment::Music::Controls::NowPlayingFlipView::OnHeaderPropertyChanged << EXIT: 1.648ms
+758	08/12/17 23:22:43	8760	----MS::Entertainment::Music::AV::PlaybackNotificationService::OnPlaybackQueuePositionsChanged - current: 1
+759	08/12/17 23:22:43	8760	----MS::Entertainment::Music::AV::PlaybackNotificationService::HandleCurrentIdChange - newCurrentPlaybackId: 0x0000002d, newCurrentDatabaseId: 0, newCatalogId: {FB9A7B0A-0100-11DB-89CA-0019B92A3933}
+760	08/12/17 23:22:43	8760	----MS::Entertainment::Music::AV::PlaybackNotificationService::SetErrorCode
+761	08/12/17 23:22:43	8760	----MS::Entertainment::Music::AV::PlaybackNotificationService::SetCurrentPlaybackId - newCurrentPlaybackId: 0x0000002d, oldCurrentPlaybackId: 44
+762	08/12/17 23:22:43	8760	----MS::Entertainment::Music::AV::PlaybackNotificationService::SetCurrentDatabaseId - newCurrentDatabaseId: 0, oldCurrentDatabaseId: 0
+763	08/12/17 23:22:43	8760	----MS::Entertainment::Music::AV::PlaybackNotificationService::SetCurrentCatalogId - newCatalogId: {fb9a7b0a-0100-11db-89ca-0019b92a3933}, oldCatalogId: {2510960a-0100-11db-89ca-0019b92a3933}
+764	08/12/17 23:22:43	8760	--MS::Entertainment::Music::Playback::MusicPlaybackServiceBase::FireStateChangedEvents << EXIT: 12.269ms - Firing QueuePositionsChanged
+765	08/12/17 23:22:43	8760	MS::Entertainment::Music::Playback::MusicPlaybackServiceBase::UpdateVisibleStateAndFireEventsAsync::<lambda_fc2893abbb5aed69e392a6221069ce86>::operator () << EXIT: 12.525ms - UI task
+766	08/12/17 23:22:43	8760	MS::Entertainment::Music::AV::PlaybackNotificationService::SetCurrentDatabaseId - newCurrentDatabaseId: 0, oldCurrentDatabaseId: 0
+767	08/12/17 23:22:44	1780	MS::Entertainment::Music::Playback::PlaybackInfoRequest::{ctor}::<lambda_4f851f6a26978fc0326f18500ace39ad>::operator () - Got playback info: TrackId = 0x0000002d, TrackingId = 
+768	08/12/17 23:22:44	1780	MS::Entertainment::Music::Playback::PlaybackInfoManager::SetPlaybackInfo
+769	08/12/17 23:22:44	1780	MS::Entertainment::Music::Playback::Counted<class MS::Entertainment::Music::Playback::PlaybackInfoRequest,unsigned int>::~Counted - NumInstances = 0, ObjectId = 7
+770	08/12/17 23:22:44	8996	MS::Entertainment::Music::Playback::PlaybackInfoManager::RunMonitoringTask - Got playback info: TrackId = 0x0000002d, TrackingId = 
+771	08/12/17 23:22:44	8996	MS::Entertainment::Music::Playback::MasterPlaybackInfoManager::SetPlaybackInfo
+772	08/12/17 23:22:44	8996	MS::Entertainment::Music::Playback::PlaybackInfoRequest::SetCurrentUsageContextToAutomatic
+773	08/12/17 23:22:44	8996	MS::Entertainment::Music::Playback::TrackPlaybackContext::UpdateTelemetryObjects
+774	08/12/17 23:22:44	8996	MS::Entertainment::Music::Playback::TrackPlaybackContext::LogFinalPlaybackTelemetry - TrackId = 0x0000002d, MaxPosition = 0, Duration = 30011, TrackingId = Unknown
+775	08/12/17 23:22:44	8996	MS::Entertainment::Music::Playback::TrackPlaybackContext::LogFinalPlaybackTelemetry - Setting PlaybackInfoManager's Position = 0
+776	08/12/17 23:22:44	8996	MS::Entertainment::Music::Playback::Counted<class MS::Entertainment::Music::Playback::TrackPlaybackContext,unsigned int>::~Counted - NumInstances = 1, ObjectId = 8
+777	08/12/17 23:22:44	1644	MS::Entertainment::Music::Playback::Counted<class MS::Entertainment::Music::Playback::MasterPlaybackInfoManager,unsigned int>::~Counted - NumInstances = 1, ObjectId = 6
+778	08/12/17 23:22:44	1644	MS::Entertainment::Music::Playback::PlaybackInfoManager::RetryConditionSatisfied - Will not retry.  We've already received playback info.  TrackingId = , Url = http://progdownload.zune.net/175/872/763/140/audio.wma?rid=AABEkh3Z0ku5/U9n.53.3
+779	08/12/17 23:22:44	1644	MS::Entertainment::Music::Playback::PlaybackInfoManager::RetryConditionSatisfied - Will not retry.  Weak reference to track playback context is nullptr.
+780	08/12/17 23:22:44	780	MS::Entertainment::Music::Playback::PlaybackInfoManager::SendPlaybackDurationTracking
+781	08/12/17 23:22:44	780	MS::Entertainment::Music::Playback::Counted<class MS::Entertainment::Music::Playback::PlaybackInfoManager,unsigned int>::~Counted - NumInstances = 1, ObjectId = 6
+782	08/12/17 23:22:45	3504	--- App: total commit = 82.367 MB / 10027.914 MB ---
+783	08/12/17 23:22:45	3504	MS::Entertainment::Music::Playback::PlaybackPositionMonitor::OnMediaSessionBufferingStarted::<lambda_af838b79a41116fe0c51f395a0099361>::operator () - Detected excessive buffering in Audio track
+784	08/12/17 23:22:45	780	MS::Entertainment::Music::Playback::SingleProcMusicPlaybackService::OnPlayerTrackPlaybackStalledChange - IsStalled:true, ExcessiveStallTimerFired:false, PlayerState:Playing
+785	08/12/17 23:22:45	780	MS::Entertainment::Music::Playback::MusicPlaybackServiceBase::UpdateVisibleStateAndFireEventsAsync - m_currentState is { TransportState = Playing, PlayerState = Stalled, TrackId = 0x0000002d, DirtyFlags = 4 }
+786	08/12/17 23:22:45	780	MS::Entertainment::Music::Playback::PlatformMetadataProvider::UpdateButtonStates - trackIsValid: true, nextEnabled: true
+787	08/12/17 23:22:45	8760	MS::Entertainment::Music::Playback::MusicPlaybackServiceBase::UpdateVisibleStateAndFireEventsAsync::<lambda_fc2893abbb5aed69e392a6221069ce86>::operator () >> ENTER: - UI task
+788	08/12/17 23:22:45	8760	--MS::Entertainment::Music::Playback::MusicPlaybackServiceBase::UpdateVisibleStateAndFireEventsAsync::<lambda_fc2893abbb5aed69e392a6221069ce86>::operator () - Updated visible state to TransportState = Playing, PlayerState = Stalled, TrackId = 0x0000002d
+789	08/12/17 23:22:45	8760	--MS::Entertainment::Music::Playback::MusicPlaybackServiceBase::FireStateChangedEvents >> ENTER: - Firing PlaybackStateChanged
+790	08/12/17 23:22:45	8760	----MS::Entertainment::Music::ViewModel::MediaTransportControlsViewModel::OnPlaybackStateChanged - TransportState = Playing, PlayerState = Stalled
+791	08/12/17 23:22:45	8760	----MS::Entertainment::Music::ViewModel::MediaTransportControlsViewModel::SyncElapsedTimeUpdateTimer - m_numElapsedTimeChangedHandlers = 2, m_isInElapsedTimePollingState = false.  Canceling position polling timer...
+792	08/12/17 23:22:45	8760	----MS::Entertainment::Music::ViewModel::MediaTransportControlsViewModel::UpdateDuration - trackDuration = 30011
+793	08/12/17 23:22:45	8760	--MS::Entertainment::Music::Playback::MusicPlaybackServiceBase::FireStateChangedEvents << EXIT: 14.030ms - Firing PlaybackStateChanged
+794	08/12/17 23:22:45	8760	MS::Entertainment::Music::Playback::MusicPlaybackServiceBase::UpdateVisibleStateAndFireEventsAsync::<lambda_fc2893abbb5aed69e392a6221069ce86>::operator () << EXIT: 14.564ms - UI task
+795	08/12/17 23:22:50	3504	--- App: total commit = 82.648 MB / 10027.914 MB ---
+796	08/12/17 23:22:55	4732	MS::Entertainment::Music::Playback::PlaybackPositionMonitor::OnMediaSessionPlaybackStateChanged - MediaPlaybackState: Playing
+797	08/12/17 23:22:55	4732	MS::Entertainment::Music::Playback::PlaybackPositionMonitor::MonitorPlayerPositionForStalls
+798	08/12/17 23:22:55	4732	MS::Entertainment::Music::Playback::PlaybackPositionMonitor::OnMediaSessionBufferingEnded
+799	08/12/17 23:22:55	5216	MS::Entertainment::Music::Playback::MediaPlaybackListManager::OnPlaybackItemBinding - trackId = 0x0000002e
+800	08/12/17 23:22:55	1272	MS::Entertainment::Music::Playback::SingleProcMusicPlaybackService::OnPlayerTrackPlaybackStalledChange - IsStalled:false, ExcessiveStallTimerFired:false, PlayerState:Stalled
+801	08/12/17 23:22:55	7836	MS::Entertainment::Music::Playback::MediaPlaybackListManager::CreatePlaybackContext - trackId = 0x0000002e
+802	08/12/17 23:22:55	1272	MS::Entertainment::Music::Playback::MusicPlaybackServiceBase::UpdateVisibleStateAndFireEventsAsync - m_currentState is { TransportState = Playing, PlayerState = Playing, TrackId = 0x0000002d, DirtyFlags = 4 }
+803	08/12/17 23:22:55	7836	MS::Entertainment::Music::Playback::NowPlayingQueueMetadataProvider::HydrateTrack >> ENTER:
+804	08/12/17 23:22:55	1272	MS::Entertainment::Music::Playback::PlatformMetadataProvider::UpdateButtonStates - trackIsValid: true, nextEnabled: true
+805	08/12/17 23:22:55	7836	MS::Entertainment::Music::Playback::NowPlayingQueueMetadataProvider::HydrateTrack << EXIT: 0.356ms
+806	08/12/17 23:22:55	7836	MS::Entertainment::Music::Playback::Counted<class MS::Entertainment::Music::Playback::TrackPlaybackContext,unsigned int>::Counted - NumInstances = 2, ObjectId = 9
+807	08/12/17 23:22:55	7836	MS::Entertainment::Music::Playback::Counted<class MS::Entertainment::Music::Playback::MasterPlaybackInfoManager,unsigned int>::Counted - NumInstances = 2, ObjectId = 7
+808	08/12/17 23:22:55	7836	MS::Entertainment::Music::Playback::MasterPlaybackInfoManager::MasterPlaybackInfoManager - Parent TPC id = 9
+809	08/12/17 23:22:55	7836	MS::Entertainment::Music::Playback::PlaybackTrack::EnsureHydrateToPlaybackInfo
+810	08/12/17 23:22:55	7836	MS::Entertainment::Music::Playback::MasterPlaybackInfoManager::MasterPlaybackInfoManager - requestMediaType: Audio
+811	08/12/17 23:22:55	7836	MS::Entertainment::Music::Playback::Counted<class MS::Entertainment::Music::Playback::PlaybackInfoManager,unsigned int>::Counted - NumInstances = 2, ObjectId = 7
+812	08/12/17 23:22:55	7836	MS::Entertainment::Music::Playback::PlaybackInfoManager::PlaybackInfoManager - Parent MasterPIM id = 7
+813	08/12/17 23:22:55	4760	MS::Entertainment::Music::Playback::PlaybackInfoManager::RunRetryTask
+814	08/12/17 23:22:55	6952	MS::Entertainment::Music::Playback::PlaybackInfoManager::RunMonitoringTask
+815	08/12/17 23:22:55	7836	MS::Entertainment::Music::Playback::PlaybackInfoManager::OnCurrentChanged
+816	08/12/17 23:22:55	4760	MS::Entertainment::Music::Playback::Counted<class MS::Entertainment::Music::Playback::PlaybackInfoRequest,unsigned int>::Counted - NumInstances = 1, ObjectId = 8
+817	08/12/17 23:22:55	4760	MS::Entertainment::Music::Playback::PlaybackInfoRequest::PlaybackInfoRequest - Parent PIM id = 7, CurrentUsageContext = 0
+818	08/12/17 23:22:55	4760	MS::Entertainment::Music::Playback::PlaybackInfoManager::RunRetryTask - TrackId = 0x0000002e, m_retryAttempts = 1
+819	08/12/17 23:22:55	4760	MS::Entertainment::Music::Playback::PlaybackInfoManager::RunRetryTask - Calling this_thread::sleep_for... TrackId = 0x0000002e, retryDelay = 1500
+820	08/12/17 23:22:55	7836	MS::Entertainment::Music::Playback::TrackPlaybackContext::RealizeBinding - TrackId = 0x0000002e
+821	08/12/17 23:22:55	7836	MS::Entertainment::Music::Playback::TrackPlaybackContext::UpdateTelemetryObjects
+822	08/12/17 23:22:55	7836	MS::Entertainment::Music::Playback::TrackPlaybackContext::PlaybackInfo::get >> ENTER: - Track 0x0000002e
+823	08/12/17 23:22:55	7836	--MS::Entertainment::Music::Playback::TrackPlaybackContext::ResolvePlaybackInfoAsync - Track 0x0000002e
+824	08/12/17 23:22:55	8760	MS::Entertainment::Music::Playback::MusicPlaybackServiceBase::UpdateVisibleStateAndFireEventsAsync::<lambda_fc2893abbb5aed69e392a6221069ce86>::operator () >> ENTER: - UI task
+825	08/12/17 23:22:55	8760	--MS::Entertainment::Music::Playback::MusicPlaybackServiceBase::UpdateVisibleStateAndFireEventsAsync::<lambda_fc2893abbb5aed69e392a6221069ce86>::operator () - Updated visible state to TransportState = Playing, PlayerState = Playing, TrackId = 0x0000002d
+826	08/12/17 23:22:55	8760	--MS::Entertainment::Music::Playback::MusicPlaybackServiceBase::FireStateChangedEvents >> ENTER: - Firing PlaybackStateChanged
+827	08/12/17 23:22:55	8760	----MS::Entertainment::Music::ViewModel::MediaTransportControlsViewModel::OnPlaybackStateChanged - TransportState = Playing, PlayerState = Playing
+828	08/12/17 23:22:55	8760	----MS::Entertainment::Music::ViewModel::MediaTransportControlsViewModel::SyncElapsedTimeUpdateTimer - m_numElapsedTimeChangedHandlers = 2, m_isInElapsedTimePollingState = true.  Starting position polling timer...
+829	08/12/17 23:22:55	8760	----MS::Entertainment::Music::ViewModel::MediaTransportControlsViewModel::UpdateDuration - trackDuration = 30011
+830	08/12/17 23:22:55	8760	--MS::Entertainment::Music::Playback::MusicPlaybackServiceBase::FireStateChangedEvents << EXIT: 11.062ms - Firing PlaybackStateChanged
+831	08/12/17 23:22:55	8760	MS::Entertainment::Music::Playback::MusicPlaybackServiceBase::UpdateVisibleStateAndFireEventsAsync::<lambda_fc2893abbb5aed69e392a6221069ce86>::operator () << EXIT: 11.785ms - UI task
+832	08/12/17 23:22:55	3504	--- App: total commit = 82.758 MB / 10027.914 MB ---
+833	08/12/17 23:22:56	4760	MS::Entertainment::Music::Playback::PlaybackInfoManager::AbortIfStuck
+834	08/12/17 23:22:56	4760	MS::Entertainment::Music::Playback::PlaybackInfoManager::RetryConditionSatisfied - TrackId = 0x0000002e, IsCurrent = false, m_retryAttempts = 1, PlaybackState = Loading, ShouldRetry = true, objectId = 7, HR=S_OK
+835	08/12/17 23:22:56	4760	MS::Entertainment::Music::Playback::Counted<class MS::Entertainment::Music::Playback::PlaybackInfoRequest,unsigned int>::Counted - NumInstances = 2, ObjectId = 9
+836	08/12/17 23:22:56	4760	MS::Entertainment::Music::Playback::PlaybackInfoRequest::PlaybackInfoRequest - Parent PIM id = 7, CurrentUsageContext = 0
+837	08/12/17 23:22:56	4760	MS::Entertainment::Music::Playback::PlaybackInfoManager::RunRetryTask - TrackId = 0x0000002e, m_retryAttempts = 2
+838	08/12/17 23:22:56	4760	MS::Entertainment::Music::Playback::PlaybackInfoManager::RunRetryTask - Calling this_thread::sleep_for... TrackId = 0x0000002e, retryDelay = 1650
+839	08/12/17 23:22:57	1644	MS::Entertainment::Music::Playback::MediaPlaybackListManager::OnPlaybackConfidence - trackId: 0x0000002d
+840	08/12/17 23:22:57	1644	MS::Entertainment::Music::Playback::MediaPlaybackListManager::ResetConsecutiveErrors
+841	08/12/17 23:22:57	8996	MS::Entertainment::Music::Playback::PlaybackInfoRequest::{ctor}::<lambda_4f851f6a26978fc0326f18500ace39ad>::operator () - Got playback info: TrackId = 0x0000002e, TrackingId = 
+842	08/12/17 23:22:57	8996	MS::Entertainment::Music::Playback::PlaybackInfoManager::SetPlaybackInfo
+843	08/12/17 23:22:57	8996	MS::Entertainment::Music::Playback::Counted<class MS::Entertainment::Music::Playback::PlaybackInfoRequest,unsigned int>::~Counted - NumInstances = 1, ObjectId = 9
+844	08/12/17 23:22:57	6952	MS::Entertainment::Music::Playback::PlaybackInfoManager::RunMonitoringTask - Got playback info: TrackId = 0x0000002e, TrackingId = 
+845	08/12/17 23:22:57	6952	MS::Entertainment::Music::Playback::MasterPlaybackInfoManager::SetPlaybackInfo
+846	08/12/17 23:22:57	6952	MS::Entertainment::Music::Playback::PlaybackInfoRequest::SetCurrentUsageContextToAutomatic
+847	08/12/17 23:22:57	6952	MS::Entertainment::Music::Playback::TrackPlaybackContext::UpdateTelemetryObjects
+848	08/12/17 23:22:57	7836	MS::Entertainment::Music::Playback::TrackPlaybackContext::PlaybackInfo::get << EXIT: 2048.971ms - Track 0x0000002e
+849	08/12/17 23:22:57	7836	MS::Entertainment::Music::Playback::TrackPlaybackContext::RealizeBinding - Setting Media Binder URL source
+850	08/12/17 23:22:57	7836	MS::Entertainment::Music::Playback::MediaPlaybackListManager::AddVideoSourceConfiguration
+851	08/12/17 23:22:58	4760	MS::Entertainment::Music::Playback::PlaybackInfoManager::RetryConditionSatisfied - Will not retry.  We've already received playback info.  TrackingId = , Url = http://progdownload.zune.net/170/938/718/140/audio.wma?rid=AABEkh3Z0ku5/U9n.55.3
+852	08/12/17 23:22:58	8728	MS::Entertainment::Music::Playback::MediaPlaybackListManager::OnMediaPlaylistItemOpened - trackId = 0x0000002e
+853	08/12/17 23:23:00	3504	--- App: total commit = 83.176 MB / 10027.914 MB ---
+854	08/12/17 23:23:01	6844	MS::Entertainment::Music::Playback::PlaybackPositionMonitor::OnMediaSessionPlaybackStateChanged - MediaPlaybackState: Buffering
+855	08/12/17 23:23:01	6844	MS::Entertainment::Music::Playback::PlaybackPositionMonitor::CancelPlayerPositionMonitorTimer
+856	08/12/17 23:23:01	6844	MS::Entertainment::Music::Playback::PlaybackPositionMonitor::OnMediaSessionBufferingStarted
+857	08/12/17 23:23:03	3504	MS::Entertainment::Music::Playback::PlaybackPositionMonitor::OnMediaSessionBufferingStarted::<lambda_af838b79a41116fe0c51f395a0099361>::operator () - Detected excessive buffering in Audio track
+858	08/12/17 23:23:03	276	MS::Entertainment::Music::Playback::SingleProcMusicPlaybackService::OnPlayerTrackPlaybackStalledChange - IsStalled:true, ExcessiveStallTimerFired:false, PlayerState:Playing
+859	08/12/17 23:23:03	276	MS::Entertainment::Music::Playback::MusicPlaybackServiceBase::UpdateVisibleStateAndFireEventsAsync - m_currentState is { TransportState = Playing, PlayerState = Stalled, TrackId = 0x0000002d, DirtyFlags = 4 }
+860	08/12/17 23:23:03	276	MS::Entertainment::Music::Playback::PlatformMetadataProvider::UpdateButtonStates - trackIsValid: true, nextEnabled: true
+861	08/12/17 23:23:03	8760	MS::Entertainment::Music::Playback::MusicPlaybackServiceBase::UpdateVisibleStateAndFireEventsAsync::<lambda_fc2893abbb5aed69e392a6221069ce86>::operator () >> ENTER: - UI task
+862	08/12/17 23:23:03	8760	--MS::Entertainment::Music::Playback::MusicPlaybackServiceBase::UpdateVisibleStateAndFireEventsAsync::<lambda_fc2893abbb5aed69e392a6221069ce86>::operator () - Updated visible state to TransportState = Playing, PlayerState = Stalled, TrackId = 0x0000002d
+863	08/12/17 23:23:03	8760	--MS::Entertainment::Music::Playback::MusicPlaybackServiceBase::FireStateChangedEvents >> ENTER: - Firing PlaybackStateChanged
+864	08/12/17 23:23:03	8760	----MS::Entertainment::Music::ViewModel::MediaTransportControlsViewModel::OnPlaybackStateChanged - TransportState = Playing, PlayerState = Stalled
+865	08/12/17 23:23:03	8760	----MS::Entertainment::Music::ViewModel::MediaTransportControlsViewModel::SyncElapsedTimeUpdateTimer - m_numElapsedTimeChangedHandlers = 2, m_isInElapsedTimePollingState = false.  Canceling position polling timer...
+866	08/12/17 23:23:03	8760	----MS::Entertainment::Music::ViewModel::MediaTransportControlsViewModel::UpdateDuration - trackDuration = 30011
+867	08/12/17 23:23:03	8760	--MS::Entertainment::Music::Playback::MusicPlaybackServiceBase::FireStateChangedEvents << EXIT: 2.831ms - Firing PlaybackStateChanged
+868	08/12/17 23:23:03	8760	MS::Entertainment::Music::Playback::MusicPlaybackServiceBase::UpdateVisibleStateAndFireEventsAsync::<lambda_fc2893abbb5aed69e392a6221069ce86>::operator () << EXIT: 3.032ms - UI task
+869	08/12/17 23:23:05	3504	--- App: total commit = 82.855 MB / 10027.914 MB ---
+870	08/12/17 23:23:06	780	MS::Entertainment::Music::Playback::PlaybackInfoRequest::{ctor}::<lambda_4f851f6a26978fc0326f18500ace39ad>::operator () - Got playback info: TrackId = 0x0000002e, TrackingId = 
+871	08/12/17 23:23:06	780	MS::Entertainment::Music::Playback::PlaybackInfoManager::SetPlaybackInfo
+872	08/12/17 23:23:06	780	MS::Entertainment::Music::Playback::Counted<class MS::Entertainment::Music::Playback::PlaybackInfoRequest,unsigned int>::~Counted - NumInstances = 0, ObjectId = 8
+873	08/12/17 23:23:10	3504	--- App: total commit = 82.730 MB / 10027.914 MB ---
+874	08/12/17 23:23:15	3504	--- App: total commit = 82.668 MB / 10027.914 MB ---
+875	08/12/17 23:23:20	3504	--- App: total commit = 82.484 MB / 10027.914 MB ---
+876	08/12/17 23:23:25	3504	--- App: total commit = 82.402 MB / 10027.914 MB ---
+877	08/12/17 23:23:30	3504	--- App: total commit = 82.402 MB / 10027.914 MB ---
+878	08/12/17 23:23:33	7836	MS::Entertainment::Music::Playback::SingleProcMusicPlaybackService::OnPlayerTrackPlaybackStalledChange - IsStalled:true, ExcessiveStallTimerFired:true, PlayerState:Stalled
+879	08/12/17 23:23:33	7836	MS::Entertainment::Music::Playback::PlaybackPositionMonitor::HandleExcessiveStall - Track excessively stalled. Erroring: Yes
+880	08/12/17 23:23:33	276	MS::Entertainment::Shared::Playback::Drm::IsPlayReadyStoreCorrupted
+881	08/12/17 23:23:33	276	MS::Entertainment::Music::Playback::MediaPlaybackListManager::UpdateConsecutiveErrors - numConsecutiveErrors: 1, playlistErrorCode: 0xc1010115
+882	08/12/17 23:23:33	276	MS::Entertainment::Music::Playback::MediaPlaybackListManager::HandleError - TrackId = 0x0000002d, TrackIndex = 1, is current, is NOT critical, Context = Track playback failed due to excessive buffering, ErrorCode = 0xc1010115
+883	08/12/17 23:23:33	276	MS::Entertainment::Music::Playback::MediaPlaybackListManager::ProcessErrors - numErrors: 1
+884	08/12/17 23:23:33	7836	MS::Entertainment::Music::Playback::SingleProcMusicPlaybackService::ProcessErrorNoLock - ErrorCode: 0xc1010115, TrackIndex: 1, TrackId: 0x0000002d, Context: Track playback failed due to excessive buffering, IsCritical: false
+885	08/12/17 23:23:33	7836	MS::Entertainment::Music::Playback::MusicPlaybackServiceBase::UpdateCurrentPositions >> ENTER: - oldCurrentTrackId = 0x0000002d, newCurrentTrackId = 0x0000002d, forceUpdate = false
+886	08/12/17 23:23:33	276	MS::Entertainment::Music::Playback::MediaPlaybackListManager::RemoveTrackPlaybackContext - trackId = 0x0000002d
+887	08/12/17 23:23:33	7836	MS::Entertainment::Music::Playback::MusicPlaybackServiceBase::UpdateCurrentPositions << EXIT: 0.005ms - oldCurrentTrackId = 0x0000002d, newCurrentTrackId = 0x0000002d, forceUpdate = false
+888	08/12/17 23:23:33	7836	MS::Entertainment::Music::Playback::MusicPlaybackServiceBase::UpdateVisibleStateAndFireEventsAsync - No changes to state detected.  Returning empty task.
+889	08/12/17 23:23:33	7836	MS::Entertainment::Music::Playback::SingleProcMusicPlaybackService::QueueNextPlayableTrack - playableTrackId: 0x0000002e, changeToQueuedState: false
+890	08/12/17 23:23:33	8760	MS::Entertainment::Music::AV::PlaybackNotificationService::OnPlaybackError
+891	08/12/17 23:23:33	8760	MS::Entertainment::Music::AV::PlaybackNotificationService::SetErrorCode
+892	08/12/17 23:23:33	7836	MS::Entertainment::Music::Playback::MediaPlaybackListManager::ResetErrors
+893	08/12/17 23:23:33	7836	MS::Entertainment::Music::Playback::MediaPlaybackListManager::ResetConsecutiveErrors
+894	08/12/17 23:23:33	7836	MS::Entertainment::Music::Playback::MediaPlaybackListManager::PausePreroll
+895	08/12/17 23:23:33	4732	MS::Entertainment::Music::Playback::MediaPlaybackListManager::OnPlaybackItemBinding - trackId = 0x0000002d
+896	08/12/17 23:23:33	7836	MS::Entertainment::Music::Playback::MediaPlaybackListManager::ProcessPositionTransition - Stage: SkippingFrom, trackId = 0x0000002d, trackIndex = 1, TPC is null
+897	08/12/17 23:23:33	9188	MS::Entertainment::Music::Playback::MediaPlaybackListManager::OnMediaPlaylistCurrentItemChanged::<lambda_0d6cf0fefd3d55ad1235441415345df9>::operator () - oldTrackId = 0x0000002d, newTrackId = 0x00000000
+898	08/12/17 23:23:33	7836	MS::Entertainment::Music::Playback::MediaPlaybackListManager::ProcessPositionTransition - Stage: SkippingTo, trackId = 0x0000002e, trackIndex = 2, TPC is NOT null
+899	08/12/17 23:23:33	7836	MS::Entertainment::Music::Playback::MediaPlaybackListManager::UpdateCurrentTrack - trackId: 0x0000002e, trackIndex: 2
+900	08/12/17 23:23:33	7836	MS::Entertainment::Music::Playback::PlaybackInfoManager::OnCurrentChanged
+901	08/12/17 23:23:33	7836	MS::Entertainment::Music::Playback::TrackPlaybackContext::LogFinalPlaybackTelemetry - TrackId = 0x0000002d, MaxPosition = 5920, Duration = 30011, TrackingId = Unknown
+902	08/12/17 23:23:33	7836	MS::Entertainment::Music::Playback::TrackPlaybackContext::LogFinalPlaybackTelemetry - Setting PlaybackInfoManager's Position = 5920
+903	08/12/17 23:23:33	7836	MS::Entertainment::Music::Playback::PlaybackInfoManager::SendPlaybackDurationTracking
+904	08/12/17 23:23:33	7836	MS::Entertainment::Music::Playback::Counted<class MS::Entertainment::Music::Playback::PlaybackInfoManager,unsigned int>::~Counted - NumInstances = 1, ObjectId = 4
+905	08/12/17 23:23:33	5184	MS::Entertainment::Music::Playback::MediaPlaybackListManager::OnPlaybackItemBindingCanceled - trackId = 0x0000002d
+906	08/12/17 23:23:33	3864	MS::Entertainment::Music::Playback::MediaPlaybackListManager::OnPlaybackItemBinding - trackId = 0x0000002f
+907	08/12/17 23:23:33	7836	MS::Entertainment::Music::Playback::Counted<class MS::Entertainment::Music::Playback::MasterPlaybackInfoManager,unsigned int>::~Counted - NumInstances = 1, ObjectId = 4
+908	08/12/17 23:23:33	7836	MS::Entertainment::Music::Playback::Counted<class MS::Entertainment::Music::Playback::TrackPlaybackContext,unsigned int>::~Counted - NumInstances = 1, ObjectId = 6
+909	08/12/17 23:23:33	2492	MS::Entertainment::Music::Playback::MediaPlaybackListManager::OnMediaPlaylistCurrentItemChanged::<lambda_0d6cf0fefd3d55ad1235441415345df9>::operator () - oldTrackId = 0x00000000, newTrackId = 0x0000002e
+910	08/12/17 23:23:33	7836	MS::Entertainment::Music::Playback::MediaPlaybackListManager::ResumePreroll
+911	08/12/17 23:23:33	7836	MS::Entertainment::Music::Playback::MusicPlaybackServiceBase::UpdateCurrentPositions >> ENTER: - oldCurrentTrackId = 0x0000002d, newCurrentTrackId = 0x0000002e, forceUpdate = true
+912	08/12/17 23:23:33	9188	MS::Entertainment::Music::Playback::MediaPlaybackListManager::ProcessPositionTransition - Stage: MovedFrom, trackId = 0x0000002d, trackIndex = 2, TPC is null
+913	08/12/17 23:23:33	7836	MS::Entertainment::Music::Playback::MusicPlaybackServiceBase::UpdateCurrentPositions << EXIT: 0.013ms - oldCurrentTrackId = 0x0000002d, newCurrentTrackId = 0x0000002e, forceUpdate = true
+914	08/12/17 23:23:33	2728	MS::Entertainment::Music::Playback::MediaPlaybackListManager::CreatePlaybackContext - trackId = 0x0000002d
+915	08/12/17 23:23:33	2728	MS::Entertainment::Music::Playback::NowPlayingQueueMetadataProvider::HydrateTrack >> ENTER:
+916	08/12/17 23:23:33	7836	MS::Entertainment::Music::Playback::MusicPlaybackServiceBase::UpdateVisibleStateAndFireEventsAsync - m_currentState is { TransportState = Playing, PlayerState = Stalled, TrackId = 0x0000002e, DirtyFlags = 129 }
+917	08/12/17 23:23:33	7836	MS::Entertainment::Music::Playback::PlatformMetadataProvider::UpdateButtonStates - trackIsValid: true, nextEnabled: true
+918	08/12/17 23:23:33	7836	MS::Entertainment::Music::Playback::MusicPlaybackServiceBase::GetSeekPositionNoLock - Position is stopped at 0
+919	08/12/17 23:23:33	2728	MS::Entertainment::Music::Playback::NowPlayingQueueMetadataProvider::HydrateTrack << EXIT: 0.357ms
+920	08/12/17 23:23:33	7836	MS::Entertainment::Music::Playback::NowPlayingQueueMetadataProvider::GetMetadataPacketForTrack - trackId: 46
+921	08/12/17 23:23:33	2728	MS::Entertainment::Music::Playback::Counted<class MS::Entertainment::Music::Playback::TrackPlaybackContext,unsigned int>::Counted - NumInstances = 2, ObjectId = 10
+922	08/12/17 23:23:33	7836	MS::Entertainment::Music::Playback::PlatformMetadataProvider::UpdateMetadata - Found metadata to show for currentTrackId: 46
+923	08/12/17 23:23:33	7836	MS::Entertainment::Music::Playback::PlatformMetadataProvider::UpdateSMTC - Updating SMTC metadata. Title = For We the Living Artist = Superpoze
+924	08/12/17 23:23:33	7836	MS::Entertainment::Music::Playback::PlatformMetadataProvider::UpdateSMTCTimelineProperties - Updating SMTC time line properties' position: 0 ms
+925	08/12/17 23:23:33	7836	MS::Entertainment::Music::Playback::NowPlayingQueueMetadataProvider::GetMetadataPacketForTrack - trackId: 47
+926	08/12/17 23:23:33	2728	MS::Entertainment::Music::Playback::Counted<class MS::Entertainment::Music::Playback::MasterPlaybackInfoManager,unsigned int>::Counted - NumInstances = 2, ObjectId = 8
+927	08/12/17 23:23:33	2728	MS::Entertainment::Music::Playback::MasterPlaybackInfoManager::MasterPlaybackInfoManager - Parent TPC id = 10
+928	08/12/17 23:23:33	2728	MS::Entertainment::Music::Playback::PlaybackTrack::EnsureHydrateToPlaybackInfo
+929	08/12/17 23:23:33	2728	MS::Entertainment::Music::Playback::MasterPlaybackInfoManager::MasterPlaybackInfoManager - requestMediaType: Audio
+930	08/12/17 23:23:33	2728	MS::Entertainment::Music::Playback::Counted<class MS::Entertainment::Music::Playback::PlaybackInfoManager,unsigned int>::Counted - NumInstances = 2, ObjectId = 8
+931	08/12/17 23:23:33	2728	MS::Entertainment::Music::Playback::PlaybackInfoManager::PlaybackInfoManager - Parent MasterPIM id = 8
+932	08/12/17 23:23:33	2728	MS::Entertainment::Music::Playback::PlaybackInfoManager::OnCurrentChanged
+933	08/12/17 23:23:33	2492	MS::Entertainment::Music::Playback::MediaPlaybackListManager::ProcessPositionTransition - Stage: MovedTo, trackId = 0x0000002e, trackIndex = 2, TPC is NOT null
+934	08/12/17 23:23:33	2492	MS::Entertainment::Music::Playback::MediaPlaybackListManager::UpdateCurrentTrack - trackId: 0x0000002e, trackIndex: 2
+935	08/12/17 23:23:33	2492	MS::Entertainment::Music::Playback::PlaybackInfoManager::OnCurrentChanged
+936	08/12/17 23:23:33	2492	MS::Entertainment::Music::Playback::MediaPlaybackListManager::IsPlaylistCriticallyErrored - false, m_numConsecutiveErrors = 0, queueSize = 36
+937	08/12/17 23:23:33	2492	MS::Entertainment::Music::Playback::MediaPlaybackListManager::ProcessErrors - numErrors: 0
+938	08/12/17 23:23:33	2492	MS::Entertainment::Music::Playback::MediaPlaybackListManager::PausePreroll
+939	08/12/17 23:23:33	2492	MS::Entertainment::Music::Playback::MediaPlaybackListManager::CleanupOutOfScopePlaybackContexts - currentTrackId = 0x0000002e, currentTrackIndex = 2, keepPrerolledTracks = true, keepErroredTracks = true
+940	08/12/17 23:23:33	2492	MS::Entertainment::Music::Playback::MediaPlaybackListManager::CleanupOutOfScopePlaybackContexts >> ENTER:
+941	08/12/17 23:23:33	2492	--MS::Entertainment::Music::Playback::MediaPlaybackListManager::CleanupOutOfScopePlaybackContexts - Removing track 0x0000002d at index 1
+942	08/12/17 23:23:33	2492	MS::Entertainment::Music::Playback::MediaPlaybackListManager::CleanupOutOfScopePlaybackContexts << EXIT: 0.158ms
+943	08/12/17 23:23:33	2492	MS::Entertainment::Music::Playback::MediaPlaybackListManager::CleanupOutOfScopePlaybackContexts - Size of m_playbackContexts after cleanup: 1
+944	08/12/17 23:23:33	2492	MS::Entertainment::Music::Playback::MediaPlaybackListManager::ResumePreroll
+945	08/12/17 23:23:33	6036	MS::Entertainment::Music::Playback::MediaPlaybackListManager::CreatePlaybackContext - trackId = 0x0000002f
+946	08/12/17 23:23:33	6036	MS::Entertainment::Music::Playback::NowPlayingQueueMetadataProvider::HydrateTrack >> ENTER:
+947	08/12/17 23:23:33	6036	MS::Entertainment::Music::Playback::NowPlayingQueueMetadataProvider::HydrateTrack << EXIT: 0.289ms
+948	08/12/17 23:23:33	6036	MS::Entertainment::Music::Playback::Counted<class MS::Entertainment::Music::Playback::TrackPlaybackContext,unsigned int>::Counted - NumInstances = 3, ObjectId = 11
+949	08/12/17 23:23:33	6036	MS::Entertainment::Music::Playback::Counted<class MS::Entertainment::Music::Playback::MasterPlaybackInfoManager,unsigned int>::Counted - NumInstances = 3, ObjectId = 9
+950	08/12/17 23:23:33	6036	MS::Entertainment::Music::Playback::MasterPlaybackInfoManager::MasterPlaybackInfoManager - Parent TPC id = 11
+951	08/12/17 23:23:33	6036	MS::Entertainment::Music::Playback::PlaybackTrack::EnsureHydrateToPlaybackInfo
+952	08/12/17 23:23:33	6036	MS::Entertainment::Music::Playback::MasterPlaybackInfoManager::MasterPlaybackInfoManager - requestMediaType: Audio
+953	08/12/17 23:23:33	6036	MS::Entertainment::Music::Playback::Counted<class MS::Entertainment::Music::Playback::PlaybackInfoManager,unsigned int>::Counted - NumInstances = 3, ObjectId = 9
+954	08/12/17 23:23:33	6036	MS::Entertainment::Music::Playback::PlaybackInfoManager::PlaybackInfoManager - Parent MasterPIM id = 9
+955	08/12/17 23:23:33	6036	MS::Entertainment::Music::Playback::PlaybackInfoManager::OnCurrentChanged
+956	08/12/17 23:23:33	8760	MS::Entertainment::Music::Playback::MusicPlaybackServiceBase::UpdateVisibleStateAndFireEventsAsync::<lambda_fc2893abbb5aed69e392a6221069ce86>::operator () >> ENTER: - UI task
+957	08/12/17 23:23:33	2728	MS::Entertainment::Music::Playback::TrackPlaybackContext::RealizeBinding - TrackId = 0x0000002d
+958	08/12/17 23:23:33	2728	MS::Entertainment::Music::Playback::TrackPlaybackContext::UpdateTelemetryObjects
+959	08/12/17 23:23:33	2728	MS::Entertainment::Music::Playback::TrackPlaybackContext::PlaybackInfo::get >> ENTER: - Track 0x0000002d
+960	08/12/17 23:23:33	2728	--MS::Entertainment::Music::Playback::TrackPlaybackContext::ResolvePlaybackInfoAsync - Track 0x0000002d
+961	08/12/17 23:23:33	8760	--MS::Entertainment::Music::Playback::MusicPlaybackServiceBase::UpdateVisibleStateAndFireEventsAsync::<lambda_fc2893abbb5aed69e392a6221069ce86>::operator () - Updated visible state to TransportState = Playing, PlayerState = Stalled, TrackId = 0x0000002e
+962	08/12/17 23:23:33	8760	--MS::Entertainment::Music::Playback::MusicPlaybackServiceBase::FireStateChangedEvents >> ENTER: - Firing QueuePositionsChanged
+963	08/12/17 23:23:33	6036	MS::Entertainment::Music::Playback::TrackPlaybackContext::RealizeBinding - TrackId = 0x0000002f
+964	08/12/17 23:23:33	6036	MS::Entertainment::Music::Playback::TrackPlaybackContext::UpdateTelemetryObjects
+965	08/12/17 23:23:33	6036	MS::Entertainment::Music::Playback::TrackPlaybackContext::PlaybackInfo::get >> ENTER: - Track 0x0000002f
+966	08/12/17 23:23:33	6036	--MS::Entertainment::Music::Playback::TrackPlaybackContext::ResolvePlaybackInfoAsync - Track 0x0000002f
+967	08/12/17 23:23:33	9048	MS::Entertainment::Music::Playback::Counted<class MS::Entertainment::Music::Playback::TrackPlaybackContext,unsigned int>::Counted - NumInstances = 4, ObjectId = 12
+968	08/12/17 23:23:33	9048	MS::Entertainment::Music::Playback::Counted<class MS::Entertainment::Music::Playback::MasterPlaybackInfoManager,unsigned int>::Counted - NumInstances = 4, ObjectId = 10
+969	08/12/17 23:23:33	9048	MS::Entertainment::Music::Playback::MasterPlaybackInfoManager::MasterPlaybackInfoManager - Parent TPC id = 12
+970	08/12/17 23:23:33	9048	MS::Entertainment::Music::Playback::PlaybackTrack::EnsureHydrateToPlaybackInfo
+971	08/12/17 23:23:33	6396	MS::Entertainment::Music::Playback::MediaPlaybackListManager::OnMediaPlaylistCurrentItemChanged::<lambda_0d6cf0fefd3d55ad1235441415345df9>::()::<lambda_e0f4ef829d3d2c96993fa6b385ccb796>::operator () - Signaling that track 0x0000002e is playing
+972	08/12/17 23:23:33	6396	MS::Entertainment::Music::Playback::SingleProcMusicPlaybackService::OnPlaybackListManagerItemPlaying - trackId:0x0000002e
+973	08/12/17 23:23:33	9048	MS::Entertainment::Music::Playback::MasterPlaybackInfoManager::MasterPlaybackInfoManager - requestMediaType: Audio
+974	08/12/17 23:23:33	6396	MS::Entertainment::Music::Playback::SingleProcMusicPlaybackService::SetVolumeImpl - volume: 0.594, trackMediaType: Audio
+975	08/12/17 23:23:33	9048	MS::Entertainment::Music::Playback::Counted<class MS::Entertainment::Music::Playback::PlaybackInfoManager,unsigned int>::Counted - NumInstances = 4, ObjectId = 10
+976	08/12/17 23:23:33	6396	MS::Entertainment::Music::Playback::SingleProcMusicPlaybackService::OnPlaybackListManagerItemPlaying - CurrentTransportState == TransportState::Playing, call Play() on MediaPlayer
+977	08/12/17 23:23:33	9048	MS::Entertainment::Music::Playback::PlaybackInfoManager::PlaybackInfoManager - Parent MasterPIM id = 10
+978	08/12/17 23:23:33	6396	MS::Entertainment::Music::Playback::MusicPlaybackServiceBase::UpdateCurrentPositions >> ENTER: - oldCurrentTrackId = 0x0000002e, newCurrentTrackId = 0x0000002e, forceUpdate = false
+979	08/12/17 23:23:33	8760	----MS::Entertainment::Music::ViewModel::MediaTransportControlsViewModel::UpdateDuration - trackDuration = 30000
+980	08/12/17 23:23:33	6396	MS::Entertainment::Music::Playback::MusicPlaybackServiceBase::UpdateCurrentPositions << EXIT: 0.004ms - oldCurrentTrackId = 0x0000002e, newCurrentTrackId = 0x0000002e, forceUpdate = false
+981	08/12/17 23:23:33	6396	MS::Entertainment::Music::Playback::MusicPlaybackServiceBase::EndPerfTrackEvent
+982	08/12/17 23:23:33	9048	MS::Entertainment::Music::Playback::TrackPlaybackContext::ResolvePlaybackInfoAsync - Track 0x0000002e
+983	08/12/17 23:23:33	6396	MS::Entertainment::Music::Playback::MusicPlaybackServiceBase::UpdateVisibleStateAndFireEventsAsync - m_currentState is { TransportState = Playing, PlayerState = Playing, TrackId = 0x0000002e, DirtyFlags = 4 }
+984	08/12/17 23:23:33	6396	MS::Entertainment::Music::Playback::PlatformMetadataProvider::UpdateButtonStates - trackIsValid: true, nextEnabled: true
+985	08/12/17 23:23:33	8760	----MS::Entertainment::Music::Controls::NowPlayingFlipView::OnHeaderPropertyChanged >> ENTER:
+986	08/12/17 23:23:33	8760	------MS::Entertainment::Music::Controls::NowPlayingFlipView::UpdateSelection >> ENTER:
+987	08/12/17 23:23:33	8760	--------MS::Entertainment::Music::Controls::NowPlayingFlipView::UpdateSelection - Delaying setting a new SelectedIndex. New: 2, Old: 1
+988	08/12/17 23:23:33	8760	------MS::Entertainment::Music::Controls::NowPlayingFlipView::UpdateSelection << EXIT: 0.410ms
+989	08/12/17 23:23:33	8760	----MS::Entertainment::Music::Controls::NowPlayingFlipView::OnHeaderPropertyChanged << EXIT: 0.508ms
+990	08/12/17 23:23:33	8760	----MS::Entertainment::Music::AV::PlaybackNotificationService::OnPlaybackQueuePositionsChanged - current: 2
+991	08/12/17 23:23:33	8760	----MS::Entertainment::Music::AV::PlaybackNotificationService::HandleCurrentIdChange - newCurrentPlaybackId: 0x0000002e, newCurrentDatabaseId: 0, newCatalogId: {5E51300A-0100-11DB-89CA-0019B92A3933}
+992	08/12/17 23:23:33	8760	----MS::Entertainment::Music::AV::PlaybackNotificationService::SetErrorCode
+993	08/12/17 23:23:33	8760	----MS::Entertainment::Music::AV::PlaybackNotificationService::SetCurrentPlaybackId - newCurrentPlaybackId: 0x0000002e, oldCurrentPlaybackId: 45
+994	08/12/17 23:23:33	8760	----MS::Entertainment::Music::AV::PlaybackNotificationService::SetCurrentDatabaseId - newCurrentDatabaseId: 0, oldCurrentDatabaseId: 0
+995	08/12/17 23:23:33	8760	----MS::Entertainment::Music::AV::PlaybackNotificationService::SetCurrentCatalogId - newCatalogId: {5e51300a-0100-11db-89ca-0019b92a3933}, oldCatalogId: {fb9a7b0a-0100-11db-89ca-0019b92a3933}
+996	08/12/17 23:23:33	4884	MS::Entertainment::Music::Playback::PlaybackInfoManager::RunMonitoringTask
+997	08/12/17 23:23:33	2792	MS::Entertainment::Music::Playback::PlaybackInfoManager::RunRetryTask
+998	08/12/17 23:23:33	2792	MS::Entertainment::Music::Playback::Counted<class MS::Entertainment::Music::Playback::PlaybackInfoRequest,unsigned int>::Counted - NumInstances = 1, ObjectId = 10
+999	08/12/17 23:23:33	2792	MS::Entertainment::Music::Playback::PlaybackInfoRequest::PlaybackInfoRequest - Parent PIM id = 8, CurrentUsageContext = 0
+1000	08/12/17 23:23:33	2792	MS::Entertainment::Music::Playback::PlaybackInfoManager::RunRetryTask - TrackId = 0x0000002d, m_retryAttempts = 1
+1001	08/12/17 23:23:33	2792	MS::Entertainment::Music::Playback::PlaybackInfoManager::RunRetryTask - Calling this_thread::sleep_for... TrackId = 0x0000002d, retryDelay = 1500
+1002	08/12/17 23:23:33	8760	--MS::Entertainment::Music::Playback::MusicPlaybackServiceBase::FireStateChangedEvents << EXIT: 19.838ms - Firing QueuePositionsChanged
+1003	08/12/17 23:23:33	8760	MS::Entertainment::Music::Playback::MusicPlaybackServiceBase::UpdateVisibleStateAndFireEventsAsync::<lambda_fc2893abbb5aed69e392a6221069ce86>::operator () << EXIT: 20.324ms - UI task
+1004	08/12/17 23:23:33	4412	MS::Entertainment::Music::Playback::PlaybackInfoManager::RunMonitoringTask
+1005	08/12/17 23:23:33	9016	MS::Entertainment::Music::Playback::PlaybackInfoManager::RunRetryTask
+1006	08/12/17 23:23:33	9016	MS::Entertainment::Music::Playback::Counted<class MS::Entertainment::Music::Playback::PlaybackInfoRequest,unsigned int>::Counted - NumInstances = 2, ObjectId = 11
+1007	08/12/17 23:23:33	9016	MS::Entertainment::Music::Playback::PlaybackInfoRequest::PlaybackInfoRequest - Parent PIM id = 9, CurrentUsageContext = 0
+1008	08/12/17 23:23:33	9016	MS::Entertainment::Music::Playback::PlaybackInfoManager::RunRetryTask - TrackId = 0x0000002f, m_retryAttempts = 1
+1009	08/12/17 23:23:33	9016	MS::Entertainment::Music::Playback::PlaybackInfoManager::RunRetryTask - Calling this_thread::sleep_for... TrackId = 0x0000002f, retryDelay = 1500
+1010	08/12/17 23:23:33	4960	MS::Entertainment::Music::Playback::PlaybackInfoManager::RunMonitoringTask
+1011	08/12/17 23:23:33	4620	MS::Entertainment::Music::Playback::PlaybackInfoManager::RunRetryTask
+1012	08/12/17 23:23:33	4620	MS::Entertainment::Music::Playback::Counted<class MS::Entertainment::Music::Playback::PlaybackInfoRequest,unsigned int>::Counted - NumInstances = 3, ObjectId = 12
+1013	08/12/17 23:23:33	4620	MS::Entertainment::Music::Playback::PlaybackInfoRequest::PlaybackInfoRequest - Parent PIM id = 10, CurrentUsageContext = 0
+1014	08/12/17 23:23:33	8760	MS::Entertainment::Music::Playback::MusicPlaybackServiceBase::UpdateVisibleStateAndFireEventsAsync::<lambda_fc2893abbb5aed69e392a6221069ce86>::operator () >> ENTER: - UI task
+1015	08/12/17 23:23:33	4620	MS::Entertainment::Music::Playback::PlaybackInfoManager::RunRetryTask - TrackId = 0x0000002e, m_retryAttempts = 1
+1016	08/12/17 23:23:33	4620	MS::Entertainment::Music::Playback::PlaybackInfoManager::RunRetryTask - Calling this_thread::sleep_for... TrackId = 0x0000002e, retryDelay = 1500
+1017	08/12/17 23:23:33	8760	--MS::Entertainment::Music::Playback::MusicPlaybackServiceBase::UpdateVisibleStateAndFireEventsAsync::<lambda_fc2893abbb5aed69e392a6221069ce86>::operator () - Updated visible state to TransportState = Playing, PlayerState = Playing, TrackId = 0x0000002e
+1018	08/12/17 23:23:33	8760	--MS::Entertainment::Music::Playback::MusicPlaybackServiceBase::FireStateChangedEvents >> ENTER: - Firing PlaybackStateChanged
+1019	08/12/17 23:23:33	8760	----MS::Entertainment::Music::ViewModel::MediaTransportControlsViewModel::OnPlaybackStateChanged - TransportState = Playing, PlayerState = Playing
+1020	08/12/17 23:23:33	8760	----MS::Entertainment::Music::ViewModel::MediaTransportControlsViewModel::SyncElapsedTimeUpdateTimer - m_numElapsedTimeChangedHandlers = 2, m_isInElapsedTimePollingState = true.  Starting position polling timer...
+1021	08/12/17 23:23:33	8760	----MS::Entertainment::Music::ViewModel::MediaTransportControlsViewModel::UpdateDuration - trackDuration = 30000
+1022	08/12/17 23:23:33	8760	--MS::Entertainment::Music::Playback::MusicPlaybackServiceBase::FireStateChangedEvents << EXIT: 5.672ms - Firing PlaybackStateChanged
+1023	08/12/17 23:23:33	8760	MS::Entertainment::Music::Playback::MusicPlaybackServiceBase::UpdateVisibleStateAndFireEventsAsync::<lambda_fc2893abbb5aed69e392a6221069ce86>::operator () << EXIT: 6.155ms - UI task
+1024	08/12/17 23:23:33	8760	MS::Entertainment::Music::AV::PlaybackNotificationService::SetCurrentDatabaseId - newCurrentDatabaseId: 0, oldCurrentDatabaseId: 0
+
+ETW history end. 1024 records.

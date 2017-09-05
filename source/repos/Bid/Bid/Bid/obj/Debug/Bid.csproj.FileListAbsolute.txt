@@ -1,0 +1,16 @@
+C:\Users\Helmi\source\repos\Bid\Bid\Bid\bin\Debug\Bid.dll
+C:\Users\Helmi\source\repos\Bid\Bid\Bid\bin\Debug\Bid.pdb
+C:\Users\Helmi\source\repos\Bid\Bid\Bid\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\Helmi\source\repos\Bid\Bid\Bid\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\Helmi\source\repos\Bid\Bid\Bid\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Helmi\source\repos\Bid\Bid\Bid\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\Helmi\source\repos\Bid\Bid\Bid\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\Helmi\source\repos\Bid\Bid\Bid\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Users\Helmi\source\repos\Bid\Bid\Bid\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\Helmi\source\repos\Bid\Bid\Bid\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\Helmi\source\repos\Bid\Bid\Bid\obj\Debug\Bid.csprojResolveAssemblyReference.cache
+C:\Users\Helmi\source\repos\Bid\Bid\Bid\obj\Debug\Bid.csproj.CoreCompileInputs.cache
+C:\Users\Helmi\source\repos\Bid\Bid\Bid\obj\Debug\Bid.MainPage.xaml.g.cs
+C:\Users\Helmi\source\repos\Bid\Bid\Bid\obj\Debug\Bid.App.xaml.g.cs
+C:\Users\Helmi\source\repos\Bid\Bid\Bid\obj\Debug\Bid.dll
+C:\Users\Helmi\source\repos\Bid\Bid\Bid\obj\Debug\Bid.pdb

@@ -1,0 +1,16 @@
+[8/14/2017, 21:5:47] === Logging started: 2017/08/14 21:05:47 ===
+[8/14/2017, 21:5:47] Executable: C:\ProgramData\Microsoft\VisualStudio\Packages\Microsoft.NET.4.6.1.FullRedist.NonThreshold.Resources,version=4.6.1055.9,language=fr-FR\dotNetFxLatest-x86-x64-AllOS-fra.exe v4.7.2053.0
+[8/14/2017, 21:5:47] --- logging level: standard ---
+[8/14/2017, 21:5:47] Successfully bound to the ClusApi.dll
+[8/14/2017, 21:5:47] Error 0x800706d9: Failed to open the current cluster
+[8/14/2017, 21:5:47] Cluster drive map: ''
+[8/14/2017, 21:5:47] Considering drive: 'C:\'...
+[8/14/2017, 21:5:47] Considering drive: 'D:\'...
+[8/14/2017, 21:5:47] Drive 'D:\' is rejected because of the unknown or unsuitable drive type
+[8/14/2017, 21:5:47] Drive 'C:\' has been selected as the largest fixed drive
+[8/14/2017, 21:5:47] Directory 'C:\82db4d9dc9ebb4b81d4d91\' has been selected for file extraction
+[8/14/2017, 21:5:47] Extracting files to: C:\82db4d9dc9ebb4b81d4d91\
+[8/14/2017, 21:5:52] Extraction took 5.422 seconds
+[8/14/2017, 21:5:52] Executing command line: 'C:\82db4d9dc9ebb4b81d4d91\\Setup.exe  /q /norestart /skipenucheck /KeepAUPaused /ChainingPackage Visual_Studio_15_Setup /CEIPconsent /log "C:\Users\Helmi\AppData\Local\Temp\dd_setup_20170814205606_349_Microsoft.NET.4.6.1.FullRedist.NonThreshold.Resources.log" /x86 /x64 /lcid 1036 /lpredist'
+[8/14/2017, 21:6:39] Exiting with result code: 0x0
+[8/14/2017, 21:6:39] === Logging stopped: 2017/08/14 21:06:39 ===

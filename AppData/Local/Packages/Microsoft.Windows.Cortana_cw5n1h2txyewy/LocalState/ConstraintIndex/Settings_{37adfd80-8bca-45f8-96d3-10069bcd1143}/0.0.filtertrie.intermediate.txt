@@ -1,0 +1,4511 @@
+0	0
+êtes gaucher ou droitier~
+événements~
+évidence les mots mal orthographiés~
+évidence le curseur pendant l’utilisation du narrateur~
+été~
+éteindre l’écran~
+éteindre l’écran quand il est branché~
+éteindre l’écran lorsqu’il est branché~
+éteindre l’écran en cas d’utilisation de la batterie~
+état~
+états~
+état rapide~
+état internet~
+état et la gestion du réseau~
+état détaillé~
+état du réseau~
+état du pare-feu~
+état du clavier~
+état de votre ordinateur et résoudre les problèmes~
+état de sécurité~
+étapes pour reproduire un problème~
+étalonner l’écran pour la saisie effectuée à l’aide du stylet ou l’entrée tactile~
+étalonner les couleurs de l’écran~
+établissement~
+établissement d’enseignement~
+épèle~
+épeler~
+épaisseur~
+épaisseur du curseur~
+énergie~
+émettre des sons en cours de frappe~
+éléments sélectionnés au clavier~
+éléments récemment ouverts dans les listes de raccourcis de l’écran d’accueil ou la barre des tâches~
+éléments plus petits ou plus grands~
+élevé~
+électronique~
+édition de windows~
+éditeur de méthode d’entrée microsoft (japonais)~
+éditeur de caractères privés~
+écrivez~
+écriture~
+écrire~
+écran~
+écrans~
+écrans secondaires~
+écrans multiples~
+écran écrans~
+écran quand il est branché~
+écran principal~
+écran pour la saisie effectuée à l’aide du stylet ou l’entrée tactile~
+écran lorsqu’il est branché~
+écran en cas d’utilisation de la batterie~
+écran d’accueil~
+écran d’accueil, à la barre des tâches et au centre de notifications~
+écran d’accueil ou la barre des tâches~
+écran de verrouillage~
+écran de veille~
+écran de démarrage~
+écran bleu~
+économiseur~
+économiseur de batterie~
+économie~
+à votre pc pour vous aider ou proposer votre aide à une autre personne~
+à votre ordinateur~
+à utiliser comme écran principal~
+à utiliser ce pc~
+à une autre personne~
+à travers le menu démarrer, la barre des tâches et le centre de notifications~
+à se connecter à votre pc pour vous aider ou proposer votre aide à une autre personne~
+à propos de votre pc~
+à partir du réseau~
+à partir des bords du pavé tactile~
+à partir de cet ordinateur~
+à l’établissement~
+à l’écran~
+à l’écran d’accueil, à la barre des tâches et au centre de notifications~
+à l’extrémité de la barre des tâches~
+à l’entreprise ou à l’établissement~
+à l’aide d’toucher et envoyer~
+à l’aide du stylet ou l’entrée tactile~
+à l’aide de l’historique des fichiers~
+à la une~
+à la une, une image ou un diaporama comme mode arrière-plan de l’écran de verrouillage~
+à la fois pour les raccourcis clavier~
+à la barre des tâches et au centre de notifications~
+à la barre de titre~
+à jour~
+à jour les pilotes de périphériques~
+à jour installées~
+à jour de carte~
+à internet~
+à gérer votre pc~
+à distance~
+à distance à votre ordinateur~
+à distance à partir de cet ordinateur~
+à côté~
+à cet appareil~
+à afficher dans la barre des tâches~
+~
+zoom~
+zoom si vous pincez le pavé tactile avec deux doigts~
+zoom in~
+zoom avant~
+zone~
+zones~
+zone zones~
+zone de notification de la barre des tâches~
+your~
+x~
+xbox~
+xbox one sans fil~
+wwan~
+writing~
+write~
+works~
+workspace~
+workplace~
+wlan~
+wireless~
+window~
+windows~
+windowsupdate~
+windows.~
+windows à la une, une image ou un diaporama comme mode arrière-plan de l’écran de verrouillage~
+windows update~
+windows to go~
+windows suggérer les paramètres d’options d’ergonomie~
+windows powershell lorsque vous utilisez le menu windows + x~
+windows insider~
+windows ink~
+windows hint hints~
+windows hello~
+windows fire~
+windows est activé~
+windows defender~
+windows 8~
+windows 8.1~
+windows 7~
+windows 7)~
+windows + x~
+window update~
+window fill~
+win up~
+wifi~
+width~
+wi-fi~
+wi fi~
+wheels~
+wheel wheels~
+web~
+website websites~
+webcam~
+web peuvent utiliser votre liste de langues~
+web par défaut~
+web dans les onglets~
+wallpaper~
+wallpapers~
+wallpaper wallpapers~
+vérifier~
+vérifier l’état du réseau~
+vérifier l’état du pare-feu~
+vérifier l’état du clavier~
+vérifier l’état de votre ordinateur et résoudre les problèmes~
+vérifier l’état de sécurité~
+vue d’ensemble de la consommation des données~
+vpn~
+vpn)~
+vous êtes gaucher ou droitier~
+vous écrivez~
+vous utilisez windows~
+vous utilisez le pavé tactile~
+vous utilisez le menu windows + x~
+vous touchez l’écran~
+vous souhaitez afficher l’état rapide~
+vous souhaitez afficher l’état détaillé~
+vous pincez le pavé tactile avec deux doigts~
+vous faites glisser trois doigts sur le pavé tactile~
+vous faites glisser deux doigts sur le pavé tactile~
+vous déplacez la souris sur le bouton afficher le bureau à l’extrémité de la barre des tâches~
+vous démarrez windows~
+vous choisissez une suggestion de texte~
+vous avez une version 32 bits ou 64 bits de windows~
+vous appuyez sur le pavé tactile avec trois doigts~
+vous appuyez sur le pavé tactile avec quatre doigts~
+vous appuyez sur le pavé tactile avec deux doigts~
+vous appuyez sur alt+tab lors de l’utilisation des bureaux virtuels~
+vous appuyez deux fois sur maj~
+vous appuyez deux fois sur la barre d’espace~
+vous aider ou proposer votre aide à une autre personne~
+votre écran de verrouillage~
+votre voix~
+votre souris~
+votre pc~
+votre pc pour vous aider ou proposer votre aide à une autre personne~
+votre organisation à gérer votre pc~
+votre ordinateur~
+votre ordinateur et résoudre les problèmes~
+votre navigateur sur ce pc~
+votre mot de passe~
+votre liste de langues~
+votre identifiant de publicité~
+votre id produit~
+votre compte~
+votre compte professionnel ou scolaire~
+votre clé de récupération~
+votre aide à une autre personne~
+vos paramètres~
+vos paramètres des options d’ergonomie~
+vos paramètres de profil et d’avatar du compte~
+vos paramètres de personnalisation~
+vos paramètres de langue et de clavier~
+vos paramètres de compte de messagerie et d’application~
+vos mots passe sur ce pc~
+vos lecteurs~
+vos fichiers à l’aide de l’historique des fichiers~
+vos fichiers hors connexion~
+vos actions rapides~
+volume du système~
+voix~
+voix, d’entrée manuscrite et de confidentialité de saisie~
+voix du narrateur~
+voir à travers le menu démarrer, la barre des tâches et le centre de notifications~
+voir si windows est activé~
+voir si vous avez une version 32 bits ou 64 bits de windows~
+voir quels processus démarrent automatiquement lorsque vous démarrez windows~
+voir organisation ou groupe de travail pour ce pc~
+voir l’historique des fonctionnalités facultatives~
+voir les composants matériels qui ont une incidence sur l’autonomie de la batterie~
+voir les applications qui ont une incidence sur l’autonomie de la batterie~
+voice~
+voices~
+voice voices~
+vocale~
+vitesse~
+vitesse du réseau~
+vitesse du pointeur de souris~
+vitesse du pointeur avec le pavé tactile~
+vitesse de la voix du narrateur~
+visuel~
+visuels~
+visuel quand vous touchez l’écran~
+visuel du stylet~
+visuals~
+visual visuals~
+visionneuse de photos par défaut~
+virus~
+virtuel~
+virtuels~
+virtuels (vpn)~
+virtual~
+virtual desktop~
+vignettes~
+vignettes sur l’écran de démarrage~
+vidéo~
+vidéos~
+vidéoprojecteur~
+vidéoprojecteurs~
+vidéo par défaut~
+video~
+videos~
+video videos~
+via le pare-feu windows~
+version~
+versions précédentes de windows~
+version antérieure~
+version 32 bits ou 64 bits de windows~
+vers windows 8~
+vers windows 8.1~
+vers windows 7~
+vers une version antérieure~
+vers les coins ou les bords de l’écran~
+verrouiller~
+verrouiller l’ordinateur lorsque je ne l’utilise pas pendant un certain temps~
+verrouiller les majuscules si vous appuyez deux fois sur maj~
+verrouiller la barre des tâches~
+verrouillage~
+verrouillages~
+verrouillage majuscules~
+verrouillage des majuscules~
+verrouillage de la rotation~
+verr. num et arrêt défil~
+verr. maj, verr. num et arrêt défil~
+verifier~
+veille~
+veilles~
+veille en cas d’utilisation de la batterie~
+veille du pc quand il est branché~
+veille de l’ordinateur~
+veile~
+variés~
+variables d’environnement système~
+variables d’environnement pour votre compte~
+valeurs par défaut~
+valeur par défaut~
+utilisées dans l’écran d’accueil~
+utilisé par vos fichiers hors connexion~
+utilisez windows~
+utilisez le pavé tactile~
+utilisez le menu windows + x~
+utiliser votre liste de langues~
+utiliser votre identifiant de publicité~
+utiliser une application pour créer un avatar du compte~
+utiliser ou non un retour tactile plus important~
+utiliser les fonctionnalités de développement~
+utiliser le menu démarrer en plein écran~
+utiliser la souris ou le clavier~
+utiliser la disposition de clavier standard comme option de clavier tactile~
+utiliser la description audio pour les vidéos~
+utiliser la configuration de proxy automatique~
+utiliser la caméra pour créer un avatar de compte~
+utiliser des petits boutons de barre des tâches~
+utiliser comme écran principal~
+utiliser ce pc~
+utilise pas pendant un certain temps~
+utilise mon stylet~
+utilisation hors connexion~
+utilisation du narrateur~
+utilisation des ressources système dans le gestionnaire des tâches~
+utilisation des bureaux virtuels~
+utilisation de la batterie~
+utilisateur~
+utilisateurs~
+utilisateurs qui peuvent se servir du bureau à distance~
+utilisateurs et les groupes locaux~
+utilisateur utilisateurs~
+utilisateur avancées~
+usine~
+user~
+user users people~
+user information~
+usb~
+usage~
+up~
+uppercase~
+update~
+updates~
+unjoin~
+unités centrales~
+uninstall~
+unie comme mode arrière-plan~
+une, une image ou un diaporama comme mode arrière-plan de l’écran de verrouillage~
+une visionneuse de photos par défaut~
+une version antérieure~
+une version 32 bits ou 64 bits de windows~
+une utilisation hors connexion~
+une touche à la fois pour les raccourcis clavier~
+une tonalité lors de l’appui sur les touches verr. maj, verr. num et arrêt défil~
+une suggestion de texte~
+une souris est connectée~
+une présentation~
+une phrase par une majuscule avec le clavier tactile~
+une personne à se connecter à votre pc pour vous aider ou proposer votre aide à une autre personne~
+une nouvelle édition de windows~
+une majuscule avec le clavier tactile~
+une langue à cet appareil~
+une incidence sur l’autonomie de la batterie~
+une image ou un diaporama comme mode arrière-plan de l’écran de verrouillage~
+une fonctionnalité facultative~
+une fenêtre, ajuster automatiquement pour remplir l’espace disponible~
+une fenêtre, afficher ce que je peux ancrer à côté~
+une fenêtre ancrée, redimensionner simultanément toute fenêtre ancrée adjacente~
+une exécution sans problème de windows~
+une couleur à l’écran d’accueil, à la barre des tâches et au centre de notifications~
+une couleur unie comme mode arrière-plan~
+une connexion ou un réseau~
+une connexion haut débit~
+une connexion d'accès à distance~
+une autre personne~
+une application via le pare-feu windows~
+une application pour créer un avatar du compte~
+une application par défaut pour chaque type de fichier~
+une application par défaut pour chaque protocole~
+une application de messagerie par défaut~
+une application de carte par défaut~
+underline keyboard shortcuts~
+un écran~
+un site web~
+un réseau~
+un retour tactile plus important~
+un rapport sur l’intégrité du système~
+un programme~
+un programme à partir du réseau~
+un problème~
+un point quand vous appuyez deux fois sur la barre d’espace~
+un point d’accès sans fil mobile~
+un point de restauration~
+un package d’approvisionnement~
+un navigateur web par défaut~
+un mot de passe image~
+un mode de gestion d’alimentation~
+un microphone~
+un lecteur vidéo par défaut~
+un lecteur de récupération~
+un lecteur de musique par défaut~
+un flux rss est disponible sur un site web~
+un fichier~
+un espace quand vous choisissez une suggestion de texte~
+un délai d’activation du pavé tactile~
+un double-clic pour ouvrir~
+un dossier au diaporama de l’écran de verrouillage~
+un disque de réinitialisation du mot de passe~
+un diaporama ou une couleur unie comme mode arrière-plan~
+un diaporama comme mode arrière-plan de l’écran de verrouillage~
+un deuxième écran~
+un compte pour l’accès affecté~
+un clic simple ou un double-clic pour ouvrir~
+un certain temps~
+un avatar du compte~
+un avatar de compte~
+un arrière-plan, un diaporama ou une couleur unie comme mode arrière-plan~
+un aperçu, supprimer ou afficher et masquer les polices~
+un ajustement d’image~
+uefi~
+uc~
+uac~
+télévision~
+téléphone et modem~
+télécopie télécopies~
+téléchargées~
+télécharger~
+télécharger des cartes pour une utilisation hors connexion~
+tâche~
+tâches~
+tâches à l’écran~
+tâches sur tous les affichages~
+tâches sur plusieurs écrans~
+tâches planifiées~
+tâches lors de l’utilisation des bureaux virtuels~
+tâches et navigation~
+tâches et le centre de notifications~
+tâches et au centre de notifications~
+tâches en mode tablette~
+tâches de maintenance recommandées automatiquement~
+tâches dans l’affichage principal~
+tâches dans les écrans secondaires~
+tâches ?~
+type types~
+type de fichier~
+tv~
+tts~
+trouver d'autres thèmes en ligne~
+troubleshooting~
+troubleshoot network~
+trois doigts~
+trois doigts sur le pavé tactile~
+tray~
+travers le menu démarrer, la barre des tâches et le centre de notifications~
+travail~
+travail pour ce pc~
+transparent~
+transparency~
+transparence~
+trackpad~
+trackpad track pad~
+track pad~
+toute fenêtre ancrée adjacente~
+tous les rapports d’erreurs~
+tous les affichages~
+touch~
+touchpad~
+touching~
+touche~
+touchez l’écran~
+touches~
+touches verr. maj, verr. num et arrêt défil~
+touches d’accès rapide~
+touches bascules~
+toucher~
+toucher et envoyer~
+touche à la fois pour les raccourcis clavier~
+touche touches~
+touch pad~
+touch dark darker~
+tonalité lors de l’appui sur les touches verr. maj, verr. num et arrêt défil~
+tonalité de la voix du narrateur~
+toggle keys~
+toggle beep~
+toast~
+toast toasts~
+to go~
+titre~
+titrage codé~
+tip tips~
+time~
+timezone~
+times~
+time times~
+tile~
+tiles~
+tiers~
+thème~
+thèmes et paramètres associés~
+thèmes en ligne~
+thème thèmes~
+three~
+thickness~
+theme~
+theme themes~
+texte~
+texte voix~
+texte textes~
+texte et d’autres éléments plus petits ou plus grands~
+texte en cours de frappe~
+texte cleartype~
+tethering~
+tester votre internet~
+test your internet~
+test de vitesse~
+temps~
+temporaires~
+telnet~
+telephone~
+taskview~
+tasking~
+taskbar~
+task manager~
+task bar~
+tapés~
+tap~
+tap taps~
+taille~
+tailles~
+taille du pointeur de la souris~
+taille des applications à l’écran~
+tactile~
+tactile plus important~
+tactile multipoint~
+tactile lorsqu’une souris est connectée~
+tactile lorsque le narrateur est activé~
+tactile lorsque j’utilise mon stylet~
+tactile avec trois doigts~
+tactile avec quatre doigts~
+tactile avec deux doigts~
+taches~
+tab~
+tabs~
+tablet~
+tablette~
+tablette lors de la connexion~
+tablet pc~
+tab lors de l’utilisation des bureaux virtuels~
+s’il faut afficher des suggestions de texte~
+s’exécuter en arrière-plan~
+sélectionnés au clavier~
+sélectionner les utilisateurs qui peuvent se servir du bureau à distance~
+sélectionner les icônes à afficher dans la barre des tâches~
+sécurité~
+sécurité et maintenance~
+sécuriser~
+système~
+systèmes~
+système dans le gestionnaire des tâches~
+système avancés~
+system~
+systems~
+systeme~
+system systems~
+synthèse vocale~
+sync~
+syncs~
+synchronisés sur ce pc~
+synchroniser vos paramètres~
+synchroniser vos paramètres des options d’ergonomie~
+synchroniser vos paramètres de personnalisation~
+synchroniser vos paramètres de langue et de clavier~
+synchroniser vos mots passe sur ce pc~
+synchroniser synchronise~
+synchroniser l’explorateur de fichiers et d’autres paramètres~
+synchroniser les paramètres de votre navigateur sur ce pc~
+synchronisation~
+synchronisations~
+sync syncs~
+switch~
+swipe swipes~
+sur votre écran de verrouillage~
+sur une touche à la fois pour les raccourcis clavier~
+sur un site web~
+sur un deuxième écran~
+sur tous les affichages~
+sur plusieurs écrans~
+sur maj~
+sur l’écran de démarrage~
+sur l’intégrité du système~
+sur l’autonomie de la batterie~
+sur les touches verr. maj, verr. num et arrêt défil~
+sur le support pc~
+sur le stylet et l’entrée tactile~
+sur le réseau~
+sur le processeur~
+sur le pavé tactile~
+sur le pavé tactile avec trois doigts~
+sur le pavé tactile avec quatre doigts~
+sur le pavé tactile avec deux doigts~
+sur le compte~
+sur le bureau~
+sur le bouton afficher le bureau à l’extrémité de la barre des tâches~
+sur la ram~
+sur la barre d’espace~
+sur la barre des tâches~
+sur la barre des tâches en mode tablette~
+sur la barre des tâches dans l’affichage principal~
+sur la barre des tâches dans les écrans secondaires~
+sur de nouvelles bases avec l’installation propre de windows.~
+sur ce pc~
+sur alt+tab lors de l’utilisation des bureaux virtuels~
+suprimer~
+supre~
+supprime~
+supprimer~
+supprimer un programme~
+supprimer un package d’approvisionnement~
+supprimer programme~
+supprimer package~
+supprimer ou gérer des comptes d’application~
+supprimer ou gérer des comptes de messagerie~
+supprimer ou afficher et masquer les polices~
+supprimer l’historique de navigation~
+supprimer les images d’arrière-plan de windows~
+supprimer les cookies ou les fichiers temporaires~
+supprimer les cartes~
+supprimer les cartes téléchargées~
+supprimer la carte~
+supprimer historique~
+supprimer d’autres utilisateurs~
+supprimer des programmes~
+supprimer des appareils~
+supprimer cookies~
+supprimant les fichiers inutiles~
+suppression~
+suppressions~
+support~
+support technique~
+support pc~
+supplémentaire~
+suivre des didacticiels de la reconnaissance vocale~
+suit les éléments sélectionnés au clavier~
+suit le point d’insertion de texte~
+suit la fermeture du capot~
+suggérer~
+suggérer suggère~
+suggérer les paramètres d’options d’ergonomie~
+suggérer des fenêtres~
+suggère~
+suggests~
+suggestions~
+suggestions lorsque vous utilisez windows~
+suggestions de texte~
+suggestions de texte en cours de frappe~
+suggestions dans l’écran d’accueil~
+suggestion suggestions~
+suggestion de texte~
+suggest windows~
+suggest suggests~
+stylo~
+stylos~
+stylet~
+stylets~
+stylet stylets~
+stylet ou l’entrée tactile~
+stylet et l’entrée tactile~
+stylet et fonction tactile~
+stratégie~
+stratégies~
+stratégies de sécurité~
+stratégie de groupe~
+strategie~
+storage~
+stop~
+stockage~
+sticky~
+status~
+statuses~
+start~
+startup~
+start starts~
+standard~
+standard comme option de clavier tactile~
+sso~
+squiggled~
+spécifier un clic simple ou un double-clic pour ouvrir~
+spécifier la main avec laquelle vous écrivez~
+spotlight~
+spells~
+spellings~
+spelling spellings~
+spell spells~
+speed~
+speed test~
+speech~
+space~
+spaces~
+spacebar~
+space-bar~
+space spaces~
+sous-titrage codé~
+souris~
+souris sur le bouton afficher le bureau à l’extrémité de la barre des tâches~
+souris ou le clavier~
+souris lorsqu’il se déplace~
+souris et pavé tactile~
+souris et du pavé tactile~
+souris est connectée~
+souris des options d’ergonomie~
+sourie~
+sources de données odbc~
+sources de données odbc (64 bits)~
+sources de données odbc (32 bits)~
+sound~
+sound sounds~
+souligner les raccourcis clavier~
+souligner les raccourcis clavier et autres paramètres du clavier~
+souhaitez afficher l’état rapide~
+souhaitez afficher l’état détaillé~
+son~
+sont synchronisés sur ce pc~
+sont affichées~
+sons~
+sons système~
+sons par des signaux visuels~
+sons en cours de frappe~
+son des autres applications quand le narrateur est activé~
+sombre~
+solutions pour les rapports de problèmes~
+solutions aux problèmes~
+solid color~
+société~
+sociétés~
+snap~
+snapresize~
+snap fill~
+snap assist~
+sms~
+smartscreen~
+smartscreen pour les applications~
+smaller~
+slow~
+slideshow~
+slideshow slideshows~
+slide show~
+sleeps~
+sleep sleeps~
+skydrive onedrive~
+size~
+sites web~
+sites web peuvent utiliser votre liste de langues~
+site web~
+site sites~
+simultanément toute fenêtre ancrée adjacente~
+simple ou un double-clic pour ouvrir~
+similaires~
+similaires sur la barre des tâches dans l’affichage principal~
+similaires sur la barre des tâches dans les écrans secondaires~
+signaux~
+signaux visuels~
+signal~
+sign-in~
+sign-in sign~
+si windows est activé~
+si vous êtes gaucher ou droitier~
+si vous utilisez le pavé tactile~
+si vous pincez le pavé tactile avec deux doigts~
+si vous faites glisser trois doigts sur le pavé tactile~
+si vous faites glisser deux doigts sur le pavé tactile~
+si vous avez une version 32 bits ou 64 bits de windows~
+si vous appuyez sur le pavé tactile avec trois doigts~
+si vous appuyez sur le pavé tactile avec quatre doigts~
+si vous appuyez sur le pavé tactile avec deux doigts~
+si vous appuyez deux fois sur maj~
+si un flux rss est disponible sur un site web~
+si les sites web peuvent utiliser votre liste de langues~
+si les paramètres sont synchronisés sur ce pc~
+si les applications peuvent utiliser votre identifiant de publicité~
+si le narrateur suit les éléments sélectionnés au clavier~
+si le narrateur lit les pistes audio~
+si le narrateur lit les mots tapés~
+si le narrateur lit les caractères tapés~
+si la loupe suit les éléments sélectionnés au clavier~
+si la loupe suit le point d’insertion de texte~
+show underlines~
+show shortcuts~
+shift~
+set~
+setup~
+setting~
+settings~
+setting settings~
+set sets~
+set plan~
+set limit~
+session~
+servir du bureau à distance~
+services locaux~
+services bureau à distance~
+service recherche windows~
+service locaux~
+serveur~
+serveurs~
+serveurs proxy~
+serveur proxy~
+server~
+servers~
+server servers~
+sensibilité~
+sense~
+sens de défilement du pavé tactile~
+securité~
+securite~
+secure~
+secondaires~
+search~
+se servir du bureau à distance~
+se passe lorsque l’appareil active ou désactive le mode tablette~
+se déplace~
+se connecter à votre pc pour vous aider ou proposer votre aide à une autre personne~
+se connecter à l’entreprise ou à l’établissement~
+scr~
+scroll~
+scrolls~
+scrolling~
+scroll scrolls~
+screen~
+screens~
+screen screens~
+scolaire~
+scanneur~
+scanneurs et les appareils photo~
+scanneurs et imprimantes~
+scanner~
+scanners~
+scanner scanneur scanneurs scanneurs numérisation~
+scaner~
+scan scanner scanners scanning~
+scaling~
+saving~
+save~
+saver~
+sauvegarde~
+sauvegarder~
+sauvegarder votre clé de récupération~
+sauvegarder et restaurer (windows 7)~
+sauvegarde sauvegardes~
+sans utiliser la souris ou le clavier~
+sans problème de windows~
+sans fil~
+sans fil mobile~
+same~
+saisie~
+saisies~
+saisie effectuée à l’aide du stylet ou l’entrée tactile~
+saisie automatique dans internet explorer~
+safety~
+rétrograder vers windows 8~
+rétrograder vers windows 8.1~
+rétrograder vers windows 7~
+rétrograder vers une version antérieure~
+résultat si vous faites glisser trois doigts sur le pavé tactile~
+résultat si vous appuyez sur le pavé tactile avec trois doigts~
+résultat si vous appuyez sur le pavé tactile avec quatre doigts~
+résoudre les problèmes~
+résoudre les problèmes d’écran bleu~
+résoudre les problèmes de votre ordinateur~
+résoudre les problèmes de périphériques~
+résoudre les problèmes avec le service recherche windows~
+résoudre les problèmes avec le groupe résidentiel~
+résoudre des problèmes~
+résoudre des problèmes d’impression~
+résoudre des problèmes d’enregistrement audio~
+résoudre des problèmes de réseau et de connexion~
+résoudre des problèmes de lecture audio~
+résoudre des problèmes de clavier~
+résolution~
+résolutions~
+résolution écran~
+résolution résolutions~
+résolution des problèmes~
+résolution de l’écran~
+résidentiel~
+réseau~
+réseaux privés virtuels (vpn)~
+réseau étendu sans fil~
+réseau privé virtuel~
+réseau local~
+réseau local sans fil~
+réseau haut débit~
+réseau et partage~
+réseau et de connexion~
+réseau cellulaire~
+répétées~
+réparer les problèmes sur le réseau~
+réorganiser~
+réorganiser plusieurs affichages~
+réinstalle~
+réinstaller~
+réinitialiser~
+réinitialiser les stratégies de sécurité~
+réinitialiser ce pc~
+réinitialisation du réseau~
+réinitialisation du mot de passe~
+régler~
+régler l’apparence et les performances de windows~
+région~
+région et de langue~
+récupérer~
+récupération~
+récupère~
+récent~
+récents concernant votre ordinateur~
+récemment ouverts dans les listes de raccourcis de l’écran d’accueil ou la barre des tâches~
+récemment ajoutées dans l’écran d’accueil~
+règles de numérotation~
+rss est disponible sur un site web~
+roulette~
+roulettes~
+roulette roulettes~
+roulette de la souris~
+rotation~
+rotate~
+rotates~
+rotate rotates~
+room~
+roam roams~
+right~
+rightclick~
+right handed~
+right click~
+reçu à l’aide d’toucher et envoyer~
+revenir à l’envoyeur~
+retour~
+retours visuels~
+retour visuel~
+retour visuel quand vous touchez l’écran~
+retour visuel du stylet~
+retour tactile plus important~
+restore~
+restores~
+restore restores~
+restaure~
+restaurer~
+restaurer vos fichiers à l’aide de l’historique des fichiers~
+restaurer (windows 7)~
+restauration~
+restauration système~
+restauration systeme~
+ressources système dans le gestionnaire des tâches~
+resoudre~
+resolution~
+resolution resolutions~
+resolution ecran~
+resize~
+resize windows~
+reset~
+reseau~
+reseaux~
+reseau et~
+resau~
+require~
+reproduire un problème~
+repartez sur de nouvelles bases avec l’installation propre de windows.~
+reparer~
+reparation~
+renommer~
+renommer votre pc~
+reni~
+rendre le texte et d’autres éléments plus petits ou plus grands~
+rendez-vous rendez-vous~
+rename~
+remplissage~
+remplissage d’ancrage~
+remplissage de fenêtre~
+remplir l’espace disponible~
+remplacer l’invite de commande par windows powershell lorsque vous utilisez le menu windows + x~
+remplacer les sons par des signaux visuels~
+remove~
+remove removes~
+remove package~
+removable~
+remoteapp et bureau à distance~
+remoteapp et aux services bureau à distance~
+release~
+rejet~
+rejeter~
+rejection~
+reinstall~
+reinitialiser~
+reg~
+regrouper~
+regrouper des fenêtres similaires~
+regrouper des fenêtres similaires sur la barre des tâches dans l’affichage principal~
+regrouper des fenêtres similaires sur la barre des tâches dans les écrans secondaires~
+regler~
+reglage son~
+registre microsoft ime (japonais)~
+region~
+refreshes~
+refresh refreshes~
+redimensionner~
+redimensionner simultanément toute fenêtre ancrée adjacente~
+redimensionner les fenêtres~
+redimensionnement~
+redimensionne une fenêtre ancrée, redimensionner simultanément toute fenêtre ancrée adjacente~
+recuperation~
+recovery~
+recovers~
+recover recovers~
+reconnaissance vocale~
+reconnaissance faciale~
+reconnaissance de l’iris~
+reconnaissance de l’empreinte digitale~
+recommandées pour une exécution sans problème de windows~
+recommandées automatiquement~
+recherche~
+rechercher~
+rechercher uniquement sur mon pc~
+rechercher un avatar de compte~
+rechercher sur l'appareil~
+rechercher les programmes malveillants et autres programmes potentiellement indésirables~
+rechercher et résoudre les problèmes d’écran bleu~
+rechercher et résoudre les problèmes de périphériques~
+rechercher et résoudre les problèmes avec le service recherche windows~
+rechercher et résoudre les problèmes avec le groupe résidentiel~
+rechercher et résoudre des problèmes~
+rechercher et résoudre des problèmes d’impression~
+rechercher et résoudre des problèmes d’enregistrement audio~
+rechercher et résoudre des problèmes de réseau et de connexion~
+rechercher et résoudre des problèmes de lecture audio~
+rechercher et résoudre des problèmes de clavier~
+rechercher et corriger des problèmes windows update~
+rechercher en ligne~
+rechercher des solutions pour les rapports de problèmes~
+recherche windows~
+recherche sécurisée~
+recherche recherches~
+recherche pour les fichiers et les dossiers~
+recherche hors connexion~
+recherche de windows~
+recherche dans internet explorer~
+recevoir un fichier~
+recent~
+reader~
+readers~
+reader readers~
+re-install~
+re-arrange~
+rcse~
+rapports d’erreurs~
+rapports de problèmes~
+rapport sur l’intégrité du système~
+rapide~
+rapides~
+ram~
+radio~
+raccourcis~
+raccourcis stylet~
+raccourcis pour effectuer certaines tâches~
+raccourcis de l’écran d’accueil ou la barre des tâches~
+raccourcis clavier~
+raccourcis clavier et autres paramètres du clavier~
+quick~
+qui suit la fermeture du capot~
+qui se passe lorsque l’appareil active ou désactive le mode tablette~
+qui peuvent s’exécuter en arrière-plan~
+qui peuvent se servir du bureau à distance~
+qui ont une incidence sur l’autonomie de la batterie~
+qui affichent des notifications~
+quels processus démarrent automatiquement lorsque vous démarrez windows~
+que les fenêtres affichent lorsque vous appuyez sur alt+tab lors de l’utilisation des bureaux virtuels~
+que les fenêtres affichent dans la barre des tâches lors de l’utilisation des bureaux virtuels~
+que je peux ancrer à côté~
+quatre doigts~
+quand éteindre l’écran~
+quand éteindre l’écran quand il est branché~
+quand éteindre l’écran lorsqu’il est branché~
+quand éteindre l’écran en cas d’utilisation de la batterie~
+quand vous touchez l’écran~
+quand vous choisissez une suggestion de texte~
+quand vous appuyez deux fois sur la barre d’espace~
+quand le pc bascule en mode veille en cas d’utilisation de la batterie~
+quand le narrateur est activé~
+quand il faut éteindre l’écran en cas d’utilisation de la batterie~
+quand il est branché~
+quand activer le clavier tactile lorsque le narrateur est activé~
+périphérique~
+périphériques~
+périphériques sans fil~
+périphériques réseau~
+périphériques mobiles)~
+périphériques et imprimantes~
+périphériques audio~
+périphérique appareil~
+pub~
+pubs~
+publicité~
+publicitaires~
+présentation~
+présentation des pages web dans les onglets~
+prédit~
+prédire~
+prédiction~
+prédictions~
+précédentes de windows~
+proxy~
+proxy réseau~
+proxy proxies~
+proxy automatique~
+proxies~
+provision~
+provisioning~
+protéger protège~
+protocol~
+protocols~
+protocole~
+protocoles~
+protocol protocols~
+protection~
+protect protects~
+propriété~
+propriétés de profil utilisateur avancées~
+propriete~
+propre~
+propre de windows.~
+proposer votre aide à une autre personne~
+propos de votre pc~
+projeter~
+projeter sur un deuxième écran~
+project~
+projector~
+projector projectors~
+projection~
+projections~
+projection sur ce pc~
+projecting~
+projecteur~
+program~
+programs~
+programme~
+programmes~
+programmes remoteapp et aux services bureau à distance~
+programmes potentiellement indésirables~
+programmes par défaut~
+programmes malveillants et autres programmes potentiellement indésirables~
+programmes et fonctionnalités~
+programmes conçus pour des versions précédentes de windows~
+programme à partir du réseau~
+programme windows insider~
+programme par~
+programme par defaut~
+programme et~
+programes~
+program programs~
+program files~
+profil utilisateur avancées~
+profil et d’avatar du compte~
+professionnel ou scolaire~
+produit~
+processus démarrent automatiquement lorsque vous démarrez windows~
+processeur~
+problème~
+problèmes~
+problèmes windows update~
+problèmes sur le réseau~
+problèmes d’écran bleu~
+problèmes d’impression~
+problèmes d’enregistrement audio~
+problèmes de votre ordinateur~
+problèmes de réseau et de connexion~
+problèmes de périphériques~
+problèmes de mémoire de l’ordinateur~
+problèmes de lecture audio~
+problèmes de clavier~
+problèmes avec le service recherche windows~
+problèmes avec le groupe résidentiel~
+problème de windows~
+probleme~
+privés~
+privés virtuels (vpn)~
+private~
+privacy~
+prise en charge des applications 16 bits~
+printer~
+print printer printers printing~
+principal~
+principal de votre souris~
+primary~
+preview~
+pressed~
+predicts~
+predictions~
+prediction predictions~
+predict predicts~
+powershell lorsque vous utilisez le menu windows + x~
+pour vous aider ou proposer votre aide à une autre personne~
+pour votre compte~
+pour une utilisation hors connexion~
+pour une exécution sans problème de windows~
+pour reproduire un problème~
+pour remplir l’espace disponible~
+pour regrouper des fenêtres similaires sur la barre des tâches dans l’affichage principal~
+pour regrouper des fenêtres similaires sur la barre des tâches dans les écrans secondaires~
+pour ouvrir~
+pour l’éditeur de méthode d’entrée microsoft (japonais)~
+pour l’accès affecté~
+pour les vidéos~
+pour les rapports de problèmes~
+pour les raccourcis clavier~
+pour les paramètres de développeur~
+pour les moniteurs, scanneurs et imprimantes~
+pour les fichiers et les dossiers~
+pour les applications~
+pour la saisie effectuée à l’aide du stylet ou l’entrée tactile~
+pour la loupe~
+pour effectuer certaines tâches~
+pour d’autres appareils~
+pour données de mouvement~
+pour des versions précédentes de windows~
+pour des fuseaux horaires variés~
+pour créer un avatar du compte~
+pour créer un avatar de compte~
+pour chaque type de fichier~
+pour chaque protocole~
+pour ce pc~
+potentiellement indésirables~
+poste de travail~
+portrait~
+portal~
+politique~
+politiques~
+policy policies~
+policies~
+police~
+polices~
+polices installées~
+point~
+points~
+points de restauration~
+points accès~
+pointeur~
+pointeurs~
+pointeur du stylet~
+pointeur de souris~
+pointeur de souris lorsqu’il se déplace~
+pointeur de la souris~
+pointeur avec le pavé tactile~
+point restauration~
+point quand vous appuyez deux fois sur la barre d’espace~
+point final~
+point d’insertion de texte~
+point d’accès sans fil mobile~
+point de restauration~
+point accès~
+podomètre~
+podomètres~
+plusieurs écrans~
+plusieurs affichages~
+plus utilisées dans l’écran d’accueil~
+plus sombre~
+plus petit~
+plus petits ou plus grands~
+plus important~
+plus gros~
+plus grand~
+plus grands~
+plus de vignettes sur l’écran de démarrage~
+plus de fonctionnalités avec une nouvelle édition de windows~
+plein écran~
+player~
+plan~
+planifiées~
+plan, un diaporama ou une couleur unie comme mode arrière-plan~
+plan de windows~
+plan de l’écran de verrouillage~
+places~
+pivote~
+pivoter~
+pistes audio~
+pin~
+pinch~
+pincez le pavé tactile avec deux doigts~
+pincement~
+pin pins~
+pilotes~
+pilotes de périphériques~
+picture~
+pictures~
+picture pictures~
+physique~
+physical~
+phrase par une majuscule avec le clavier tactile~
+photo~
+photos~
+photos par défaut~
+photo photos~
+peux ancrer à côté~
+peuvent utiliser votre liste de langues~
+peuvent utiliser votre identifiant de publicité~
+peuvent s’exécuter en arrière-plan~
+peuvent se servir du bureau à distance~
+petits ou plus grands~
+petits boutons de barre des tâches~
+personne~
+personnes~
+personne à se connecter à votre pc pour vous aider ou proposer votre aide à une autre personne~
+personnaliser~
+personnaliser les paramètres du bureau virtuel~
+personnaliser les barres des tâches ?~
+personnaliser la barre des tâches sur plusieurs écrans~
+personnaliser comment regrouper des fenêtres similaires~
+personnalisation~
+personalize~
+personalization~
+periphérique~
+periphériques~
+peripherique~
+peripheriques~
+peripheriques et~
+peripherique et~
+peripherique audio~
+periods~
+period periods~
+perif~
+perifer~
+performances de windows~
+pere~
+pendant un certain temps~
+pendant l’utilisation du narrateur~
+pen shortcuts~
+pen pens~
+peek~
+pedometer~
+pc~
+pcs~
+pc quand il est branché~
+pc pour vous aider ou proposer votre aide à une autre personne~
+pc pcs~
+pc bascule en mode veille en cas d’utilisation de la batterie~
+pays~
+paysage~
+pays ou la région~
+pavé tactile~
+pavé tactile lorsqu’une souris est connectée~
+pavé tactile avec trois doigts~
+pavé tactile avec quatre doigts~
+pavé tactile avec deux doigts~
+pave~
+pave tactile~
+paume~
+path~
+password~
+passwords~
+password passwords~
+passe~
+passer en mode tablette lors de la connexion~
+passe sur ce pc~
+passe réseau~
+passe lorsque l’appareil active ou désactive le mode tablette~
+passe image~
+passe du groupe résidentiel~
+pas pendant un certain temps~
+partitions de disque dur~
+partir du réseau~
+partir des bords du pavé tactile~
+partir de cet ordinateur~
+partage~
+partager des imprimantes~
+partage de~
+partage connexion~
+partage avancés~
+parfeu~
+parent parents~
+parefeu~
+pare-feu~
+pare-feu windows~
+pare feu~
+pare feu windows~
+paramètre~
+paramètres~
+paramètres wi-fi~
+paramètres voix~
+paramètres usb~
+paramètres système avancés~
+paramètres sont synchronisés sur ce pc~
+paramètres smartscreen~
+paramètres pour l’éditeur de méthode d’entrée microsoft (japonais)~
+paramètres par défaut de lecture automatique~
+paramètres multitâche~
+paramètres manuels de serveur proxy~
+paramètres graphiques intel®~
+paramètres ethernet~
+paramètres d’un point d’accès sans fil mobile~
+paramètres d’options d’ergonomie~
+paramètres d’installation du périphérique~
+paramètres d’entrée tactile~
+paramètres d’entrée tactile multipoint~
+paramètres d’arrière-plan~
+paramètres d’application par défaut~
+paramètres d’alimentation et de mise en veille~
+paramètres d’accès à distance~
+paramètres d’accessibilité actuels~
+paramètres du tablet pc~
+paramètres du stylet~
+paramètres du proxy~
+paramètres du programme windows insider~
+paramètres du narrateur~
+paramètres du mode tablette~
+paramètres du contenu reçu à l’aide d’toucher et envoyer~
+paramètres du clavier~
+paramètres du clavier tactile~
+paramètres du clavier des options d’ergonomie~
+paramètres du bureau virtuel~
+paramètres directaccess~
+paramètres des écrans multiples~
+paramètres des thèmes et paramètres associés~
+paramètres des options d’ergonomie~
+paramètres des notifications et des actions~
+paramètres des fichiers internet temporaires~
+paramètres des cartes hors connexion~
+paramètres des boutons de la souris~
+paramètres des appareils connectés~
+paramètres de windows update~
+paramètres de windows defender~
+paramètres de votre souris~
+paramètres de votre navigateur sur ce pc~
+paramètres de sécurité~
+paramètres de synthèse vocale~
+paramètres de sous-titrage codé~
+paramètres de sauvegarde~
+paramètres de saisie~
+paramètres de région et de langue~
+paramètres de proxy réseau~
+paramètres de profil et d’avatar du compte~
+paramètres de police~
+paramètres de personnalisation~
+paramètres de partage avancés~
+paramètres de maintenance automatique~
+paramètres de l’écran de verrouillage~
+paramètres de loupe~
+paramètres de localisation~
+paramètres de lecture automatique~
+paramètres de langue et de clavier~
+paramètres de la souris et du pavé tactile~
+paramètres de la souris des options d’ergonomie~
+paramètres de la roulette~
+paramètres de la fonction voix, d’entrée manuscrite et de confidentialité de saisie~
+paramètres de la carte audio~
+paramètres de la barre des tâches~
+paramètres de gestion de couleurs pour les moniteurs, scanneurs et imprimantes~
+paramètres de développeur~
+paramètres de démarrage~
+paramètres de date et d’heure~
+paramètres de couleurs~
+paramètres de cortana et rechercher~
+paramètres de contrôle de compte d’utilisateur~
+paramètres de contraste élevé~
+paramètres de consommation des données~
+paramètres de confidentialité~
+paramètres de confidentialité pour d’autres appareils~
+paramètres de confidentialité pour données de mouvement~
+paramètres de confidentialité du micro~
+paramètres de confidentialité du calendrier~
+paramètres de confidentialité des informations sur le compte~
+paramètres de confidentialité des contacts~
+paramètres de confidentialité des commentaires~
+paramètres de confidentialité de radio~
+paramètres de confidentialité de l’historique des appels~
+paramètres de confidentialité de l’emplacement~
+paramètres de confidentialité de l’appareil photo~
+paramètres de confidentialité de la messagerie~
+paramètres de confidentialité de courrier électronique~
+paramètres de compte de messagerie et d’application~
+paramètres de chiffrement de l’appareil~
+paramètres cellulaires~
+paramètres bluetooth~
+paramètres avant de donner une présentation~
+paramètres associés~
+paramètres apparence~
+paramètre paramètres~
+paramètre de mise en veille du pc quand il est branché~
+parametre~
+parametres~
+parametre systeme~
+parametre son~
+parametre blu~
+par windows powershell lorsque vous utilisez le menu windows + x~
+par vos fichiers hors connexion~
+par une majuscule avec le clavier tactile~
+par reconnaissance faciale~
+par reconnaissance de l’iris~
+par reconnaissance de l’empreinte digitale~
+par feu~
+par défaut~
+par défaut pour chaque type de fichier~
+par défaut pour chaque protocole~
+par défaut de lecture automatique~
+par des signaux visuels~
+par code pin~
+papiers peints~
+papier peint~
+pan~
+panning~
+panneau de configuration~
+palm~
+paired devices~
+pages web dans les onglets~
+page d’accueil~
+pad~
+package~
+packages~
+package d’approvisionnement~
+pack packs~
+ouvrir~
+ouverts dans les listes de raccourcis de l’écran d’accueil ou la barre des tâches~
+outils d’administration~
+outil d~
+ou à l’établissement~
+ou une couleur unie comme mode arrière-plan~
+ou un réseau~
+ou un double-clic pour ouvrir~
+ou un diaporama comme mode arrière-plan de l’écran de verrouillage~
+ou supprimer un programme~
+ou supprimer un package d’approvisionnement~
+ou supprimer d’autres utilisateurs~
+ou supprimer des programmes~
+ou supprimer des appareils~
+ou scolaire~
+ou répétées~
+ou recevoir un fichier~
+ou proposer votre aide à une autre personne~
+ou plus grands~
+ou non un retour tactile plus important~
+ou non un délai d’activation du pavé tactile~
+ou non le retour visuel du stylet~
+ou non le pointeur du stylet~
+ou masquer les icônes communes sur le bureau~
+ou masquer les extensions de fichier~
+ou l’entrée tactile~
+ou les fichiers temporaires~
+ou les bords de l’écran~
+ou le clavier~
+ou la vitesse du pointeur de souris~
+ou la région~
+ou la barre des tâches~
+ou identifier un écran~
+ou gérer des comptes d’application~
+ou gérer des comptes de messagerie~
+ou groupe de travail pour ce pc~
+ou désactiver l’écran de veille~
+ou désactiver l’économiseur de batterie~
+ou désactiver l’heure d’été~
+ou désactiver les périphériques sans fil~
+ou désactiver les notifications d’application~
+ou désactiver les icônes système~
+ou désactiver les cookies de session~
+ou désactiver les animations windows~
+ou désactiver le pavé tactile~
+ou désactiver le narrateur~
+ou désactiver le mode avion~
+ou désactiver le filtre smartscreen pour les applications~
+ou désactiver le diaporama de l’écran de verrouillage~
+ou désactiver la saisie automatique dans internet explorer~
+ou désactiver la luminosité automatique~
+ou désactiver la loupe~
+ou désactiver la lecture automatique~
+ou désactiver la détection de proxy automatique~
+ou désactiver des fonctionnalités windows~
+ou désactive le mode tablette~
+ou droitier~
+ou de l’établissement d’enseignement~
+ou autoriser les fenêtres publicitaires~
+ou autoriser les cookies tiers~
+ou afficher et masquer les polices~
+ou 64 bits de windows~
+other~
+osk~
+orthographiés~
+orthographe~
+orthographes~
+orientation~
+orientations~
+orientation orientations~
+orientation de l’écran~
+organizations~
+organization organizations~
+organiser~
+organiser automatiquement les fenêtres en les déplaçant vers les coins ou les bords de l’écran~
+organisation~
+organisations~
+organisation à gérer votre pc~
+organisation ou groupe de travail pour ce pc~
+ordis~
+ordinateur~
+ordinateurs et les périphériques réseau~
+ordinateur sans utiliser la souris ou le clavier~
+ordinateur lorsque je ne l’utilise pas pendant un certain temps~
+ordinateur et résoudre les problèmes~
+option~
+options~
+options pour regrouper des fenêtres similaires sur la barre des tâches dans l’affichage principal~
+options pour regrouper des fenêtres similaires sur la barre des tâches dans les écrans secondaires~
+options internet~
+options d’indexation~
+options d’ergonomie~
+options d’alimentation~
+options des dossiers~
+options de récupération~
+options de recherche pour les fichiers et les dossiers~
+options de l'explorateur de fichiers~
+options de démarrage de windows to go~
+options de démarrage avancées~
+options de diffusion de contenu multimédia~
+options de connexion~
+options d'alimentation~
+options avancées de windows update~
+optional~
+option options~
+option internet~
+option dossier~
+option des dossiers~
+option de clavier tactile~
+option d'alimentation~
+optimiser vos lecteurs~
+optimiser l’affichage~
+open devices~
+opaque~
+opacité~
+opacity~
+on~
+ont une incidence sur l’autonomie de la batterie~
+onglets~
+one sans fil~
+ondulé~
+of~
+off~
+offline~
+odbc~
+odbc (64 bits)~
+odbc (32 bits)~
+occasionnellement les suggestions dans l’écran d’accueil~
+obtenir plus de fonctionnalités avec une nouvelle édition de windows~
+obtenir des infos sur le support pc~
+obtenir des conseils, astuces et suggestions lorsque vous utilisez windows~
+numérotation~
+numérisation~
+numerisation~
+num et arrêt défil~
+nouvelles bases~
+nouvelles bases avec l’installation propre de windows.~
+nouvelle édition de windows~
+nouveau~
+notification~
+notifications~
+notifications et des actions~
+notifications d’application~
+notification notifications~
+notification de la barre des tâches~
+non un retour tactile plus important~
+non un délai d’activation du pavé tactile~
+non le retour visuel du stylet~
+non le pointeur du stylet~
+nom~
+noms~
+nom du groupe de travail~
+nom de votre pc~
+nfc~
+new~
+network~
+network status~
+network speed~
+network reset~
+nettoyer~
+nettoyage~
+netoyage~
+ne l’utilise pas pendant un certain temps~
+navigation~
+navigateur~
+navigateurs~
+navigateur web par défaut~
+navigateur sur ce pc~
+narrator~
+narrateur~
+narrateur suit les éléments sélectionnés au clavier~
+narrateur lit les pistes audio~
+narrateur lit les mots tapés~
+narrateur lit les indications des contrôles et des boutons~
+narrateur lit les caractères tapés~
+narrateur est activé~
+narrateur automatiquement~
+names~
+name names~
+méthode d’entrée microsoft (japonais)~
+mémoire~
+mémoire de l’ordinateur~
+mélangeur~
+musique~
+musique par défaut~
+music~
+multi~
+multitâche~
+multitasking~
+multipoint~
+multiple~
+multiples~
+multimédia~
+multimon~
+multimoniteur~
+multi-tâches~
+multi mon~
+mouvement~
+mouvement panoramique~
+mouvement mouvements~
+mouse~
+mouse mice~
+mots~
+mots tapés~
+mots passe sur ce pc~
+mots passe image~
+mots mal orthographiés~
+mots de passe~
+mots de passe réseau~
+moteur de recherche dans internet explorer~
+mot passe image~
+mot du registre microsoft ime (japonais)~
+mot de passe~
+mot de passe image~
+mot de passe du groupe résidentiel~
+monitor~
+monitors~
+monitor monitors~
+moniteur~
+moniteurs~
+moniteurs, scanneurs et imprimantes~
+moniteurs multiples~
+moniteur à utiliser comme écran principal~
+moniteur moniteurs~
+mon stylet~
+mon compte~
+mon appareil~
+modules modules~
+module d’apprentissage de votre voix~
+modifier~
+modifier votre mot de passe~
+modifier ou supprimer un programme~
+modifier ou supprimer d’autres utilisateurs~
+modifier mot~
+modifier mon nom~
+modifier l’épaisseur du curseur~
+modifier l’écran de veille~
+modifier l’orientation de l’écran~
+modifier l’image sur votre écran de verrouillage~
+modifier l’avatar de votre compte~
+modifier l’apparence du pointeur de souris lorsqu’il se déplace~
+modifier l’affichage ou la vitesse du pointeur de souris~
+modifier l’affichage de la devise~
+modifier l’action qui suit la fermeture du capot~
+modifier limite~
+modifier les variables d’environnement système~
+modifier les variables d’environnement pour votre compte~
+modifier les utilisateurs et les groupes locaux~
+modifier les sons système~
+modifier les réseaux privés virtuels (vpn)~
+modifier les raccourcis pour effectuer certaines tâches~
+modifier les paramètres wi-fi~
+modifier les paramètres smartscreen~
+modifier les paramètres manuels de serveur proxy~
+modifier les paramètres ethernet~
+modifier les paramètres d’un point d’accès sans fil mobile~
+modifier les paramètres d’installation du périphérique~
+modifier les paramètres d’entrée tactile~
+modifier les paramètres d’entrée tactile multipoint~
+modifier les paramètres d’accès à distance~
+modifier les paramètres du stylet~
+modifier les paramètres du proxy~
+modifier les paramètres du narrateur~
+modifier les paramètres du contenu reçu à l’aide d’toucher et envoyer~
+modifier les paramètres directaccess~
+modifier les paramètres des écrans multiples~
+modifier les paramètres des fichiers internet temporaires~
+modifier les paramètres des boutons de la souris~
+modifier les paramètres de votre souris~
+modifier les paramètres de sécurité~
+modifier les paramètres de synthèse vocale~
+modifier les paramètres de police~
+modifier les paramètres de maintenance automatique~
+modifier les paramètres de localisation~
+modifier les paramètres de langue et de clavier~
+modifier les paramètres de la carte audio~
+modifier les paramètres de gestion de couleurs pour les moniteurs, scanneurs et imprimantes~
+modifier les paramètres de contrôle de compte d’utilisateur~
+modifier les paramètres de chiffrement de l’appareil~
+modifier les paramètres cellulaires~
+modifier les options de recherche pour les fichiers et les dossiers~
+modifier les options de démarrage de windows to go~
+modifier les options de démarrage avancées~
+modifier les limites de consommation des données~
+modifier les critères de connexion~
+modifier les conditions de mise en veille de l’ordinateur~
+modifier les conditions de désactivation de l’écran~
+modifier le thème~
+modifier le résultat si vous faites glisser trois doigts sur le pavé tactile~
+modifier le résultat si vous appuyez sur le pavé tactile avec trois doigts~
+modifier le résultat si vous appuyez sur le pavé tactile avec quatre doigts~
+modifier le pays ou la région~
+modifier le paramètre de mise en veille du pc quand il est branché~
+modifier le moteur de recherche dans internet explorer~
+modifier le mode de recherche de windows~
+modifier le mode de gestion d’alimentation~
+modifier le format de la date et de l’heure~
+modifier le bouton principal de votre souris~
+modifier la voix du narrateur~
+modifier la vitesse du pointeur avec le pavé tactile~
+modifier la vitesse de la voix du narrateur~
+modifier la tonalité de la voix du narrateur~
+modifier la taille du pointeur de la souris~
+modifier la taille des applications à l’écran~
+modifier la stratégie de groupe~
+modifier la résolution de l’écran~
+modifier la présentation des pages web dans les onglets~
+modifier la page d’accueil~
+modifier la fréquence de clignotement du curseur~
+modifier la façon dont les mesures sont affichées~
+modifier la façon dont les dates et les listes sont affichées~
+modifier la façon dont le narrateur lit les indications des contrôles et des boutons~
+modifier la durée d’affichage des notifications~
+modifier la distance de défilement de la roulette de la souris~
+modifier la date et l’heure~
+modifier la couleur du pointeur de la souris~
+modifier forfait~
+modification~
+modifications~
+modem~
+mode veille~
+mode veille en cas d’utilisation de la batterie~
+mode tablette~
+mode tablette lors de la connexion~
+mode sombre~
+mode sans echec~
+mode de recherche de windows~
+mode de gestion d’alimentation~
+mode de fonctionnalités~
+mode clair~
+mode avion~
+mode arrière-plan~
+mode arrière-plan de l’écran de verrouillage~
+mobilité windows~
+mobile~
+mobiles)~
+mms~
+mises à jour~
+mises à jour installées~
+mises à jour de carte~
+mises à jour automatiques~
+mises a jour~
+mise à l’échelle~
+mise à jour~
+mise à jour windows~
+mise à jour des cartes~
+mise à jour de carte~
+mise en veille~
+mise en veille du pc quand il est branché~
+mise en veille de l’ordinateur~
+mise en page~
+mise en page auto~
+mise ajour~
+mise a jour~
+mise a jour windows~
+mis a jour~
+miracast~
+micro~
+microsoft ime (japonais)~
+microsoft (japonais)~
+microphone~
+micro microphone~
+mic microphone~
+mettre~
+mettre à jour les pilotes de périphériques~
+mettre en évidence~
+mettre en évidence les mots mal orthographiés~
+mettre en évidence le curseur pendant l’utilisation du narrateur~
+mettre en veille~
+mettre en majuscules~
+met en évidence~
+mesures sont affichées~
+messaging~
+message~
+messages récents concernant votre ordinateur~
+messages archivés~
+messagerie~
+messagerie par défaut~
+messagerie et d’application~
+message messages~
+menu~
+menu windows + x~
+menu démarrer, la barre des tâches et le centre de notifications~
+menu démarrer en plein écran~
+menu demarrer~
+memory~
+memoire~
+membres de la famille à utiliser ce pc~
+melangeur~
+matériel~
+matériels qui ont une incidence sur l’autonomie de la batterie~
+materiel~
+masque~
+masquer~
+masquer les polices~
+masquer les icônes d’application sur la barre des tâches en mode tablette~
+masquer les icônes communes sur le bureau~
+masquer les extensions de fichier~
+masquer automatiquement~
+masquer automatiquement la barre des tâches~
+masquer automatiquement la barre des tâches en mode tablette~
+masque automatique~
+masquage~
+marketing~
+map~
+maps~
+maps update~
+map update~
+map updates~
+map maps~
+manuscrite et de confidentialité de saisie~
+manuel~
+manuels de serveur proxy~
+manual~
+manette~
+manettes xbox one sans fil~
+managment~
+management~
+malvoyants~
+malveillants et autres programmes potentiellement indésirables~
+mal orthographiés~
+maj~
+majuscule~
+majuscules~
+majuscules si vous appuyez deux fois sur maj~
+majuscule avec le clavier tactile~
+maj, verr. num et arrêt défil~
+main~
+maintenance~
+maintenance recommandées automatiquement~
+maintenance automatique~
+mains~
+main avec laquelle vous écrivez~
+mail~
+magnifier~
+magnifiers~
+magnifier magnifiers~
+l’état rapide~
+l’état détaillé~
+l’état du réseau~
+l’état du pare-feu~
+l’état du clavier~
+l’état de votre ordinateur et résoudre les problèmes~
+l’état de sécurité~
+l’établissement~
+l’établissement d’enseignement~
+l’épaisseur du curseur~
+l’éditeur de méthode d’entrée microsoft (japonais)~
+l’écran~
+l’écran quand il est branché~
+l’écran pour la saisie effectuée à l’aide du stylet ou l’entrée tactile~
+l’écran lorsqu’il est branché~
+l’écran en cas d’utilisation de la batterie~
+l’écran d’accueil~
+l’écran d’accueil, à la barre des tâches et au centre de notifications~
+l’écran d’accueil ou la barre des tâches~
+l’écran de verrouillage~
+l’écran de veille~
+l’écran de démarrage~
+l’économiseur de batterie~
+l’utilise pas pendant un certain temps~
+l’utilisation du narrateur~
+l’utilisation des ressources système dans le gestionnaire des tâches~
+l’utilisation des bureaux virtuels~
+l’orientation de l’écran~
+l’ordinateur~
+l’ordinateur sans utiliser la souris ou le clavier~
+l’ordinateur lorsque je ne l’utilise pas pendant un certain temps~
+l’iris~
+l’invite de commande par windows powershell lorsque vous utilisez le menu windows + x~
+l’inversion des couleurs pour la loupe~
+l’intégrité du système~
+l’installation propre de windows.~
+l’initiateur iscsi~
+l’imprimante par défaut~
+l’image sur votre écran de verrouillage~
+l’historique des localisations~
+l’historique des fonctionnalités facultatives~
+l’historique des fichiers~
+l’historique des appels~
+l’historique de navigation~
+l’historique de fiabilité~
+l’heure~
+l’heure d’été~
+l’heure automatique~
+l’extrémité de la barre des tâches~
+l’explorateur de fichiers et d’autres paramètres~
+l’espace disque utilisé par vos fichiers hors connexion~
+l’espace disque en supprimant les fichiers inutiles~
+l’espace disponible~
+l’envoi d’invitations d’assistance à distance à partir de cet ordinateur~
+l’entrée tactile~
+l’entrée tactile lorsque j’utilise mon stylet~
+l’entreprise ou à l’établissement~
+l’entreprise ou de l’établissement d’enseignement~
+l’empreinte digitale~
+l’emplacement~
+l’avatar de votre compte~
+l’autonomie de la batterie~
+l’appui/le clic si vous utilisez le pavé tactile~
+l’appui sur les touches verr. maj, verr. num et arrêt défil~
+l’application dont vous souhaitez afficher l’état détaillé~
+l’apparence et les performances de windows~
+l’apparence du pointeur de souris lorsqu’il se déplace~
+l’appareil~
+l’appareil photo~
+l’appareil de l’entreprise ou de l’établissement d’enseignement~
+l’appareil au domaine de l’entreprise ou de l’établissement d’enseignement~
+l’appareil au domaine cloud professionnel ou scolaire~
+l’appareil active ou désactive le mode tablette~
+l’ancrage d’une fenêtre, afficher ce que je peux ancrer à côté~
+l’aide d’toucher et envoyer~
+l’aide du stylet ou l’entrée tactile~
+l’aide de l’historique des fichiers~
+l’affichage~
+l’affichage principal~
+l’affichage ou la vitesse du pointeur de souris~
+l’affichage de la devise~
+l’action qui suit la fermeture du capot~
+l’accès à distance à votre ordinateur~
+l’accès affecté~
+luminosité~
+luminosité de l’affichage~
+luminosité auto~
+luminosité automatique~
+luminosite~
+lumineux~
+lte~
+loupe~
+loupes~
+loupe suit les éléments sélectionnés au clavier~
+loupe suit le point d’insertion de texte~
+loupe loupes~
+loupe automatiquement~
+lorsqu’une souris est connectée~
+lorsqu’il se déplace~
+lorsqu’il est branché~
+lorsque vous utilisez windows~
+lorsque vous utilisez le menu windows + x~
+lorsque vous déplacez la souris sur le bouton afficher le bureau à l’extrémité de la barre des tâches~
+lorsque vous démarrez windows~
+lorsque vous appuyez sur alt+tab lors de l’utilisation des bureaux virtuels~
+lorsque l’appareil active ou désactive le mode tablette~
+lorsque le narrateur est activé~
+lorsque j’utilise mon stylet~
+lorsque j’ancre une fenêtre, ajuster automatiquement pour remplir l’espace disponible~
+lorsque je redimensionne une fenêtre ancrée, redimensionner simultanément toute fenêtre ancrée adjacente~
+lorsque je ne l’utilise pas pendant un certain temps~
+lors de l’utilisation des bureaux virtuels~
+lors de l’appui sur les touches verr. maj, verr. num et arrêt défil~
+lors de l’ancrage d’une fenêtre, afficher ce que je peux ancrer à côté~
+lors de la connexion~
+login~
+logiciels~
+lock~
+locks~
+lockscreen~
+lock locks~
+locaux~
+location~
+locations~
+location locations~
+localiser mon appareil~
+localisation~
+localisations~
+lit les pistes audio~
+lit les mots tapés~
+lit les indications des contrôles et des boutons~
+lit les caractères tapés~
+listes sont affichées~
+listes de raccourcis de l’écran d’accueil ou la barre des tâches~
+liste de langues~
+lire le courrier électronique~
+limit~
+limite~
+limites de consommation des données~
+limite données~
+limite des données~
+ligne~
+light~
+light mode~
+lieu de travail~
+libérer~
+libérer de l’espace disque en supprimant les fichiers inutiles~
+library libraries~
+liberer~
+les étapes pour reproduire un problème~
+les éléments sélectionnés au clavier~
+les éléments récemment ouverts dans les listes de raccourcis de l’écran d’accueil ou la barre des tâches~
+les écrans secondaires~
+les vidéos~
+les variables d’environnement système~
+les variables d’environnement pour votre compte~
+les utilisateurs qui peuvent se servir du bureau à distance~
+les utilisateurs et les groupes locaux~
+les tâches de maintenance recommandées automatiquement~
+les touches verr. maj, verr. num et arrêt défil~
+les touches d’accès rapide~
+les suggestions de texte en cours de frappe~
+les suggestions dans l’écran d’accueil~
+les stratégies de sécurité~
+les sources de données odbc~
+les sources de données odbc (64 bits)~
+les sources de données odbc (32 bits)~
+les sons système~
+les sons par des signaux visuels~
+les solutions aux problèmes~
+les sites web peuvent utiliser votre liste de langues~
+les services locaux~
+les scanneurs et les appareils photo~
+les réseaux privés virtuels (vpn)~
+les règles de numérotation~
+les rapports d’erreurs~
+les rapports de problèmes~
+les raccourcis~
+les raccourcis pour effectuer certaines tâches~
+les raccourcis clavier~
+les raccourcis clavier et autres paramètres du clavier~
+les périphériques sans fil~
+les périphériques réseau~
+les périphériques audio~
+les propriétés de profil utilisateur avancées~
+les programmes malveillants et autres programmes potentiellement indésirables~
+les problèmes~
+les problèmes sur le réseau~
+les problèmes d’écran bleu~
+les problèmes de votre ordinateur~
+les problèmes de périphériques~
+les problèmes de mémoire de l’ordinateur~
+les problèmes avec le service recherche windows~
+les problèmes avec le groupe résidentiel~
+les polices~
+les polices installées~
+les plus utilisées dans l’écran d’accueil~
+les pistes audio~
+les pilotes de périphériques~
+les performances de windows~
+les paramètres~
+les paramètres wi-fi~
+les paramètres système avancés~
+les paramètres sont synchronisés sur ce pc~
+les paramètres smartscreen~
+les paramètres par défaut de lecture automatique~
+les paramètres manuels de serveur proxy~
+les paramètres ethernet~
+les paramètres d’un point d’accès sans fil mobile~
+les paramètres d’options d’ergonomie~
+les paramètres d’installation du périphérique~
+les paramètres d’entrée tactile~
+les paramètres d’entrée tactile multipoint~
+les paramètres d’accès à distance~
+les paramètres d’accessibilité actuels~
+les paramètres du stylet~
+les paramètres du proxy~
+les paramètres du narrateur~
+les paramètres du contenu reçu à l’aide d’toucher et envoyer~
+les paramètres du bureau virtuel~
+les paramètres directaccess~
+les paramètres des écrans multiples~
+les paramètres des fichiers internet temporaires~
+les paramètres des boutons de la souris~
+les paramètres de votre souris~
+les paramètres de votre navigateur sur ce pc~
+les paramètres de sécurité~
+les paramètres de synthèse vocale~
+les paramètres de police~
+les paramètres de partage avancés~
+les paramètres de maintenance automatique~
+les paramètres de localisation~
+les paramètres de langue et de clavier~
+les paramètres de la carte audio~
+les paramètres de gestion de couleurs pour les moniteurs, scanneurs et imprimantes~
+les paramètres de développeur~
+les paramètres de contrôle de compte d’utilisateur~
+les paramètres de chiffrement de l’appareil~
+les paramètres cellulaires~
+les paramètres avant de donner une présentation~
+les ordinateurs et les périphériques réseau~
+les options de recherche pour les fichiers et les dossiers~
+les options de démarrage de windows to go~
+les options de démarrage avancées~
+les onglets~
+les notifications d’application~
+les mots tapés~
+les mots mal orthographiés~
+les mots de passe réseau~
+les moniteurs, scanneurs et imprimantes~
+les mises à jour~
+les mises à jour installées~
+les mises à jour de carte~
+les mesures sont affichées~
+les messages récents concernant votre ordinateur~
+les messages archivés~
+les membres de la famille à utiliser ce pc~
+les majuscules si vous appuyez deux fois sur maj~
+les listes sont affichées~
+les listes de raccourcis de l’écran d’accueil ou la barre des tâches~
+les limites de consommation des données~
+les journaux d’événements~
+les informations sur le stylet et l’entrée tactile~
+les informations sur le processeur~
+les informations sur la ram~
+les informations d’identification windows~
+les informations d’identification web~
+les indications des contrôles et des boutons~
+les images d’arrière-plan de windows~
+les icônes à afficher dans la barre des tâches~
+les icônes système~
+les icônes d’application sur la barre des tâches en mode tablette~
+les icônes communes sur le bureau~
+les groupes locaux~
+les frappes brèves ou répétées~
+les formats de date et d’heure actuels~
+les fonctionnalités facultatives~
+les fonctionnalités de développement~
+les fichiers temporaires~
+les fichiers inutiles~
+les fichiers hors connexion~
+les fichiers et les dossiers~
+les fichiers et dossiers cachés~
+les fenêtres publicitaires~
+les fenêtres en les déplaçant vers les coins ou les bords de l’écran~
+les fenêtres affichent lorsque vous appuyez sur alt+tab lors de l’utilisation des bureaux virtuels~
+les fenêtres affichent dans la barre des tâches lors de l’utilisation des bureaux virtuels~
+les fautes d’orthographe~
+les extensions de fichier~
+les espaces de stockage~
+les déplaçant vers les coins ou les bords de l’écran~
+les dossiers~
+les dossiers de travail~
+les dossiers affichés dans l’écran d’accueil~
+les dates et les listes sont affichées~
+les critères de connexion~
+les couleurs de l’écran~
+les cookies tiers~
+les cookies ou les fichiers temporaires~
+les cookies de session~
+les contrôleurs de jeu usb~
+les connexions réseau~
+les conditions de mise en veille de l’ordinateur~
+les conditions de désactivation de l’écran~
+les composants matériels qui ont une incidence sur l’autonomie de la batterie~
+les composants additionnels du navigateur~
+les coins ou les bords de l’écran~
+les certificats utilisateur~
+les certificats d’ordinateur~
+les certificats de chiffrement de fichiers~
+les cartes téléchargées~
+les caractères tapés~
+les bords de l’écran~
+les barres des tâches ?~
+les badges sur la barre des tâches~
+les applications~
+les applications récemment ajoutées dans l’écran d’accueil~
+les applications qui peuvent s’exécuter en arrière-plan~
+les applications qui ont une incidence sur l’autonomie de la batterie~
+les applications qui affichent des notifications~
+les applications peuvent utiliser votre identifiant de publicité~
+les applications les plus utilisées dans l’écran d’accueil~
+les applications dont vous souhaitez afficher l’état rapide~
+les appareils photo~
+les animations windows~
+les affichages~
+les actions recommandées pour une exécution sans problème de windows~
+lent~
+lenovo reachit~
+left~
+left handed~
+lecture automatique~
+lecture audio~
+lecteur~
+lecteurs~
+lecteur vidéo par défaut~
+lecteur dvd~
+lecteur de récupération~
+lecteur de recuperation~
+lecteur de musique par défaut~
+le zoom si vous pincez le pavé tactile avec deux doigts~
+le volume du système~
+le verrouillage de la rotation~
+le thème~
+le texte et d’autres éléments plus petits ou plus grands~
+le texte cleartype~
+le support pc~
+le stylet et l’entrée tactile~
+le son~
+le son des autres applications quand le narrateur est activé~
+le service recherche windows~
+le serveur proxy~
+le sens de défilement du pavé tactile~
+le résultat si vous faites glisser trois doigts sur le pavé tactile~
+le résultat si vous appuyez sur le pavé tactile avec trois doigts~
+le résultat si vous appuyez sur le pavé tactile avec quatre doigts~
+le réseau~
+le retour visuel quand vous touchez l’écran~
+le retour visuel du stylet~
+le processeur~
+le pointeur du stylet~
+le point d’insertion de texte~
+le pc bascule en mode veille en cas d’utilisation de la batterie~
+le pays ou la région~
+le pavé tactile~
+le pavé tactile lorsqu’une souris est connectée~
+le pavé tactile avec trois doigts~
+le pavé tactile avec quatre doigts~
+le pavé tactile avec deux doigts~
+le pare-feu windows~
+le paramètre de mise en veille du pc quand il est branché~
+le nom du groupe de travail~
+le nom de votre pc~
+le narrateur~
+le narrateur suit les éléments sélectionnés au clavier~
+le narrateur lit les pistes audio~
+le narrateur lit les mots tapés~
+le narrateur lit les indications des contrôles et des boutons~
+le narrateur lit les caractères tapés~
+le narrateur est activé~
+le narrateur automatiquement~
+le moteur de recherche dans internet explorer~
+le mot de passe du groupe résidentiel~
+le moniteur à utiliser comme écran principal~
+le module d’apprentissage de votre voix~
+le mode tablette~
+le mode de recherche de windows~
+le mode de gestion d’alimentation~
+le mode avion~
+le menu windows + x~
+le menu démarrer, la barre des tâches et le centre de notifications~
+le menu démarrer en plein écran~
+le groupe résidentiel~
+le gestionnaire des tâches~
+le fuseau horaire automatiquement~
+le format de la date et de l’heure~
+le filtre smartscreen pour les applications~
+le défilement si vous faites glisser deux doigts sur le pavé tactile~
+le double-appui et glisser sur le pavé tactile~
+le diaporama de l’écran de verrouillage~
+le curseur pendant l’utilisation du narrateur~
+le compte~
+le clic si vous utilisez le pavé tactile~
+le clic droit si vous appuyez sur le pavé tactile avec deux doigts~
+le clic droit du pavé tactile~
+le clavier~
+le clavier tactile~
+le clavier tactile lorsque le narrateur est activé~
+le centre de notifications~
+le bureau~
+le bureau à l’extrémité de la barre des tâches~
+le bouton principal de votre souris~
+le bouton afficher le bureau à l’extrémité de la barre des tâches~
+le balayage à partir des bords du pavé tactile~
+layout~
+latéralisation~
+largeur~
+larger~
+laquelle vous écrivez~
+lan~
+langue~
+langues~
+langue à cet appareil~
+langue langues~
+langue et de clavier~
+langue clavier~
+language~
+languages~
+language languages~
+landscape~
+lancer la reconnaissance vocale~
+laisser windows suggérer les paramètres d’options d’ergonomie~
+la voix du narrateur~
+la vitesse du pointeur de souris~
+la vitesse du pointeur avec le pavé tactile~
+la vitesse de la voix du narrateur~
+la une, une image ou un diaporama comme mode arrière-plan de l’écran de verrouillage~
+la tonalité de la voix du narrateur~
+la taille du pointeur de la souris~
+la taille des applications à l’écran~
+la stratégie de groupe~
+la souris~
+la souris sur le bouton afficher le bureau à l’extrémité de la barre des tâches~
+la souris ou le clavier~
+la souris et du pavé tactile~
+la souris des options d’ergonomie~
+la saisie effectuée à l’aide du stylet ou l’entrée tactile~
+la saisie automatique dans internet explorer~
+la résolution de l’écran~
+la région~
+la roulette~
+la roulette de la souris~
+la rotation~
+la reconnaissance vocale~
+la ram~
+la présentation des pages web dans les onglets~
+la page d’accueil~
+la messagerie~
+la main avec laquelle vous écrivez~
+la luminosité de l’affichage~
+la luminosité automatique~
+la loupe~
+la loupe suit les éléments sélectionnés au clavier~
+la loupe suit le point d’insertion de texte~
+la loupe automatiquement~
+la lecture automatique~
+la gestion du réseau~
+la fréquence de clignotement du curseur~
+la fonction voix, d’entrée manuscrite et de confidentialité de saisie~
+la fois pour les raccourcis clavier~
+la fermeture du capot~
+la façon dont les mesures sont affichées~
+la façon dont les dates et les listes sont affichées~
+la façon dont le narrateur lit les indications des contrôles et des boutons~
+la famille à utiliser ce pc~
+la détection de proxy automatique~
+la découverte de périphérique~
+la déclaration de confidentialité~
+la durée d’affichage des notifications~
+la distance de défilement de la roulette de la souris~
+la disposition de clavier standard comme option de clavier tactile~
+la devise~
+la description audio pour les vidéos~
+la date et l’heure~
+la date et de l’heure~
+la couleur à la barre de titre~
+la couleur d’accentuation~
+la couleur du pointeur de la souris~
+la consommation limite des données~
+la consommation des données~
+la connexion~
+la connexion par reconnaissance faciale~
+la connexion par reconnaissance de l’iris~
+la connexion par reconnaissance de l’empreinte digitale~
+la connexion par code pin~
+la configuration de proxy automatique~
+la carte audio~
+la caméra pour créer un avatar de compte~
+la batterie~
+la barre d’espace~
+la barre des tâches~
+la barre des tâches à l’écran~
+la barre des tâches sur tous les affichages~
+la barre des tâches sur plusieurs écrans~
+la barre des tâches lors de l’utilisation des bureaux virtuels~
+la barre des tâches et le centre de notifications~
+la barre des tâches et au centre de notifications~
+la barre des tâches en mode tablette~
+la barre des tâches dans l’affichage principal~
+la barre des tâches dans les écrans secondaires~
+la barre de titre~
+l'état et la gestion du réseau~
+l'explorateur de fichiers~
+kid kids~
+key~
+keys~
+keyboard~
+keyboards~
+keyboard keyboards~
+key keys~
+j’utilise mon stylet~
+j’ancre une fenêtre, ajuster automatiquement pour remplir l’espace disponible~
+jour~
+journaux d’événements~
+journal~
+jour les pilotes de périphériques~
+jour installées~
+jour de carte~
+join~
+joint~
+jointe~
+joindre~
+jeux~
+jeu usb~
+je redimensionne une fenêtre ancrée, redimensionner simultanément toute fenêtre ancrée adjacente~
+je peux ancrer à côté~
+je ne l’utilise pas pendant un certain temps~
+japonais)~
+itinérance itinérances~
+iscsi~
+iris~
+ipr~
+in~
+inviter une personne à se connecter à votre pc pour vous aider ou proposer votre aide à une autre personne~
+invite de commande par windows powershell lorsque vous utilisez le menu windows + x~
+invitations d’assistance à distance à partir de cet ordinateur~
+inversion~
+inversion des couleurs pour la loupe~
+inverser le sens de défilement du pavé tactile~
+inutiles~
+intégrité du système~
+intervertir~
+internet~
+internet temporaires~
+internet status~
+internet explorer~
+internet connection~
+intel®~
+intel~
+insérer insère~
+installé~
+installées~
+install~
+installer~
+installer un programme à partir du réseau~
+installer imprimante~
+installed~
+installation propre de windows.~
+installation du périphérique~
+install printer~
+insider~
+insertion insertions~
+insertion de texte~
+insert inserts~
+inscrire~
+inscription gpm (gestion des périphériques mobiles)~
+ink~
+initiateur iscsi~
+infrarouge~
+infos sur le support pc~
+informations utilisateur~
+informations sur le stylet et l’entrée tactile~
+informations sur le processeur~
+informations sur le compte~
+informations sur la ram~
+informations d’identification windows~
+informations d’identification web~
+indésirables~
+indiquer si un flux rss est disponible sur un site web~
+indications des contrôles et des boutons~
+indexation~
+incidence sur l’autonomie de la batterie~
+imri~
+impt~
+improve~
+imprm~
+imprimer~
+imprimer imprimante imprimantes impression~
+imprimente~
+imprimantes~
+imprimantes et scanners~
+imprimante par défaut~
+impril~
+impre~
+impression~
+important~
+ime~
+ime (japonais)~
+image~
+images~
+images d’arrière-plan de windows~
+image sur votre écran de verrouillage~
+image ou un diaporama comme mode arrière-plan de l’écran de verrouillage~
+image images~
+il se déplace~
+il faut éteindre l’écran en cas d’utilisation de la batterie~
+il faut afficher des suggestions de texte~
+il est branché~
+ignore~
+ignorer~
+ignorer l’entrée tactile lorsque j’utilise mon stylet~
+ignorer les frappes brèves ou répétées~
+identique~
+identifier~
+identifier un écran~
+identifier et réparer les problèmes sur le réseau~
+identification~
+identification windows~
+identification web~
+identificateur~
+identifiant de publicité~
+id produit~
+icône~
+icônes~
+icônes à afficher dans la barre des tâches~
+icônes système~
+icônes icônes~
+icônes d’application sur la barre des tâches en mode tablette~
+icônes communes sur le bureau~
+icône icônes~
+icon~
+icons~
+icone~
+icones~
+icon icons~
+hyper-v~
+hp des~
+how~
+hotspot~
+hotspot hotspots~
+hors connexion~
+horloge~
+horloges~
+horloges pour des fuseaux horaires variés~
+horaire~
+horaires variés~
+horaire automatiquement~
+homegroup~
+homegroups~
+homegroup homegroups~
+history~
+historique~
+historique des localisations~
+historique des fonctionnalités facultatives~
+historique des fichiers~
+historique des appels~
+historique de navigation~
+historique de fiabilité~
+historique de dépannage~
+high~
+highlight~
+highlights~
+highlight highlights~
+high contrast~
+hide~
+hey cortana~
+heure~
+heures~
+heure heures~
+heure d’été~
+heure automatique~
+heure actuels~
+help~
+hello~
+haut~
+haut débit~
+hard~
+hand~
+handicap~
+handicaps~
+handicap handicaps~
+handedness~
+gérer votre pc~
+gérer votre compte~
+gérer votre compte professionnel ou scolaire~
+gérer l’espace disque utilisé par vos fichiers hors connexion~
+gérer les périphériques audio~
+gérer les paramètres de partage avancés~
+gérer les mots de passe réseau~
+gérer les mises à jour de carte~
+gérer les informations d’identification windows~
+gérer les informations d’identification web~
+gérer les fonctionnalités facultatives~
+gérer les fichiers hors connexion~
+gérer les espaces de stockage~
+gérer les dossiers de travail~
+gérer les composants additionnels du navigateur~
+gérer les certificats utilisateur~
+gérer les certificats d’ordinateur~
+gérer les certificats de chiffrement de fichiers~
+gérer des comptes d’application~
+gérer des comptes de messagerie~
+gérer bitlocker~
+générer un rapport sur l’intégrité du système~
+group~
+groupe~
+groupes~
+groupes locaux~
+groupements résidentiels~
+groupement résidentiel~
+groupe résidentiel~
+groupe de travail~
+groupe de travail pour ce pc~
+graphiques intel®~
+grands~
+gps~
+gpm (gestion des périphériques mobiles)~
+gpedit~
+go~
+gnss~
+glisser~
+glisser trois doigts sur le pavé tactile~
+glisser sur le pavé tactile~
+glisser deux doigts sur le pavé tactile~
+gesture gestures~
+gestion~
+gestionnaire disque~
+gestionnaire des tâches~
+gestionnaire des taches~
+gestionnaire de taches~
+gestionnaire de son~
+gestionnaire de périphériques~
+gestionnaire de peripherique~
+gestionnaire de disque~
+gestionnaire d'identification~
+gestionnaire audio~
+gestionaire~
+gestion d’alimentation~
+gestion du réseau~
+gestion disque~
+gestion des périphériques mobiles)~
+gestion des disques~
+gestion des couleurs~
+gestion de l'ordinateur~
+gestion de disque~
+gestion de couleurs pour les moniteurs, scanneurs et imprimantes~
+gerer~
+gauchère~
+gauche~
+gaucher~
+gaucher ou droitier~
+gaucher droitier~
+fuseaux horaires variés~
+fuseau horaire~
+fuseau horaire automatiquement~
+full~
+fullscreen~
+full screen~
+fréquence de clignotement du curseur~
+fresh~
+free~
+frappe~
+frappes brèves ou répétées~
+four~
+for~
+formaté~
+format~
+formatted~
+formats~
+formats de date et d’heure actuels~
+formater des partitions de disque dur~
+formatage~
+format formats formatted~
+format de la date et de l’heure~
+forfait~
+forfait données~
+fonts~
+fond~
+fond ecran~
+fond d'écran~
+fond d'ecran~
+fonctionnalités~
+fonctionnalités windows~
+fonctionnalités facultatives~
+fonctionnalités de développement~
+fonctionnalités avec une nouvelle édition de windows~
+fonctionnalité fonctionnalités~
+fonctionnalité facultative~
+fonction voix, d’entrée manuscrite et de confidentialité de saisie~
+fonction tactile~
+folder~
+folder folders~
+fois sur maj~
+fois sur la barre d’espace~
+fois pour les raccourcis clavier~
+focus~
+flux rss est disponible sur un site web~
+flash player~
+fi~
+fix network connection~
+fit~
+firewall~
+finger~
+fingerprints~
+fingerprint fingerprints~
+find~
+find finds~
+fil~
+filtre~
+filtre smartscreen pour les applications~
+filtre filtres~
+filter~
+filter filters~
+fill~
+file history~
+file files~
+fil mobile~
+fichier~
+fichiers~
+fichiers à l’aide de l’historique des fichiers~
+fichiers temporaires~
+fichiers inutiles~
+fichiers internet temporaires~
+fichiers hors connexion~
+fichiers et les dossiers~
+fichiers et d’autres paramètres~
+fichiers et dossiers cachés~
+fichiers cachés~
+fiabilité~
+feu~
+feu windows~
+fermeture du capot~
+fenêtre~
+fenêtres similaires~
+fenêtres similaires sur la barre des tâches dans l’affichage principal~
+fenêtres similaires sur la barre des tâches dans les écrans secondaires~
+fenêtres publicitaires~
+fenêtres en les déplaçant vers les coins ou les bords de l’écran~
+fenêtres affichent lorsque vous appuyez sur alt+tab lors de l’utilisation des bureaux virtuels~
+fenêtres affichent dans la barre des tâches lors de l’utilisation des bureaux virtuels~
+fenêtre, ajuster automatiquement pour remplir l’espace disponible~
+fenêtre, afficher ce que je peux ancrer à côté~
+fenêtre ancrée, redimensionner simultanément toute fenêtre ancrée adjacente~
+fenêtre ancrée adjacente~
+feedback~
+features mode~
+feature features~
+façon dont les mesures sont affichées~
+façon dont les dates et les listes sont affichées~
+façon dont le narrateur lit les indications des contrôles et des boutons~
+fax faxes~
+favori~
+favorite~
+favorites~
+favorite favorites~
+favoris~
+fautes d’orthographe~
+faut éteindre l’écran en cas d’utilisation de la batterie~
+faut afficher des suggestions de texte~
+family families~
+famille à utiliser ce pc~
+famille familles~
+faites glisser trois doigts sur le pavé tactile~
+faites glisser deux doigts sur le pavé tactile~
+fait défiler~
+faire pivoter~
+faire défiler~
+facultative~
+facultatives~
+faciale~
+exécution sans problème de windows~
+exécution automatique~
+exécuter le module d’apprentissage de votre voix~
+exécuter en arrière-plan~
+exécuter des programmes conçus pour des versions précédentes de windows~
+extrémité de la barre des tâches~
+extensions de fichier~
+explorer~
+explorateur de fichiers~
+explorateur de fichiers et d’autres paramètres~
+executer~
+evenement~
+ethernet~
+eteindre~
+etalonner~
+et suggestions lorsque vous utilisez windows~
+et scanners~
+et résoudre les problèmes~
+et résoudre les problèmes d’écran bleu~
+et résoudre les problèmes de périphériques~
+et résoudre les problèmes avec le service recherche windows~
+et résoudre les problèmes avec le groupe résidentiel~
+et résoudre des problèmes~
+et résoudre des problèmes d’impression~
+et résoudre des problèmes d’enregistrement audio~
+et résoudre des problèmes de réseau et de connexion~
+et résoudre des problèmes de lecture audio~
+et résoudre des problèmes de clavier~
+et réparer les problèmes sur le réseau~
+et restaurer (windows 7)~
+et rechercher~
+et partage~
+et paramètres associés~
+et optimiser vos lecteurs~
+et navigation~
+et modem~
+et masquer les polices~
+et maintenance~
+et l’heure~
+et l’entrée tactile~
+et les périphériques réseau~
+et les performances de windows~
+et les listes sont affichées~
+et les groupes locaux~
+et les dossiers~
+et les appareils photo~
+et le centre de notifications~
+et la gestion du réseau~
+et imprimantes~
+et heure~
+et glisser sur le pavé tactile~
+et formater des partitions de disque dur~
+et fonctionnalités~
+et fonction tactile~
+et envoyer~
+et d’heure~
+et d’heure actuels~
+et d’avatar du compte~
+et d’autres éléments plus petits ou plus grands~
+et d’autres paramètres~
+et d’application~
+et désactiver les raccourcis~
+et du pavé tactile~
+et dossiers cachés~
+et des boutons~
+et des actions~
+et de mise en veille~
+et de l’heure~
+et de langue~
+et de connexion~
+et de confidentialité de saisie~
+et de clavier~
+et corriger des problèmes windows update~
+et bureau à distance~
+et aux services bureau à distance~
+et autres programmes potentiellement indésirables~
+et autres paramètres du clavier~
+et au centre de notifications~
+et arrêt défil~
+est disponible sur un site web~
+est connectée~
+est branché~
+est activé~
+espace~
+espaces~
+espaces de stockage~
+espacelibre~
+espacedisponible~
+espace quand vous choisissez une suggestion de texte~
+espace libre~
+espace espaces~
+espace disque utilisé par vos fichiers hors connexion~
+espace disque en supprimant les fichiers inutiles~
+espace disponible~
+espace de travail~
+erreurs~
+ergonomie~
+envoyer~
+envoyer ou recevoir un fichier~
+envoi d’invitations d’assistance à distance à partir de cet ordinateur~
+environnement système~
+environnement pour votre compte~
+entrée tactile~
+entrée tactile multipoint~
+entrée tactile lorsque j’utilise mon stylet~
+entrée microsoft (japonais)~
+entrée manuscrite~
+entrée manuscrite et de confidentialité de saisie~
+entreprise ou à l’établissement~
+entreprise ou de l’établissement d’enseignement~
+entendre une tonalité lors de l’appui sur les touches verr. maj, verr. num et arrêt défil~
+ensemble de la consommation des données~
+enseignement~
+enroll~
+enregistrer~
+enregistrer les étapes pour reproduire un problème~
+enregistrement~
+enregistrement par défaut~
+enregistrement audio~
+enfant enfants~
+energie~
+en évidence les mots mal orthographiés~
+en évidence le curseur pendant l’utilisation du narrateur~
+en veille~
+en veille du pc quand il est branché~
+en veille de l’ordinateur~
+en supprimant les fichiers inutiles~
+en plein écran~
+en mode veille en cas d’utilisation de la batterie~
+en mode tablette~
+en mode tablette lors de la connexion~
+en ligne~
+en les déplaçant vers les coins ou les bords de l’écran~
+en cours de frappe~
+en charge des applications 16 bits~
+en cas d’utilisation de la batterie~
+en arrière-plan~
+empreintes digitales~
+empreinte digitale~
+empreinte digitale empreintes digitales~
+emplacement~
+emplacements~
+emplacements d’enregistrement par défaut~
+emplacement de la barre des tâches à l’écran~
+email~
+emails~
+email emails mail~
+email e-mail~
+effectuée à l’aide du stylet ou l’entrée tactile~
+effectuer les tâches de maintenance recommandées automatiquement~
+effectuer certaines tâches~
+effacer~
+effacer l’historique des localisations~
+edit plan~
+edit limit~
+edge edges~
+ecran~
+ecran veille~
+ecran de verrouillage~
+ecran de veille~
+ecouteurs~
+econo~
+economie~
+ease~
+e-mail~
+e-mails~
+d’événements~
+d’été~
+d’écran bleu~
+d’utiliser ou non un retour tactile plus important~
+d’utilisation de la batterie~
+d’utilisateur~
+d’utilisateurs~
+d’une fenêtre, afficher ce que je peux ancrer à côté~
+d’un point d’accès sans fil mobile~
+d’toucher et envoyer~
+d’orthographe~
+d’ordinateur~
+d’options d’ergonomie~
+d’invitations d’assistance à distance à partir de cet ordinateur~
+d’installation du périphérique~
+d’insertion de texte~
+d’indexation~
+d’impression~
+d’image~
+d’identification windows~
+d’identification web~
+d’heure~
+d’heure actuels~
+d’espace~
+d’erreurs~
+d’ergonomie~
+d’environnement système~
+d’environnement pour votre compte~
+d’entrée tactile~
+d’entrée tactile multipoint~
+d’entrée microsoft (japonais)~
+d’entrée manuscrite et de confidentialité de saisie~
+d’ensemble de la consommation des données~
+d’enseignement~
+d’enregistrement par défaut~
+d’enregistrement audio~
+d’avoir ou non un délai d’activation du pavé tactile~
+d’avatar du compte~
+d’autres éléments plus petits ou plus grands~
+d’autres utilisateurs~
+d’autres paramètres~
+d’autres appareils~
+d’autoriser le balayage à partir des bords du pavé tactile~
+d’assistance à distance à partir de cet ordinateur~
+d’arrière-plan~
+d’arrière-plan de windows~
+d’approvisionnement~
+d’apprentissage~
+d’apprentissage de votre voix~
+d’application~
+d’application sur la barre des tâches en mode tablette~
+d’application par défaut~
+d’alimentation~
+d’alimentation et de mise en veille~
+d’affichage des notifications~
+d’administration~
+d’activation du pavé tactile~
+d’accès à distance~
+d’accès sans fil mobile~
+d’accès rapide~
+d’accueil~
+d’accueil, à la barre des tâches et au centre de notifications~
+d’accueil ou la barre des tâches~
+d’accessibilité actuels~
+d’accentuation~
+développeur~
+développeur développeurs~
+développement~
+détection de proxy automatique~
+détection activité~
+détecte~
+détecter~
+détecter ou identifier un écran~
+détail~
+détails~
+détaillé~
+désintaller~
+désinstaller~
+désinstaller un programme~
+désinstallation~
+désactivé~
+désactiver l’écran de veille~
+désactiver l’économiseur de batterie~
+désactiver l’heure d’été~
+désactiver l’appui/le clic si vous utilisez le pavé tactile~
+désactiver les raccourcis~
+désactiver les périphériques sans fil~
+désactiver les notifications d’application~
+désactiver les icônes système~
+désactiver les cookies de session~
+désactiver les animations windows~
+désactiver le zoom si vous pincez le pavé tactile avec deux doigts~
+désactiver le verrouillage de la rotation~
+désactiver le pavé tactile~
+désactiver le pavé tactile lorsqu’une souris est connectée~
+désactiver le narrateur~
+désactiver le mode avion~
+désactiver le filtre smartscreen pour les applications~
+désactiver le défilement si vous faites glisser deux doigts sur le pavé tactile~
+désactiver le double-appui et glisser sur le pavé tactile~
+désactiver le diaporama de l’écran de verrouillage~
+désactiver le clic droit si vous appuyez sur le pavé tactile avec deux doigts~
+désactiver le clic droit du pavé tactile~
+désactiver la saisie automatique dans internet explorer~
+désactiver la luminosité automatique~
+désactiver la loupe~
+désactiver la lecture automatique~
+désactiver la détection de proxy automatique~
+désactiver des fonctionnalités windows~
+désactiver cortana~
+désactive le mode tablette~
+désactivation de l’écran~
+déplaçant vers les coins ou les bords de l’écran~
+déplace~
+déplacez la souris sur le bouton afficher le bureau à l’extrémité de la barre des tâches~
+dépanner le réseau~
+dépannage~
+démarrez windows~
+démarrer~
+démarrer, la barre des tâches et le centre de notifications~
+démarrer le narrateur automatiquement~
+démarrer la loupe automatiquement~
+démarrer en plein écran~
+démarrer démarre~
+démarrer accueil~
+démarrent automatiquement lorsque vous démarrez windows~
+démarrage~
+démarrage de windows to go~
+démarrage avancées~
+démarage~
+délai d’activation du pavé tactile~
+défragmenter et optimiser vos lecteurs~
+définition~
+définir~
+définir l’heure automatique~
+définir limite~
+définir le fuseau horaire automatiquement~
+définir forfait~
+défil~
+défilement~
+défilement si vous faites glisser deux doigts sur le pavé tactile~
+défilement du pavé tactile~
+défilement de la roulette de la souris~
+défaut~
+défaut pour chaque type de fichier~
+défaut pour chaque protocole~
+défaut de lecture automatique~
+découverte~
+découverte de périphérique~
+déconnexion~
+déconnexions~
+déconnecter l’appareil de l’entreprise ou de l’établissement d’enseignement~
+déclaration de confidentialité~
+débit~
+durée d’affichage des notifications~
+dur~
+dupliquer~
+du tablet pc~
+du système~
+du stylet~
+du stylet ou l’entrée tactile~
+du réseau~
+du registre microsoft ime (japonais)~
+du périphérique~
+du proxy~
+du programme windows insider~
+du pointeur de souris~
+du pointeur de souris lorsqu’il se déplace~
+du pointeur de la souris~
+du pointeur avec le pavé tactile~
+du pc quand il est branché~
+du pavé tactile~
+du pare-feu~
+du navigateur~
+du narrateur~
+du mot de passe~
+du mode tablette~
+du micro~
+du microphone~
+du groupe résidentiel~
+du groupe de travail~
+du curseur~
+du contenu reçu à l’aide d’toucher et envoyer~
+du compte~
+du clavier~
+du clavier tactile~
+du clavier des options d’ergonomie~
+du capot~
+du calendrier~
+du bureau à distance~
+du bureau virtuel~
+du bureau lorsque vous déplacez la souris sur le bouton afficher le bureau à l’extrémité de la barre des tâches~
+dts audio control~
+dst~
+droit~
+droitière~
+droitier~
+droitier/gaucher~
+droite~
+droit si vous appuyez sur le pavé tactile avec deux doigts~
+droit du pavé tactile~
+drive~
+drives~
+driver~
+drivers~
+drive drives~
+drag~
+dpi~
+download~
+double~
+double-tap~
+double-clic pour ouvrir~
+double-appui et glisser sur le pavé tactile~
+dossier~
+dossiers~
+dossiers de travail~
+dossiers cachés~
+dossiers affichés dans l’écran d’accueil~
+dossier dossiers~
+dossier caché~
+dossier au diaporama de l’écran de verrouillage~
+dont vous souhaitez afficher l’état rapide~
+dont vous souhaitez afficher l’état détaillé~
+dont les mesures sont affichées~
+dont les dates et les listes sont affichées~
+dont le narrateur lit les indications des contrôles et des boutons~
+données~
+données odbc~
+données odbc (64 bits)~
+données odbc (32 bits)~
+données de mouvement~
+donner une présentation~
+domain~
+domaine~
+domaines~
+domaine de l’entreprise ou de l’établissement d’enseignement~
+domaine cloud professionnel ou scolaire~
+domain domains~
+doigts~
+doigts sur le pavé tactile~
+divider~
+distance~
+distance à votre ordinateur~
+distance à partir de cet ordinateur~
+distance de défilement de la roulette de la souris~
+disque~
+disques~
+disques durs~
+disque utilisé par vos fichiers hors connexion~
+disque en supprimant les fichiers inutiles~
+disque dur~
+disque de réinitialisation du mot de passe~
+disposition de clavier standard comme option de clavier tactile~
+disponible~
+disponible sur un site web~
+display~
+displays~
+display displays~
+disk~
+disk disks~
+discovery~
+directory~
+directaccess~
+digitale~
+diffusion de contenu multimédia~
+didacticiels de la reconnaissance vocale~
+dictionnaire~
+dictionary~
+diaporama~
+diaporama ou une couleur unie comme mode arrière-plan~
+diaporama diaporamas~
+diaporama de l’écran de verrouillage~
+diaporama comme mode arrière-plan de l’écran de verrouillage~
+dialup~
+dial-up~
+dial dials~
+diagnostiquer les problèmes de mémoire de l’ordinateur~
+devise~
+device~
+devices~
+device privacy~
+device portal~
+device manager~
+device devices~
+developer~
+developer developers~
+deuxième écran~
+deux fois sur maj~
+deux fois sur la barre d’espace~
+deux doigts~
+deux doigts sur le pavé tactile~
+detect~
+detects~
+detect detects~
+detail~
+details~
+desktop~
+desisn~
+desintaller~
+desinstaller~
+desinstaller un programme~
+desinstaller programme~
+desinstallation~
+desinstaler~
+description audio pour les vidéos~
+desactiver cortana~
+des écrans multiples~
+des versions précédentes de windows~
+des tâches~
+des tâches à l’écran~
+des tâches sur tous les affichages~
+des tâches sur plusieurs écrans~
+des tâches lors de l’utilisation des bureaux virtuels~
+des tâches et navigation~
+des tâches et le centre de notifications~
+des tâches et au centre de notifications~
+des tâches en mode tablette~
+des tâches dans l’affichage principal~
+des tâches dans les écrans secondaires~
+des tâches ?~
+des thèmes et paramètres associés~
+des suggestions de texte~
+des sons en cours de frappe~
+des solutions pour les rapports de problèmes~
+des signaux visuels~
+des ressources système dans le gestionnaire des tâches~
+des périphériques mobiles)~
+des programmes~
+des programmes conçus pour des versions précédentes de windows~
+des problèmes~
+des problèmes windows update~
+des problèmes d’impression~
+des problèmes d’enregistrement audio~
+des problèmes de réseau et de connexion~
+des problèmes de lecture audio~
+des problèmes de clavier~
+des petits boutons de barre des tâches~
+des partitions de disque dur~
+des pages web dans les onglets~
+des options d’ergonomie~
+des notifications~
+des notifications et des actions~
+des manettes xbox one sans fil~
+des localisations~
+des infos sur le support pc~
+des informations sur le compte~
+des imprimantes~
+des horloges pour des fuseaux horaires variés~
+des fuseaux horaires variés~
+des fonctionnalités windows~
+des fonctionnalités facultatives~
+des fichiers~
+des fichiers internet temporaires~
+des fenêtres similaires~
+des fenêtres similaires sur la barre des tâches dans l’affichage principal~
+des fenêtres similaires sur la barre des tâches dans les écrans secondaires~
+des données~
+des didacticiels de la reconnaissance vocale~
+des couleurs~
+des couleurs pour la loupe~
+des contrôles et des boutons~
+des contacts~
+des conseils, astuces et suggestions lorsque vous utilisez windows~
+des comptes d’application~
+des comptes de messagerie~
+des commentaires~
+des cartes pour une utilisation hors connexion~
+des cartes hors connexion~
+des bureaux virtuels~
+des boutons~
+des boutons de la souris~
+des bords du pavé tactile~
+des autres applications quand le narrateur est activé~
+des applications à l’écran~
+des applications 16 bits~
+des appels~
+des appareils~
+des appareils connectés~
+des actions~
+des actions aux boutons du tablet pc~
+depannage~
+demarrer~
+demarrage~
+demarer~
+demarage~
+delete~
+delete map~
+delete maps~
+deins~
+defragmenter~
+defragmentation~
+defender~
+defaut~
+default~
+defaults~
+default printer~
+default defaults~
+de windows~
+de windows.~
+de windows update~
+de windows to go~
+de windows defender~
+de votre voix~
+de votre souris~
+de votre pc~
+de votre ordinateur~
+de votre ordinateur et résoudre les problèmes~
+de votre navigateur sur ce pc~
+de votre compte~
+de vignettes sur l’écran de démarrage~
+de verrouillage~
+de veille~
+de travail~
+de travail pour ce pc~
+de titre~
+de texte~
+de texte en cours de frappe~
+de sécurité~
+de synthèse vocale~
+de synchronisation~
+de stockage~
+de sous-titrage codé~
+de souris~
+de souris lorsqu’il se déplace~
+de session~
+de serveur proxy~
+de sauvegarde~
+de saisie~
+de réseau et de connexion~
+de réinitialisation du mot de passe~
+de région et de langue~
+de récupération~
+de restauration~
+de recherche pour les fichiers et les dossiers~
+de recherche de windows~
+de recherche dans internet explorer~
+de radio~
+de raccourcis de l’écran d’accueil ou la barre des tâches~
+de périphérique~
+de périphériques~
+de publicité~
+de proxy réseau~
+de proxy automatique~
+de profil utilisateur avancées~
+de profil et d’avatar du compte~
+de problèmes~
+de police~
+de photos par défaut~
+de personnalisation~
+de passe~
+de passer en mode tablette lors de la connexion~
+de passe réseau~
+de passe image~
+de passe du groupe résidentiel~
+de partage avancés~
+de numérotation~
+de nouvelles bases avec l’installation propre de windows.~
+de notifications~
+de notification de la barre des tâches~
+de navigation~
+de méthode d’entrée microsoft (japonais)~
+de mémoire de l’ordinateur~
+de musique par défaut~
+de mouvement~
+de mobilité windows~
+de mise en veille~
+de mise en veille du pc quand il est branché~
+de mise en veille de l’ordinateur~
+de messagerie~
+de messagerie par défaut~
+de messagerie et d’application~
+de maintenance recommandées automatiquement~
+de maintenance automatique~
+de l’établissement d’enseignement~
+de l’écran~
+de l’écran d’accueil ou la barre des tâches~
+de l’écran de verrouillage~
+de l’utilisation des bureaux virtuels~
+de l’ordinateur~
+de l’iris~
+de l’historique des fichiers~
+de l’historique des appels~
+de l’heure~
+de l’espace disque en supprimant les fichiers inutiles~
+de l’entreprise ou de l’établissement d’enseignement~
+de l’empreinte digitale~
+de l’emplacement~
+de l’appui sur les touches verr. maj, verr. num et arrêt défil~
+de l’appareil~
+de l’appareil photo~
+de l’ancrage d’une fenêtre, afficher ce que je peux ancrer à côté~
+de l’affichage~
+de loupe~
+de localisation~
+de lecture automatique~
+de lecture audio~
+de langue~
+de langues~
+de langue et de clavier~
+de la voix du narrateur~
+de la souris~
+de la souris et du pavé tactile~
+de la souris des options d’ergonomie~
+de la roulette~
+de la roulette de la souris~
+de la rotation~
+de la reconnaissance vocale~
+de la messagerie~
+de la fonction voix, d’entrée manuscrite et de confidentialité de saisie~
+de la famille à utiliser ce pc~
+de la devise~
+de la date et de l’heure~
+de la consommation des données~
+de la connexion~
+de la carte audio~
+de la batterie~
+de la barre des tâches~
+de la barre des tâches à l’écran~
+de l'explorateur de fichiers~
+de jeu usb~
+de groupe~
+de gestion d’alimentation~
+de gestion de couleurs pour les moniteurs, scanneurs et imprimantes~
+de fuseau horaire~
+de frappe~
+de fonctionnalités avec une nouvelle édition de windows~
+de fichier~
+de fichiers~
+de fichiers et d’autres paramètres~
+de fiabilité~
+de développeur~
+de développement~
+de désactivation de l’écran~
+de dépannage~
+de démarrage~
+de démarrage de windows to go~
+de démarrage avancées~
+de défilement du pavé tactile~
+de défilement de la roulette de la souris~
+de données odbc~
+de données odbc (64 bits)~
+de données odbc (32 bits)~
+de donner une présentation~
+de disque dur~
+de diffusion de contenu multimédia~
+de date et d’heure~
+de date et d’heure actuels~
+de courrier électronique~
+de couleurs~
+de couleurs pour les moniteurs, scanneurs et imprimantes~
+de cortana et rechercher~
+de contrôle de compte d’utilisateur~
+de contraste élevé~
+de contenu multimédia~
+de consommation des données~
+de connexion~
+de configuration~
+de confidentialité~
+de confidentialité pour d’autres appareils~
+de confidentialité pour données de mouvement~
+de confidentialité du micro~
+de confidentialité du calendrier~
+de confidentialité des informations sur le compte~
+de confidentialité des contacts~
+de confidentialité des commentaires~
+de confidentialité de saisie~
+de confidentialité de radio~
+de confidentialité de l’historique des appels~
+de confidentialité de l’emplacement~
+de confidentialité de l’appareil photo~
+de confidentialité de la messagerie~
+de confidentialité de courrier électronique~
+de compte~
+de compte d’utilisateur~
+de compte de messagerie et d’application~
+de commande par windows powershell lorsque vous utilisez le menu windows + x~
+de clignotement du curseur~
+de clavier~
+de clavier tactile~
+de clavier standard comme option de clavier tactile~
+de chiffrement de l’appareil~
+de chiffrement de fichiers~
+de cet ordinateur~
+de carte~
+de carte par défaut~
+de caractères privés~
+de batterie~
+de barre des tâches~
+daylight~
+dates~
+dates et les listes sont affichées~
+date et l’heure~
+date et heure~
+date et d’heure~
+date et d’heure actuels~
+date et de l’heure~
+date dates~
+data~
+data sense~
+dark~
+darker~
+dark mode~
+dans l’écran d’accueil~
+dans l’affichage principal~
+dans les écrans secondaires~
+dans les onglets~
+dans les listes de raccourcis de l’écran d’accueil ou la barre des tâches~
+dans le gestionnaire des tâches~
+dans la barre des tâches~
+dans la barre des tâches lors de l’utilisation des bureaux virtuels~
+dans internet explorer~
+d'identification~
+d'autres thèmes en ligne~
+d'accès à distance~
+côté~
+cursor~
+cursors~
+cursor cursors~
+curseur~
+curseurs~
+curseur pendant l’utilisation du narrateur~
+curseur curseurs~
+cue~
+cues~
+cue cues~
+créer un point de restauration~
+créer un lecteur de récupération~
+créer un disque de réinitialisation du mot de passe~
+créer un avatar du compte~
+créer un avatar de compte~
+créer et formater des partitions de disque dur~
+critère~
+critères~
+critères de connexion~
+crer~
+creer~
+creer un point~
+cpu~
+cpus~
+cpu cpus~
+cours de frappe~
+courrier~
+courrier électronique~
+couplage~
+couplage appareil~
+country countries~
+countries~
+couleur~
+couleurs~
+couleurs pour les moniteurs, scanneurs et imprimantes~
+couleurs pour la loupe~
+couleurs de l’écran~
+couleur à l’écran d’accueil, à la barre des tâches et au centre de notifications~
+couleur à la barre de titre~
+couleur unie~
+couleur unie comme mode arrière-plan~
+couleur d’accentuation~
+couleur du pointeur de la souris~
+cortana~
+cortana et rechercher~
+corriger la connexion réseau~
+corriger des problèmes windows update~
+corriger automatiquement les fautes d’orthographe~
+corbeille~
+copy~
+copies~
+copier~
+cookies tiers~
+cookies ou les fichiers temporaires~
+cookies de session~
+conçus pour des versions précédentes de windows~
+contrôleurs de jeu usb~
+contrôles et des boutons~
+contrôler l’ordinateur sans utiliser la souris ou le clavier~
+contrôle de compte d’utilisateur~
+control~
+controller~
+controleur~
+controle de compte~
+contrast~
+contraste~
+contraste élevé~
+contourner~
+contenu reçu à l’aide d’toucher et envoyer~
+contenu multimédia~
+contacts~
+contact contacts~
+consulter les mises à jour~
+consulter la déclaration de confidentialité~
+consommation~
+consommation limite~
+consommation limite données~
+consommation limite des données~
+consommation données~
+consommation des données~
+conseil~
+conseils~
+conseils, astuces et suggestions lorsque vous utilisez windows~
+conseil conseils~
+connexion~
+connexions~
+connexions réseau~
+connexions remoteapp et bureau à distance~
+connexion à internet~
+connexion wifi~
+connexion réseau~
+connexion reseau~
+connexion par reconnaissance faciale~
+connexion par reconnaissance de l’iris~
+connexion par reconnaissance de l’empreinte digitale~
+connexion par code pin~
+connexion ou un réseau~
+connexion internet~
+connexion haut débit~
+connexion d'accès à distance~
+connectés~
+connectée~
+connect~
+connects~
+connecte~
+connecter~
+connecter à votre pc pour vous aider ou proposer votre aide à une autre personne~
+connecter à un affichage sans fil~
+connecter à l’entreprise ou à l’établissement~
+connecter l’appareil au domaine de l’entreprise ou de l’établissement d’enseignement~
+connecter l’appareil au domaine cloud professionnel ou scolaire~
+connecter des manettes xbox one sans fil~
+connect to a wireless display~
+connect connects~
+connect connection~
+configurer~
+configurer une connexion ou un réseau~
+configurer une connexion haut débit~
+configurer une connexion d'accès à distance~
+configurer un mot de passe image~
+configurer un microphone~
+configurer l’inversion des couleurs pour la loupe~
+configurer l’initiateur iscsi~
+configurer les sources de données odbc~
+configurer les sources de données odbc (64 bits)~
+configurer les sources de données odbc (32 bits)~
+configurer les règles de numérotation~
+configurer les propriétés de profil utilisateur avancées~
+configurer les contrôleurs de jeu usb~
+configurer le serveur proxy~
+configurer la consommation limite des données~
+configurer la connexion par reconnaissance faciale~
+configurer la connexion par reconnaissance de l’iris~
+configurer la connexion par reconnaissance de l’empreinte digitale~
+configurer la connexion par code pin~
+configuration~
+configurations~
+configuration du microphone~
+configuration de proxy automatique~
+configuration configurations~
+confidentialité~
+confidentialité pour d’autres appareils~
+confidentialité pour données de mouvement~
+confidentialité du micro~
+confidentialité du calendrier~
+confidentialité des informations sur le compte~
+confidentialité des contacts~
+confidentialité des commentaires~
+confidentialité de saisie~
+confidentialité de radio~
+confidentialité de l’historique des appels~
+confidentialité de l’emplacement~
+confidentialité de l’appareil photo~
+confidentialité de la messagerie~
+confidentialité de courrier électronique~
+conditions de mise en veille de l’ordinateur~
+conditions de désactivation de l’écran~
+concernant votre ordinateur~
+computer~
+compte~
+comptes~
+comptes d’utilisateurs~
+comptes d’application~
+comptes de messagerie~
+compte utilisateur~
+compte professionnel ou scolaire~
+compte pour l’accès affecté~
+compte microsoft~
+compte d’utilisateur~
+compte de messagerie et d’application~
+compte comptes~
+composants matériels qui ont une incidence sur l’autonomie de la batterie~
+composants additionnels du navigateur~
+complete~
+completes~
+complete completes~
+company companies~
+companies~
+commun~
+communication en champ proche~
+communes sur le bureau~
+common~
+commentaires~
+comment regrouper des fenêtres similaires~
+comment personnaliser les barres des tâches ?~
+commencer une phrase par une majuscule avec le clavier tactile~
+comme écran principal~
+comme option de clavier tactile~
+comme mode arrière-plan~
+comme mode arrière-plan de l’écran de verrouillage~
+commande par windows powershell lorsque vous utilisez le menu windows + x~
+combine~
+combiner~
+column~
+columns~
+color~
+colors~
+color colors~
+colonne~
+colonnes~
+coins ou les bords de l’écran~
+codé~
+code pin~
+code pin codes pin~
+clé de récupération~
+clé clés~
+cloud professionnel ou scolaire~
+clocks~
+clock clocks~
+cliquer~
+clignotement du curseur~
+clic~
+click~
+clic simple ou un double-clic pour ouvrir~
+clic si vous utilisez le pavé tactile~
+clic pour ouvrir~
+clic droit~
+clic droit si vous appuyez sur le pavé tactile avec deux doigts~
+clic droit du pavé tactile~
+cleartype~
+clean~
+cleanup~
+clavier~
+claviers~
+clavier visuel~
+clavier tactile~
+clavier tactile lorsque le narrateur est activé~
+clavier standard comme option de clavier tactile~
+clavier et autres paramètres du clavier~
+clavier des options d’ergonomie~
+clavier claviers~
+clair~
+choose window~
+choisissez une suggestion de texte~
+choisir windows à la une, une image ou un diaporama comme mode arrière-plan de l’écran de verrouillage~
+choisir vos actions rapides~
+choisir une visionneuse de photos par défaut~
+choisir une fenêtre~
+choisir une application par défaut pour chaque type de fichier~
+choisir une application par défaut pour chaque protocole~
+choisir une application de messagerie par défaut~
+choisir une application de carte par défaut~
+choisir un navigateur web par défaut~
+choisir un mode de gestion d’alimentation~
+choisir un lecteur vidéo par défaut~
+choisir un lecteur de musique par défaut~
+choisir un compte pour l’accès affecté~
+choisir un arrière-plan, un diaporama ou une couleur unie comme mode arrière-plan~
+choisir un ajustement d’image~
+choisir s’il faut afficher des suggestions de texte~
+choisir si vous êtes gaucher ou droitier~
+choisir si les sites web peuvent utiliser votre liste de langues~
+choisir si les paramètres sont synchronisés sur ce pc~
+choisir si les applications peuvent utiliser votre identifiant de publicité~
+choisir si le narrateur suit les éléments sélectionnés au clavier~
+choisir si le narrateur lit les pistes audio~
+choisir si le narrateur lit les mots tapés~
+choisir si le narrateur lit les caractères tapés~
+choisir si la loupe suit les éléments sélectionnés au clavier~
+choisir si la loupe suit le point d’insertion de texte~
+choisir quand éteindre l’écran~
+choisir quand éteindre l’écran quand il est branché~
+choisir quand éteindre l’écran lorsqu’il est branché~
+choisir quand éteindre l’écran en cas d’utilisation de la batterie~
+choisir quand le pc bascule en mode veille en cas d’utilisation de la batterie~
+choisir quand il faut éteindre l’écran en cas d’utilisation de la batterie~
+choisir quand activer le clavier tactile lorsque le narrateur est activé~
+choisir l’application dont vous souhaitez afficher l’état détaillé~
+choisir les paramètres par défaut de lecture automatique~
+choisir les dossiers affichés dans l’écran d’accueil~
+choisir les applications qui peuvent s’exécuter en arrière-plan~
+choisir les applications qui affichent des notifications~
+choisir les applications dont vous souhaitez afficher l’état rapide~
+choisir le moniteur à utiliser comme écran principal~
+choisir la couleur d’accentuation~
+choisir d’utiliser ou non un retour tactile plus important~
+choisir d’avoir ou non un délai d’activation du pavé tactile~
+choisir d’autoriser le balayage à partir des bords du pavé tactile~
+choisir de passer en mode tablette lors de la connexion~
+choisir ce qui se passe lorsque l’appareil active ou désactive le mode tablette~
+choisir ce que les fenêtres affichent lorsque vous appuyez sur alt+tab lors de l’utilisation des bureaux virtuels~
+choisir ce que les fenêtres affichent dans la barre des tâches lors de l’utilisation des bureaux virtuels~
+child children~
+chiffrer vos fichiers hors connexion~
+chiffrement de l’appareil~
+chiffrement de fichiers~
+check~
+check network status~
+check for~
+charge des applications 16 bits~
+character~
+characters~
+character characters~
+chaque type de fichier~
+chaque protocole~
+change~
+changes~
+changer~
+changer mot de passe~
+changer l’imprimante par défaut~
+changer limite~
+changer le nom du groupe de travail~
+changer le mot de passe du groupe résidentiel~
+changer forfait~
+changer de fuseau horaire~
+changement~
+changements~
+change limit~
+change changes~
+cet ordinateur~
+cet appareil~
+certificats utilisateur~
+certificats d’ordinateur~
+certificats de chiffrement de fichiers~
+certaines tâches~
+certain temps~
+centre réseau et partage~
+centre reseau~
+centre notifications~
+centre de synchronisation~
+centre de notifications~
+centre de mobilité windows~
+cellular~
+cellulaire~
+cellulaires~
+ce qui se passe lorsque l’appareil active ou désactive le mode tablette~
+ce que les fenêtres affichent lorsque vous appuyez sur alt+tab lors de l’utilisation des bureaux virtuels~
+ce que les fenêtres affichent dans la barre des tâches lors de l’utilisation des bureaux virtuels~
+ce que je peux ancrer à côté~
+ce pc~
+cd~
+ccu~
+casque~
+cas d’utilisation de la batterie~
+carte~
+cartes~
+cartes téléchargées~
+cartes pour une utilisation hors connexion~
+cartes hors connexion~
+carte son~
+carte sd~
+carte par défaut~
+carte graphique~
+carte audio~
+caractère~
+caractères~
+caractères tapés~
+caractères privés~
+caps~
+capslock~
+caps-lock~
+capot~
+capitalize~
+capacités d’apprentissage~
+caméra pour créer un avatar de compte~
+calendrier~
+calendrier calendriers~
+cadran cadrans~
+cachés~
+cache~
+bypass~
+button~
+buttons~
+button buttons~
+bureau~
+bureaux virtuels~
+bureau à l’extrémité de la barre des tâches~
+bureau à distance~
+bureau virtuel~
+bureau lorsque vous déplacez la souris sur le bouton afficher le bureau à l’extrémité de la barre des tâches~
+bue~
+brèves ou répétées~
+browser~
+browsers~
+browser browsers~
+broadband~
+bright~
+brightness~
+branché~
+bouton~
+boutons~
+boutons du tablet pc~
+boutons de la souris~
+boutons de barre des tâches~
+bouton principal de votre souris~
+bouton afficher le bureau à l’extrémité de la barre des tâches~
+bounce~
+bords du pavé tactile~
+bords de l’écran~
+bord bords~
+boot~
+boot boots~
+blutooth~
+bluetooth~
+bluetooh~
+blueth~
+bloquer ou autoriser les fenêtres publicitaires~
+bloquer ou autoriser les cookies tiers~
+bloo~
+bleu~
+bleut~
+bits~
+bits)~
+bits ou 64 bits de windows~
+bits de windows~
+bitlocker~
+bios~
+biométrique biométrie~
+bio biometric biometrics~
+bigger~
+bibliothèque bibliothèques~
+battery~
+battery saver~
+battery batteries~
+batterie~
+batteries~
+bases avec l’installation propre de windows.~
+basculer~
+basculer entre applications actives~
+bascule en mode veille en cas d’utilisation de la batterie~
+barres des tâches ?~
+barre tâches~
+barre d’état~
+barre d’espace~
+barre d’espacement~
+barre des tâches~
+barre des tâches à l’écran~
+barre des tâches sur tous les affichages~
+barre des tâches sur plusieurs écrans~
+barre des tâches lors de l’utilisation des bureaux virtuels~
+barre des tâches et navigation~
+barre des tâches et le centre de notifications~
+barre des tâches et au centre de notifications~
+barre des tâches en mode tablette~
+barre des tâches dans l’affichage principal~
+barre des tâches dans les écrans secondaires~
+barre de titre~
+balayer balaye~
+balayage à partir des bords du pavé tactile~
+baisser le son des autres applications quand le narrateur est activé~
+badging~
+badge~
+badges~
+badges sur la barre des tâches~
+backup~
+backup backups~
+background~
+backgrounds~
+background backgrounds~
+back-up back-ups~
+aéro~
+azure~
+avoir ou non un délai d’activation du pavé tactile~
+avion~
+avez une version 32 bits ou 64 bits de windows~
+avec une nouvelle édition de windows~
+avec trois doigts~
+avec quatre doigts~
+avec l’installation propre de windows.~
+avec le service recherche windows~
+avec le pavé tactile~
+avec le groupe résidentiel~
+avec le clavier tactile~
+avec laquelle vous écrivez~
+avec deux doigts~
+avatar du compte~
+avatar de votre compte~
+avatar de compte~
+avant de donner une présentation~
+avancés~
+avancées~
+avancées de windows update~
+available~
+aux services bureau à distance~
+aux programmes remoteapp et aux services bureau à distance~
+aux problèmes~
+aux malvoyants~
+aux capacités d’apprentissage~
+aux boutons du tablet pc~
+autres~
+autres éléments plus petits ou plus grands~
+autres utilisateurs~
+autres thèmes en ligne~
+autres programmes potentiellement indésirables~
+autres paramètres~
+autres paramètres du clavier~
+autres paramètres des options d’ergonomie~
+autres applications quand le narrateur est activé~
+autres appareils~
+autre personne~
+auto~
+autoriser votre organisation à gérer votre pc~
+autoriser une application via le pare-feu windows~
+autoriser l’envoi d’invitations d’assistance à distance à partir de cet ordinateur~
+autoriser l’accès à distance à votre ordinateur~
+autoriser les membres de la famille à utiliser ce pc~
+autoriser les fenêtres publicitaires~
+autoriser les cookies tiers~
+autoriser le balayage à partir des bords du pavé tactile~
+autoplay~
+autonomie de la batterie~
+automatique~
+automatiques~
+automatiquement~
+automatiquement pour remplir l’espace disponible~
+automatiquement lorsque vous démarrez windows~
+automatiquement les fenêtres en les déplaçant vers les coins ou les bords de l’écran~
+automatiquement les fautes d’orthographe~
+automatiquement la barre des tâches~
+automatiquement la barre des tâches en mode tablette~
+automatique dans internet explorer~
+automatic~
+automatically~
+automatic updates~
+autohide~
+auto-brightness~
+auto layout~
+auto brightness~
+authentification unique~
+audio~
+audio pour les vidéos~
+audio control~
+au domaine de l’entreprise ou de l’établissement d’enseignement~
+au domaine cloud professionnel ou scolaire~
+au diaporama de l’écran de verrouillage~
+au clavier~
+au centre de notifications~
+astuces et suggestions lorsque vous utilisez windows~
+associés~
+assist~
+assistant~
+assistant données~
+assistance à distance à partir de cet ordinateur~
+assigner des actions aux boutons du tablet pc~
+arrêt~
+arrêt défil~
+arrière-plan~
+arrière-plans~
+arrière-plan, un diaporama ou une couleur unie comme mode arrière-plan~
+arrière-plan de windows~
+arrière-plan de l’écran de verrouillage~
+arriere~
+arret~
+arrange~
+arm~
+archivés~
+app~
+appuyez sur le pavé tactile avec trois doigts~
+appuyez sur le pavé tactile avec quatre doigts~
+appuyez sur le pavé tactile avec deux doigts~
+appuyez sur alt+tab lors de l’utilisation des bureaux virtuels~
+appuyez deux fois sur maj~
+appuyez deux fois sur la barre d’espace~
+appuyer~
+appuyer sur une touche à la fois pour les raccourcis clavier~
+appuyer doigts~
+appuyer deux fois~
+appuyer appuie~
+appui~
+appui/le clic si vous utilisez le pavé tactile~
+appui sur les touches verr. maj, verr. num et arrêt défil~
+appui et glisser sur le pavé tactile~
+appui doigts~
+apps~
+approvisionner~
+approvisionnement~
+apprentissage~
+apprentissage de votre voix~
+appliquer une couleur à l’écran d’accueil, à la barre des tâches et au centre de notifications~
+appliquer la couleur à la barre de titre~
+application~
+applications~
+applications à l’écran~
+applications récemment ajoutées dans l’écran d’accueil~
+applications qui peuvent s’exécuter en arrière-plan~
+applications qui ont une incidence sur l’autonomie de la batterie~
+applications qui affichent des notifications~
+applications quand le narrateur est activé~
+applications peuvent utiliser votre identifiant de publicité~
+applications par~
+applications les plus utilisées dans l’écran d’accueil~
+applications et fonctionnalités~
+applications dont vous souhaitez afficher l’état rapide~
+applications 16 bits~
+application via le pare-feu windows~
+application sur la barre des tâches en mode tablette~
+application pour créer un avatar du compte~
+application par défaut~
+application par défaut pour chaque type de fichier~
+application par défaut pour chaque protocole~
+application par defaut~
+application dont vous souhaitez afficher l’état détaillé~
+application de messagerie par défaut~
+application de carte par défaut~
+appels~
+appearances~
+appearance settings~
+apparences~
+apparence et les performances de windows~
+apparence du pointeur de souris lorsqu’il se déplace~
+appareil~
+appareils~
+appareils photo~
+appareils ouverts~
+appareils connectés~
+appareil photo~
+appareil ouvert~
+appareil de l’entreprise ou de l’établissement d’enseignement~
+appareil au domaine de l’entreprise ou de l’établissement d’enseignement~
+appareil au domaine cloud professionnel ou scolaire~
+appareil active ou désactive le mode tablette~
+app apps~
+aperçu~
+aperçu, supprimer ou afficher et masquer les polices~
+aperçu du bureau lorsque vous déplacez la souris sur le bouton afficher le bureau à l’extrémité de la barre des tâches~
+antérieure~
+animations windows~
+animation animations~
+ancrée, redimensionner simultanément toute fenêtre ancrée adjacente~
+ancrée adjacente~
+ancre~
+ancrer~
+ancrer à côté~
+ancre une fenêtre, ajuster automatiquement pour remplir l’espace disponible~
+ancrage~
+ancrage d’une fenêtre, afficher ce que je peux ancrer à côté~
+ancrage aéro~
+améliorer~
+amovible~
+alt~
+alttab~
+alt+tab lors de l’utilisation des bureaux virtuels~
+alt tab~
+alimentation~
+alimentation et de mise en veille~
+album~
+ajuster les paramètres avant de donner une présentation~
+ajuster les fenêtres~
+ajuster le volume du système~
+ajuster le texte cleartype~
+ajuster la luminosité de l’affichage~
+ajuster automatiquement pour remplir l’espace disponible~
+ajustement~
+ajustement d’image~
+ajoutées dans l’écran d’accueil~
+ajout~
+ajouts~
+ajoute~
+ajouter~
+ajouter, supprimer ou gérer des comptes d’application~
+ajouter, supprimer ou gérer des comptes de messagerie~
+ajouter, modifier ou supprimer d’autres utilisateurs~
+ajouter une langue à cet appareil~
+ajouter une imprimante~
+ajouter une fonctionnalité facultative~
+ajouter un point quand vous appuyez deux fois sur la barre d’espace~
+ajouter un espace quand vous choisissez une suggestion de texte~
+ajouter un dossier au diaporama de l’écran de verrouillage~
+ajouter supprimer gérer~
+ajouter package~
+ajouter ou supprimer un package d’approvisionnement~
+ajouter ou supprimer des programmes~
+ajouter ou supprimer des appareils~
+ajouter imprimante~
+ajouter des horloges pour des fuseaux horaires variés~
+ajoute supprime gère~
+ajout suppression~
+airplane~
+aide~
+aider~
+aider ou proposer votre aide à une autre personne~
+aide à une autre personne~
+aide à l’ancrage~
+aide d’toucher et envoyer~
+aide du stylet ou l’entrée tactile~
+aide de l’historique des fichiers~
+aff~
+affichés dans l’écran d’accueil~
+affichées~
+afficher votre id produit~
+afficher un aperçu, supprimer ou afficher et masquer les polices~
+afficher tous les rapports d’erreurs~
+afficher plus de vignettes sur l’écran de démarrage~
+afficher ou masquer les icônes communes sur le bureau~
+afficher ou masquer les extensions de fichier~
+afficher occasionnellement les suggestions dans l’écran d’accueil~
+afficher l’état rapide~
+afficher l’état détaillé~
+afficher l’utilisation des ressources système dans le gestionnaire des tâches~
+afficher l’historique de fiabilité~
+afficher les éléments récemment ouverts dans les listes de raccourcis de l’écran d’accueil ou la barre des tâches~
+afficher les traits de soulignement~
+afficher les suggestions de texte en cours de frappe~
+afficher les solutions aux problèmes~
+afficher les services locaux~
+afficher les scanneurs et les appareils photo~
+afficher les raccourcis~
+afficher les polices installées~
+afficher les paramètres~
+afficher les paramètres système avancés~
+afficher les paramètres d’accessibilité actuels~
+afficher les ordinateurs et les périphériques réseau~
+afficher les mises à jour installées~
+afficher les messages récents concernant votre ordinateur~
+afficher les messages archivés~
+afficher les journaux d’événements~
+afficher les informations sur le stylet et l’entrée tactile~
+afficher les informations sur le processeur~
+afficher les informations sur la ram~
+afficher les formats de date et d’heure actuels~
+afficher les fichiers et dossiers cachés~
+afficher les connexions réseau~
+afficher les badges sur la barre des tâches~
+afficher les applications récemment ajoutées dans l’écran d’accueil~
+afficher les applications les plus utilisées dans l’écran d’accueil~
+afficher les actions recommandées pour une exécution sans problème de windows~
+afficher le retour visuel quand vous touchez l’écran~
+afficher le nom de votre pc~
+afficher le bureau à l’extrémité de la barre des tâches~
+afficher la barre des tâches sur tous les affichages~
+afficher l'état et la gestion du réseau~
+afficher et masquer les polices~
+afficher des suggestions de texte~
+afficher dans la barre des tâches~
+afficher ce que je peux ancrer à côté~
+afficher affiche~
+affichent lorsque vous appuyez sur alt+tab lors de l’utilisation des bureaux virtuels~
+affichent des notifications~
+affichent dans la barre des tâches lors de l’utilisation des bureaux virtuels~
+affichage~
+affichages~
+affichage principal~
+affichage ou la vitesse du pointeur de souris~
+affichage des notifications~
+affichage de la devise~
+affichage affichages~
+affecté~
+aero~
+aero snap~
+ad~
+advertising~
+ads~
+adresse e-mail~
+adresse de messagerie électronique~
+adobe flash player~
+admin~
+administrator administrators~
+administration~
+administrateur~
+administrateur administrateurs~
+admin admins~
+adjust~
+adjust windows~
+adjacente~
+add~
+adds~
+additionnels du navigateur~
+additional~
+add remove manage~
+add printer~
+add package~
+add adds~
+adapt~
+adaptive~
+adapter~
+adapter aux malvoyants~
+adapter aux capacités d’apprentissage~
+adaptative~
+adaptation~
+adaptatif~
+ad ads~
+actuels~
+actualise~
+actualiser~
+activé~
+activité~
+active~
+activer~
+activer/désactiver le verrouillage de la rotation~
+activer windows~
+activer ou non le retour visuel du stylet~
+activer ou non le pointeur du stylet~
+activer ou désactiver l’écran de veille~
+activer ou désactiver l’économiseur de batterie~
+activer ou désactiver l’heure d’été~
+activer ou désactiver les périphériques sans fil~
+activer ou désactiver les notifications d’application~
+activer ou désactiver les icônes système~
+activer ou désactiver les cookies de session~
+activer ou désactiver les animations windows~
+activer ou désactiver le pavé tactile~
+activer ou désactiver le narrateur~
+activer ou désactiver le mode avion~
+activer ou désactiver le filtre smartscreen pour les applications~
+activer ou désactiver le diaporama de l’écran de verrouillage~
+activer ou désactiver la saisie automatique dans internet explorer~
+activer ou désactiver la luminosité automatique~
+activer ou désactiver la loupe~
+activer ou désactiver la lecture automatique~
+activer ou désactiver la détection de proxy automatique~
+activer ou désactiver des fonctionnalités windows~
+activer les touches d’accès rapide~
+activer le clavier tactile lorsque le narrateur est activé~
+activer la découverte de périphérique~
+activer et désactiver les raccourcis~
+activer device portal~
+activer active~
+active ou désactive le mode tablette~
+active directory~
+activation~
+activation du pavé tactile~
+activation activations~
+activate activates~
+actions~
+actions recommandées pour une exécution sans problème de windows~
+actions rapides~
+actions aux boutons du tablet pc~
+action qui suit la fermeture du capot~
+action center~
+action actions~
+accéder aux programmes remoteapp et aux services bureau à distance~
+accès~
+accès à distance~
+accès à distance à votre ordinateur~
+accès sans fil mobile~
+accès rapide~
+accès affecté~
+accueil~
+accueil, à la barre des tâches et au centre de notifications~
+accueil ou la barre des tâches~
+account accounts~
+access~
+accessibilité~
+accessibilité actuels~
+accessibility disability disabilities~
+accent~
+accentuation~
+aad~
+a propos~
+8~
+8.1~
+7~
+7)~
+64 bits)~
+64 bits de windows~
+4g~
+3g~
+32 bits)~
+32 bits ou 64 bits de windows~
+2g~
+16 bits~
+ votre~
+ voice~
+ vignette~
+ tâche~
+ tâches~
+ typing~
+ tts~
+ toggle keys~
+ toggle beep~
+ text-to-speech~
+ text texts~
+ task~
+ tasks~
+ sms~
+ saisie~
+ rechercher~
+ rcs~
+ rcse~
+ privacy~
+ preview~
+ people~
+ peek~
+ multi-tâches~
+ modifier~
+ mms~
+ message messages~
+ leave~
+ inking~
+ handicap handicaps~
+ group~
+ fonctionne~
+ entrée manuscrite~
+ domaine~
+ domain domains~
+ desktop~
+ connect connection~
+ comment~
+ combine~
+ calendar calendars~
+ button~
+ buttons~
+ badging~
+ badges~
+ app~
+ appuyé~
+ apps~
+ appointment appointments~
+ application~
+ applications~
+ apparence~
+ activity~
+ activity detection~
+ activer/désactiver tonalité~

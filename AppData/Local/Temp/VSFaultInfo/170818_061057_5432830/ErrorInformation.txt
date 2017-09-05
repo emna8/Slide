@@ -1,0 +1,104 @@
+Error Information
+AppInsightsEvent Name = vs/setup/inproductacquisition
+          Description = GetUpdateAndIsUpdateAvailable Exception
+     TelemetrySession = '3a5e48d3-36c8-49e5-860e-cc9583df8201' Started = True OptIn=True IsInitialized = True Cloned = False
+             UTC time = 2017-08-18T16:10:56
+
+ Exception:
+ Microsoft.VisualStudio.Setup.Download.DownloadFailureException
+ WebClient download failed: The remote name could not be resolved: 'aka.ms'. Bits download failed: File not found.. WinInet download failed: Object reference not set to an instance of an object.
+ Microsoft.VisualStudio.Setup.Download.DownloadManager.DownloadWithRetry(IDownloadEngine[] engines, Uri uri, Stream outputStream, ProgressUpdateCallback progress, CancellationToken cancellationToken, DownloadContext downloadContext, Boolean verifySignature)
+ Microsoft.VisualStudio.Setup.Download.DownloadManager.<>c__DisplayClass21_0.<Download>b__0()
+ System.Threading.Tasks.Task`1.InnerInvoke()
+ System.Threading.Tasks.Task.Execute()
+ System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+ System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+ Microsoft.VisualStudio.Setup.ChannelManager.<GetLatestChannelManifestAsync>d__58.MoveNext()
+ System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+ System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+ System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task task)
+ Microsoft.VisualStudio.Setup.ChannelManager.<UpdateAsync>d__37.MoveNext()
+ System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+ System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+ Microsoft.VisualStudio.Setup.ChannelManager.<UpdateAsync>d__36.MoveNext()
+ System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+ System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+ Microsoft.VisualStudio.PlatformUI.SetupCompositionService.<>c__DisplayClass21_2.<<RefreshManifest>b__1>d.MoveNext()
+ System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+ System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+ Microsoft.VisualStudio.Threading.JoinableTask.CompleteOnCurrentThread()
+ Microsoft.VisualStudio.PlatformUI.SetupCompositionService.RefreshManifest()
+Telemetry Session Shared Properties:
+   VS.Core.Machine.Id = d7890ac2-eb56-4df7-b9d8-e675cc96ad0c
+   VS.Core.CampaignId = 370848234.1502486867
+   VS.Core.ChannelManifestId = VisualStudio.15.Release/15.3.0+26730.3
+   VS.Core.TelemetryApi.ProductVersion = 15.3.800-master2BC12E24
+   VS.Core.User.Type = External
+   VS.Core.BuildNumber = 26730
+   VS.ABExp.Flights = tn-nps-15b;spmoretempsbtn1;tn-none-14u3;fwlargebuffer;refactoring;3c314430fb9a4f2;vswlaunchbanner;asloff;lazytoolboxinit
+   VS.Core.MacAddressHash = 0632b0f8784b120a91791025529fb7544f69755c9fb4ef624d9d4890e95e9b77
+   VS.Core.User.Location.GeoId = 84
+   VS.Core.SkuName = VS Enterprise
+   VS.Core.BranchName = D15SVC
+   VS.Core.OS.Version = 10.0.14393.1593
+   VS.Core.User.IsMicrosoftInternal = False
+   VS.Core.User.Id = b4678e1f-7531-42ee-9c0b-b6fa2263be10
+   VS.Core.Locale.ProductLocaleName = en-US
+   VS.Core.ChannelId = VisualStudio.15.Release
+   VS.Core.ExeVersion = 15.0.26730.3
+   VS.Core.ExeName = devenv
+   VS.Core.ManifestId = VisualStudio/15.3.0+26730.3
+   VS.Core.User.IsOptedIn = True
+Telemetry event 'vs/setup/inproductacquisition' properties:
+   [VS.Fault.Exception.MethodDef] = '3f'
+   [VS.Fault.Exception.AppStamp] = '598cd422'
+   [VS.Fault.Exception.ModStamp] = '59790d18'
+   [VS.Fault.Exception.Offset] = '5db'
+   [VS.Fault.Exception.ModuleVersion] = '1.11.2334.10236'
+   [VS.Fault.WatsonOptIn] = 'Unspecified'
+   [VS.Fault.WatsonReportNumber] = '0'
+Telemetry event 'vs/setup/inproductacquisition' reserved properties:
+   [DataModel.Severity] = '10'
+   [DataModel.Source] = 'DataModelApi'
+   [DataModel.EntityType] = 'Fault'
+   [DataModel.EntitySchemaVersion] = '5'
+   [DataModel.CorrelationId] = '285da49c-134c-4882-9b64-b46f2201b35b'
+   [DataModel.ProductName] = 'vs'
+   [DataModel.FeatureName] = 'setup'
+   [DataModel.EntityName] = 'inproductacquisition'
+   [DataModel.Fault.Exception.TypeString] = 'Microsoft.VisualStudio.Setup.Download.DownloadFailureException'
+   [DataModel.Fault.Exception.Message] = 'WebClient download failed: The remote name could not be resolved: 'aka.ms'. Bits download failed: File not found.. WinInet download failed: Object reference not set to an instance of an object.'
+   [DataModel.Fault.Exception.StackTrace] = 'Microsoft.VisualStudio.Setup.Download.DownloadManager.DownloadWithRetry(IDownloadEngine[],Uri,Stream,ProgressUpdateCallback,CancellationToken,DownloadContext,Boolean)
+Microsoft.VisualStudio.Setup.Download.DownloadManager.<>c__DisplayClass21_0.<Download>b__0()
+System.Threading.Tasks.Task`1.InnerInvoke()
+System.Threading.Tasks.Task.Execute()
+System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task)
+System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task)
+Microsoft.VisualStudio.Setup.ChannelManager.<GetLatestChannelManifestAsync>d__58.MoveNext()
+System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task)
+System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task)
+System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task)
+Microsoft.VisualStudio.Setup.ChannelManager.<UpdateAsync>d__37.MoveNext()
+System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task)
+System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task)
+Microsoft.VisualStudio.Setup.ChannelManager.<UpdateAsync>d__36.MoveNext()
+System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task)
+System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task)
+Microsoft.VisualStudio.PlatformUI.SetupCompositionService.<>c__DisplayClass21_2.<<RefreshManifest>b__1>d.MoveNext()
+System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task)
+System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task)
+Microsoft.VisualStudio.Threading.JoinableTask.CompleteOnCurrentThread()
+Microsoft.VisualStudio.PlatformUI.SetupCompositionService.RefreshManifest()'
+   [DataModel.Fault.Exception.ErrorCode] = '-2146233088'
+   [DataModel.Fault.Description] = 'GetUpdateAndIsUpdateAvailable Exception'
+   [DataModel.Fault.BucketParam1] = 'devenv.exe'
+   [DataModel.Fault.BucketParam2] = '15.0.26730.3'
+   [DataModel.Fault.BucketParam3] = 'vs.setup.inproductacquisition'
+   [DataModel.Fault.BucketParam4] = 'FD4Q3N4VU234ISNWUYR0E14YQFJZKSXZ'
+   [DataModel.Fault.BucketParam5] = 'Microsoft.VisualStudio.Setup.Download'
+   [DataModel.Fault.BucketParam6] = 'Microsoft.VisualStudio.Setup.Download.DownloadManager.DownloadWithRetry'
+   [DataModel.Fault.BucketParam7] = ''
+   [DataModel.Fault.BucketParam8] = ''
+   [DataModel.Fault.BucketParam9] = ''
+   [DataModel.Fault.BucketParam10] = ''
+   [DataModel.Fault.IsSampled] = 'True'

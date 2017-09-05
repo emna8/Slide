@@ -1,0 +1,17 @@
+C:\Users\Helmi\source\repos\MS1\MS1\MS1\bin\Debug\MS1.dll
+C:\Users\Helmi\source\repos\MS1\MS1\MS1\bin\Debug\MS1.pdb
+C:\Users\Helmi\source\repos\MS1\MS1\MS1\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\Helmi\source\repos\MS1\MS1\MS1\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\Helmi\source\repos\MS1\MS1\MS1\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Helmi\source\repos\MS1\MS1\MS1\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\Helmi\source\repos\MS1\MS1\MS1\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\Helmi\source\repos\MS1\MS1\MS1\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Users\Helmi\source\repos\MS1\MS1\MS1\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\Helmi\source\repos\MS1\MS1\MS1\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\Helmi\source\repos\MS1\MS1\MS1\obj\Debug\MS1.csprojResolveAssemblyReference.cache
+C:\Users\Helmi\source\repos\MS1\MS1\MS1\obj\Debug\MS1.csproj.CoreCompileInputs.cache
+C:\Users\Helmi\source\repos\MS1\MS1\MS1\obj\Debug\MS1.MainPage.xaml.g.cs
+C:\Users\Helmi\source\repos\MS1\MS1\MS1\obj\Debug\MS1.App.xaml.g.cs
+C:\Users\Helmi\source\repos\MS1\MS1\MS1\obj\Debug\MS1.dll
+C:\Users\Helmi\source\repos\MS1\MS1\MS1\obj\Debug\MS1.pdb
+C:\Users\Helmi\source\repos\MS1\MS1\MS1\obj\Debug\MS1.Second.xaml.g.cs

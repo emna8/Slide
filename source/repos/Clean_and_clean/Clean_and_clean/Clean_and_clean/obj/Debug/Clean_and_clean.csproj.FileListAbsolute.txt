@@ -1,0 +1,16 @@
+C:\Users\Helmi\source\repos\Clean_and_clean\Clean_and_clean\Clean_and_clean\obj\Debug\Clean_and_clean.csprojResolveAssemblyReference.cache
+C:\Users\Helmi\source\repos\Clean_and_clean\Clean_and_clean\Clean_and_clean\obj\Debug\Clean_and_clean.csproj.CoreCompileInputs.cache
+C:\Users\Helmi\source\repos\Clean_and_clean\Clean_and_clean\Clean_and_clean\obj\Debug\Clean_and_clean.MainPage.xaml.g.cs
+C:\Users\Helmi\source\repos\Clean_and_clean\Clean_and_clean\Clean_and_clean\obj\Debug\Clean_and_clean.App.xaml.g.cs
+C:\Users\Helmi\source\repos\Clean_and_clean\Clean_and_clean\Clean_and_clean\bin\Debug\Clean_and_clean.dll
+C:\Users\Helmi\source\repos\Clean_and_clean\Clean_and_clean\Clean_and_clean\bin\Debug\Clean_and_clean.pdb
+C:\Users\Helmi\source\repos\Clean_and_clean\Clean_and_clean\Clean_and_clean\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\Helmi\source\repos\Clean_and_clean\Clean_and_clean\Clean_and_clean\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\Helmi\source\repos\Clean_and_clean\Clean_and_clean\Clean_and_clean\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Helmi\source\repos\Clean_and_clean\Clean_and_clean\Clean_and_clean\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\Helmi\source\repos\Clean_and_clean\Clean_and_clean\Clean_and_clean\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\Helmi\source\repos\Clean_and_clean\Clean_and_clean\Clean_and_clean\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Users\Helmi\source\repos\Clean_and_clean\Clean_and_clean\Clean_and_clean\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\Helmi\source\repos\Clean_and_clean\Clean_and_clean\Clean_and_clean\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\Helmi\source\repos\Clean_and_clean\Clean_and_clean\Clean_and_clean\obj\Debug\Clean_and_clean.dll
+C:\Users\Helmi\source\repos\Clean_and_clean\Clean_and_clean\Clean_and_clean\obj\Debug\Clean_and_clean.pdb

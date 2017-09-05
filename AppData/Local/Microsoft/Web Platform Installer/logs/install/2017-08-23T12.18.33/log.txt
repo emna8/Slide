@@ -1,0 +1,54 @@
+DownloadManager Information: 0 : Starting install sequence
+    ThreadId=5
+    DateTime=2017-08-23T10:18:33.3271872Z
+DownloadManager Information: 0 : Downloading file 'http://aka.ms/azure-powershell' to: C:\Users\Helmi\AppData\Local\Temp\tmp4416.tmp
+    ThreadId=11
+    DateTime=2017-08-23T10:18:33.3271872Z
+DownloadManager Information: 0 : http://aka.ms/azure-powershell responded with 301
+    ThreadId=11
+    DateTime=2017-08-23T10:18:33.8272332Z
+DownloadManager Information: 0 : Response headers:
+HTTP/1.1 301 Moved Permanently
+Cache-Control: no-cache
+Pragma: no-cache
+Content-Type: text/html; charset=utf-8
+Expires: -1
+Location: http://azuresdkscu.blob.core.windows.net/downloads04/azure-powershell.0.9.8.1.msi
+Server: Microsoft-IIS/8.5
+X-AspNetMvc-Version: 5.2
+X-AspNet-Version: 4.0.30319
+X-Powered-By: ASP.NET
+Content-Length: 198
+Date: Wed, 23 Aug 2017 10:18:34 GMT
+Connection: keep-alive
+
+
+    ThreadId=11
+    DateTime=2017-08-23T10:18:33.8272332Z
+DownloadManager Information: 0 : Number of bytes downloaded over the internet: '24846336'
+    ThreadId=11
+    DateTime=2017-08-23T10:19:31.9235016Z
+DownloadManager Information: 0 : Number of bytes after possible decompression: '24846336'
+    ThreadId=11
+    DateTime=2017-08-23T10:19:31.9240023Z
+DownloadManager Information: 0 : Moving downloaded file 'C:\Users\Helmi\AppData\Local\Temp\tmp4416.tmp' to: C:\Users\Helmi\AppData\Local\Microsoft\Web Platform Installer\installers\WindowsAzurePowershell\06B87F852E4D6E43F344752E0160C4BC5A2273BE\azure-powershell.0.9.8.1.msi
+    ThreadId=11
+    DateTime=2017-08-23T10:19:32.0363007Z
+DownloadManager Information: 0 : Starting MSI install for msi 'C:\Users\Helmi\AppData\Local\Microsoft\Web Platform Installer\installers\WindowsAzurePowershell\06B87F852E4D6E43F344752E0160C4BC5A2273BE\azure-powershell.0.9.8.1.msi', commandline: 'ACTION=INSTALL REBOOT=ReallySuppress'
+    ThreadId=5
+    DateTime=2017-08-23T10:19:33.7319609Z
+DownloadManager Information: 0 : MSI install return value for product 'Microsoft Azure PowerShell 0.9' is '0'
+    ThreadId=5
+    DateTime=2017-08-23T10:20:26.4598355Z
+DownloadManager Information: 0 : Install return code for product 'Microsoft Azure PowerShell 0.9' is Success
+    ThreadId=5
+    DateTime=2017-08-23T10:20:26.4617072Z
+DownloadManager Information: 0 : Product Microsoft Azure PowerShell 0.9 done install completed
+    ThreadId=1
+    DateTime=2017-08-23T10:20:26.4617072Z
+DownloadManager Information: 0 : Increasing current install to 2
+    ThreadId=1
+    DateTime=2017-08-23T10:20:26.4622072Z
+DownloadManager Information: 0 : Microsoft Azure PowerShell 0.9 installation log: C:\Users\Helmi\AppData\Local\Microsoft\Web Platform Installer\logs\install\2017-08-23T12.18.33\azure-powershell.0.9.8.1.txt
+    ThreadId=5
+    DateTime=2017-08-23T10:20:26.4642439Z

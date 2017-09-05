@@ -1,0 +1,1091 @@
+*|*|paint 3d preview	*|*|mspaint.exe	1000
+*|6play	*|m6	2496
+*|6play	*|w9	3175
+*|7-zip file manager	*|7 zip	3450
+*|7-zip file manager	*|7zip	2010
+*|acrobat reader dc	*|adobe	1184
+*|actualité	*|actualites	3327
+*|adobe reader touch	*|pdf	1619
+*|adobe reader xi	*|acro	2770
+*|adobe reader xi	*|pdf	1972
+*|alarmes et horloge	*|reveil	2784
+*|alarmes et horloge	*|réveil	3848
+*|amd gaming evolved	*|raptr	1609
+*|aperçu skype	*|skipe	5489
+*|aperçu skype	*|skye	6396
+*|aperçu skype	*|skyk	6487
+*|aperçu skype	*|skyo	6435
+*|aperçu skype	*|sku	6281
+*|asphalt 8: airborne	*|alp	4777
+*|b.tv	*|b tv	3519
+*|battle.net	*|battle net	5908
+*|battle.net	*|battlenet	5557
+*|battle.net	*|blizz	5994
+*|bloc-notes	*|bloc notes	4836
+*|bloc-notes	*|block note	7321
+*|bloc-notes	*|blocnote	5805
+*|bloc-notes	*|note pad	7664
+*|bloc-notes	*|notepad	2470
+*|bloc-notes	*|notepas	6999
+*|bloc-notes	*|notpad	8076
+*|bloc-notes	*|blloc	8216
+*|bloc-notes	*|blocc	8058
+*|bloc-notes	*|texte	5914
+*|bloc-notes	*|edit	7957
+*|bloc-notes	*|memo	6276
+*|bloc-notes	*|mémo	7121
+*|bloc-notes	*|txt	5667
+*|bloc-notes	*|bm	8199
+*|calculator	*|calculatrice	4057
+*|calculatrice	*|calculatrive	9204
+*|calculatrice	*|calculatruce	9122
+*|calculatrice	*|calcultarice	9330
+*|calculatrice	*|claculatrice	8974
+*|calculatrice	*|caculatrice	8473
+*|calculatrice	*|calcuatrice	9339
+*|calculatrice	*|calcularice	9444
+*|calculatrice	*|calculatice	9669
+*|calculatrice	*|calculatrie	8733
+*|calculatrice	*|calcultrice	8265
+*|calculatrice	*|calulatrice	9260
+*|calculatrice	*|calculator	8733
+*|calculatrice	*|calculette	5530
+*|calculatrice	*|calcutrice	9541
+*|calculatrice	*|calculer	9223
+*|calculatrice	*|calclc	9391
+*|calculatrice	*|caalc	8395
+*|calculatrice	*|calc$	9250
+*|calculatrice	*|calc*	8812
+*|calculatrice	*|calca	7464
+*|calculatrice	*|calcc	8738
+*|calculatrice	*|camcu	9385
+*|calculatrice	*|cacl	6616
+*|calculatrice	*|cakl	9069
+*|calculatrice	*|cal*	9299
+*|calculatrice	*|cala	6483
+*|calculatrice	*|calk	9131
+*|calculatrice	*|calx	8674
+*|calculatrice	*|cqlc	8842
+*|calculatrice	*|cca	8649
+*|calculatrice	*|clc	7853
+*|calculatrice	*|ؤضم	9509
+*|calculatrice	*|cz	8016
+*|calculatrice	*|xa	9415
+*|calendrier	*|calendar	5640
+*|calendrier	*|agend	4060
+*|caméra	*|prendre une photo	6262
+*|caméra	*|appareil photo	4914
+*|caméra	*|prendre photo	7149
+*|caméra	*|web cam	6128
+*|caméra	*|camera	1657
+*|caméra	*|webca	4661
+*|caméra	*|cama	6802
+*|caméra	*|apa	6279
+*|caméra	*|caa	6013
+*|cartes	*|maps	2420
+*|ce pc	*|mon ordinateur	6852
+*|ce pc	*|mes documents	5311
+*|ce pc	*|ordianteur	7161
+*|ce pc	*|ordinateur	3352
+*|ce pc	*|computer	6801
+*|ce pc	*|mon pc	4849
+*|ce pc	*|cepc	5547
+*|chromium	*|chrome	3021
+*|cisco anyconnect secure mobility client	*|vpn	2009
+*|clavier visuel	*|clavier virtuel	5847
+*|clavier visuel	*|clqvier	6008
+*|clavier visuel	*|ؤمضرهثق	6234
+*|clavier visuel	*|cavier	6204
+*|clavier visuel	*|cll	5858
+*|clavier visuel	*|key	6524
+*|clavier visuel	*|osk	4443
+*|command prompt	*|cmd	91
+*|configuration du système	*|msconfig	282
+*|connexion bureau à distance	*|bureau a distance	6743
+*|connexion bureau à distance	*|remote desktop	7231
+*|connexion bureau à distance	*|desktop	7468
+*|connexion bureau à distance	*|distant	6815
+*|connexion bureau à distance	*|mstsc	1196
+*|connexion bureau à distance	*|mstc	5645
+*|connexion bureau à distance	*|rdp	4171
+*|connexion bureau à distance	*|srv	7331
+*|connexion bureau à distance	*|tse	5355
+*|control panel	*|panneau	3993
+*|contrôle parental orange	*|controle	744
+*|courrier	*|windows live mail	6340
+*|courrier	*|windows mail	6066
+*|courrier	*|courier	4238
+*|courrier	*|mails	5982
+*|courrier	*|emai	6190
+*|courrier	*|mess	5086
+*|cpu-z	*|cpuz	2445
+*|crédit mutuel	*|credit	1613
+*|cyberlink youcam	*|webcam	1747
+*|cyberlink youcam 5	*|camera	3223
+*|cyberlink youcam 5	*|webcam	2129
+*|cyberlink youcam 6	*|camera	3275
+*|cyberlink youcam 6	*|webcam	1977
+*|daemon tools lite	*|deamo	4216
+*|diagnostic de mémoire windows	*|memoire	1306
+*|ds3 tool	*|motio	3683
+*|défragmenter et optimiser les lecteurs	*|defragmentation	4219
+*|défragmenter et optimiser les lecteurs	*|défragmentation	5422
+*|défragmenter et optimiser les lecteurs	*|defragmenteur	5200
+*|défragmenter et optimiser les lecteurs	*|defragmenter	3724
+*|défragmenter et optimiser les lecteurs	*|nettoyage	4970
+*|défragmenter et optimiser les lecteurs	*|dfr	5758
+*|démineur simple	*|demi	2392
+*|eingabeaufforderung	*|cmd	1
+*|enregistreur d’actions utilisateur	*|psr	1063
+*|enregistreur vocal	*|enregistrement	4307
+*|enregistreur vocal	*|magnetophone	5102
+*|enregistreur vocal	*|magnétophone	5047
+*|enregistreur vocal	*|dictaphone	4971
+*|enregistreur vocal	*|record	5090
+*|epic games launcher	*|unreal	2523
+*|epson scan	*|es	4952
+*|excel 2013	*|excell	5623
+*|excel 2013	*|office	6247
+*|excel 2013	*|exel	4309
+*|excel 2013	*|exx	6022
+*|excel 2016	*|excell	5673
+*|excel 2016	*|office	5779
+*|excel 2016	*|ecel	6850
+*|excel 2016	*|excl	6694
+*|excel 2016	*|exec	6924
+*|excel 2016	*|exel	4406
+*|excel 2016	*|open	6816
+*|excel 2016	*|xl	7009
+*|explorateur de fichiers	*|explorateur windows	5235
+*|exécuter	*|control userpasswords2	5706
+*|exécuter	*|executer	1972
+*|exécuter	*|éxécuter	6253
+*|exécuter	*|excuter	5347
+*|exécuter	*|exex	6555
+*|exécuter	*|run	2780
+*|faststone capture	*|fs	3865
+*|filezilla	*|fill	4926
+*|filezilla	*|ftp	3550
+*|films et tv	*|video	1789
+*|final fantasy xiv - a realm reborn	*|ff	2073
+*|flux	*|f.	2978
+*|free download manager	*|fdm	2155
+*|geforce experience	*|shadowplay	5406
+*|geforce experience	*|gforce	4713
+*|geforce experience	*|nvidia	2495
+*|geogebra	*|géo	3517
+*|gestion de l’ordinateur	*|gestion de l'ordinateur	5587
+*|gestion de l’ordinateur	*|compmgmt	5661
+*|gestionnaire de certificats cps	*|ccm	1
+*|gestionnaire des services internet (iis)	*|inetmgr	3359
+*|git bash	*|gitb	4553
+*|google chrome	*|gooogle	7867
+*|google chrome	*|goggle	7877
+*|google chrome	*|googel	7765
+*|google chrome	*|googlr	7208
+*|google chrome	*|googlz	7758
+*|google chrome	*|crome	7713
+*|google chrome	*|gogle	7020
+*|google chrome	*|goole	7212
+*|google chrome	*|cho	7255
+*|google chrome	*|cg	7628
+*|google chrome	*|,	8272
+*|grand theft auto v	*|gta	880
+*|groove musique	*|music	4081
+*|guild wars 2	*|gw2	2930
+*|géoportail 3d	*|geo	1
+*|gооglе сhrоmе	*|chrome	827
+*|hearts deluxe	*|dame	1461
+*|hwmonitor	*|cpu	3257
+*|ignite	*|aeria	828
+*|image composite editor	*|ice	1
+*|informations système	*|version windows	4949
+*|informations système	*|msinfo32	2501
+*|informations système	*|systeme	2478
+*|internet download manager	*|idman	4710
+*|internet explorer	*|internet explorere	8160
+*|internet explorer	*|internet exploreur	7869
+*|internet explorer	*|iexplorer	7247
+*|internet explorer	*|interent	7916
+*|internet explorer	*|interner	7778
+*|internet explorer	*|inernet	7818
+*|internet explorer	*|intenet	7306
+*|internet explorer	*|internt	7460
+*|internet explorer	*|enter	8240
+*|internet explorer	*|inetr	8075
+*|internet explorer	*|expo	8202
+*|internet explorer	*|ie11	7822
+*|internet explorer	*|intr	6395
+*|internet explorer	*|iter	7892
+*|internet explorer	*|iee	8131
+*|internet explorer	*|inn	6213
+*|internet explorer	*|inr	7450
+*|internet explorer	*|ei	7604
+*|internet explorer	*|i,	7489
+*|invite de commandes	*|command prompt	8461
+*|invite de commandes	*|accessoire	8069
+*|invite de commandes	*|terminal	6857
+*|invite de commandes	*|cmd.exe	6089
+*|invite de commandes	*|console	6810
+*|invite de commandes	*|invité	7665
+*|invite de commandes	*|ms dos	7943
+*|invite de commandes	*|ipcon	7957
+*|invite de commandes	*|msdos	7708
+*|invite de commandes	*|shell	8653
+*|invite de commandes	*|ccmd	8371
+*|invite de commandes	*|cmd*	7502
+*|invite de commandes	*|cmdd	7157
+*|invite de commandes	*|cmdm	7647
+*|invite de commandes	*|ping	5281
+*|invite de commandes	*|c,d	8088
+*|invite de commandes	*|cdm	6140
+*|invite de commandes	*|cld	7627
+*|invite de commandes	*|cmp	7974
+*|invite de commandes	*|cnd	7700
+*|invite de commandes	*|dos	6293
+*|invite de commandes	*|mcd	7986
+*|invite de commandes	*|xmd	8306
+*|invite de commandes	*|md	6909
+*|itunes	*|i tunes	5694
+*|itunes	*|itub	6772
+*|itunes	*|itue	7034
+*|itunes	*|iy	6399
+*|jouer à league of legends	*|lol	1320
+*|keepass 2	*|key	4278
+*|league of legends	*|leau	6398
+*|league of legends	*|lol	1607
+*|lecteur windows media	*|windows media player	4996
+*|lecteur windows media	*|media player	4754
+*|lecteur windows media	*|window media	6537
+*|lecteur windows media	*|lire un cd	6396
+*|lecteur windows media	*|graver cd	6543
+*|lecteur windows media	*|graveur	5084
+*|lecteur windows media	*|player	4517
+*|lecteur windows media	*|média	6137
+*|lecteur windows media	*|wmp	5267
+*|lecteur windows media	*|cd	4336
+*|les échecs lv.100	*|echec	1649
+*|libreoffice	*|libre office	3412
+*|libreoffice writer	*|libre office	3930
+*|lili usb creator	*|linux	2577
+*|media player classic	*|mpc	1037
+*|meshlabserver	*|cmd	1
+*|microsoft edge	*|internet explorer	5357
+*|microsoft edge	*|ede	6658
+*|microsoft edge	*|ent	6923
+*|microsoft edge	*|web	6819
+*|microsoft edge	*|eg	6152
+*|microsoft edge	*|ie	5749
+*|microsoft flight simulator x	*|fsx	390
+*|microsoft office powerpoint 2007	*|power po	4815
+*|microsoft office word 2007	*|microsoft word	6846
+*|microsoft office word 2007	*|winword	5952
+*|microsoft office word 2007	*|ئ	6908
+*|microsoft powerpoint 2010	*|power po	4968
+*|microsoft sql server management studio	*|ssms	1763
+*|microsoft word 2010	*|winword	5095
+*|movie maker	*|windows movie	4617
+*|movie maker	*|windows live	5934
+*|movie maker	*|moviemaker	5889
+*|movie maker	*|video	4926
+*|mozilla firefox	*|mozila	5830
+*|mozilla firefox	*|mozz	5966
+*|mozilla firefox	*|fie	6899
+*|mytf1	*|my tf1	4559
+*|météo	*|meteo	1179
+*|netflix	*|netet	6288
+*|nettoyage de disque	*|nettoyage disque	5520
+*|nettoyage de disque	*|cleanmgr	4474
+*|nettoyage de disque	*|disk	5894
+*|node.js command prompt	*|cmd	1837
+*|notepad	*|bloc	2778
+*|observateur d’événements	*|evene	4220
+*|observateur d’événements	*|event	1731
+*|obtenir skype	*|skipe	4820
+*|on-screen keyboard	*|clavier	2065
+*|onedrive	*|microsoft one	5901
+*|onedrive	*|one drive	2133
+*|onedrive	*|ondrive	5482
+*|onedrive	*|cloud	3865
+*|onenote	*|one note	3304
+*|onenote 2013	*|one note	3209
+*|onenote 2016	*|one note	3318
+*|open broadcaster software (32bit)	*|obs	550
+*|open broadcaster software (64bit)	*|obs	352
+*|openoffice	*|open office	3399
+*|openoffice writer	*|open office	3654
+*|outil capture d’écran	*|outil capture d'écran	8822
+*|outil capture d’écran	*|outils de capture	9050
+*|outil capture d’écran	*|impression ecran	8502
+*|outil capture d’écran	*|impression écran	9130
+*|outil capture d’écran	*|outil de capture	7339
+*|outil capture d’écran	*|capture d ecran	8756
+*|outil capture d’écran	*|capture d'ecran	7053
+*|outil capture d’écran	*|capture d'écran	6157
+*|outil capture d’écran	*|outils capture	8010
+*|outil capture d’écran	*|capture ecran	6570
+*|outil capture d’écran	*|capture écran	7286
+*|outil capture d’écran	*|imprime ecran	8793
+*|outil capture d’écran	*|snipping tool	8679
+*|outil capture d’écran	*|imprim ecran	8876
+*|outil capture d’écran	*|copie ecran	8468
+*|outil capture d’écran	*|screenshot	7784
+*|outil capture d’écran	*|caapture	8081
+*|outil capture d’écran	*|ccapture	8975
+*|outil capture d’écran	*|caoture	8344
+*|outil capture d’écran	*|captire	8259
+*|outil capture d’écran	*|captuer	8666
+*|outil capture d’écran	*|capturr	8843
+*|outil capture d’écran	*|caputre	7826
+*|outil capture d’écran	*|capyure	8950
+*|outil capture d’écran	*|cpature	7683
+*|outil capture d’écran	*|cqpture	9022
+*|outil capture d’écran	*|captre	8298
+*|outil capture d’écran	*|captut	8664
+*|outil capture d’écran	*|capure	7651
+*|outil capture d’écran	*|ciseau	8078
+*|outil capture d’écran	*|couper	8080
+*|outil capture d’écran	*|cpture	7831
+*|outil capture d’écran	*|outile	8682
+*|outil capture d’écran	*|rogner	8762
+*|outil capture d’écran	*|capru	9060
+*|outil capture d’écran	*|ecran	6887
+*|outil capture d’écran	*|outik	8968
+*|outil capture d’écran	*|outiu	8856
+*|outil capture d’écran	*|ouyil	9090
+*|outil capture d’écran	*|capa	7840
+*|outil capture d’écran	*|snap	6959
+*|outil capture d’écran	*|tool	8389
+*|outil capture d’écran	*|cut	6915
+*|outlook 2013	*|outlok	6198
+*|outlook 2013	*|mail	6037
+*|outlook 2016	*|messagerie	7037
+*|outlook 2016	*|courrier	6850
+*|outlook 2016	*|outllok	6967
+*|outlook 2016	*|office	6455
+*|outlook 2016	*|outlok	6170
+*|outlook 2016	*|email	6694
+*|outlook 2016	*|mail	5636
+*|outlook 2016	*|oul	6967
+*|paint	*|paintpaint	9030
+*|paint	*|paintaint	6725
+*|paint	*|dessiner	8950
+*|paint	*|paintint	8929
+*|paint	*|mspaint	4685
+*|paint	*|paiaint	8632
+*|paint	*|^paint	8444
+*|paint	*|paaint	7392
+*|paint	*|paiint	8279
+*|paint	*|pain t	8936
+*|paint	*|painbt	8813
+*|paint	*|painnt	8705
+*|paint	*|painrt	8791
+*|paint	*|paint$	8205
+*|paint	*|paint*	7887
+*|paint	*|painte	7598
+*|paint	*|paintr	8393
+*|paint	*|paintt	7226
+*|paint	*|painty	8531
+*|paint	*|pbrush	8723
+*|paint	*|ppaint	7967
+*|paint	*|apint	8125
+*|paint	*|oaint	8463
+*|paint	*|pai,t	8772
+*|paint	*|paibt	8695
+*|paint	*|paina	7320
+*|paint	*|painy	6808
+*|paint	*|paitn	7320
+*|paint	*|panit	8746
+*|paint	*|peint	7543
+*|paint	*|photo	6891
+*|paint	*|piant	8411
+*|paint	*|pqint	7548
+*|paint	*|print	7272
+*|paint	*|pzint	8487
+*|paint	*|pâint	8400
+*|paint	*|draw	8927
+*|paint	*|pant	7358
+*|paint	*|pint	6273
+*|paint	*|âint	8603
+*|paint	*|pao	8268
+*|paint	*|pau	8016
+*|paint	*|ح	8776
+*|panneau de configuration	*|paneau de configuration	8181
+*|panneau de configuration	*|panneau configuration	7103
+*|panneau de configuration	*|control panel	6535
+*|panneau de configuration	*|panneaux de	8900
+*|panneau de configuration	*|panneaude	8155
+*|panneau de configuration	*|smart ges	8984
+*|panneau de configuration	*|controle	8374
+*|panneau de configuration	*|paanneau	8401
+*|panneau de configuration	*|panneaua	8105
+*|panneau de configuration	*|panneauy	8836
+*|panneau de configuration	*|panneazu	8957
+*|panneau de configuration	*|pannneau	8037
+*|panneau de configuration	*|ppanneau	8821
+*|panneau de configuration	*|programe	7927
+*|panneau de configuration	*|install	8742
+*|panneau de configuration	*|panneaa	7800
+*|panneau de configuration	*|panneai	8653
+*|panneau de configuration	*|panneay	7200
+*|panneau de configuration	*|panneua	7151
+*|panneau de configuration	*|pqnnequ	8159
+*|panneau de configuration	*|session	7992
+*|panneau de configuration	*|affich	8660
+*|panneau de configuration	*|applic	9013
+*|panneau de configuration	*|pannau	7494
+*|panneau de configuration	*|pannez	8354
+*|panneau de configuration	*|pnneau	8523
+*|panneau de configuration	*|panau	8896
+*|panneau de configuration	*|panel	7851
+*|panneau de configuration	*|paneu	8914
+*|panneau de configuration	*|pannr	8758
+*|panneau de configuration	*|pannz	8375
+*|panneau de configuration	*|dési	8161
+*|panneau de configuration	*|pa,,	8798
+*|panneau de configuration	*|pabb	8593
+*|panneau de configuration	*|ccu	8914
+*|panneau de configuration	*|des	5753
+*|panneau de configuration	*|pae	8892
+*|panneau de configuration	*|^p	8709
+*|panneau de configuration	*|pz	8464
+*|panneau de configuration	*|pé	8916
+*|paramètres	*|panneau de configuration	5770
+*|paramètres	*|parametres	3736
+*|paramètres	*|paramétre	7175
+*|paramètres	*|controle	7264
+*|paramètres	*|reglages	6491
+*|paramètres	*|réglages	7013
+*|paramètres	*|settings	5717
+*|paramètres	*|paara	7108
+*|paramètres	*|paraa	6065
+*|paramètres du clavier et de la souris	*|setpoint	1726
+*|pare-feu windows avec fonctions avancées de sécurité	*|firewall	3835
+*|pare-feu windows avec fonctions avancées de sécurité	*|pare feu	2426
+*|pare-feu windows avec fonctions avancées de sécurité	*|securite	4586
+*|pense-bête	*|pense bete	3598
+*|pense-bête	*|pense bête	4990
+*|pense-bête	*|post it	2848
+*|pense-bête	*|post-it	4994
+*|pense-bête	*|notes	2950
+*|pense-bête	*|stick	5157
+*|pense-bête	*|memo	3864
+*|pense-bête	*|mémo	4795
+*|photos	*|galerie photo	5662
+*|photos	*|picture	6212
+*|photos	*|images	4384
+*|photos	*|import	5977
+*|photos	*|album	5142
+*|photos	*|phoyo	5992
+*|photos	*|phto	5800
+*|picasa 3	*|picassa	3299
+*|planificateur de tâches	*|taches	3280
+*|planificateur de tâches	*|task	2800
+*|pokémon trading card game online	*|pokemon	1943
+*|powerpoint 2013	*|power point	4028
+*|powerpoint 2013	*|office	5820
+*|powerpoint 2013	*|ppt	4316
+*|powerpoint 2016	*|power point	4201
+*|powerpoint 2016	*|office	5291
+*|powerpoint 2016	*|ppt	4095
+*|pro evolution soccer 2016	*|pes	462
+*|pro evolution soccer 2017	*|pes	1
+*|programmes par défaut	*|programme par	4506
+*|programmes par défaut	*|par defaut	4890
+*|programmes par défaut	*|control	4614
+*|programmes par défaut	*|defaut	3540
+*|prompt dei comandi	*|cmd	1
+*|périphériques	*|peripherique	4727
+*|rabbitmq command prompt (sbin dir)	*|cmd	1
+*|remote desktop connection	*|mstsc	1044
+*|remote desktop connection	*|rdp	3573
+*|remote desktop connection manager	*|rdc	1766
+*|rstudio	*|r studio	3371
+*|san andreas multiplayer	*|samp	584
+*|scanneur	*|numerisation	6507
+*|scanneur	*|numeriser	4765
+*|scanneur	*|numériser	5470
+*|scanneur	*|scanner	2394
+*|scanneur	*|scaner	5519
+*|scanneur	*|sac	6189
+*|secure shell client	*|ssh	1
+*|services	*|services.msc	2408
+*|services	*|service.	6402
+*|skype	*|skipe	7175
+*|skype	*|skpe	7743
+*|skype	*|skye	6073
+*|skype	*|skyo	6758
+*|skype	*|skt	7940
+*|skype	*|sku	6696
+*|skype	*|sly	7825
+*|skype	*|sj	7702
+*|skype entreprise 2016	*|lync	3080
+*|skype for business 2015	*|lync	1837
+*|skype for business 2016	*|lync	2456
+*|snipping tool	*|capture	2789
+*|snipping tool	*|screen	4864
+*|snipping tool	*|outil	4031
+*|snipping tool	*|snap	4813
+*|socksclient	*|vip	1
+*|sql server 2014 management studio	*|ssms	2527
+*|sql server management studio	*|ssms	2943
+*|star wars - the old republic	*|swtor	2759
+*|steam	*|counter	7287
+*|steam	*|sr	6758
+*|sticky notes	*|post it	2572
+*|sticky notes	*|postit	4745
+*|sticky notes	*|pense	5454
+*|sticky notes	*|stiky	6071
+*|sticky notes	*|memo	3661
+*|system configuration	*|msconfig	1
+*|símbolo del sistema	*|cmd	1
+*|table des caractères	*|charmap	2202
+*|teamspeak 3 client	*|ts3	5386
+*|teamviewer 11	*|team viewer	6366
+*|tv d'orange	*|tv orange	4380
+*|télé-assistance ebp	*|team	1
+*|télé-loisirs	*|tele	574
+*|télécopie et numérisation windows	*|numerisation	3927
+*|télécopie et numérisation windows	*|numeriser	3299
+*|télécopie et numérisation windows	*|numériser	3742
+*|télécopie et numérisation windows	*|telecopie	4584
+*|télécopie et numérisation windows	*|scan	1752
+*|télécopie et numérisation windows	*|fax	5705
+*|téléphone	*|te	1049
+*|uplay	*|ubi	3710
+*|utilisateurs et ordinateurs active directory	*|dsa	2636
+*|vegas pro 13.0 (64-bit)	*|sony vegas	3490
+*|vidéo skype	*|video	3093
+*|webstorage	*|asus	1311
+*|win'design	*|winde	1367
+*|windows defender	*|window defender	6487
+*|windows defender	*|anti virus	4825
+*|windows defender	*|protection	6839
+*|windows defender	*|antivirus	3641
+*|windows defender	*|microsoft	6205
+*|windows defender	*|security	6703
+*|windows defender	*|malware	6254
+*|windows defender	*|windos	6179
+*|windows defender	*|virus	5251
+*|windows defender	*|mse	6530
+*|windows live movie maker	*|windows movie	3855
+*|windows store	*|application	5469
+*|windows store	*|jeux	2826
+*|windows store	*|windows store	3552
+*|windows store	*|application	5475
+*|windows store	*|jeux	2781
+*|word 2013	*|microsoft word	6858
+*|word 2013	*|winword	5410
+*|word 2013	*|office	5906
+*|word 2013	*|woord	7384
+*|word 2013	*|open	6309
+*|word 2013	*|woed	7161
+*|word 2013	*|work	7462
+*|word 2013	*|wod	7094
+*|word 2016	*|microsoft office	8122
+*|word 2016	*|microsoft word	7082
+*|word 2016	*|winword	5486
+*|word 2016	*|office	5428
+*|word 2016	*|woord	7546
+*|word 2016	*|word*	8056
+*|word 2016	*|worrd	8092
+*|word 2016	*|wword	7829
+*|word 2016	*|open	5896
+*|word 2016	*|woed	7175
+*|word 2016	*|worf	7608
+*|word 2016	*|work	7368
+*|word 2016	*|wors	8088
+*|word 2016	*|wprd	7674
+*|word 2016	*|xord	7688
+*|word 2016	*|zord	8024
+*|word 2016	*|doc	7887
+*|word 2016	*|wod	6996
+*|word 2016	*|wrd	7639
+*|wordpad	*|traitement de texte	5099
+*|wordpad	*|world pad	7420
+*|wordpad	*|word pad	4283
+*|wordpad	*|wordpas	6733
+*|wordpad	*|worpad	6104
+*|wordpad	*|texte	5915
+*|wordpad	*|woed	6697
+*|wordpad	*|work	6152
+*|wordpad	*|opp	6256
+*|wordpad	*|wod	6438
+*|world of tanks	*|wot	1760
+*|world of warships	*|wows	2871
+*|x-lite	*|xlite	1685
+*|xbox	*|game dvr	3794
+*|µtorrent	*|utorrent	2724
+*|моzillа firеfох	*|fire	668
+*|命令提示符	*|cmd	1
+*|Programmes par défaut	*|par défaut	6865
+*|Programmes par défaut	*|défaut	7365
+*|Films et TV	*|et TV	7917
+*|Films et TV	*|TV	8417
+*|AutoPico	*|AutoPico	16565
+*|Visual Studio Installer	*|Studio Installer	12885
+*|Visual Studio Installer	*|Installer	13385
+*|Visual Studio Installer	*|vs_installer	17385
+*|Stratégie de sécurité locale	*|de sécurité locale	64000
+*|Stratégie de sécurité locale	*|sécurité locale	64000
+*|Stratégie de sécurité locale	*|locale	64000
+*|Stratégie de sécurité locale	*|secpol	64000
+*|Enregistreur vocal	*|vocal	6490
+*|OneDrive	*|OneDrive	11122
+*|Minecraft: Windows 10 Edition	*|Windows 10 Edition	8285
+*|Minecraft: Windows 10 Edition	*|10 Edition	8785
+*|Minecraft: Windows 10 Edition	*|Edition	9285
+*|Windows Store	*|Store	6158
+*|Assistance rapide	*|rapide	10068
+*|Assistance rapide	*|quickassist	14568
+*|Windows PowerShell	*|PowerShell	6571
+*|AMD Settings	*|Settings	9136
+*|AMD Settings	*|RadeonSettings	13636
+*|Quelles sont les nouveautés de la dernière version	*|sont les nouveautés de la dernière version	64000
+*|Quelles sont les nouveautés de la dernière version	*|les nouveautés de la dernière version	64000
+*|Quelles sont les nouveautés de la dernière version	*|nouveautés de la dernière version	64000
+*|Quelles sont les nouveautés de la dernière version	*|de la dernière version	64000
+*|Quelles sont les nouveautés de la dernière version	*|la dernière version	64000
+*|Quelles sont les nouveautés de la dernière version	*|dernière version	64000
+*|Quelles sont les nouveautés de la dernière version	*|version	64000
+*|Quelles sont les nouveautés de la dernière version	*|WhatsNew	64000
+*|Planificateur de tâches	*|de tâches	64000
+*|Planificateur de tâches	*|tâches	64000
+*|Planificateur de tâches	*|taskschd	64000
+*|WinRAR	*|WinRAR	14458
+*|Analyseur de performances	*|de performances	64000
+*|Analyseur de performances	*|performances	64000
+*|Analyseur de performances	*|perfmon	64000
+*|DTS Audio Control	*|Audio Control	64000
+*|DTS Audio Control	*|Control	64000
+*|DTS Audio Control	*|rundll32	64000
+*|Log KMSpico	*|KMSpico	11633
+*|Log KMSpico	*|Log	16133
+*|Candy Crush Soda Saga	*|Crush Soda Saga	7581
+*|Candy Crush Soda Saga	*|Soda Saga	8081
+*|Candy Crush Soda Saga	*|Saga	8581
+*|Uninstall KMSpico	*|KMSpico	64000
+*|Uninstall KMSpico	*|UninsHs	64000
+*|Hub de commentaires	*|de commentaires	9894
+*|Hub de commentaires	*|commentaires	10394
+*|Panda Protection	*|Protection	64000
+*|Panda Protection	*|PSUAConsole	64000
+*|Publisher 2016	*|2016	7589
+*|Publisher 2016	*|MSPUB	12089
+*|Panda Protection	*|PSUAMain	15081
+*|3D Builder	*|Builder	8772
+*|Aide	*|PSUAMain	64000
+*|WordPad	*|wordpad	9947
+*|Gestion de l’ordinateur	*|de l’ordinateur	34000
+*|Gestion de l’ordinateur	*|l’ordinateur	34500
+*|Gestion de l’ordinateur	*|ordinateur	35000
+*|Enregistreur d’actions utilisateur	*|d’actions utilisateur	9332
+*|Enregistreur d’actions utilisateur	*|actions utilisateur	9832
+*|Enregistreur d’actions utilisateur	*|utilisateur	10332
+*|Windows PowerShell ISE	*|PowerShell ISE	8440
+*|Windows PowerShell ISE	*|ISE	8940
+*|Windows PowerShell ISE	*|PowerShell_ISE	12940
+*|Explorateur de fichiers	*|de fichiers	3871
+*|Explorateur de fichiers	*|fichiers	4371
+*|Access 2016	*|2016	8354
+*|Access 2016	*|MSACCESS	12854
+*|Défragmenter et optimiser les lecteurs	*|et optimiser les lecteurs	6613
+*|Défragmenter et optimiser les lecteurs	*|optimiser les lecteurs	7113
+*|Défragmenter et optimiser les lecteurs	*|les lecteurs	7613
+*|Défragmenter et optimiser les lecteurs	*|lecteurs	8113
+*|Défragmenter et optimiser les lecteurs	*|dfrgui	11113
+*|Télécopie et numérisation Windows	*|et numérisation Windows	6148
+*|Télécopie et numérisation Windows	*|numérisation Windows	6648
+*|Télécopie et numérisation Windows	*|Windows	7148
+*|Télécopie et numérisation Windows	*|WFS	10648
+*|Spreadsheet Compare 2016	*|Compare 2016	13074
+*|Spreadsheet Compare 2016	*|2016	13574
+*|Spreadsheet Compare 2016	*|AppVLP	17574
+*|Skype for Business Recording Manager	*|for Business Recording Manager	10935
+*|Skype for Business Recording Manager	*|Business Recording Manager	11435
+*|Skype for Business Recording Manager	*|Recording Manager	11935
+*|Skype for Business Recording Manager	*|Manager	12435
+*|Skype for Business Recording Manager	*|OcPubMgr	15435
+*|Word 2016	*|2016	2718
+*|Skype for Business 2016	*|for Business 2016	6563
+*|Skype for Business 2016	*|Business 2016	7063
+*|Skype for Business 2016	*|2016	7563
+*|Nettoyage de disque	*|de disque	6134
+*|Nettoyage de disque	*|disque	6634
+*|Groove Musique	*|Musique	6598
+*|Loupe	*|magnify	12265
+*|Invite de commandes	*|de commandes	3596
+*|Invite de commandes	*|commandes	4096
+*|Invite de commandes	*|cmd	8096
+*|Prise en main	*|en main	9680
+*|Prise en main	*|main	10180
+*|Sources de données ODBC (32 bits)	*|de données ODBC (32 bits)	8777
+*|Sources de données ODBC (32 bits)	*|données ODBC (32 bits)	9277
+*|Sources de données ODBC (32 bits)	*|ODBC (32 bits)	9777
+*|Sources de données ODBC (32 bits)	*|32 bits)	10277
+*|Sources de données ODBC (32 bits)	*|bits)	10777
+*|Sources de données ODBC (32 bits)	*|odbcad32	13277
+*|Connexion Bureau à distance	*|Bureau à distance	4289
+*|Connexion Bureau à distance	*|à distance	4789
+*|Connexion Bureau à distance	*|distance	5289
+*|Services de composants	*|de composants	9844
+*|Services de composants	*|composants	10344
+*|Services de composants	*|comexp	14344
+*|Excel 2016	*|2016	5043
+*|Excel 2016	*|EXCEL	9543
+*|Partager des idées et des solutions	*|des idées et des solutions	64000
+*|Partager des idées et des solutions	*|idées et des solutions	64000
+*|Partager des idées et des solutions	*|et des solutions	64000
+*|Partager des idées et des solutions	*|des solutions	64000
+*|Partager des idées et des solutions	*|solutions	64000
+*|Partager des idées et des solutions	*|PSUAMain	64000
+*|Office 2016 Upload Center	*|2016 Upload Center	9759
+*|Office 2016 Upload Center	*|Upload Center	10259
+*|Office 2016 Upload Center	*|Center	10759
+*|Office 2016 Upload Center	*|AppVLP	14259
+*|Informations système	*|système	7103
+*|Aide de WinRAR	*|de WinRAR	64000
+*|Aide de WinRAR	*|WinRAR	64000
+*|OneNote 2016	*|2016	6402
+*|OneNote 2016	*|ONENOTE	10902
+*|Windows Defender	*|Defender	5612
+*|Windows Defender	*|MSASCui	10112
+*|Aperçu Skype	*|Skype	5882
+*|Pare-feu Windows avec fonctions avancées de sécurité	*|feu Windows avec fonctions avancées de sécurité	7746
+*|Pare-feu Windows avec fonctions avancées de sécurité	*|Windows avec fonctions avancées de sécurité	8246
+*|Pare-feu Windows avec fonctions avancées de sécurité	*|avec fonctions avancées de sécurité	8746
+*|Pare-feu Windows avec fonctions avancées de sécurité	*|fonctions avancées de sécurité	9246
+*|Pare-feu Windows avec fonctions avancées de sécurité	*|avancées de sécurité	9746
+*|Pare-feu Windows avec fonctions avancées de sécurité	*|de sécurité	10246
+*|Pare-feu Windows avec fonctions avancées de sécurité	*|sécurité	10746
+*|Pare-feu Windows avec fonctions avancées de sécurité	*|WF	12246
+*|Sources de données ODBC (64 bits)	*|de données ODBC (64 bits)	9492
+*|Sources de données ODBC (64 bits)	*|données ODBC (64 bits)	9992
+*|Sources de données ODBC (64 bits)	*|ODBC (64 bits)	10492
+*|Sources de données ODBC (64 bits)	*|64 bits)	10992
+*|Sources de données ODBC (64 bits)	*|bits)	11492
+*|Sources de données ODBC (64 bits)	*|odbcad32	13992
+*|Alarmes et horloge	*|et horloge	6532
+*|Alarmes et horloge	*|horloge	7032
+*|PowerPoint 2016	*|2016	5524
+*|PowerPoint 2016	*|POWERPNT	10024
+*|Clavier visuel	*|visuel	6316
+*|Assistance technique en ligne	*|technique en ligne	64000
+*|Assistance technique en ligne	*|en ligne	64000
+*|Assistance technique en ligne	*|ligne	64000
+*|Assistance technique en ligne	*|PSUAMain	64000
+*|Manuel de la console RAR	*|de la console RAR	64000
+*|Manuel de la console RAR	*|la console RAR	64000
+*|Manuel de la console RAR	*|console RAR	64000
+*|Manuel de la console RAR	*|RAR	64000
+*|Ce PC	*|PC	4397
+*|Lecteur Windows Media	*|Windows Media	5735
+*|Lecteur Windows Media	*|Media	6235
+*|Lecteur Windows Media	*|wmplayer	10235
+*|Outlook 2016	*|2016	4658
+*|Outlook 2016	*|OUTLOOK	9158
+*|Initiateur iSCSI	*|iSCSI	10593
+*|Initiateur iSCSI	*|iscsicpl	15093
+*|Configuration du système	*|du système	6209
+*|Configuration du système	*|système	6709
+*|Windows PowerShell (x86)	*|PowerShell (x86)	9702
+*|Windows PowerShell (x86)	*|x86)	10202
+*|Windows PowerShell (x86)	*|powershell	14202
+*|Office 2016 Language Preferences	*|2016 Language Preferences	10878
+*|Office 2016 Language Preferences	*|Language Preferences	11378
+*|Office 2016 Language Preferences	*|Preferences	11878
+*|Office 2016 Language Preferences	*|SETLANG	15378
+*|Database Compare 2016	*|Compare 2016	64000
+*|Database Compare 2016	*|2016	64000
+*|Database Compare 2016	*|AppVLP	64000
+*|Panneau de configuration	*|de configuration	3367
+*|Panneau de configuration	*|configuration	3867
+*|Gestionnaire des tâches	*|des tâches	64000
+*|Gestionnaire des tâches	*|tâches	64000
+*|Gestionnaire des tâches	*|taskmgr	64000
+*|Se connecter	*|connecter	9694
+*|Telemetry Dashboard for Office 2016	*|Dashboard for Office 2016	13131
+*|Telemetry Dashboard for Office 2016	*|for Office 2016	13631
+*|Telemetry Dashboard for Office 2016	*|Office 2016	14131
+*|Telemetry Dashboard for Office 2016	*|2016	14631
+*|Telemetry Dashboard for Office 2016	*|msotd	17631
+*|Panneau de saisie mathématique	*|de saisie mathématique	9974
+*|Panneau de saisie mathématique	*|saisie mathématique	10474
+*|Panneau de saisie mathématique	*|mathématique	10974
+*|Panneau de saisie mathématique	*|mip	14474
+*|Services	*|services	10295
+*|OneDrive for Business	*|for Business	8874
+*|OneDrive for Business	*|Business	9374
+*|OneDrive for Business	*|GROOVE	13374
+*|Microsoft Edge	*|Edge	3451
+*|KMSpico	*|KMSELDI	12937
+*|Reconnaissance vocale de Windows	*|vocale de Windows	64000
+*|Reconnaissance vocale de Windows	*|de Windows	64000
+*|Reconnaissance vocale de Windows	*|Windows	64000
+*|Reconnaissance vocale de Windows	*|sapisvr	64000
+*|Bloc-notes	*|notes	2696
+*|Visionneuse XPS	*|XPS	10887
+*|Visionneuse XPS	*|xpsrchvw	15387
+*|Outil Capture d’écran	*|Capture d’écran	3300
+*|Outil Capture d’écran	*|d’écran	3800
+*|Outil Capture d’écran	*|écran	4300
+*|Outil Capture d’écran	*|SnippingTool	7800
+*|Obtenir Office	*|Office	7811
+*|Internet Explorer	*|Explorer	3774
+*|Internet Explorer	*|iexplore	8274
+*|Windows PowerShell ISE (x86)	*|PowerShell ISE (x86)	10351
+*|Windows PowerShell ISE (x86)	*|ISE (x86)	10851
+*|Windows PowerShell ISE (x86)	*|x86)	11351
+*|Windows PowerShell ISE (x86)	*|PowerShell_ISE	14851
+*|Fonctionnalités optionnelles	*|optionnelles	12039
+*|Fonctionnalités optionnelles	*|fodhelper	16539
+*|Diagnostic de mémoire Windows	*|de mémoire Windows	9046
+*|Diagnostic de mémoire Windows	*|mémoire Windows	9546
+*|Diagnostic de mémoire Windows	*|Windows	10046
+*|Diagnostic de mémoire Windows	*|MdSched	13546
+*|Table des caractères	*|des caractères	7954
+*|Table des caractères	*|caractères	8454
+*|Narrateur	*|narrator	14002
+*|Sticky Notes	*|Notes	5792
+*|Données Wi-Fi et cellulaires payées	*|Wi-Fi et cellulaires payées	10821
+*|Données Wi-Fi et cellulaires payées	*|Fi et cellulaires payées	11321
+*|Données Wi-Fi et cellulaires payées	*|et cellulaires payées	11821
+*|Données Wi-Fi et cellulaires payées	*|cellulaires payées	12321
+*|Données Wi-Fi et cellulaires payées	*|payées	12821
+*|March of Empires: War of Lords	*|of Empires: War of Lords	11227
+*|March of Empires: War of Lords	*|Empires: War of Lords	11727
+*|March of Empires: War of Lords	*|War of Lords	12227
+*|March of Empires: War of Lords	*|of Lords	12727
+*|March of Empires: War of Lords	*|Lords	13227
+*|Observateur d’événements	*|d’événements	64000
+*|Observateur d’événements	*|événements	64000
+*|Observateur d’événements	*|eventvwr	64000
+*|Gestion de l’impression	*|de l’impression	8782
+*|Gestion de l’impression	*|l’impression	9282
+*|Gestion de l’impression	*|impression	9782
+*|Gestion de l’impression	*|printmanagement	13282
+*|Moniteur de ressources	*|de ressources	64000
+*|Moniteur de ressources	*|ressources	64000
+*|Moniteur de ressources	*|perfmon	64000
+*|Contacter le Support	*|le Support	10033
+*|Contacter le Support	*|Support	10533
+*|Microsoft Solitaire Collection	*|Solitaire Collection	6304
+*|Microsoft Solitaire Collection	*|Collection	6804
+*|Telemetry Log for Office 2016	*|Log for Office 2016	64000
+*|Telemetry Log for Office 2016	*|for Office 2016	64000
+*|Telemetry Log for Office 2016	*|Office 2016	64000
+*|Telemetry Log for Office 2016	*|2016	64000
+*|Telemetry Log for Office 2016	*|msoev	64000
+*|Bubble Witch 3 Saga	*|Witch 3 Saga	64000
+*|Bubble Witch 3 Saga	*|3 Saga	64000
+*|Bubble Witch 3 Saga	*|Saga	64000
+*|Visual Studio 2017	*|Studio 2017	64000
+*|Visual Studio 2017	*|2017	64000
+*|Visual Studio 2017	*|devenv	64000
+*|Developer Command Prompt for VS 2017	*|Command Prompt for VS 2017	64000
+*|Developer Command Prompt for VS 2017	*|Prompt for VS 2017	64000
+*|Developer Command Prompt for VS 2017	*|for VS 2017	64000
+*|Developer Command Prompt for VS 2017	*|VS 2017	64000
+*|Developer Command Prompt for VS 2017	*|2017	64000
+*|Developer Command Prompt for VS 2017	*|cmd	64000
+*|Blend for Visual Studio 2017	*|for Visual Studio 2017	64000
+*|Blend for Visual Studio 2017	*|Visual Studio 2017	64000
+*|Blend for Visual Studio 2017	*|Studio 2017	64000
+*|Blend for Visual Studio 2017	*|2017	64000
+*|Blend for Visual Studio 2017	*|Blend	64000
+*|Debuggable Package Manager	*|Package Manager	64000
+*|Debuggable Package Manager	*|Manager	64000
+*|Debuggable Package Manager	*|powershell	64000
+*|Application Verifier (X64)	*|Verifier (X64)	64000
+*|Application Verifier (X64)	*|X64)	64000
+*|Application Verifier (X64)	*|appverif	64000
+*|Application Verifier Help	*|Verifier Help	64000
+*|Application Verifier Help	*|Help	64000
+*|Application Verifier Help	*|appverif	64000
+*|Application Verifier (WOW)	*|Verifier (WOW)	64000
+*|Application Verifier (WOW)	*|WOW)	64000
+*|Application Verifier (WOW)	*|appverif	64000
+*|Tools for Desktop Apps	*|for Desktop Apps	64000
+*|Tools for Desktop Apps	*|Desktop Apps	64000
+*|Tools for Desktop Apps	*|Apps	64000
+*|Tools for Desktop Apps	*|DesktopDevCenterToolsDocumentation	64000
+*|Samples for Windows Store Apps	*|for Windows Store Apps	64000
+*|Samples for Windows Store Apps	*|Windows Store Apps	64000
+*|Samples for Windows Store Apps	*|Store Apps	64000
+*|Samples for Windows Store Apps	*|Apps	64000
+*|Samples for Windows Store Apps	*|WindowsStoreAppDevCenterSamples	64000
+*|Documentation for Windows Store Apps	*|for Windows Store Apps	64000
+*|Documentation for Windows Store Apps	*|Windows Store Apps	64000
+*|Documentation for Windows Store Apps	*|Store Apps	64000
+*|Documentation for Windows Store Apps	*|Apps	64000
+*|Documentation for Windows Store Apps	*|WindowsStoreAppDevCenterLearn	64000
+*|Documentation for Desktop Apps	*|for Desktop Apps	64000
+*|Documentation for Desktop Apps	*|Desktop Apps	64000
+*|Documentation for Desktop Apps	*|Apps	64000
+*|Documentation for Desktop Apps	*|DesktopDevCenterLearn	64000
+*|Windows App Cert Kit	*|App Cert Kit	13145
+*|Windows App Cert Kit	*|Cert Kit	13645
+*|Windows App Cert Kit	*|Kit	14145
+*|Windows App Cert Kit	*|appcertui	17645
+*|Samples for Desktop Apps	*|for Desktop Apps	64000
+*|Samples for Desktop Apps	*|Desktop Apps	64000
+*|Samples for Desktop Apps	*|Apps	64000
+*|Samples for Desktop Apps	*|DesktopDevCenterSamples	64000
+*|Windows Software Development Kit	*|Software Development Kit	64000
+*|Windows Software Development Kit	*|Development Kit	64000
+*|Windows Software Development Kit	*|Kit	64000
+*|Windows Software Development Kit	*|explorer	64000
+*|Tools for Windows Store Apps	*|for Windows Store Apps	64000
+*|Tools for Windows Store Apps	*|Windows Store Apps	64000
+*|Tools for Windows Store Apps	*|Store Apps	64000
+*|Tools for Windows Store Apps	*|Apps	64000
+*|Tools for Windows Store Apps	*|WindowsStoreAppDevCenterToolsDocumentation	64000
+*|x86 Native Tools Command Prompt for VS 2017	*|Native Tools Command Prompt for VS 2017	64000
+*|x86 Native Tools Command Prompt for VS 2017	*|Tools Command Prompt for VS 2017	64000
+*|x86 Native Tools Command Prompt for VS 2017	*|Command Prompt for VS 2017	64000
+*|x86 Native Tools Command Prompt for VS 2017	*|Prompt for VS 2017	64000
+*|x86 Native Tools Command Prompt for VS 2017	*|for VS 2017	64000
+*|x86 Native Tools Command Prompt for VS 2017	*|VS 2017	64000
+*|x86 Native Tools Command Prompt for VS 2017	*|2017	64000
+*|x86 Native Tools Command Prompt for VS 2017	*|cmd	64000
+*|Xamarin Workbooks	*|Workbooks	64000
+*|Xamarin Workbooks	*|Xamarin Workbooks	64000
+*|Xamarin Profiler	*|Profiler	64000
+*|Xamarin Profiler	*|XamarinProfiler	64000
+*|Contrôle de mission Java	*|de mission Java	64000
+*|Contrôle de mission Java	*|mission Java	64000
+*|Contrôle de mission Java	*|Java	64000
+*|Contrôle de mission Java	*|jmc	64000
+*|Documentation de référence	*|de référence	64000
+*|Documentation de référence	*|référence	64000
+*|Documentation de référence	*|docs	64000
+*|SDK Manager	*|Manager	10992
+*|SDK Manager	*|SDK Manager	15492
+*|AVD Manager	*|Manager	12398
+*|AVD Manager	*|AVD Manager	16898
+*|Uninstall Android SDK Tools	*|Android SDK Tools	64000
+*|Uninstall Android SDK Tools	*|SDK Tools	64000
+*|Uninstall Android SDK Tools	*|Tools	64000
+*|Uninstall Android SDK Tools	*|uninstall	64000
+*|Google Chrome	*|Chrome	4186
+*|Default Programs	*|Programs	6865
+*|Movies & TV	*|TV	6208
+*|Local Security Policy	*|Security Policy	64000
+*|Local Security Policy	*|Policy	64000
+*|Local Security Policy	*|secpol	64000
+*|Voice Recorder	*|Recorder	6490
+*|Quick Assist	*|Assist	10068
+*|Quick Assist	*|quickassist	14568
+*|Task Scheduler	*|Scheduler	64000
+*|Task Scheduler	*|taskschd	64000
+*|Performance Monitor	*|Monitor	64000
+*|Performance Monitor	*|perfmon	64000
+*|Feedback Hub	*|Hub	7197
+*|Computer Management	*|Management	34500
+*|Computer Management	*|compmgmt	39000
+*|Steps Recorder	*|Recorder	9332
+*|Steps Recorder	*|psr	13832
+*|File Explorer	*|Explorer	4371
+*|Defragment and Optimize Drives	*|and Optimize Drives	6613
+*|Defragment and Optimize Drives	*|Optimize Drives	7113
+*|Defragment and Optimize Drives	*|Drives	7613
+*|Defragment and Optimize Drives	*|dfrgui	11113
+*|Windows Fax and Scan	*|Fax and Scan	6148
+*|Windows Fax and Scan	*|and Scan	6648
+*|Windows Fax and Scan	*|Scan	7148
+*|Windows Fax and Scan	*|WFS	10648
+*|Disk Cleanup	*|Cleanup	6134
+*|Disk Cleanup	*|cleanmgr	10634
+*|Groove Music	*|Music	6598
+*|Magnifier	*|magnify	12265
+*|Command Prompt	*|Prompt	3596
+*|Get Started	*|Started	9680
+*|ODBC Data Sources (32-bit)	*|Data Sources (32-bit)	8777
+*|ODBC Data Sources (32-bit)	*|Sources (32-bit)	9277
+*|ODBC Data Sources (32-bit)	*|32-bit)	9777
+*|ODBC Data Sources (32-bit)	*|bit)	10277
+*|ODBC Data Sources (32-bit)	*|odbcad32	13277
+*|Remote Desktop Connection	*|Desktop Connection	4289
+*|Remote Desktop Connection	*|Connection	4789
+*|Component Services	*|Services	9844
+*|Component Services	*|comexp	14344
+*|Windows Firewall with Advanced Security	*|Firewall with Advanced Security	7746
+*|Windows Firewall with Advanced Security	*|with Advanced Security	8246
+*|Windows Firewall with Advanced Security	*|Advanced Security	8746
+*|Windows Firewall with Advanced Security	*|Security	9246
+*|Windows Firewall with Advanced Security	*|WF	12246
+*|ODBC Data Sources (64-bit)	*|Data Sources (64-bit)	9492
+*|ODBC Data Sources (64-bit)	*|Sources (64-bit)	9992
+*|ODBC Data Sources (64-bit)	*|64-bit)	10492
+*|ODBC Data Sources (64-bit)	*|bit)	10992
+*|ODBC Data Sources (64-bit)	*|odbcad32	13992
+*|Alarms & Clock	*|Clock	6532
+*|On-Screen Keyboard	*|Screen Keyboard	5408
+*|On-Screen Keyboard	*|Keyboard	5908
+*|On-Screen Keyboard	*|osk	9908
+*|This PC	*|PC	4397
+*|Windows Media Player	*|Media Player	5735
+*|Windows Media Player	*|Player	6235
+*|Windows Media Player	*|wmplayer	10235
+*|iSCSI Initiator	*|Initiator	10593
+*|iSCSI Initiator	*|iscsicpl	15093
+*|System Configuration	*|Configuration	6209
+*|Control Panel	*|Panel	3933
+*|Task Manager	*|Manager	64000
+*|Task Manager	*|taskmgr	64000
+*|Math Input Panel	*|Input Panel	9974
+*|Math Input Panel	*|Panel	10474
+*|Math Input Panel	*|mip	14474
+*|Windows Speech Recognition	*|Speech Recognition	64000
+*|Windows Speech Recognition	*|Recognition	64000
+*|Windows Speech Recognition	*|sapisvr	64000
+*|Notepad	*|notepad	8196
+*|XPS Viewer	*|Viewer	10887
+*|XPS Viewer	*|xpsrchvw	15387
+*|Snipping Tool	*|Tool	2900
+*|Snipping Tool	*|SnippingTool	7400
+*|Get Office	*|Office	7811
+*|Windows Memory Diagnostic	*|Memory Diagnostic	9046
+*|Windows Memory Diagnostic	*|Diagnostic	9546
+*|Windows Memory Diagnostic	*|MdSched	13546
+*|Character Map	*|Map	7954
+*|Character Map	*|charmap	12454
+*|Narrator	*|narrator	14002
+*|Paid Wi-Fi & Cellular	*|Wi-Fi & Cellular	10821
+*|Paid Wi-Fi & Cellular	*|Fi & Cellular	11321
+*|Paid Wi-Fi & Cellular	*|Cellular	11821
+*|Event Viewer	*|Viewer	64000
+*|Event Viewer	*|eventvwr	64000
+*|Print Management	*|Management	8782
+*|Print Management	*|printmanagement	13282
+*|Resource Monitor	*|Monitor	64000
+*|Resource Monitor	*|perfmon	64000
+*|Contact Support	*|Support	10033
+*|Update and Privacy Settings	*|and Privacy Settings	64000
+*|Update and Privacy Settings	*|Privacy Settings	64000
+*|Update and Privacy Settings	*|Settings	64000
+*|Update and Privacy Settings	*|UNPUXLauncher	64000
+*|Microsoft Web Platform Installer	*|Web Platform Installer	11237
+*|Microsoft Web Platform Installer	*|Platform Installer	11737
+*|Microsoft Web Platform Installer	*|Installer	12237
+*|Microsoft Web Platform Installer	*|WebPlatformInstaller	15737
+*|Microsoft Azure PowerShell	*|Azure PowerShell	64000
+*|Microsoft Azure PowerShell	*|PowerShell	64000
+*|Brackets	*|Brackets	13371
+*|Microsoft Azure Storage Explorer	*|Azure Storage Explorer	10708
+*|Microsoft Azure Storage Explorer	*|Storage Explorer	11208
+*|Microsoft Azure Storage Explorer	*|Explorer	11708
+*|Microsoft Azure Storage Explorer	*|StorageExplorer	15208
+*|Dropbox	*|Dropbox	11377
+*|Dropbox Website	*|Website	64000
+*|Dropbox Website	*|www.dropbox	64000
+*|GitHub Desktop	*|Desktop	64000
+*|GitHub Desktop	*|GitHubDesktop	64000
+*|Git CMD	*|CMD	64000
+*|Git CMD	*|git-cmd	64000
+*|Git Bash	*|Bash	64000
+*|Git Bash	*|git-bash	64000
+*|Git GUI	*|GUI	10003
+*|Git GUI	*|git-gui	14503
+*|Visual Studio Code	*|Studio Code	8433
+*|Visual Studio Code	*|Code	8933

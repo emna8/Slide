@@ -1,0 +1,24 @@
+08/14/2017 14:42:59       Info            Activity ID: 4cb98fc6-89d3-474f-a234-893554f42d79
+08/14/2017 14:42:59       Info            App Version: 1.3.1741.0
+08/14/2017 14:42:59       Info            Insider's Hub starting; Online state: 'Unknown', DebuggerAttached: 'False', Debug: 'False'
+08/14/2017 14:42:59       Info            OnActivated.Start[130]
+08/14/2017 14:42:59       Info            PilotsHubProtocolActivated, kind: Protocol, prevexecstate: NotRunning, uri: windows-feedback:?contextid=442&metadata={"Platform":"Immersive","App":"Calendar","AppVersion":"16.0.6868.4120","SessionId":"{2C83FED2-C6DE-4C47-B010-6A8973BAFDFE}"}
+08/14/2017 14:42:59       Info            HandleActivation.Start[159]
+08/14/2017 14:42:59       Info            GetInstalledLegacyApps.Start[161]
+08/14/2017 14:42:59       Info            GetInstalledModernApps.Start[196]
+08/14/2017 14:42:59       Info            GetPublicModernApps.Start[196]
+08/14/2017 14:42:59       Info            HandleActivation.Start[284]
+08/14/2017 14:42:59       Info            PilotsHubStartLaunch
+08/14/2017 14:42:59       Info            IsLegacyUifActivation True
+08/14/2017 14:42:59       Info            HandleActivation.Stop[294] Elapsed MS [11]
+08/14/2017 14:42:59       Info            OnActivated.Stop[295] Elapsed MS [165]
+08/14/2017 14:42:59       Info            RunChecks.Start[350]
+08/14/2017 14:42:59       Info            Beginning start up checks. Previously ran [False]
+08/14/2017 14:42:59       Info            RefreshNetworkConnection.Start[350]
+08/14/2017 14:42:59       Info            Refreshing network status
+08/14/2017 14:42:59       Info            The current internet connectivity profile has a ConnectivityLevel of 'InternetAccess'
+08/14/2017 14:42:59       Info            Current network status - Connected
+08/14/2017 14:42:59       Info            RefreshNetworkConnection.Stop[354] Elapsed MS [5]
+08/14/2017 14:42:59       Info            RefreshAuthentication.Start[354]
+08/14/2017 14:42:59       Info            Refreshing authentication for feedback service
+08/14/2017 14:42:59       Info            Authenticating

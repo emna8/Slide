@@ -1,0 +1,292 @@
+DownloadManager Information: 0 : Loading product xml from: https://go.microsoft.com/?linkid=9842185
+DownloadManager Information: 0 : https://go.microsoft.com/?linkid=9842185 responded with 302
+DownloadManager Information: 0 : Response headers:
+HTTP/1.1 302 Moved Temporarily
+Cache-Control: no-cache
+Pragma: no-cache
+Content-Type: text/html; charset=utf-8
+Expires: -1
+Location: https://www.microsoft.com/web/webpi/5.0/webproductlist.xml
+Server: Microsoft-IIS/8.5
+X-AspNetMvc-Version: 5.2
+X-AspNet-Version: 4.0.30319
+X-Powered-By: ASP.NET
+Content-Length: 175
+Date: Wed, 23 Aug 2017 10:18:09 GMT
+Connection: keep-alive
+Set-Cookie: m0=id=sxp8FZIHA3&v=5.0; expires=Fri, 23-Aug-2019 10:18:08 GMT; path=/
+
+
+DownloadManager Information: 0 : Content-Encoding header: 'gzip'
+DownloadManager Information: 0 : Number of bytes downloaded over the internet: '969725'
+DownloadManager Information: 0 : Number of bytes after possible decompression: '7611054'
+DownloadManager Warning: 0 : Could not resolve keyword ID 5nine
+DownloadManager Warning: 0 : Could not resolve keyword ID Security
+DownloadManager Warning: 0 : Could not resolve keyword ID 5nine
+DownloadManager Warning: 0 : Could not resolve keyword ID Security
+DownloadManager Warning: 0 : Could not resolve keyword ID Backup
+DownloadManager Warning: 0 : Could not resolve keyword ID Portal
+DownloadManager Warning: 0 : Could not resolve keyword ID Backup
+DownloadManager Warning: 0 : Could not resolve keyword ID Portal
+DownloadManager Warning: 0 : Could not resolve keyword ID Backup
+DownloadManager Warning: 0 : Could not resolve keyword ID Resource Provider
+DownloadManager Warning: 0 : Could not resolve keyword ID VMWare
+DownloadManager Warning: 0 : Could not resolve keyword ID Hybrid Cloud
+DownloadManager Warning: 0 : Could not resolve keyword ID Windows Azure Pack
+DownloadManager Warning: 0 : Could not resolve keyword ID Cloud Assert
+DownloadManager Warning: 0 : Could not resolve keyword ID VMWare
+DownloadManager Warning: 0 : Could not resolve keyword ID Hybrid Cloud
+DownloadManager Warning: 0 : Could not resolve keyword ID Windows Azure Pack
+DownloadManager Warning: 0 : Could not resolve keyword ID Cloud Assert
+DownloadManager Warning: 0 : Could not resolve keyword ID VMWare
+DownloadManager Warning: 0 : Could not resolve keyword ID Hybrid Cloud
+DownloadManager Warning: 0 : Could not resolve keyword ID Windows Azure Pack
+DownloadManager Warning: 0 : Could not resolve keyword ID Cloud Assert
+DownloadManager Warning: 0 : Could not resolve keyword ID Usage
+DownloadManager Warning: 0 : Could not resolve keyword ID Billing
+DownloadManager Warning: 0 : Could not resolve keyword ID Hybrid Cloud
+DownloadManager Warning: 0 : Could not resolve keyword ID Windows Azure Pack
+DownloadManager Warning: 0 : Could not resolve keyword ID Cloud Assert
+DownloadManager Warning: 0 : Could not resolve keyword ID Usage
+DownloadManager Warning: 0 : Could not resolve keyword ID Billing
+DownloadManager Warning: 0 : Could not resolve keyword ID Hybrid Cloud
+DownloadManager Warning: 0 : Could not resolve keyword ID Windows Azure Pack
+DownloadManager Warning: 0 : Could not resolve keyword ID Cloud Assert
+DownloadManager Warning: 0 : Could not resolve keyword ID Usage
+DownloadManager Warning: 0 : Could not resolve keyword ID Billing
+DownloadManager Warning: 0 : Could not resolve keyword ID Hybrid Cloud
+DownloadManager Warning: 0 : Could not resolve keyword ID Windows Azure Pack
+DownloadManager Warning: 0 : Could not resolve keyword ID Cloud Assert
+DownloadManager Warning: 0 : Could not resolve keyword ID Usage
+DownloadManager Warning: 0 : Could not resolve keyword ID Billing
+DownloadManager Warning: 0 : Could not resolve keyword ID Hybrid Cloud
+DownloadManager Warning: 0 : Could not resolve keyword ID Windows Azure Pack
+DownloadManager Warning: 0 : Could not resolve keyword ID Cloud Assert
+DownloadManager Warning: 0 : Could not resolve keyword ID Cloud Cruiser
+DownloadManager Warning: 0 : Could not resolve keyword ID Billing
+DownloadManager Warning: 0 : Could not resolve keyword ID Showback
+DownloadManager Warning: 0 : Could not resolve keyword ID Cloud Cruiser
+DownloadManager Warning: 0 : Could not resolve keyword ID Billing
+DownloadManager Warning: 0 : Could not resolve keyword ID Showback
+DownloadManager Warning: 0 : Could not resolve keyword ID Terawe
+DownloadManager Information: 0 : Filtering by current OS
+DownloadManager Information: 0 : Loading product xml from: https://aka.ms/webapplicationlist
+DownloadManager Information: 0 : https://aka.ms/webapplicationlist responded with 301
+DownloadManager Information: 0 : Response headers:
+HTTP/1.1 301 Moved Permanently
+Cache-Control: no-cache
+Pragma: no-cache
+Content-Type: text/html; charset=utf-8
+Expires: -1
+Location: https://webgallery.microsoft.com/feed/webapplicationlist.xml
+Server: Microsoft-IIS/8.5
+X-AspNetMvc-Version: 5.2
+X-AspNet-Version: 4.0.30319
+X-Powered-By: ASP.NET
+Content-Length: 177
+Date: Wed, 23 Aug 2017 10:18:16 GMT
+Connection: keep-alive
+
+
+DownloadManager Information: 0 : Content-Encoding header: 'gzip'
+DownloadManager Information: 0 : Number of bytes downloaded over the internet: '66858'
+DownloadManager Information: 0 : Number of bytes after possible decompression: '440957'
+DownloadManager Information: 0 : Filtering by current OS
+DownloadManager Information: 0 : Sucessfully loaded the feed 'https://aka.ms/webapplicationlist' after preprocessing, location on disk: 'C:\Users\Helmi\AppData\Local\Microsoft\Web Platform Installer\preprocessor\-966730450.xml'
+DownloadManager Information: 0 : Loading product xml from: https://www.microsoft.com/web/webpi/5.0/mediaproductlist.xml
+DownloadManager Information: 0 : Content-Encoding header: 'gzip'
+DownloadManager Information: 0 : Number of bytes downloaded over the internet: '11468'
+DownloadManager Information: 0 : Number of bytes after possible decompression: '64021'
+DownloadManager Information: 0 : Filtering by current OS
+DownloadManager Information: 0 : Sucessfully loaded the feed 'https://www.microsoft.com/web/webpi/5.0/mediaproductlist.xml' after preprocessing, location on disk: 'C:\Users\Helmi\AppData\Local\Microsoft\Web Platform Installer\preprocessor\-230948881.xml'
+DownloadManager Information: 0 : Loading product xml from: https://www.microsoft.com/web/webpi/5.0/ToolsProductList.xml
+DownloadManager Information: 0 : Content-Encoding header: 'gzip'
+DownloadManager Information: 0 : Number of bytes downloaded over the internet: '11519'
+DownloadManager Information: 0 : Number of bytes after possible decompression: '66362'
+DownloadManager Information: 0 : Filtering by current OS
+DownloadManager Information: 0 : Sucessfully loaded the feed 'https://www.microsoft.com/web/webpi/5.0/ToolsProductList.xml' after preprocessing, location on disk: 'C:\Users\Helmi\AppData\Local\Microsoft\Web Platform Installer\preprocessor\-1135381691.xml'
+DownloadManager Information: 0 : Loading product xml from: https://www.microsoft.com/web/webpi/5.0/enterpriseproductlist.xml
+DownloadManager Information: 0 : Content-Encoding header: 'gzip'
+DownloadManager Information: 0 : Number of bytes downloaded over the internet: '7517'
+DownloadManager Information: 0 : Number of bytes after possible decompression: '40596'
+DownloadManager Information: 0 : Filtering by current OS
+DownloadManager Information: 0 : Sucessfully loaded the feed 'https://www.microsoft.com/web/webpi/5.0/enterpriseproductlist.xml' after preprocessing, location on disk: 'C:\Users\Helmi\AppData\Local\Microsoft\Web Platform Installer\preprocessor\-1877981721.xml'
+DownloadManager Information: 0 : Sucessfully loaded the feed 'https://go.microsoft.com/?linkid=9842185' after preprocessing, location on disk: 'C:\Users\Helmi\AppData\Local\Microsoft\Web Platform Installer\preprocessor\1343597488.xml'
+DownloadManager Information: 0 : Getting ratings file from http://go.microsoft.com/?linkid=9752395
+DownloadManager Information: 0 : http://go.microsoft.com/?linkid=9752395 responded with 302
+DownloadManager Information: 0 : Response headers:
+HTTP/1.1 302 Moved Temporarily
+Cache-Control: no-cache
+Pragma: no-cache
+Content-Type: text/html; charset=utf-8
+Expires: -1
+Location: http://www.microsoft.com/web/handlers/WebPI.ashx?command=getatomfeedwithavgratingquery
+Server: Microsoft-IIS/8.5
+X-AspNetMvc-Version: 5.2
+X-AspNet-Version: 4.0.30319
+X-Powered-By: ASP.NET
+Content-Length: 203
+Date: Wed, 23 Aug 2017 10:18:20 GMT
+Connection: keep-alive
+
+
+DownloadManager Information: 0 : Contextual entry products: WindowsAzurePowerShell
+DownloadManager Information: 0 : Adding product Microsoft Azure PowerShell 0.9 (WindowsAzurePowershell) to cart
+DownloadManager Information: 0 : Contextual navigation to product 'WindowsAzurePowershell'
+DownloadManager Information: 0 : Content-Encoding header: 'gzip'
+DownloadManager Information: 0 : Number of bytes downloaded over the internet: '25141'
+DownloadManager Information: 0 : Number of bytes after possible decompression: '82063'
+DownloadManager Warning: 0 : Error getting last-modified header, error code: 12150
+DownloadManager Warning: 0 : HttpQueryInfoWithRetry for HTTP_QUERY_LAST_MODIFIED failed.
+DownloadManager Information: 0 : Ratings file loaded successfully
+DownloadManager Information: 0 : Adding product 'WindowsAzurePowershell'
+DownloadManager Information: 0 : Setting current install to 1
+DownloadManager Information: 0 : Starting install sequence
+DownloadManager Information: 0 : Downloading file 'http://aka.ms/azure-powershell' to: C:\Users\Helmi\AppData\Local\Temp\tmp4416.tmp
+DownloadManager Information: 0 : http://aka.ms/azure-powershell responded with 301
+DownloadManager Information: 0 : Response headers:
+HTTP/1.1 301 Moved Permanently
+Cache-Control: no-cache
+Pragma: no-cache
+Content-Type: text/html; charset=utf-8
+Expires: -1
+Location: http://azuresdkscu.blob.core.windows.net/downloads04/azure-powershell.0.9.8.1.msi
+Server: Microsoft-IIS/8.5
+X-AspNetMvc-Version: 5.2
+X-AspNet-Version: 4.0.30319
+X-Powered-By: ASP.NET
+Content-Length: 198
+Date: Wed, 23 Aug 2017 10:18:34 GMT
+Connection: keep-alive
+
+
+DownloadManager Information: 0 : Number of bytes downloaded over the internet: '24846336'
+DownloadManager Information: 0 : Number of bytes after possible decompression: '24846336'
+DownloadManager Information: 0 : Moving downloaded file 'C:\Users\Helmi\AppData\Local\Temp\tmp4416.tmp' to: C:\Users\Helmi\AppData\Local\Microsoft\Web Platform Installer\installers\WindowsAzurePowershell\06B87F852E4D6E43F344752E0160C4BC5A2273BE\azure-powershell.0.9.8.1.msi
+DownloadManager Information: 0 : Starting MSI install for msi 'C:\Users\Helmi\AppData\Local\Microsoft\Web Platform Installer\installers\WindowsAzurePowershell\06B87F852E4D6E43F344752E0160C4BC5A2273BE\azure-powershell.0.9.8.1.msi', commandline: 'ACTION=INSTALL REBOOT=ReallySuppress'
+DownloadManager Information: 0 : MSI install return value for product 'Microsoft Azure PowerShell 0.9' is '0'
+DownloadManager Information: 0 : Install return code for product 'Microsoft Azure PowerShell 0.9' is Success
+DownloadManager Information: 0 : Product Microsoft Azure PowerShell 0.9 done install completed
+DownloadManager Information: 0 : Increasing current install to 2
+DownloadManager Information: 0 : Microsoft Azure PowerShell 0.9 installation log: C:\Users\Helmi\AppData\Local\Microsoft\Web Platform Installer\logs\install\2017-08-23T12.18.33\azure-powershell.0.9.8.1.txt
+DownloadManager Information: 0 : Product: WindowsAzurePowershell, Install Status: InstallCompleted-Success, Install Time: 00:00:52.7307809
+DownloadManager Information: 0 : Clearing cart
+DownloadManager Information: 0 : Adding product Microsoft Azure PowerShell (WindowsAzurePowershellGet) to cart
+DownloadManager Information: 0 : Adding product 'WindowsAzurePowershellGet'
+DownloadManager Information: 0 : Setting current install to 1
+DownloadManager Information: 0 : Starting install sequence
+DownloadManager Information: 0 : Downloading file 'http://aka.ms/azure-powershellget' to: C:\Users\Helmi\AppData\Local\Temp\tmp9395.tmp
+DownloadManager Information: 0 : http://aka.ms/azure-powershellget responded with 301
+DownloadManager Information: 0 : Response headers:
+HTTP/1.1 301 Moved Permanently
+Cache-Control: no-cache
+Pragma: no-cache
+Content-Type: text/html; charset=utf-8
+Expires: -1
+Location: https://azuresdkscu.blob.core.windows.net/downloads04/azure-powershell.4.3.1.msi
+Server: Microsoft-IIS/8.5
+X-AspNetMvc-Version: 5.2
+X-AspNet-Version: 4.0.30319
+X-Powered-By: ASP.NET
+Content-Length: 197
+Date: Wed, 23 Aug 2017 10:21:05 GMT
+Connection: keep-alive
+
+
+DownloadManager Information: 0 : Number of bytes downloaded over the internet: '41922560'
+DownloadManager Information: 0 : Number of bytes after possible decompression: '41922560'
+DownloadManager Information: 0 : Moving downloaded file 'C:\Users\Helmi\AppData\Local\Temp\tmp9395.tmp' to: C:\Users\Helmi\AppData\Local\Microsoft\Web Platform Installer\installers\WindowsAzurePowershellGet\1F4FCC5E92035BE0907B4E83AC8661B13C0C2FA6\azure-powershell.4.3.1.msi
+DownloadManager Information: 0 : Starting MSI install for msi 'C:\Users\Helmi\AppData\Local\Microsoft\Web Platform Installer\installers\WindowsAzurePowershellGet\1F4FCC5E92035BE0907B4E83AC8661B13C0C2FA6\azure-powershell.4.3.1.msi', commandline: 'ACTION=INSTALL REBOOT=ReallySuppress'
+DownloadManager Information: 0 : MSI install return value for product 'Microsoft Azure PowerShell' is '0'
+DownloadManager Information: 0 : Install return code for product 'Microsoft Azure PowerShell' is Success
+DownloadManager Information: 0 : Product Microsoft Azure PowerShell done install completed
+DownloadManager Information: 0 : Increasing current install to 2
+DownloadManager Information: 0 : Microsoft Azure PowerShell installation log: C:\Users\Helmi\AppData\Local\Microsoft\Web Platform Installer\logs\install\2017-08-23T12.21.04\azure-powershell.4.3.1.txt
+DownloadManager Information: 0 : Product: WindowsAzurePowershellGet, Install Status: InstallCompleted-Success, Install Time: 00:01:07.0574160
+DownloadManager Information: 0 : Clearing cart
+DownloadManager Error: 0 : WebClient download error. Uri: http://www.terawe.com/tac/img/logo.png, Error: System.Net.WebException: The remote server returned an error: (404) Not Found.
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at Microsoft.Web.PlatformInstaller.UI.DownloadServiceImplementation.DownloadFile(Uri uri, String filePath)
+DownloadManager Information: 0 : http://www.terawe.com/tac/img/logo.png responded with 404
+DownloadManager Information: 0 : Response headers:
+HTTP/1.1 404 Not Found
+Cache-Control: no-cache, must-revalidate, max-age=0
+Content-Length: 34969
+Content-Type: text/html; charset=UTF-8
+Expires: Wed, 11 Jan 1984 05:00:00 GMT
+Server: Microsoft-IIS/8.0
+X-Powered-By: PHP/5.6.31
+Link: <http://www.terawe.com/wp-json/>; rel="https://api.w.org/"
+X-Powered-By: ASP.NET
+Set-Cookie: ARRAffinity=f77be7c3752d7d3c3fe8bc1c98b770cf5bb6df3eae31f9e1cefb8b846f5a4cae;Path=/;HttpOnly;Domain=www.terawe.com
+Date: Wed, 23 Aug 2017 11:16:06 GMT
+
+
+DownloadManager Error: 0 : WinInet download error. Uri: http://www.terawe.com/tac/img/logo.png, Error: System.Net.WebException: Url 'http://www.terawe.com/tac/img/logo.png' returned HTTP status code: 404
+   at Microsoft.Web.PlatformInstaller.ManagedWinInet.OpenUrlAndFollowRedirects(Uri& uri, IntPtr& hInetFile)
+   at Microsoft.Web.PlatformInstaller.ManagedWinInet.DownloadFile(Uri uri, String fileName, String& contentDispositionFileName)
+   at Microsoft.Web.PlatformInstaller.UI.DownloadServiceImplementation.DownloadFile(Uri uri, String filePath)
+DownloadManager Error: 0 : WebClient download error. Uri: http://silverlight.microsoft.com/Assets/vs-webpi.png, Error: System.Net.WebException: The remote server returned an error: (404) Not Found.
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at Microsoft.Web.PlatformInstaller.UI.DownloadServiceImplementation.DownloadFile(Uri uri, String filePath)
+DownloadManager Information: 0 : http://silverlight.microsoft.com/Assets/vs-webpi.png responded with 404
+DownloadManager Information: 0 : Response headers:
+HTTP/1.1 404 Not Found
+Content-Type: text/html
+Date: Wed, 23 Aug 2017 11:16:08 GMT
+Server: ECAcc (nya/797E)
+Content-Length: 345
+
+
+DownloadManager Error: 0 : WinInet download error. Uri: http://silverlight.microsoft.com/Assets/vs-webpi.png, Error: System.Net.WebException: Url 'http://silverlight.microsoft.com/Assets/vs-webpi.png' returned HTTP status code: 404
+   at Microsoft.Web.PlatformInstaller.ManagedWinInet.OpenUrlAndFollowRedirects(Uri& uri, IntPtr& hInetFile)
+   at Microsoft.Web.PlatformInstaller.ManagedWinInet.DownloadFile(Uri uri, String fileName, String& contentDispositionFileName)
+   at Microsoft.Web.PlatformInstaller.UI.DownloadServiceImplementation.DownloadFile(Uri uri, String filePath)
+DownloadManager Error: 0 : WebClient download error. Uri: https://file.ac/kLa3HIp4zBg/cclogo.png, Error: System.Net.WebException: The remote server returned an error: (404) Not Found.
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at Microsoft.Web.PlatformInstaller.UI.DownloadServiceImplementation.DownloadFile(Uri uri, String filePath)
+DownloadManager Error: 0 : WebClient download error. Uri: https://file.ac/kLa3HIp4zBg/cclogo.png, Error: System.Net.WebException: The remote server returned an error: (404) Not Found.
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at Microsoft.Web.PlatformInstaller.UI.DownloadServiceImplementation.DownloadFile(Uri uri, String filePath)
+DownloadManager Information: 0 : https://file.ac/kLa3HIp4zBg/cclogo.png responded with 404
+DownloadManager Information: 0 : Response headers:
+HTTP/1.1 404 NOT FOUND
+Server: nginx
+Date: Wed, 23 Aug 2017 11:16:13 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+Vary: Accept-Encoding
+Vary: Cookie, Accept-Language
+X-Frame-Options: SAMEORIGIN
+Content-Language: en-us
+Set-Cookie: csrftoken=rDyoRyzWjWuqCnQAt9wLXgIvEgpacR44; expires=Wed, 22-Aug-2018 11:16:13 GMT; Max-Age=31449600; Path=/
+Set-Cookie: sessionid=6f2d1084c91c0f50346ae3ccc2194c00; expires=Wed, 23-Aug-2017 11:36:12 GMT; httponly; Max-Age=1199; Path=/
+Content-Encoding: gzip
+X-Robots-Tag: noindex,nofollow
+
+
+DownloadManager Error: 0 : WinInet download error. Uri: https://file.ac/kLa3HIp4zBg/cclogo.png, Error: System.Net.WebException: Url 'https://file.ac/kLa3HIp4zBg/cclogo.png' returned HTTP status code: 404
+   at Microsoft.Web.PlatformInstaller.ManagedWinInet.OpenUrlAndFollowRedirects(Uri& uri, IntPtr& hInetFile)
+   at Microsoft.Web.PlatformInstaller.ManagedWinInet.DownloadFile(Uri uri, String fileName, String& contentDispositionFileName)
+   at Microsoft.Web.PlatformInstaller.UI.DownloadServiceImplementation.DownloadFile(Uri uri, String filePath)
+DownloadManager Information: 0 : https://file.ac/kLa3HIp4zBg/cclogo.png responded with 404
+DownloadManager Information: 0 : Response headers:
+HTTP/1.1 404 NOT FOUND
+Server: nginx
+Date: Wed, 23 Aug 2017 11:16:13 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+Vary: Accept-Encoding
+Vary: Cookie, Accept-Language
+X-Frame-Options: SAMEORIGIN
+Content-Language: en-us
+Set-Cookie: csrftoken=ZGenTNmrmfmJvqxteTfyDhZr3amBNde5; expires=Wed, 22-Aug-2018 11:16:13 GMT; Max-Age=31449600; Path=/
+Set-Cookie: sessionid=fbb6d319502ff48025954d0e3deb68be; expires=Wed, 23-Aug-2017 11:36:12 GMT; httponly; Max-Age=1199; Path=/
+Content-Encoding: gzip
+X-Robots-Tag: noindex,nofollow
+
+
+DownloadManager Error: 0 : WinInet download error. Uri: https://file.ac/kLa3HIp4zBg/cclogo.png, Error: System.Net.WebException: Url 'https://file.ac/kLa3HIp4zBg/cclogo.png' returned HTTP status code: 404
+   at Microsoft.Web.PlatformInstaller.ManagedWinInet.OpenUrlAndFollowRedirects(Uri& uri, IntPtr& hInetFile)
+   at Microsoft.Web.PlatformInstaller.ManagedWinInet.DownloadFile(Uri uri, String fileName, String& contentDispositionFileName)
+   at Microsoft.Web.PlatformInstaller.UI.DownloadServiceImplementation.DownloadFile(Uri uri, String filePath)

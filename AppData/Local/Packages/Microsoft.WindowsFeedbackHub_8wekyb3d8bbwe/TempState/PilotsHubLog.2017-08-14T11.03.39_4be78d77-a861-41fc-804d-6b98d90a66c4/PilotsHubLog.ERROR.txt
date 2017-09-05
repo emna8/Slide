@@ -1,0 +1,20 @@
+08/14/2017 11:03:40       Error           An error occured downloading user settings from [usersettingsv5?locale=fr-FR] in [fr-FR], System.Exception: Pilot Service: Authentication ticket is null or empty
+   at PilotshubApp!<BaseAddress>+0x544cab
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at SharedLibrary!<BaseAddress>+0x4511ee
+   at SharedLibrary!<BaseAddress>+0x451168
+   at SharedLibrary!<BaseAddress>+0x50c81a
+   at PilotshubApp!<BaseAddress>+0x543c13
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at SharedLibrary!<BaseAddress>+0x4511ee
+   at SharedLibrary!<BaseAddress>+0x451168
+   at SharedLibrary!<BaseAddress>+0x699af7
+   at PilotshubApp!<BaseAddress>+0x4c50d4
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at SharedLibrary!<BaseAddress>+0x4511ee
+   at SharedLibrary!<BaseAddress>+0x451168
+   at SharedLibrary!<BaseAddress>+0x699af7
+   at PilotshubApp!<BaseAddress>+0x6ac04b

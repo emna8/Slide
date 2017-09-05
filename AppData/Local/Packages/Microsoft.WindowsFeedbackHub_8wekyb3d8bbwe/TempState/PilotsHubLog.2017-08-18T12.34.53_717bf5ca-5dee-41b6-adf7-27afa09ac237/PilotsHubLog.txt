@@ -1,0 +1,40 @@
+08/18/2017 12:34:53       Info            Activity ID: 681d40c7-eb04-4624-b7ff-d4a50fbb259a
+08/18/2017 12:34:53       Info            App Version: 1.3.1741.0
+08/18/2017 12:34:53       Info            Insider's Hub starting; Online state: 'Unknown', DebuggerAttached: 'False', Debug: 'False'
+08/18/2017 12:34:53       Info            OnLaunched.Start[54]
+08/18/2017 12:34:53       Info            PilotsHubOnLaunched, args: CONTEXTUIF:?FolderName=C:\Users\Helmi\Pictures\Feedback\{56AF4AA0-CC00-4D86-B726-5E79B2284717}, tileid: App
+08/18/2017 12:34:53       Info            HandleActivation.Start[75]
+08/18/2017 12:34:53       Info            GetInstalledLegacyApps.Start[77]
+08/18/2017 12:34:53       Info            GetInstalledModernApps.Start[117]
+08/18/2017 12:34:53       Info            GetPublicModernApps.Start[117]
+08/18/2017 12:34:53       Info            HandleActivation.Start[220]
+08/18/2017 12:34:53       Info            PilotsHubStartLaunch
+08/18/2017 12:34:53       Info            IsLegacyUifActivation True
+08/18/2017 12:34:53       Info            HandleActivation.Stop[229] Elapsed MS [9]
+08/18/2017 12:34:53       Info            OnLaunched.Stop[229] Elapsed MS [174]
+08/18/2017 12:34:53       Info            RunChecks.Start[275]
+08/18/2017 12:34:53       Info            Beginning start up checks. Previously ran [False]
+08/18/2017 12:34:53       Info            RefreshNetworkConnection.Start[275]
+08/18/2017 12:34:53       Info            Refreshing network status
+08/18/2017 12:34:53       Info            The current internet connectivity profile has a ConnectivityLevel of 'InternetAccess'
+08/18/2017 12:34:53       Info            Current network status - Connected
+08/18/2017 12:34:53       Info            RefreshNetworkConnection.Stop[279] Elapsed MS [4]
+08/18/2017 12:34:53       Info            RefreshAuthentication.Start[279]
+08/18/2017 12:34:53       Info            Refreshing authentication for feedback service
+08/18/2017 12:34:53       Info            Authenticating
+08/18/2017 12:34:55       Info            Successfully acquired an authentication token for endpoint=https://insiderhub.microsoft.com/PilotService.svc/
+08/18/2017 12:34:55       Info            Authenticated Emnaaidoudi@hotmail.com
+08/18/2017 12:34:55       Info            RefreshAuthentication.Stop[1956] Elapsed MS [1677]
+08/18/2017 12:34:55       Info            RefreshDeviceSettingsAsync.Start[1956]
+08/18/2017 12:34:55       Info            GetWebContent.Uri[https://uif.microsoft.com/FeedbackCloudService.svc/devicesettings].Start[2029]
+08/18/2017 12:34:55       Info            CreateWebRequest.Uri[https://uif.microsoft.com/FeedbackCloudService.svc/devicesettings].Start[2029]
+08/18/2017 12:34:55       Info            Authenticating
+08/18/2017 12:34:55       Info            RefreshUserSettings.Start[2060]
+08/18/2017 12:34:55       Info            GetUserSettings.Start[2068]
+08/18/2017 12:34:55       Info            GetWebContent.Uri[https://uif.microsoft.com/FeedbackCloudService.svc/usersettings].Start[2068]
+08/18/2017 12:34:55       Info            CreateWebRequest.Uri[https://uif.microsoft.com/FeedbackCloudService.svc/usersettings].Start[2068]
+08/18/2017 12:34:55       Info            Authenticated Emnaaidoudi@hotmail.com
+08/18/2017 12:34:55       Info            CreateWebRequest.Uri[https://uif.microsoft.com/FeedbackCloudService.svc/devicesettings].Stop[2172] Elapsed MS [143]
+08/18/2017 12:34:55       Info            Authenticating
+08/18/2017 12:34:55       Info            Authenticated Emnaaidoudi@hotmail.com
+08/18/2017 12:34:55       Info            CreateWebRequest.Uri[https://uif.microsoft.com/FeedbackCloudService.svc/usersettings].Stop[2218] Elapsed MS [150]

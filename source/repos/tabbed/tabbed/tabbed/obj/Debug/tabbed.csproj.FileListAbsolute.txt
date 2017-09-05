@@ -1,0 +1,17 @@
+C:\Users\Helmi\source\repos\tabbed\tabbed\tabbed\bin\Debug\tabbed.dll
+C:\Users\Helmi\source\repos\tabbed\tabbed\tabbed\bin\Debug\tabbed.pdb
+C:\Users\Helmi\source\repos\tabbed\tabbed\tabbed\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\Helmi\source\repos\tabbed\tabbed\tabbed\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\Helmi\source\repos\tabbed\tabbed\tabbed\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Helmi\source\repos\tabbed\tabbed\tabbed\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\Helmi\source\repos\tabbed\tabbed\tabbed\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\Helmi\source\repos\tabbed\tabbed\tabbed\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Users\Helmi\source\repos\tabbed\tabbed\tabbed\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\Helmi\source\repos\tabbed\tabbed\tabbed\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\Helmi\source\repos\tabbed\tabbed\tabbed\obj\Debug\tabbed.csprojResolveAssemblyReference.cache
+C:\Users\Helmi\source\repos\tabbed\tabbed\tabbed\obj\Debug\tabbed.csproj.CoreCompileInputs.cache
+C:\Users\Helmi\source\repos\tabbed\tabbed\tabbed\obj\Debug\tabbed.MainPage.xaml.g.cs
+C:\Users\Helmi\source\repos\tabbed\tabbed\tabbed\obj\Debug\tabbed.App.xaml.g.cs
+C:\Users\Helmi\source\repos\tabbed\tabbed\tabbed\obj\Debug\tabbed.Page1.xaml.g.cs
+C:\Users\Helmi\source\repos\tabbed\tabbed\tabbed\obj\Debug\tabbed.dll
+C:\Users\Helmi\source\repos\tabbed\tabbed\tabbed\obj\Debug\tabbed.pdb

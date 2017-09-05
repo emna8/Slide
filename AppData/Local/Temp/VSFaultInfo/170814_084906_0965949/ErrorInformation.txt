@@ -1,0 +1,96 @@
+Error Information
+AppInsightsEvent Name = vs/setupengine/packagefailure
+          Description = VS Setup Failure
+     TelemetrySession = 'fd70bf79-40a6-4775-beac-c868d55e0dc6' Started = True OptIn=True IsInitialized = True Cloned = True
+             UTC time = 2017-08-14T18:49:06
+
+ currently running Stack
+ Microsoft.VisualStudio.Setup.Services.Telemetry.WriteFault(String eventName, String description, IDictionary`2 properties, Exception ex, Object objCorrelatedWith, Boolean overrideCEIP, BucketParameters bucketParameters, Boolean addLogs, IEnumerable`1 logFiles, Boolean createDump)
+ Microsoft.VisualStudio.Setup.Services.Watson.FileWERReport(IEngineContext context, IPackage currentPackage, String packageAction, String returnCode, String details, Boolean sendReport, Boolean addLogs, String logFile, Boolean createDump)
+ Microsoft.VisualStudio.Setup.InstallOperation.OnError(Object sender, ActivityEventArgs e)
+ Microsoft.VisualStudio.Setup.Activities.Coordinator.OnError(ActivityEventArgs e)
+ Microsoft.VisualStudio.Setup.Activities.AsyncCoordinator.InvokeAsync(Object state)
+ System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+ System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+ System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+ System.Threading.ThreadHelper.ThreadStart(Object obj)
+Telemetry Session Shared Properties:
+   VS.Core.User.Location.GeoId = 84
+   VS.Core.ExeName = vs_installerservice
+   VS.SetupEngine.UserRequestedOperation = install
+   VS.Core.User.IsOptedIn = True
+   VS.SetupEngine.ComponentId = Microsoft.VisualStudio.Product.Enterprise
+   VS.Core.User.IsMicrosoftInternal = False
+   VS.Core.User.Type = External
+   VS.Core.MacAddressHash = 0632b0f8784b120a91791025529fb7544f69755c9fb4ef624d9d4890e95e9b77
+   VS.SetupEngine.Branch = d15svc
+   VS.Core.OS.Version = 10.0.14393.0
+   VS.SetupEngine.CurrentOperation = Install
+   VS.SetupEngine.ChannelsPath = catalog.json
+   VS.SetupEngine.EngineVersion = 1.10.104.59848
+   VS.SetupEngine.SharedWillowSessionId = fc2ee42f-441c-4028-82bd-480ea28b146b
+   VS.SetupEngine.SharedWillowInstallSessionId = 71d8f642-2240-4a96-99f1-dcb710d69c68
+   VS.SetupEngine.ProductVersion = 15.0.26430.16
+   VS.Core.User.Id = b4678e1f-7531-42ee-9c0b-b6fa2263be10
+   VS.Core.Machine.Id = d7890ac2-eb56-4df7-b9d8-e675cc96ad0c
+   VS.SetupEngine.BuildNumber = 15.2.26430.16
+   VS.Core.User.IsMicrosoftInternalDeprecated = False
+   VS.SetupEngine.Workloads = Microsoft.VisualStudio.Workload.CoreEditor,Microsoft.VisualStudio.Workload.NetCrossPlat
+   VS.Core.ExeVersion = 1.0.223.34901
+   VS.SetupEngine.InstanceId = 697cbdc5
+   VS.SetupEngine.Id = VisualStudio/15.2.0+26430.16
+   VS.Core.BuildNumber = 223
+   VS.Core.TelemetryApi.ProductVersion = 15.3.789-masterCC863119
+Telemetry event 'vs/setupengine/packagefailure' properties:
+   [VS.SetupEngine.OperationType] = 'Install'
+   [VS.SetupEngine.PackageId] = 'JavaJDKV2'
+   [VS.SetupEngine.UniquePackageId] = 'JavaJDKV2,version=1.8.1,chip=x86'
+   [VS.SetupEngine.Language] = ''
+   [VS.SetupEngine.CurrentState] = 'Absent'
+   [VS.SetupEngine.RequestedState] = 'Present'
+   [VS.SetupEngine.Chip] = 'x86'
+   [VS.SetupEngine.Version] = '1.8.1'
+   [VS.SetupEngine.PackageType] = 'Exe'
+   [VS.SetupEngine.PackageParents] = 'JavaJDKV2'
+   [VS.SetupEngine.AncestorWorkloads] = 'Microsoft.VisualStudio.Workload.NetCrossPlat'
+   [VS.SetupEngine.FailureType] = 'Setup Watson'
+   [VS.Fault.WatsonOptIn] = 'PropertyOptIn'
+   [VS.Fault.CallerStackTrace] = 'Microsoft.VisualStudio.Setup.Services.Telemetry.WriteFault(String,String,IDictionary`2,Exception,Object,Boolean,BucketParameters,Boolean,IEnumerable`1,Boolean)
+Microsoft.VisualStudio.Setup.Services.Watson.FileWERReport(IEngineContext,IPackage,String,String,String,Boolean,Boolean,String,Boolean)
+Microsoft.VisualStudio.Setup.InstallOperation.OnError(Object,ActivityEventArgs)
+Microsoft.VisualStudio.Setup.Activities.Coordinator.OnError(ActivityEventArgs)
+Microsoft.VisualStudio.Setup.Activities.AsyncCoordinator.InvokeAsync(Object)
+System.Threading.ExecutionContext.RunInternal(ExecutionContext,ContextCallback,Object,Boolean)
+System.Threading.ExecutionContext.Run(ExecutionContext,ContextCallback,Object,Boolean)
+System.Threading.ExecutionContext.Run(ExecutionContext,ContextCallback,Object)
+System.Threading.ThreadHelper.ThreadStart(Object)'
+   [VS.Fault.Exception.ModuleVersion] = '1.10.104.59848'
+   [VS.Fault.Exception.Offset] = '191'
+   [VS.Fault.WatsonReportNumber] = '0'
+Telemetry event 'vs/setupengine/packagefailure' reserved properties:
+   [DataModel.Severity] = '10'
+   [DataModel.Source] = 'DataModelApi'
+   [DataModel.EntityType] = 'Fault'
+   [DataModel.EntitySchemaVersion] = '5'
+   [DataModel.CorrelationId] = '05aa18cc-872a-4db2-a2b3-ca1db21d0d6a'
+   [DataModel.ProductName] = 'vs'
+   [DataModel.FeatureName] = 'setupengine'
+   [DataModel.EntityName] = 'packagefailure'
+   [DataModel.Fault.Description] = 'VS Setup Failure'
+   [DataModel.Fault.BucketParam1] = 'Microsoft.VisualStudio.Setup'
+   [DataModel.Fault.BucketParam2] = '1.10.104.59848'
+   [DataModel.Fault.BucketParam3] = 'vs.setupengine.packagefailure'
+   [DataModel.Fault.BucketParam4] = 'Install'
+   [DataModel.Fault.BucketParam5] = 'JavaJDKV2'
+   [DataModel.Fault.BucketParam6] = 'DownloadPackage'
+   [DataModel.Fault.BucketParam7] = '0x80072ee7'
+   [DataModel.Fault.BucketParam8] = 'Échec du téléchargement WebClient : Le nom distant n'a pas pu être résolu: 'go.microsoft.com';Échec du téléchargement Bits : Fichier introuvable.;Échec du téléchargement WinInet : Function: InternetOpenUrl, HR: -2147012889, Message: Unknown error 12007'
+   [DataModel.Fault.BucketParam9] = 'Microsoft.VisualStudio.Product.Enterprise'
+   [DataModel.Fault.BucketParam10] = '15.2.26430.16'
+   [DataModel.Fault.IsSampled] = 'True'
+
+   CallStack Hash:3acdef46
+
+   Added File C:\Users\Helmi\AppData\Local\Temp\dd_setup_20170814135515.log
+
+   Added File C:\Users\Helmi\AppData\Local\Temp\dd_setup_20170814135515_errors.log

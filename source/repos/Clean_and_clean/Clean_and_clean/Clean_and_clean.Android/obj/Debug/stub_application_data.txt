@@ -1,0 +1,2 @@
+android.app.Application
+Clean_and_clean.Android

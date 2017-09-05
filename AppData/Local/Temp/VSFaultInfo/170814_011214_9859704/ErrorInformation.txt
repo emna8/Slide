@@ -1,0 +1,99 @@
+Error Information
+AppInsightsEvent Name = vs/setupengine/downloadfailure
+          Description = Package failed to download
+     TelemetrySession = '8a7be388-480d-4dff-9ca2-1f0c4d881275' Started = True OptIn=True IsInitialized = True Cloned = False
+             UTC time = 2017-08-14T11:12:14
+
+ currently running Stack
+    at Microsoft.VisualStudio.Telemetry.WindowsErrorReporting.WatsonReport.SetBucketParametersForNoExceptionFromClr()
+    at Microsoft.VisualStudio.Telemetry.WindowsErrorReporting.WatsonReport.SetInitialBucketParameters(Exception exceptionObject)
+    at Microsoft.VisualStudio.Telemetry.WindowsErrorReporting.WatsonReport..ctor(FaultEvent faultEvent, TelemetrySession telemetrySession)
+    at Microsoft.VisualStudio.Telemetry.SessionChannel.WatsonSessionChannel.PostEvent(TelemetryEvent telemetryEvent)
+    at Microsoft.VisualStudio.Telemetry.TelemetrySession.PostEvent(TelemetryEvent telemetryEvent)
+    at Microsoft.VisualStudio.Telemetry.TelemetrySessionExtensions.PostFault(TelemetrySession telemetrySession, String eventName, String description, Exception exceptionObject, Func`2 gatherEventDetails, TelemetryEventCorrelation[] correlatedWith)
+    at Microsoft.VisualStudio.PlatformUI.SetupTelemetry.WriteFault(String eventName, String description, IDictionary`2 properties, Exception ex, Object objCorrelatedWith, Boolean overrideCEIP, BucketParameters bucketParameters, Boolean addLogs, IEnumerable`1 logFiles, Boolean createDump)
+    at Microsoft.VisualStudio.Setup.Download.DownloadManager.DownloadWithRetry(IDownloadEngine[] engines, Uri uri, Stream outputStream, ProgressUpdateCallback progress, CancellationToken cancellationToken, DownloadContext downloadContext, Boolean verifySignature)
+    at Microsoft.VisualStudio.Setup.Download.DownloadManager.<>c__DisplayClass21_0.<Download>b__0()
+    at System.Threading.Tasks.Task`1.InnerInvoke()
+    at System.Threading.Tasks.Task.Execute()
+    at System.Threading.Tasks.Task.ExecutionContextCallback(Object obj)
+    at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+    at System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+    at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot)
+    at System.Threading.Tasks.Task.ExecuteEntry(Boolean bPreventDoubleExecution)
+    at System.Threading.Tasks.ThreadPoolTaskScheduler.LongRunningThreadWork(Object obj)
+    at System.Threading.ThreadHelper.ThreadStart_Context(Object state)
+    at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+    at System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+    at System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+    at System.Threading.ThreadHelper.ThreadStart(Object obj)
+Telemetry Session Shared Properties:
+   VS.Core.Machine.Id = d7890ac2-eb56-4df7-b9d8-e675cc96ad0c
+   VS.Core.ChannelManifestId = VisualStudio.15.Release/15.2.0+26430.16
+   VS.Core.TelemetryApi.ProductVersion = 15.0.778-rtm41F76B1D
+   VS.Core.User.Type = External
+   VS.Core.BuildNumber = 26430
+   VS.ABExp.Flights = spmoretempsbtn1;fwlargebuffer;refactoring;asloff;lazytoolboxinit
+   VS.Core.MacAddressHash = 0632b0f8784b120a91791025529fb7544f69755c9fb4ef624d9d4890e95e9b77
+   VS.Core.User.Location.GeoId = 84
+   VS.Core.BranchName = D15SVC
+   VS.Core.OS.Version = 10.0.14393.0
+   VS.Core.User.IsMicrosoftInternal = False
+   VS.Core.User.IsMicrosoftInternalDeprecated = False
+   VS.Core.User.Id = b4678e1f-7531-42ee-9c0b-b6fa2263be10
+   VS.Core.ChannelId = VisualStudio.15.Release
+   VS.Core.ExeVersion = 15.0.26430.16
+   VS.Core.ExeName = devenv
+   VS.Core.ManifestId = VisualStudio/15.2.0+26430.16
+   VS.Core.User.IsOptedIn = True
+Telemetry event 'vs/setupengine/downloadfailure' properties:
+   [VS.Fault.Exception.ModuleVersion] = '15.0.26430.16'
+   [VS.Fault.Exception.Offset] = '83'
+   [VS.Fault.WatsonOptIn] = 'Unspecified'
+   [VS.Fault.WatsonReportNumber] = '0'
+Telemetry event 'vs/setupengine/downloadfailure' reserved properties:
+   [DataModel.Severity] = '10'
+   [DataModel.Source] = 'DataModelApi'
+   [DataModel.EntityType] = 'Fault'
+   [DataModel.EntitySchemaVersion] = '4'
+   [DataModel.CorrelationId] = 'dc65c43e-08f0-4480-8182-8995324e29c0'
+   [DataModel.ProductName] = 'vs'
+   [DataModel.FeatureName] = 'setupengine'
+   [DataModel.EntityName] = 'downloadfailure'
+   [DataModel.Fault.Exception.StackTrace] = '   at Microsoft.VisualStudio.Telemetry.WindowsErrorReporting.WatsonReport.SetBucketParametersForNoExceptionFromClr()
+   at Microsoft.VisualStudio.Telemetry.WindowsErrorReporting.WatsonReport.SetInitialBucketParameters(Exception exceptionObject)
+   at Microsoft.VisualStudio.Telemetry.WindowsErrorReporting.WatsonReport..ctor(FaultEvent faultEvent, TelemetrySession telemetrySession)
+   at Microsoft.VisualStudio.Telemetry.SessionChannel.WatsonSessionChannel.PostEvent(TelemetryEvent telemetryEvent)
+   at Microsoft.VisualStudio.Telemetry.TelemetrySession.PostEvent(TelemetryEvent telemetryEvent)
+   at Microsoft.VisualStudio.Telemetry.TelemetrySessionExtensions.PostFault(TelemetrySession telemetrySession, String eventName, String description, Exception exceptionObject, Func`2 gatherEventDetails, TelemetryEventCorrelation[] correlatedWith)
+   at Microsoft.VisualStudio.PlatformUI.SetupTelemetry.WriteFault(String eventName, String description, IDictionary`2 properties, Exception ex, Object objCorrelatedWith, Boolean overrideCEIP, BucketParameters bucketParameters, Boolean addLogs, IEnumerable`1 logFiles, Boolean createDump)
+   at Microsoft.VisualStudio.Setup.Download.DownloadManager.DownloadWithRetry(IDownloadEngine[] engines, Uri uri, Stream outputStream, ProgressUpdateCallback progress, CancellationToken cancellationToken, DownloadContext downloadContext, Boolean verifySignature)
+   at Microsoft.VisualStudio.Setup.Download.DownloadManager.<>c__DisplayClass21_0.<Download>b__0()
+   at System.Threading.Tasks.Task`1.InnerInvoke()
+   at System.Threading.Tasks.Task.Execute()
+   at System.Threading.Tasks.Task.ExecutionContextCallback(Object obj)
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   at System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot)
+   at System.Threading.Tasks.Task.ExecuteEntry(Boolean bPreventDoubleExecution)
+   at System.Threading.Tasks.ThreadPoolTaskScheduler.LongRunningThreadWork(Object obj)
+   at System.Threading.ThreadHelper.ThreadStart_Context(Object state)
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   at System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   at System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.ThreadHelper.ThreadStart(Object obj)
+'
+   [DataModel.Fault.Description] = 'Package failed to download'
+   [DataModel.Fault.BucketParam1] = 'devenv.exe'
+   [DataModel.Fault.BucketParam2] = '15.0.26430.16'
+   [DataModel.Fault.BucketParam3] = 'vs.setupengine.downloadfailure'
+   [DataModel.Fault.BucketParam4] = ''
+   [DataModel.Fault.BucketParam5] = 'Microsoft.VisualStudio.Shell.UI.Internal'
+   [DataModel.Fault.BucketParam6] = 'Microsoft.VisualStudio.PlatformUI.SetupTelemetry.WriteFault'
+   [DataModel.Fault.BucketParam7] = ''
+   [DataModel.Fault.BucketParam8] = ''
+   [DataModel.Fault.BucketParam9] = ''
+   [DataModel.Fault.BucketParam10] = ''
+   [DataModel.Fault.IsSampled] = 'True'
+
+   CallStack Hash:6add5da3

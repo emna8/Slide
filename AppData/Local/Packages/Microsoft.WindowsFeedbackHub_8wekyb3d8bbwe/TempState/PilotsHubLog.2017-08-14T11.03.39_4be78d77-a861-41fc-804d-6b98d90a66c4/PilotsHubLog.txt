@@ -1,0 +1,90 @@
+08/14/2017 11:03:40       Info            Activity ID: 0c652f6d-6ce9-4d67-8e93-37fb0123641d
+08/14/2017 11:03:40       Info            App Version: 1.3.1741.0
+08/14/2017 11:03:40       Info            Insider's Hub starting; Online state: 'Unknown', DebuggerAttached: 'False', Debug: 'False'
+08/14/2017 11:03:40       Info            OnLaunched.Start[657]
+08/14/2017 11:03:40       Info            PilotsHubOnLaunched, args: , tileid: App
+08/14/2017 11:03:40       Info            HandleActivation.Start[697]
+08/14/2017 11:03:40       Info            GetInstalledLegacyApps.Start[808]
+08/14/2017 11:03:40       Info            GetInstalledModernApps.Start[933]
+08/14/2017 11:03:40       Info            GetPublicModernApps.Start[933]
+08/14/2017 11:03:40       Info            HandleActivation.Start[1678]
+08/14/2017 11:03:40       Info            PilotsHubStartLaunch
+08/14/2017 11:03:40       Info            IsLegacyUifActivation False
+08/14/2017 11:03:40       Info            HandleActivation.Stop[1728] Elapsed MS [50]
+08/14/2017 11:03:40       Info            OnLaunched.Stop[1728] Elapsed MS [1071]
+08/14/2017 11:03:40       Info            RunChecks.Start[1825]
+08/14/2017 11:03:40       Info            Beginning start up checks. Previously ran [False]
+08/14/2017 11:03:40       Info            RefreshNetworkConnection.Start[1825]
+08/14/2017 11:03:40       Info            Refreshing network status
+08/14/2017 11:03:40       Info            The current internet connectivity profile has a ConnectivityLevel of 'InternetAccess'
+08/14/2017 11:03:40       Info            Current network status - Connected
+08/14/2017 11:03:40       Info            RefreshNetworkConnection.Stop[1873] Elapsed MS [47]
+08/14/2017 11:03:40       Info            RefreshAuthentication.Start[1873]
+08/14/2017 11:03:40       Info            Refreshing authentication for feedback service
+08/14/2017 11:03:40       Info            Authenticating
+08/14/2017 11:03:40       Info            Token request returned status: UserInteractionRequired and message: 
+08/14/2017 11:03:40       Info            Failed to sign in: log off
+08/14/2017 11:03:40       Info            PilotsHubAuthenticationError, endpoint: https://uif.microsoft.com/FeedbackCloudService.svc, flightingSignInSuccess: False, normalSignInSuccess: False
+08/14/2017 11:03:40       Info            RefreshAuthentication.Stop[2385] Elapsed MS [513]
+08/14/2017 11:03:40       Info            RefreshUserSettings.Start[2386]
+08/14/2017 11:03:40       Info            GetUserSettings.Start[2430]
+08/14/2017 11:03:40       Info            GetWebContent.Uri[https://uif.microsoft.com/FeedbackCloudService.svc/usersettings].Start[2439]
+08/14/2017 11:03:40       Info            CreateWebRequest.Uri[https://uif.microsoft.com/FeedbackCloudService.svc/usersettings].Start[2439]
+08/14/2017 11:03:40       Info            Authenticating
+08/14/2017 11:03:40       Info            Token request returned status: UserInteractionRequired and message: 
+08/14/2017 11:03:40       Info            Failed to sign in: log off
+08/14/2017 11:03:40       Info            PilotsHubAuthenticationError, endpoint: https://uif.microsoft.com/FeedbackCloudService.svc, flightingSignInSuccess: False, normalSignInSuccess: False
+08/14/2017 11:03:40       Info            FeedbackError, errorCode 4, message Couldn't get feedback user settings from the service in GetUserSettings(), exceptionMessage Authentication ticket is null or empty, exceptionType System.Exception, hResult -2146233088, environmentName UIF_Production, activityId 0c652f6d-6ce9-4d67-8e93-37fb0123641d
+08/14/2017 11:03:40       Info            GetUserSettings.Stop[2475] Elapsed MS [44]
+08/14/2017 11:03:40       Info            Feedback user settings retrieval unsuccessful, user settings are null
+08/14/2017 11:03:40       Info            GetUserSettingsAsync.Start[2475]
+08/14/2017 11:03:40       Info            PilotsHubQueryServiceStart, type: PilotContracts.DataContracts.UserSettingsV4, uri: usersettingsv5?locale=fr-FR
+08/14/2017 11:03:40       Info            AddHeaderInformationAsync.Start[2486]
+08/14/2017 11:03:40       Info            Authenticating
+08/14/2017 11:03:40       Info            Token request returned status: UserInteractionRequired and message: 
+08/14/2017 11:03:40       Info            Failed to sign in: log off
+08/14/2017 11:03:40       Info            PilotsHubAuthenticationError, endpoint: https://insiderhub.microsoft.com/PilotService.svc/, flightingSignInSuccess: False, normalSignInSuccess: False
+08/14/2017 11:03:40       Info            AddHeaderInformationAsync.Stop[2704] Elapsed MS [218]
+08/14/2017 11:03:40       Error           An error occured downloading user settings from [usersettingsv5?locale=fr-FR] in [fr-FR], System.Exception: Pilot Service: Authentication ticket is null or empty
+   at PilotshubApp!<BaseAddress>+0x544cab
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at SharedLibrary!<BaseAddress>+0x4511ee
+   at SharedLibrary!<BaseAddress>+0x451168
+   at SharedLibrary!<BaseAddress>+0x50c81a
+   at PilotshubApp!<BaseAddress>+0x543c13
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at SharedLibrary!<BaseAddress>+0x4511ee
+   at SharedLibrary!<BaseAddress>+0x451168
+   at SharedLibrary!<BaseAddress>+0x699af7
+   at PilotshubApp!<BaseAddress>+0x4c50d4
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at SharedLibrary!<BaseAddress>+0x4511ee
+   at SharedLibrary!<BaseAddress>+0x451168
+   at SharedLibrary!<BaseAddress>+0x699af7
+   at PilotshubApp!<BaseAddress>+0x6ac04b
+08/14/2017 11:03:40       Info            GetUserSettingsAsync.Stop[2778] Elapsed MS [303]
+08/14/2017 11:03:40       Info            Pilot Service user settings retrieval unsuccessful, user settings are null
+08/14/2017 11:03:40       Info            User settings valid [False]
+08/14/2017 11:03:40       Info            RefreshUserSettings.Stop[2779] Elapsed MS [394]
+08/14/2017 11:03:40       Info            Finished start up checks. HasInternetConnection True, IsAuthenticated False, HasUserSettings False, PrivacyStatus L3[False] L4[False] Insider[False], HasSeenWelcomePage False, ValidBuild False.
+08/14/2017 11:03:40       Info            RunChecks.Stop[2781] Elapsed MS [956]
+08/14/2017 11:03:40       Info            GetStartupState [NoMSASignedIn]
+08/14/2017 11:03:40       Info            IsRestrictedStartupState [True] State [NoMSASignedIn]
+08/14/2017 11:03:40       Info            .ctor.Shell.Start[2796]
+08/14/2017 11:03:40       Info            .ctor.Shell.Stop[2966] Elapsed MS [169]
+08/14/2017 11:03:41       Info            NavigateToPage.restricted.Start[3029]
+08/14/2017 11:03:41       Info            GetStartupState [NoMSASignedIn]
+08/14/2017 11:03:41       Info            IsRestrictedStartupState [True] State [NoMSASignedIn]
+08/14/2017 11:03:41       Info            OnNavigatedTo.LayoutAwarePage.Start[3076]
+08/14/2017 11:03:41       Info            OnNavigatedTo.LayoutAwarePage.Stop[3076] Elapsed MS [1]
+08/14/2017 11:03:41       Info            NavigateToPage.restricted.Stop[3077] Elapsed MS [48]
+08/14/2017 11:03:41       Info            HandleActivation.Stop[3077] Elapsed MS [1399]
+08/14/2017 11:03:41       Info            PilotsHubEndLaunch
+08/14/2017 11:03:41       Info            PageLoaded.Start[3186]
+08/14/2017 11:03:41       Info            PageLoaded.Stop[3186] Elapsed MS [0]
+08/14/2017 11:03:43       Info            GetPublicModernApps.Stop[5679] Elapsed MS [4745]
+08/14/2017 11:03:43       Info            GetInstalledModernApps.Stop[5679] Elapsed MS [4745]
+08/14/2017 11:03:45       Info            GetInstalledLegacyApps.Stop[7834] Elapsed MS [7026]

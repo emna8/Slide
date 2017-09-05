@@ -1,0 +1,10 @@
+prompt> azure vm show
+ssh emub@13.64.253.9
+ssh emub@ 13.64.253.9
+New-AZureRmResourceGroup Deployment01
+New-AzureRmResourceGroup Deployment01
+clear
+Add-AzureAccount
+Login- AzureAccount
+Login-AzureAccount
+Login-AzureAccount

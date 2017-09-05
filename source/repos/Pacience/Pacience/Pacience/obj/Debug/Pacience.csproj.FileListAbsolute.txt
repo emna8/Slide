@@ -1,0 +1,16 @@
+C:\Users\Helmi\source\repos\Pacience\Pacience\Pacience\bin\Debug\Pacience.dll
+C:\Users\Helmi\source\repos\Pacience\Pacience\Pacience\bin\Debug\Pacience.pdb
+C:\Users\Helmi\source\repos\Pacience\Pacience\Pacience\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\Helmi\source\repos\Pacience\Pacience\Pacience\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\Helmi\source\repos\Pacience\Pacience\Pacience\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Helmi\source\repos\Pacience\Pacience\Pacience\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\Helmi\source\repos\Pacience\Pacience\Pacience\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\Helmi\source\repos\Pacience\Pacience\Pacience\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Users\Helmi\source\repos\Pacience\Pacience\Pacience\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\Helmi\source\repos\Pacience\Pacience\Pacience\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\Helmi\source\repos\Pacience\Pacience\Pacience\obj\Debug\Pacience.csprojResolveAssemblyReference.cache
+C:\Users\Helmi\source\repos\Pacience\Pacience\Pacience\obj\Debug\Pacience.csproj.CoreCompileInputs.cache
+C:\Users\Helmi\source\repos\Pacience\Pacience\Pacience\obj\Debug\Pacience.MainPage.xaml.g.cs
+C:\Users\Helmi\source\repos\Pacience\Pacience\Pacience\obj\Debug\Pacience.App.xaml.g.cs
+C:\Users\Helmi\source\repos\Pacience\Pacience\Pacience\obj\Debug\Pacience.dll
+C:\Users\Helmi\source\repos\Pacience\Pacience\Pacience\obj\Debug\Pacience.pdb

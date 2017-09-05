@@ -1,0 +1,10 @@
+[8/11/2017, 23:28:46] === Logging started: 2017/08/11 23:28:46 ===
+[8/11/2017, 23:28:46] Executable: C:\Users\Helmi\Downloads\vs_community__370848234.1502486867.exe v15.0.26430.16
+[8/11/2017, 23:28:46] --- logging level: standard ---
+[8/11/2017, 23:28:46] Directory 'C:\Users\Helmi\AppData\Local\Temp\5de5f1bc52af0b8577432fe8ae1c\' has been selected for file extraction
+[8/11/2017, 23:28:46] Extracting files to: C:\Users\Helmi\AppData\Local\Temp\5de5f1bc52af0b8577432fe8ae1c\
+[8/11/2017, 23:28:46] Extraction took 813 milliseconds
+[8/11/2017, 23:28:46] Executing extracted package: 'vs_bootstrapper_d15\vs_setup_bootstrapper.exe ' with commandline ' '
+[8/11/2017, 23:38:31] The entire Box execution exiting with result code: 0x0
+[8/11/2017, 23:38:31] Launched extracted application exiting with result code: 0x0
+[8/11/2017, 23:38:31] === Logging stopped: 2017/08/11 23:38:31 ===

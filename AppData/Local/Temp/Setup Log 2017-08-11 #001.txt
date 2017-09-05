@@ -1,0 +1,2056 @@
+2017-08-11 12:31:41.015   Log opened. (Time zone: UTC+02:00)
+2017-08-11 12:31:41.015   Setup version: Inno Setup version 5.5.5 (a)
+2017-08-11 12:31:41.015   Original Setup EXE: E:\KMSpico 10.2.0 FINAL + Portable (Office and Windows 10 Activator) [TechTools.NET]\KMSpico 10.2.0 FINAL + Portable (Office and Windows 10 Activator) [TechTools.NET]\KMSpico Install\KMSpico_setup.exe
+2017-08-11 12:31:41.015   Setup command line: /SL5="$110232,2952592,69120,E:\KMSpico 10.2.0 FINAL + Portable (Office and Windows 10 Activator) [TechTools.NET]\KMSpico 10.2.0 FINAL + Portable (Office and Windows 10 Activator) [TechTools.NET]\KMSpico Install\KMSpico_setup.exe" 
+2017-08-11 12:31:41.015   Windows version: 6.3.9600  (NT platform: Yes)
+2017-08-11 12:31:41.015   64-bit Windows: Yes
+2017-08-11 12:31:41.015   Processor architecture: x64
+2017-08-11 12:31:41.015   User privileges: Administrative
+2017-08-11 12:31:41.015   64-bit install mode: Yes
+2017-08-11 12:31:41.030   Created temporary directory: C:\Users\Helmi\AppData\Local\Temp\is-HEKVK.tmp
+2017-08-11 12:31:52.704   Starting the installation process.
+2017-08-11 12:31:52.704   Creating directory: C:\Program Files\KMSpico
+2017-08-11 12:31:52.704   Creating directory: C:\Program Files\KMSpico\cert
+2017-08-11 12:31:52.704   Creating directory: C:\Program Files\KMSpico\cert\kmscert2010
+2017-08-11 12:31:52.704   Creating directory: C:\Program Files\KMSpico\cert\kmscert2010\Access
+2017-08-11 12:31:52.704   Creating directory: C:\Program Files\KMSpico\cert\kmscert2010\Excel
+2017-08-11 12:31:52.704   Creating directory: C:\Program Files\KMSpico\cert\kmscert2010\Groove
+2017-08-11 12:31:52.704   Creating directory: C:\Program Files\KMSpico\cert\kmscert2010\InfoPath
+2017-08-11 12:31:52.704   Creating directory: C:\Program Files\KMSpico\cert\kmscert2010\OneNote
+2017-08-11 12:31:52.704   Creating directory: C:\Program Files\KMSpico\cert\kmscert2010\Outlook
+2017-08-11 12:31:52.704   Creating directory: C:\Program Files\KMSpico\cert\kmscert2010\PowerPoint
+2017-08-11 12:31:52.704   Creating directory: C:\Program Files\KMSpico\cert\kmscert2010\ProjectPro
+2017-08-11 12:31:52.704   Creating directory: C:\Program Files\KMSpico\cert\kmscert2010\ProjectStd
+2017-08-11 12:31:52.704   Creating directory: C:\Program Files\KMSpico\cert\kmscert2010\ProPlus
+2017-08-11 12:31:52.704   Creating directory: C:\Program Files\KMSpico\cert\kmscert2010\Publisher
+2017-08-11 12:31:52.704   Creating directory: C:\Program Files\KMSpico\cert\kmscert2010\SmallBusBasics
+2017-08-11 12:31:52.704   Creating directory: C:\Program Files\KMSpico\cert\kmscert2010\Standard
+2017-08-11 12:31:52.704   Creating directory: C:\Program Files\KMSpico\cert\kmscert2010\Visio
+2017-08-11 12:31:52.704   Creating directory: C:\Program Files\KMSpico\cert\kmscert2010\Word
+2017-08-11 12:31:52.704   Creating directory: C:\Program Files\KMSpico\cert\kmscert2013
+2017-08-11 12:31:52.704   Creating directory: C:\Program Files\KMSpico\cert\kmscert2013\Access
+2017-08-11 12:31:52.704   Creating directory: C:\Program Files\KMSpico\cert\kmscert2013\Excel
+2017-08-11 12:31:52.704   Creating directory: C:\Program Files\KMSpico\cert\kmscert2013\InfoPath
+2017-08-11 12:31:52.704   Creating directory: C:\Program Files\KMSpico\cert\kmscert2013\Lync
+2017-08-11 12:31:52.704   Creating directory: C:\Program Files\KMSpico\cert\kmscert2013\OneNote
+2017-08-11 12:31:52.704   Creating directory: C:\Program Files\KMSpico\cert\kmscert2013\Outlook
+2017-08-11 12:31:52.704   Creating directory: C:\Program Files\KMSpico\cert\kmscert2013\PowerPoint
+2017-08-11 12:31:52.704   Creating directory: C:\Program Files\KMSpico\cert\kmscert2013\ProjectPro
+2017-08-11 12:31:52.704   Creating directory: C:\Program Files\KMSpico\cert\kmscert2013\ProjectStd
+2017-08-11 12:31:52.704   Creating directory: C:\Program Files\KMSpico\cert\kmscert2013\ProPlus
+2017-08-11 12:31:52.704   Creating directory: C:\Program Files\KMSpico\cert\kmscert2013\Publisher
+2017-08-11 12:31:52.704   Creating directory: C:\Program Files\KMSpico\cert\kmscert2013\Standard
+2017-08-11 12:31:52.704   Creating directory: C:\Program Files\KMSpico\cert\kmscert2013\VisioPro
+2017-08-11 12:31:52.704   Creating directory: C:\Program Files\KMSpico\cert\kmscert2013\VisioStd
+2017-08-11 12:31:52.704   Creating directory: C:\Program Files\KMSpico\cert\kmscert2013\Word
+2017-08-11 12:31:52.704   Creating directory: C:\Program Files\KMSpico\cert\kmscert2016
+2017-08-11 12:31:52.704   Creating directory: C:\Program Files\KMSpico\cert\kmscert2016\Access
+2017-08-11 12:31:52.704   Creating directory: C:\Program Files\KMSpico\cert\kmscert2016\Excel
+2017-08-11 12:31:52.704   Creating directory: C:\Program Files\KMSpico\cert\kmscert2016\Mondo
+2017-08-11 12:31:52.704   Creating directory: C:\Program Files\KMSpico\cert\kmscert2016\OneNote
+2017-08-11 12:31:52.704   Creating directory: C:\Program Files\KMSpico\cert\kmscert2016\Outlook
+2017-08-11 12:31:52.704   Creating directory: C:\Program Files\KMSpico\cert\kmscert2016\PowerPoint
+2017-08-11 12:31:52.704   Creating directory: C:\Program Files\KMSpico\cert\kmscert2016\ProjectPro
+2017-08-11 12:31:52.704   Creating directory: C:\Program Files\KMSpico\cert\kmscert2016\ProjectStd
+2017-08-11 12:31:52.704   Creating directory: C:\Program Files\KMSpico\cert\kmscert2016\ProPlus
+2017-08-11 12:31:52.704   Creating directory: C:\Program Files\KMSpico\cert\kmscert2016\Publisher
+2017-08-11 12:31:52.704   Creating directory: C:\Program Files\KMSpico\cert\kmscert2016\SkypeforBusiness
+2017-08-11 12:31:52.704   Creating directory: C:\Program Files\KMSpico\cert\kmscert2016\Standard
+2017-08-11 12:31:52.704   Creating directory: C:\Program Files\KMSpico\cert\kmscert2016\VisioPro
+2017-08-11 12:31:52.704   Creating directory: C:\Program Files\KMSpico\cert\kmscert2016\VisioStd
+2017-08-11 12:31:52.704   Creating directory: C:\Program Files\KMSpico\cert\kmscert2016\Word
+2017-08-11 12:31:52.704   Creating directory: C:\Program Files\KMSpico\cert\kmscertW10
+2017-08-11 12:31:52.704   Creating directory: C:\Program Files\KMSpico\cert\kmscertW10\Core
+2017-08-11 12:31:52.704   Creating directory: C:\Program Files\KMSpico\cert\kmscertW10\Education
+2017-08-11 12:31:52.704   Creating directory: C:\Program Files\KMSpico\cert\kmscertW10\Enterprise
+2017-08-11 12:31:52.704   Creating directory: C:\Program Files\KMSpico\cert\kmscertW10\EnterpriseS
+2017-08-11 12:31:52.704   Creating directory: C:\Program Files\KMSpico\cert\kmscertW10\Professional
+2017-08-11 12:31:52.704   Creating directory: C:\Program Files\KMSpico\cert\kmscertW6
+2017-08-11 12:31:52.704   Creating directory: C:\Program Files\KMSpico\cert\kmscertW6\Business
+2017-08-11 12:31:52.704   Creating directory: C:\Program Files\KMSpico\cert\kmscertW6\BusinessN
+2017-08-11 12:31:52.704   Creating directory: C:\Program Files\KMSpico\cert\kmscertW6\Enterprise
+2017-08-11 12:31:52.704   Creating directory: C:\Program Files\KMSpico\cert\kmscertW7
+2017-08-11 12:31:52.704   Creating directory: C:\Program Files\KMSpico\cert\kmscertW7\Embedded
+2017-08-11 12:31:52.704   Creating directory: C:\Program Files\KMSpico\cert\kmscertW7\Enterprise
+2017-08-11 12:31:52.720   Creating directory: C:\Program Files\KMSpico\cert\kmscertW7\Professional
+2017-08-11 12:31:52.720   Creating directory: C:\Program Files\KMSpico\cert\kmscertW8
+2017-08-11 12:31:52.720   Creating directory: C:\Program Files\KMSpico\cert\kmscertW8\Core
+2017-08-11 12:31:52.720   Creating directory: C:\Program Files\KMSpico\cert\kmscertW8\CoreN
+2017-08-11 12:31:52.720   Creating directory: C:\Program Files\KMSpico\cert\kmscertW8\CoreSingleLanguage
+2017-08-11 12:31:52.720   Creating directory: C:\Program Files\KMSpico\cert\kmscertW8\Enterprise
+2017-08-11 12:31:52.720   Creating directory: C:\Program Files\KMSpico\cert\kmscertW8\EnterpriseN
+2017-08-11 12:31:52.720   Creating directory: C:\Program Files\KMSpico\cert\kmscertW8\Professional
+2017-08-11 12:31:52.720   Creating directory: C:\Program Files\KMSpico\cert\kmscertW8\ProfessionalN
+2017-08-11 12:31:52.720   Creating directory: C:\Program Files\KMSpico\cert\kmscertW8\ProfessionalWMC
+2017-08-11 12:31:52.720   Creating directory: C:\Program Files\KMSpico\cert\kmscertW81
+2017-08-11 12:31:52.720   Creating directory: C:\Program Files\KMSpico\cert\kmscertW81\Core
+2017-08-11 12:31:52.720   Creating directory: C:\Program Files\KMSpico\cert\kmscertW81\CoreConnectedSingleLanguage
+2017-08-11 12:31:52.720   Creating directory: C:\Program Files\KMSpico\cert\kmscertW81\EmbeddedIndustry
+2017-08-11 12:31:52.720   Creating directory: C:\Program Files\KMSpico\cert\kmscertW81\Enterprise
+2017-08-11 12:31:52.720   Creating directory: C:\Program Files\KMSpico\cert\kmscertW81\Professional
+2017-08-11 12:31:52.720   Creating directory: C:\Program Files\KMSpico\cert\kmscertW81\ProfessionalWMC
+2017-08-11 12:31:52.720   Creating directory: C:\Program Files\KMSpico\cert\kmscertW81\ServerDatacenter
+2017-08-11 12:31:52.720   Creating directory: C:\Program Files\KMSpico\cert\kmscertW81\ServerStandard
+2017-08-11 12:31:52.720   Creating directory: C:\Program Files\KMSpico\driver
+2017-08-11 12:31:52.720   Creating directory: C:\Program Files\KMSpico\icons
+2017-08-11 12:31:52.720   Creating directory: C:\Program Files\KMSpico\logs
+2017-08-11 12:31:52.720   Creating directory: C:\Program Files\KMSpico\scripts
+2017-08-11 12:31:52.720   Creating directory: C:\Program Files\KMSpico\sounds
+2017-08-11 12:31:52.720   Directory for uninstall files: C:\Program Files\KMSpico
+2017-08-11 12:31:52.720   Creating new uninstall log: C:\Program Files\KMSpico\unins000.dat
+2017-08-11 12:31:52.736   -- File entry --
+2017-08-11 12:31:52.736   Dest filename: C:\Program Files\KMSpico\unins000.exe
+2017-08-11 12:31:52.736   Non-default bitness: 32-bit
+2017-08-11 12:31:52.752   Time stamp of our file: 2017-08-11 12:31:40.921
+2017-08-11 12:31:52.752   Installing the file.
+2017-08-11 12:31:52.752   Uninstaller requires administrator: Yes
+2017-08-11 12:31:52.783   Successfully installed the file.
+2017-08-11 12:31:52.783   -- File entry --
+2017-08-11 12:31:52.783   Dest filename: C:\Program Files\KMSpico\AutoPico.exe
+2017-08-11 12:31:52.783   Time stamp of our file: 2016-01-12 00:33:46.000
+2017-08-11 12:31:52.783   Installing the file.
+2017-08-11 12:31:52.970   Successfully installed the file.
+2017-08-11 12:31:52.970   -- File entry --
+2017-08-11 12:31:52.970   Dest filename: C:\Program Files\KMSpico\DevComponents.DotNetBar2.dll
+2017-08-11 12:31:52.970   Time stamp of our file: 2015-12-08 16:34:14.000
+2017-08-11 12:31:52.970   Installing the file.
+2017-08-11 12:31:53.142   Successfully installed the file.
+2017-08-11 12:31:53.142   -- File entry --
+2017-08-11 12:31:53.142   Dest filename: C:\Program Files\KMSpico\Vestris.ResourceLib.dll
+2017-08-11 12:31:53.142   Time stamp of our file: 2010-12-06 04:16:46.000
+2017-08-11 12:31:53.142   Installing the file.
+2017-08-11 12:31:53.158   Successfully installed the file.
+2017-08-11 12:31:53.158   -- File entry --
+2017-08-11 12:31:53.158   Dest filename: C:\Windows\system32\Vestris.ResourceLib.dll
+2017-08-11 12:31:53.158   Time stamp of our file: 2010-12-06 04:16:46.000
+2017-08-11 12:31:53.158   Installing the file.
+2017-08-11 12:31:53.173   Successfully installed the file.
+2017-08-11 12:31:53.173   -- File entry --
+2017-08-11 12:31:53.173   Dest filename: C:\Windows\system32\Vestris.ResourceLib.dll
+2017-08-11 12:31:53.173   Time stamp of our file: 2010-12-06 04:16:46.000
+2017-08-11 12:31:53.173   Dest file exists.
+2017-08-11 12:31:53.173   Time stamp of existing file: 2010-12-06 04:16:46.000
+2017-08-11 12:31:53.173   Installing the file.
+2017-08-11 12:31:53.173   Successfully installed the file.
+2017-08-11 12:31:53.173   -- File entry --
+2017-08-11 12:31:53.173   Dest filename: C:\Program Files\KMSpico\KMSELDI.exe
+2017-08-11 12:31:53.173   Time stamp of our file: 2016-01-12 00:33:46.000
+2017-08-11 12:31:53.173   Installing the file.
+2017-08-11 12:31:53.267   Successfully installed the file.
+2017-08-11 12:31:53.267   -- File entry --
+2017-08-11 12:31:53.267   Dest filename: C:\Program Files\KMSpico\Service_KMS.exe
+2017-08-11 12:31:53.267   Time stamp of our file: 2016-01-12 00:33:46.000
+2017-08-11 12:31:53.267   Installing the file.
+2017-08-11 12:31:54.588   Successfully installed the file.
+2017-08-11 12:31:54.589   -- File entry --
+2017-08-11 12:31:54.589   Dest filename: C:\Program Files\KMSpico\UninsHs.exe
+2017-08-11 12:31:54.589   Time stamp of our file: 2008-07-21 07:55:24.000
+2017-08-11 12:31:54.589   Installing the file.
+2017-08-11 12:31:54.899   Successfully installed the file.
+2017-08-11 12:31:54.900   -- File entry --
+2017-08-11 12:31:54.902   Dest filename: C:\Program Files\KMSpico\cert\kmscert2010\Access\AccessVLReg32.reg
+2017-08-11 12:31:54.902   Time stamp of our file: 2010-07-12 05:13:52.000
+2017-08-11 12:31:54.902   Installing the file.
+2017-08-11 12:31:54.965   Successfully installed the file.
+2017-08-11 12:31:54.967   -- File entry --
+2017-08-11 12:31:54.968   Dest filename: C:\Program Files\KMSpico\cert\kmscert2010\Access\AccessVLReg64.reg
+2017-08-11 12:31:54.969   Time stamp of our file: 2010-07-12 05:14:56.000
+2017-08-11 12:31:54.969   Installing the file.
+2017-08-11 12:31:54.985   Successfully installed the file.
+2017-08-11 12:31:54.986   -- File entry --
+2017-08-11 12:31:54.988   Dest filename: C:\Program Files\KMSpico\cert\kmscert2010\Access\AccessVLRegWOW.reg
+2017-08-11 12:31:54.988   Time stamp of our file: 2010-07-12 05:15:38.000
+2017-08-11 12:31:54.988   Installing the file.
+2017-08-11 12:31:55.014   Successfully installed the file.
+2017-08-11 12:31:55.014   -- File entry --
+2017-08-11 12:31:55.015   Dest filename: C:\Program Files\KMSpico\cert\kmscert2010\Access\Access_KMS_Client.OOB.xrm-ms
+2017-08-11 12:31:55.015   Time stamp of our file: 2010-05-20 20:45:12.000
+2017-08-11 12:31:55.015   Installing the file.
+2017-08-11 12:31:55.024   Successfully installed the file.
+2017-08-11 12:31:55.025   -- File entry --
+2017-08-11 12:31:55.026   Dest filename: C:\Program Files\KMSpico\cert\kmscert2010\Access\Access_KMS_Client.PL.xrm-ms
+2017-08-11 12:31:55.026   Time stamp of our file: 2010-05-20 20:45:12.000
+2017-08-11 12:31:55.026   Installing the file.
+2017-08-11 12:31:55.055   Successfully installed the file.
+2017-08-11 12:31:55.055   -- File entry --
+2017-08-11 12:31:55.056   Dest filename: C:\Program Files\KMSpico\cert\kmscert2010\Access\Access_KMS_Client.PPDLIC.xrm-ms
+2017-08-11 12:31:55.056   Time stamp of our file: 2010-05-20 20:45:12.000
+2017-08-11 12:31:55.057   Installing the file.
+2017-08-11 12:31:55.064   Successfully installed the file.
+2017-08-11 12:31:55.064   -- File entry --
+2017-08-11 12:31:55.065   Dest filename: C:\Program Files\KMSpico\cert\kmscert2010\Access\Access_KMS_Client.RAC_Priv.xrm-ms
+2017-08-11 12:31:55.065   Time stamp of our file: 2010-05-20 20:45:12.000
+2017-08-11 12:31:55.065   Installing the file.
+2017-08-11 12:31:55.069   Successfully installed the file.
+2017-08-11 12:31:55.069   -- File entry --
+2017-08-11 12:31:55.070   Dest filename: C:\Program Files\KMSpico\cert\kmscert2010\Access\Access_KMS_Client.RAC_Pub.xrm-ms
+2017-08-11 12:31:55.070   Time stamp of our file: 2010-05-20 20:45:12.000
+2017-08-11 12:31:55.070   Installing the file.
+2017-08-11 12:31:55.071   Successfully installed the file.
+2017-08-11 12:31:55.071   -- File entry --
+2017-08-11 12:31:55.071   Dest filename: C:\Program Files\KMSpico\cert\kmscert2010\Excel\ExcelVLReg32.reg
+2017-08-11 12:31:55.071   Time stamp of our file: 2010-07-12 05:19:02.000
+2017-08-11 12:31:55.071   Installing the file.
+2017-08-11 12:31:55.075   Successfully installed the file.
+2017-08-11 12:31:55.076   -- File entry --
+2017-08-11 12:31:55.076   Dest filename: C:\Program Files\KMSpico\cert\kmscert2010\Excel\ExcelVLReg64.reg
+2017-08-11 12:31:55.076   Time stamp of our file: 2010-07-12 05:19:58.000
+2017-08-11 12:31:55.076   Installing the file.
+2017-08-11 12:31:55.082   Successfully installed the file.
+2017-08-11 12:31:55.082   -- File entry --
+2017-08-11 12:31:55.083   Dest filename: C:\Program Files\KMSpico\cert\kmscert2010\Excel\ExcelVLRegWOW.reg
+2017-08-11 12:31:55.083   Time stamp of our file: 2010-07-12 05:20:44.000
+2017-08-11 12:31:55.083   Installing the file.
+2017-08-11 12:31:55.087   Successfully installed the file.
+2017-08-11 12:31:55.087   -- File entry --
+2017-08-11 12:31:55.088   Dest filename: C:\Program Files\KMSpico\cert\kmscert2010\Excel\Excel_KMS_Client.OOB.xrm-ms
+2017-08-11 12:31:55.088   Time stamp of our file: 2010-05-20 20:45:58.000
+2017-08-11 12:31:55.088   Installing the file.
+2017-08-11 12:31:55.093   Successfully installed the file.
+2017-08-11 12:31:55.093   -- File entry --
+2017-08-11 12:31:55.093   Dest filename: C:\Program Files\KMSpico\cert\kmscert2010\Excel\Excel_KMS_Client.PL.xrm-ms
+2017-08-11 12:31:55.093   Time stamp of our file: 2010-05-20 20:45:58.000
+2017-08-11 12:31:55.093   Installing the file.
+2017-08-11 12:31:55.098   Successfully installed the file.
+2017-08-11 12:31:55.098   -- File entry --
+2017-08-11 12:31:55.099   Dest filename: C:\Program Files\KMSpico\cert\kmscert2010\Excel\Excel_KMS_Client.PPDLIC.xrm-ms
+2017-08-11 12:31:55.099   Time stamp of our file: 2010-05-20 20:45:58.000
+2017-08-11 12:31:55.099   Installing the file.
+2017-08-11 12:31:55.114   Successfully installed the file.
+2017-08-11 12:31:55.115   -- File entry --
+2017-08-11 12:31:55.115   Dest filename: C:\Program Files\KMSpico\cert\kmscert2010\Excel\Excel_KMS_Client.RAC_Priv.xrm-ms
+2017-08-11 12:31:55.115   Time stamp of our file: 2010-05-20 20:45:58.000
+2017-08-11 12:31:55.115   Installing the file.
+2017-08-11 12:31:55.121   Successfully installed the file.
+2017-08-11 12:31:55.121   -- File entry --
+2017-08-11 12:31:55.122   Dest filename: C:\Program Files\KMSpico\cert\kmscert2010\Excel\Excel_KMS_Client.RAC_Pub.xrm-ms
+2017-08-11 12:31:55.122   Time stamp of our file: 2010-05-20 20:45:58.000
+2017-08-11 12:31:55.122   Installing the file.
+2017-08-11 12:31:55.123   Successfully installed the file.
+2017-08-11 12:31:55.123   -- File entry --
+2017-08-11 12:31:55.124   Dest filename: C:\Program Files\KMSpico\cert\kmscert2010\Groove\GrooveVLReg32.reg
+2017-08-11 12:31:55.124   Time stamp of our file: 2010-07-12 05:22:48.000
+2017-08-11 12:31:55.124   Installing the file.
+2017-08-11 12:31:55.149   Successfully installed the file.
+2017-08-11 12:31:55.149   -- File entry --
+2017-08-11 12:31:55.150   Dest filename: C:\Program Files\KMSpico\cert\kmscert2010\Groove\GrooveVLReg64.reg
+2017-08-11 12:31:55.150   Time stamp of our file: 2010-07-12 05:23:18.000
+2017-08-11 12:31:55.150   Installing the file.
+2017-08-11 12:31:55.154   Successfully installed the file.
+2017-08-11 12:31:55.154   -- File entry --
+2017-08-11 12:31:55.155   Dest filename: C:\Program Files\KMSpico\cert\kmscert2010\Groove\GrooveVLRegWOW.reg
+2017-08-11 12:31:55.155   Time stamp of our file: 2010-07-12 05:23:58.000
+2017-08-11 12:31:55.155   Installing the file.
+2017-08-11 12:31:55.159   Successfully installed the file.
+2017-08-11 12:31:55.160   -- File entry --
+2017-08-11 12:31:55.160   Dest filename: C:\Program Files\KMSpico\cert\kmscert2010\Groove\Groove_KMS_Client.OOB.xrm-ms
+2017-08-11 12:31:55.160   Time stamp of our file: 2010-05-20 20:46:32.000
+2017-08-11 12:31:55.160   Installing the file.
+2017-08-11 12:31:55.165   Successfully installed the file.
+2017-08-11 12:31:55.165   -- File entry --
+2017-08-11 12:31:55.165   Dest filename: C:\Program Files\KMSpico\cert\kmscert2010\Groove\Groove_KMS_Client.PL.xrm-ms
+2017-08-11 12:31:55.166   Time stamp of our file: 2010-05-20 20:46:32.000
+2017-08-11 12:31:55.166   Installing the file.
+2017-08-11 12:31:55.170   Successfully installed the file.
+2017-08-11 12:31:55.170   -- File entry --
+2017-08-11 12:31:55.171   Dest filename: C:\Program Files\KMSpico\cert\kmscert2010\Groove\Groove_KMS_Client.PPDLIC.xrm-ms
+2017-08-11 12:31:55.171   Time stamp of our file: 2010-05-20 20:46:32.000
+2017-08-11 12:31:55.171   Installing the file.
+2017-08-11 12:31:55.175   Successfully installed the file.
+2017-08-11 12:31:55.175   -- File entry --
+2017-08-11 12:31:55.176   Dest filename: C:\Program Files\KMSpico\cert\kmscert2010\Groove\Groove_KMS_Client.RAC_Priv.xrm-ms
+2017-08-11 12:31:55.176   Time stamp of our file: 2010-05-20 20:46:32.000
+2017-08-11 12:31:55.176   Installing the file.
+2017-08-11 12:31:55.180   Successfully installed the file.
+2017-08-11 12:31:55.181   -- File entry --
+2017-08-11 12:31:55.181   Dest filename: C:\Program Files\KMSpico\cert\kmscert2010\Groove\Groove_KMS_Client.RAC_Pub.xrm-ms
+2017-08-11 12:31:55.181   Time stamp of our file: 2010-05-20 20:46:32.000
+2017-08-11 12:31:55.181   Installing the file.
+2017-08-11 12:31:55.183   Successfully installed the file.
+2017-08-11 12:31:55.183   -- File entry --
+2017-08-11 12:31:55.183   Dest filename: C:\Program Files\KMSpico\cert\kmscert2010\InfoPath\InfoPathVLReg32.reg
+2017-08-11 12:31:55.184   Time stamp of our file: 2010-07-12 05:25:16.000
+2017-08-11 12:31:55.184   Installing the file.
+2017-08-11 12:31:55.188   Successfully installed the file.
+2017-08-11 12:31:55.188   -- File entry --
+2017-08-11 12:31:55.188   Dest filename: C:\Program Files\KMSpico\cert\kmscert2010\InfoPath\InfoPathVLReg64.reg
+2017-08-11 12:31:55.189   Time stamp of our file: 2010-07-12 05:25:52.000
+2017-08-11 12:31:55.189   Installing the file.
+2017-08-11 12:31:55.193   Successfully installed the file.
+2017-08-11 12:31:55.193   -- File entry --
+2017-08-11 12:31:55.193   Dest filename: C:\Program Files\KMSpico\cert\kmscert2010\InfoPath\InfoPathVLRegWOW.reg
+2017-08-11 12:31:55.193   Time stamp of our file: 2010-07-12 05:26:56.000
+2017-08-11 12:31:55.193   Installing the file.
+2017-08-11 12:31:55.197   Successfully installed the file.
+2017-08-11 12:31:55.198   -- File entry --
+2017-08-11 12:31:55.198   Dest filename: C:\Program Files\KMSpico\cert\kmscert2010\InfoPath\InfoPath_KMS_Client.OOB.xrm-ms
+2017-08-11 12:31:55.198   Time stamp of our file: 2010-05-20 20:46:52.000
+2017-08-11 12:31:55.198   Installing the file.
+2017-08-11 12:31:55.203   Successfully installed the file.
+2017-08-11 12:31:55.203   -- File entry --
+2017-08-11 12:31:55.203   Dest filename: C:\Program Files\KMSpico\cert\kmscert2010\InfoPath\InfoPath_KMS_Client.PL.xrm-ms
+2017-08-11 12:31:55.203   Time stamp of our file: 2010-05-20 20:46:52.000
+2017-08-11 12:31:55.203   Installing the file.
+2017-08-11 12:31:55.209   Successfully installed the file.
+2017-08-11 12:31:55.209   -- File entry --
+2017-08-11 12:31:55.210   Dest filename: C:\Program Files\KMSpico\cert\kmscert2010\InfoPath\InfoPath_KMS_Client.PPDLIC.xrm-ms
+2017-08-11 12:31:55.210   Time stamp of our file: 2010-05-20 20:46:52.000
+2017-08-11 12:31:55.210   Installing the file.
+2017-08-11 12:31:55.214   Successfully installed the file.
+2017-08-11 12:31:55.215   -- File entry --
+2017-08-11 12:31:55.215   Dest filename: C:\Program Files\KMSpico\cert\kmscert2010\InfoPath\InfoPath_KMS_Client.RAC_Priv.xrm-ms
+2017-08-11 12:31:55.215   Time stamp of our file: 2010-05-20 20:46:52.000
+2017-08-11 12:31:55.215   Installing the file.
+2017-08-11 12:31:55.221   Successfully installed the file.
+2017-08-11 12:31:55.222   -- File entry --
+2017-08-11 12:31:55.222   Dest filename: C:\Program Files\KMSpico\cert\kmscert2010\InfoPath\InfoPath_KMS_Client.RAC_Pub.xrm-ms
+2017-08-11 12:31:55.222   Time stamp of our file: 2010-05-20 20:46:52.000
+2017-08-11 12:31:55.222   Installing the file.
+2017-08-11 12:31:55.223   Successfully installed the file.
+2017-08-11 12:31:55.224   -- File entry --
+2017-08-11 12:31:55.224   Dest filename: C:\Program Files\KMSpico\cert\kmscert2010\OneNote\OneNoteVLReg32.reg
+2017-08-11 12:31:55.224   Time stamp of our file: 2010-07-12 05:27:42.000
+2017-08-11 12:31:55.224   Installing the file.
+2017-08-11 12:31:55.228   Successfully installed the file.
+2017-08-11 12:31:55.228   -- File entry --
+2017-08-11 12:31:55.229   Dest filename: C:\Program Files\KMSpico\cert\kmscert2010\OneNote\OneNoteVLReg64.reg
+2017-08-11 12:31:55.229   Time stamp of our file: 2010-07-12 05:28:18.000
+2017-08-11 12:31:55.229   Installing the file.
+2017-08-11 12:31:55.234   Successfully installed the file.
+2017-08-11 12:31:55.234   -- File entry --
+2017-08-11 12:31:55.234   Dest filename: C:\Program Files\KMSpico\cert\kmscert2010\OneNote\OneNoteVLRegWOW.reg
+2017-08-11 12:31:55.234   Time stamp of our file: 2010-07-12 05:28:54.000
+2017-08-11 12:31:55.234   Installing the file.
+2017-08-11 12:31:55.239   Successfully installed the file.
+2017-08-11 12:31:55.239   -- File entry --
+2017-08-11 12:31:55.240   Dest filename: C:\Program Files\KMSpico\cert\kmscert2010\OneNote\OneNote_KMS_Client.OOB.xrm-ms
+2017-08-11 12:31:55.240   Time stamp of our file: 2010-05-20 20:47:08.000
+2017-08-11 12:31:55.240   Installing the file.
+2017-08-11 12:31:55.246   Successfully installed the file.
+2017-08-11 12:31:55.246   -- File entry --
+2017-08-11 12:31:55.246   Dest filename: C:\Program Files\KMSpico\cert\kmscert2010\OneNote\OneNote_KMS_Client.PL.xrm-ms
+2017-08-11 12:31:55.246   Time stamp of our file: 2010-05-20 20:47:08.000
+2017-08-11 12:31:55.246   Installing the file.
+2017-08-11 12:31:55.251   Successfully installed the file.
+2017-08-11 12:31:55.252   -- File entry --
+2017-08-11 12:31:55.252   Dest filename: C:\Program Files\KMSpico\cert\kmscert2010\OneNote\OneNote_KMS_Client.PPDLIC.xrm-ms
+2017-08-11 12:31:55.252   Time stamp of our file: 2010-05-20 20:47:08.000
+2017-08-11 12:31:55.252   Installing the file.
+2017-08-11 12:31:55.256   Successfully installed the file.
+2017-08-11 12:31:55.256   -- File entry --
+2017-08-11 12:31:55.257   Dest filename: C:\Program Files\KMSpico\cert\kmscert2010\OneNote\OneNote_KMS_Client.RAC_Priv.xrm-ms
+2017-08-11 12:31:55.257   Time stamp of our file: 2010-05-20 20:47:08.000
+2017-08-11 12:31:55.257   Installing the file.
+2017-08-11 12:31:55.261   Successfully installed the file.
+2017-08-11 12:31:55.261   -- File entry --
+2017-08-11 12:31:55.261   Dest filename: C:\Program Files\KMSpico\cert\kmscert2010\OneNote\OneNote_KMS_Client.RAC_Pub.xrm-ms
+2017-08-11 12:31:55.261   Time stamp of our file: 2010-05-20 20:47:08.000
+2017-08-11 12:31:55.261   Installing the file.
+2017-08-11 12:31:55.263   Successfully installed the file.
+2017-08-11 12:31:55.263   -- File entry --
+2017-08-11 12:31:55.263   Dest filename: C:\Program Files\KMSpico\cert\kmscert2010\Outlook\OutlookVLReg32.reg
+2017-08-11 12:31:55.263   Time stamp of our file: 2010-07-12 05:32:44.000
+2017-08-11 12:31:55.263   Installing the file.
+2017-08-11 12:31:55.267   Successfully installed the file.
+2017-08-11 12:31:55.267   -- File entry --
+2017-08-11 12:31:55.267   Dest filename: C:\Program Files\KMSpico\cert\kmscert2010\Outlook\OutlookVLReg64.reg
+2017-08-11 12:31:55.267   Time stamp of our file: 2010-07-12 05:37:08.000
+2017-08-11 12:31:55.267   Installing the file.
+2017-08-11 12:31:55.271   Successfully installed the file.
+2017-08-11 12:31:55.271   -- File entry --
+2017-08-11 12:31:55.272   Dest filename: C:\Program Files\KMSpico\cert\kmscert2010\Outlook\OutlookVLRegWOW.reg
+2017-08-11 12:31:55.272   Time stamp of our file: 2010-07-12 05:37:56.000
+2017-08-11 12:31:55.272   Installing the file.
+2017-08-11 12:31:55.276   Successfully installed the file.
+2017-08-11 12:31:55.276   -- File entry --
+2017-08-11 12:31:55.277   Dest filename: C:\Program Files\KMSpico\cert\kmscert2010\Outlook\Outlook_KMS_Client.OOB.xrm-ms
+2017-08-11 12:31:55.277   Time stamp of our file: 2010-05-20 20:48:10.000
+2017-08-11 12:31:55.277   Installing the file.
+2017-08-11 12:31:55.281   Successfully installed the file.
+2017-08-11 12:31:55.281   -- File entry --
+2017-08-11 12:31:55.281   Dest filename: C:\Program Files\KMSpico\cert\kmscert2010\Outlook\Outlook_KMS_Client.PL.xrm-ms
+2017-08-11 12:31:55.282   Time stamp of our file: 2010-05-20 20:48:10.000
+2017-08-11 12:31:55.282   Installing the file.
+2017-08-11 12:31:55.286   Successfully installed the file.
+2017-08-11 12:31:55.286   -- File entry --
+2017-08-11 12:31:55.286   Dest filename: C:\Program Files\KMSpico\cert\kmscert2010\Outlook\Outlook_KMS_Client.PPDLIC.xrm-ms
+2017-08-11 12:31:55.286   Time stamp of our file: 2010-05-20 20:48:10.000
+2017-08-11 12:31:55.287   Installing the file.
+2017-08-11 12:31:55.290   Successfully installed the file.
+2017-08-11 12:31:55.290   -- File entry --
+2017-08-11 12:31:55.291   Dest filename: C:\Program Files\KMSpico\cert\kmscert2010\Outlook\Outlook_KMS_Client.RAC_Priv.xrm-ms
+2017-08-11 12:31:55.291   Time stamp of our file: 2010-05-20 20:48:10.000
+2017-08-11 12:31:55.291   Installing the file.
+2017-08-11 12:31:55.295   Successfully installed the file.
+2017-08-11 12:31:55.295   -- File entry --
+2017-08-11 12:31:55.295   Dest filename: C:\Program Files\KMSpico\cert\kmscert2010\Outlook\Outlook_KMS_Client.RAC_Pub.xrm-ms
+2017-08-11 12:31:55.296   Time stamp of our file: 2010-05-20 20:48:10.000
+2017-08-11 12:31:55.296   Installing the file.
+2017-08-11 12:31:55.297   Successfully installed the file.
+2017-08-11 12:31:55.297   -- File entry --
+2017-08-11 12:31:55.297   Dest filename: C:\Program Files\KMSpico\cert\kmscert2010\PowerPoint\PowerPointVLReg32.reg
+2017-08-11 12:31:55.297   Time stamp of our file: 2010-07-12 05:39:48.000
+2017-08-11 12:31:55.297   Installing the file.
+2017-08-11 12:31:55.301   Successfully installed the file.
+2017-08-11 12:31:55.301   -- File entry --
+2017-08-11 12:31:55.302   Dest filename: C:\Program Files\KMSpico\cert\kmscert2010\PowerPoint\PowerPointVLReg64.reg
+2017-08-11 12:31:55.302   Time stamp of our file: 2010-07-12 05:40:30.000
+2017-08-11 12:31:55.302   Installing the file.
+2017-08-11 12:31:55.305   Successfully installed the file.
+2017-08-11 12:31:55.305   -- File entry --
+2017-08-11 12:31:55.306   Dest filename: C:\Program Files\KMSpico\cert\kmscert2010\PowerPoint\PowerPointVLRegWOW.reg
+2017-08-11 12:31:55.306   Time stamp of our file: 2010-07-12 05:41:24.000
+2017-08-11 12:31:55.306   Installing the file.
+2017-08-11 12:31:55.310   Successfully installed the file.
+2017-08-11 12:31:55.310   -- File entry --
+2017-08-11 12:31:55.310   Dest filename: C:\Program Files\KMSpico\cert\kmscert2010\PowerPoint\PowerPoint_KMS_Client.OOB.xrm-ms
+2017-08-11 12:31:55.311   Time stamp of our file: 2010-05-20 20:48:26.000
+2017-08-11 12:31:55.311   Installing the file.
+2017-08-11 12:31:55.315   Successfully installed the file.
+2017-08-11 12:31:55.315   -- File entry --
+2017-08-11 12:31:55.317   Dest filename: C:\Program Files\KMSpico\cert\kmscert2010\PowerPoint\PowerPoint_KMS_Client.PL.xrm-ms
+2017-08-11 12:31:55.317   Time stamp of our file: 2010-05-20 20:48:26.000
+2017-08-11 12:31:55.317   Installing the file.
+2017-08-11 12:31:55.321   Successfully installed the file.
+2017-08-11 12:31:55.321   -- File entry --
+2017-08-11 12:31:55.322   Dest filename: C:\Program Files\KMSpico\cert\kmscert2010\PowerPoint\PowerPoint_KMS_Client.PPDLIC.xrm-ms
+2017-08-11 12:31:55.322   Time stamp of our file: 2010-05-20 20:48:26.000
+2017-08-11 12:31:55.322   Installing the file.
+2017-08-11 12:31:55.325   Successfully installed the file.
+2017-08-11 12:31:55.326   -- File entry --
+2017-08-11 12:31:55.326   Dest filename: C:\Program Files\KMSpico\cert\kmscert2010\PowerPoint\PowerPoint_KMS_Client.RAC_Priv.xrm-ms
+2017-08-11 12:31:55.326   Time stamp of our file: 2010-05-20 20:48:26.000
+2017-08-11 12:31:55.326   Installing the file.
+2017-08-11 12:31:55.358   Successfully installed the file.
+2017-08-11 12:31:55.358   -- File entry --
+2017-08-11 12:31:55.358   Dest filename: C:\Program Files\KMSpico\cert\kmscert2010\PowerPoint\PowerPoint_KMS_Client.RAC_Pub.xrm-ms
+2017-08-11 12:31:55.358   Time stamp of our file: 2010-05-20 20:48:26.000
+2017-08-11 12:31:55.358   Installing the file.
+2017-08-11 12:31:55.359   Successfully installed the file.
+2017-08-11 12:31:55.359   -- File entry --
+2017-08-11 12:31:55.360   Dest filename: C:\Program Files\KMSpico\cert\kmscert2010\ProjectPro\ProjectProVLReg32.reg
+2017-08-11 12:31:55.360   Time stamp of our file: 2010-07-12 05:42:38.000
+2017-08-11 12:31:55.360   Installing the file.
+2017-08-11 12:31:55.364   Successfully installed the file.
+2017-08-11 12:31:55.365   -- File entry --
+2017-08-11 12:31:55.365   Dest filename: C:\Program Files\KMSpico\cert\kmscert2010\ProjectPro\ProjectProVLReg64.reg
+2017-08-11 12:31:55.365   Time stamp of our file: 2010-07-12 05:44:16.000
+2017-08-11 12:31:55.365   Installing the file.
+2017-08-11 12:31:55.369   Successfully installed the file.
+2017-08-11 12:31:55.369   -- File entry --
+2017-08-11 12:31:55.370   Dest filename: C:\Program Files\KMSpico\cert\kmscert2010\ProjectPro\ProjectProVLRegWOW.reg
+2017-08-11 12:31:55.370   Time stamp of our file: 2010-07-12 05:43:42.000
+2017-08-11 12:31:55.370   Installing the file.
+2017-08-11 12:31:55.374   Successfully installed the file.
+2017-08-11 12:31:55.374   -- File entry --
+2017-08-11 12:31:55.375   Dest filename: C:\Program Files\KMSpico\cert\kmscert2010\ProjectPro\ProjectPro_KMS_Client.OOB.xrm-ms
+2017-08-11 12:31:55.375   Time stamp of our file: 2010-05-20 20:49:30.000
+2017-08-11 12:31:55.375   Installing the file.
+2017-08-11 12:31:55.379   Successfully installed the file.
+2017-08-11 12:31:55.379   -- File entry --
+2017-08-11 12:31:55.380   Dest filename: C:\Program Files\KMSpico\cert\kmscert2010\ProjectPro\ProjectPro_KMS_Client.PL.xrm-ms
+2017-08-11 12:31:55.380   Time stamp of our file: 2010-05-20 20:49:30.000
+2017-08-11 12:31:55.380   Installing the file.
+2017-08-11 12:31:55.384   Successfully installed the file.
+2017-08-11 12:31:55.384   -- File entry --
+2017-08-11 12:31:55.384   Dest filename: C:\Program Files\KMSpico\cert\kmscert2010\ProjectPro\ProjectPro_KMS_Client.PPDLIC.xrm-ms
+2017-08-11 12:31:55.384   Time stamp of our file: 2010-05-20 20:49:30.000
+2017-08-11 12:31:55.384   Installing the file.
+2017-08-11 12:31:55.388   Successfully installed the file.
+2017-08-11 12:31:55.389   -- File entry --
+2017-08-11 12:31:55.389   Dest filename: C:\Program Files\KMSpico\cert\kmscert2010\ProjectPro\ProjectPro_KMS_Client.RAC_Priv.xrm-ms
+2017-08-11 12:31:55.389   Time stamp of our file: 2010-05-20 20:49:30.000
+2017-08-11 12:31:55.389   Installing the file.
+2017-08-11 12:31:55.393   Successfully installed the file.
+2017-08-11 12:31:55.393   -- File entry --
+2017-08-11 12:31:55.393   Dest filename: C:\Program Files\KMSpico\cert\kmscert2010\ProjectPro\ProjectPro_KMS_Client.RAC_Pub.xrm-ms
+2017-08-11 12:31:55.394   Time stamp of our file: 2010-05-20 20:49:30.000
+2017-08-11 12:31:55.394   Installing the file.
+2017-08-11 12:31:55.395   Successfully installed the file.
+2017-08-11 12:31:55.395   -- File entry --
+2017-08-11 12:31:55.395   Dest filename: C:\Program Files\KMSpico\cert\kmscert2010\ProjectStd\ProjectStdVLReg32.reg
+2017-08-11 12:31:55.395   Time stamp of our file: 2010-07-12 05:45:18.000
+2017-08-11 12:31:55.395   Installing the file.
+2017-08-11 12:31:55.399   Successfully installed the file.
+2017-08-11 12:31:55.399   -- File entry --
+2017-08-11 12:31:55.400   Dest filename: C:\Program Files\KMSpico\cert\kmscert2010\ProjectStd\ProjectStdVLReg64.reg
+2017-08-11 12:31:55.400   Time stamp of our file: 2010-07-12 05:47:04.000
+2017-08-11 12:31:55.400   Installing the file.
+2017-08-11 12:31:55.403   Successfully installed the file.
+2017-08-11 12:31:55.403   -- File entry --
+2017-08-11 12:31:55.404   Dest filename: C:\Program Files\KMSpico\cert\kmscert2010\ProjectStd\ProjectStdVLRegWOW.reg
+2017-08-11 12:31:55.404   Time stamp of our file: 2010-07-12 05:46:28.000
+2017-08-11 12:31:55.404   Installing the file.
+2017-08-11 12:31:55.408   Successfully installed the file.
+2017-08-11 12:31:55.408   -- File entry --
+2017-08-11 12:31:55.409   Dest filename: C:\Program Files\KMSpico\cert\kmscert2010\ProjectStd\ProjectStd_KMS_Client.OOB.xrm-ms
+2017-08-11 12:31:55.409   Time stamp of our file: 2010-05-20 20:49:58.000
+2017-08-11 12:31:55.409   Installing the file.
+2017-08-11 12:31:55.413   Successfully installed the file.
+2017-08-11 12:31:55.413   -- File entry --
+2017-08-11 12:31:55.414   Dest filename: C:\Program Files\KMSpico\cert\kmscert2010\ProjectStd\ProjectStd_KMS_Client.PL.xrm-ms
+2017-08-11 12:31:55.414   Time stamp of our file: 2010-05-20 20:49:58.000
+2017-08-11 12:31:55.414   Installing the file.
+2017-08-11 12:31:55.418   Successfully installed the file.
+2017-08-11 12:31:55.418   -- File entry --
+2017-08-11 12:31:55.419   Dest filename: C:\Program Files\KMSpico\cert\kmscert2010\ProjectStd\ProjectStd_KMS_Client.PPDLIC.xrm-ms
+2017-08-11 12:31:55.419   Time stamp of our file: 2010-05-20 20:49:58.000
+2017-08-11 12:31:55.419   Installing the file.
+2017-08-11 12:31:55.422   Successfully installed the file.
+2017-08-11 12:31:55.423   -- File entry --
+2017-08-11 12:31:55.423   Dest filename: C:\Program Files\KMSpico\cert\kmscert2010\ProjectStd\ProjectStd_KMS_Client.RAC_Priv.xrm-ms
+2017-08-11 12:31:55.423   Time stamp of our file: 2010-05-20 20:49:58.000
+2017-08-11 12:31:55.423   Installing the file.
+2017-08-11 12:31:55.427   Successfully installed the file.
+2017-08-11 12:31:55.428   -- File entry --
+2017-08-11 12:31:55.429   Dest filename: C:\Program Files\KMSpico\cert\kmscert2010\ProjectStd\ProjectStd_KMS_Client.RAC_Pub.xrm-ms
+2017-08-11 12:31:55.429   Time stamp of our file: 2010-05-20 20:49:58.000
+2017-08-11 12:31:55.429   Installing the file.
+2017-08-11 12:31:55.430   Successfully installed the file.
+2017-08-11 12:31:55.430   -- File entry --
+2017-08-11 12:31:55.431   Dest filename: C:\Program Files\KMSpico\cert\kmscert2010\ProPlus\ProPlusVLReg32.reg
+2017-08-11 12:31:55.431   Time stamp of our file: 2010-07-12 05:52:32.000
+2017-08-11 12:31:55.431   Installing the file.
+2017-08-11 12:31:55.435   Successfully installed the file.
+2017-08-11 12:31:55.435   -- File entry --
+2017-08-11 12:31:55.435   Dest filename: C:\Program Files\KMSpico\cert\kmscert2010\ProPlus\ProPlusVLReg64.reg
+2017-08-11 12:31:55.435   Time stamp of our file: 2010-07-12 05:54:34.000
+2017-08-11 12:31:55.435   Installing the file.
+2017-08-11 12:31:55.439   Successfully installed the file.
+2017-08-11 12:31:55.439   -- File entry --
+2017-08-11 12:31:55.439   Dest filename: C:\Program Files\KMSpico\cert\kmscert2010\ProPlus\ProPlusVLRegWOW.reg
+2017-08-11 12:31:55.439   Time stamp of our file: 2010-07-12 05:53:20.000
+2017-08-11 12:31:55.439   Installing the file.
+2017-08-11 12:31:55.444   Successfully installed the file.
+2017-08-11 12:31:55.444   -- File entry --
+2017-08-11 12:31:55.444   Dest filename: C:\Program Files\KMSpico\cert\kmscert2010\ProPlus\ProPlus_KMS_Client.OOB.xrm-ms
+2017-08-11 12:31:55.445   Time stamp of our file: 2010-05-20 20:50:06.000
+2017-08-11 12:31:55.445   Installing the file.
+2017-08-11 12:31:55.449   Successfully installed the file.
+2017-08-11 12:31:55.449   -- File entry --
+2017-08-11 12:31:55.450   Dest filename: C:\Program Files\KMSpico\cert\kmscert2010\ProPlus\ProPlus_KMS_Client.PL.xrm-ms
+2017-08-11 12:31:55.450   Time stamp of our file: 2010-05-20 20:50:06.000
+2017-08-11 12:31:55.450   Installing the file.
+2017-08-11 12:31:55.454   Successfully installed the file.
+2017-08-11 12:31:55.454   -- File entry --
+2017-08-11 12:31:55.454   Dest filename: C:\Program Files\KMSpico\cert\kmscert2010\ProPlus\ProPlus_KMS_Client.PPDLIC.xrm-ms
+2017-08-11 12:31:55.454   Time stamp of our file: 2010-05-20 20:50:06.000
+2017-08-11 12:31:55.454   Installing the file.
+2017-08-11 12:31:55.458   Successfully installed the file.
+2017-08-11 12:31:55.458   -- File entry --
+2017-08-11 12:31:55.459   Dest filename: C:\Program Files\KMSpico\cert\kmscert2010\ProPlus\ProPlus_KMS_Client.RAC_Priv.xrm-ms
+2017-08-11 12:31:55.459   Time stamp of our file: 2010-05-20 20:50:06.000
+2017-08-11 12:31:55.459   Installing the file.
+2017-08-11 12:31:55.463   Successfully installed the file.
+2017-08-11 12:31:55.463   -- File entry --
+2017-08-11 12:31:55.463   Dest filename: C:\Program Files\KMSpico\cert\kmscert2010\ProPlus\ProPlus_KMS_Client.RAC_Pub.xrm-ms
+2017-08-11 12:31:55.463   Time stamp of our file: 2010-05-20 20:50:06.000
+2017-08-11 12:31:55.463   Installing the file.
+2017-08-11 12:31:55.465   Successfully installed the file.
+2017-08-11 12:31:55.465   -- File entry --
+2017-08-11 12:31:55.465   Dest filename: C:\Program Files\KMSpico\cert\kmscert2010\Publisher\PublisherVLReg32.reg
+2017-08-11 12:31:55.465   Time stamp of our file: 2010-07-12 05:55:20.000
+2017-08-11 12:31:55.465   Installing the file.
+2017-08-11 12:31:55.469   Successfully installed the file.
+2017-08-11 12:31:55.469   -- File entry --
+2017-08-11 12:31:55.469   Dest filename: C:\Program Files\KMSpico\cert\kmscert2010\Publisher\PublisherVLReg64.reg
+2017-08-11 12:31:55.470   Time stamp of our file: 2010-07-12 05:56:58.000
+2017-08-11 12:31:55.470   Installing the file.
+2017-08-11 12:31:55.474   Successfully installed the file.
+2017-08-11 12:31:55.474   -- File entry --
+2017-08-11 12:31:55.474   Dest filename: C:\Program Files\KMSpico\cert\kmscert2010\Publisher\PublisherVLRegWOW.reg
+2017-08-11 12:31:55.474   Time stamp of our file: 2010-07-12 05:56:26.000
+2017-08-11 12:31:55.474   Installing the file.
+2017-08-11 12:31:55.479   Successfully installed the file.
+2017-08-11 12:31:55.479   -- File entry --
+2017-08-11 12:31:55.479   Dest filename: C:\Program Files\KMSpico\cert\kmscert2010\Publisher\Publisher_KMS_Client.OOB.xrm-ms
+2017-08-11 12:31:55.479   Time stamp of our file: 2010-05-20 20:51:12.000
+2017-08-11 12:31:55.479   Installing the file.
+2017-08-11 12:31:55.483   Successfully installed the file.
+2017-08-11 12:31:55.483   -- File entry --
+2017-08-11 12:31:55.484   Dest filename: C:\Program Files\KMSpico\cert\kmscert2010\Publisher\Publisher_KMS_Client.PL.xrm-ms
+2017-08-11 12:31:55.484   Time stamp of our file: 2010-05-20 20:51:12.000
+2017-08-11 12:31:55.484   Installing the file.
+2017-08-11 12:31:55.488   Successfully installed the file.
+2017-08-11 12:31:55.488   -- File entry --
+2017-08-11 12:31:55.489   Dest filename: C:\Program Files\KMSpico\cert\kmscert2010\Publisher\Publisher_KMS_Client.PPDLIC.xrm-ms
+2017-08-11 12:31:55.489   Time stamp of our file: 2010-05-20 20:51:12.000
+2017-08-11 12:31:55.489   Installing the file.
+2017-08-11 12:31:55.493   Successfully installed the file.
+2017-08-11 12:31:55.493   -- File entry --
+2017-08-11 12:31:55.493   Dest filename: C:\Program Files\KMSpico\cert\kmscert2010\Publisher\Publisher_KMS_Client.RAC_Priv.xrm-ms
+2017-08-11 12:31:55.494   Time stamp of our file: 2010-05-20 20:51:12.000
+2017-08-11 12:31:55.494   Installing the file.
+2017-08-11 12:31:55.506   Successfully installed the file.
+2017-08-11 12:31:55.506   -- File entry --
+2017-08-11 12:31:55.507   Dest filename: C:\Program Files\KMSpico\cert\kmscert2010\Publisher\Publisher_KMS_Client.RAC_Pub.xrm-ms
+2017-08-11 12:31:55.507   Time stamp of our file: 2010-05-20 20:51:12.000
+2017-08-11 12:31:55.507   Installing the file.
+2017-08-11 12:31:55.507   Successfully installed the file.
+2017-08-11 12:31:55.507   -- File entry --
+2017-08-11 12:31:55.508   Dest filename: C:\Program Files\KMSpico\cert\kmscert2010\SmallBusBasics\SmallBusBasicsVLReg32.reg
+2017-08-11 12:31:55.508   Time stamp of our file: 2010-07-12 05:58:14.000
+2017-08-11 12:31:55.508   Installing the file.
+2017-08-11 12:31:55.512   Successfully installed the file.
+2017-08-11 12:31:55.512   -- File entry --
+2017-08-11 12:31:55.513   Dest filename: C:\Program Files\KMSpico\cert\kmscert2010\SmallBusBasics\SmallBusBasicsVLReg64.reg
+2017-08-11 12:31:55.513   Time stamp of our file: 2010-07-12 05:59:24.000
+2017-08-11 12:31:55.513   Installing the file.
+2017-08-11 12:31:55.516   Successfully installed the file.
+2017-08-11 12:31:55.517   -- File entry --
+2017-08-11 12:31:55.517   Dest filename: C:\Program Files\KMSpico\cert\kmscert2010\SmallBusBasics\SmallBusBasicsVLRegWOW.reg
+2017-08-11 12:31:55.517   Time stamp of our file: 2010-07-12 05:58:54.000
+2017-08-11 12:31:55.517   Installing the file.
+2017-08-11 12:31:55.521   Successfully installed the file.
+2017-08-11 12:31:55.522   -- File entry --
+2017-08-11 12:31:55.522   Dest filename: C:\Program Files\KMSpico\cert\kmscert2010\SmallBusBasics\SmallBusBasics_KMS_Client.OOB.xrm-ms
+2017-08-11 12:31:55.522   Time stamp of our file: 2010-03-31 17:27:14.000
+2017-08-11 12:31:55.522   Installing the file.
+2017-08-11 12:31:55.527   Successfully installed the file.
+2017-08-11 12:31:55.527   -- File entry --
+2017-08-11 12:31:55.527   Dest filename: C:\Program Files\KMSpico\cert\kmscert2010\SmallBusBasics\SmallBusBasics_KMS_Client.PL.xrm-ms
+2017-08-11 12:31:55.527   Time stamp of our file: 2010-03-31 17:27:14.000
+2017-08-11 12:31:55.527   Installing the file.
+2017-08-11 12:31:55.531   Successfully installed the file.
+2017-08-11 12:31:55.531   -- File entry --
+2017-08-11 12:31:55.532   Dest filename: C:\Program Files\KMSpico\cert\kmscert2010\SmallBusBasics\SmallBusBasics_KMS_Client.PPDLIC.xrm-ms
+2017-08-11 12:31:55.532   Time stamp of our file: 2010-03-31 17:27:14.000
+2017-08-11 12:31:55.532   Installing the file.
+2017-08-11 12:31:55.536   Successfully installed the file.
+2017-08-11 12:31:55.536   -- File entry --
+2017-08-11 12:31:55.536   Dest filename: C:\Program Files\KMSpico\cert\kmscert2010\SmallBusBasics\SmallBusBasics_KMS_Client.RAC_Priv.xrm-ms
+2017-08-11 12:31:55.536   Time stamp of our file: 2010-03-31 17:27:14.000
+2017-08-11 12:31:55.536   Installing the file.
+2017-08-11 12:31:55.540   Successfully installed the file.
+2017-08-11 12:31:55.541   -- File entry --
+2017-08-11 12:31:55.541   Dest filename: C:\Program Files\KMSpico\cert\kmscert2010\SmallBusBasics\SmallBusBasics_KMS_Client.RAC_Pub.xrm-ms
+2017-08-11 12:31:55.541   Time stamp of our file: 2010-03-31 17:27:14.000
+2017-08-11 12:31:55.541   Installing the file.
+2017-08-11 12:31:55.542   Successfully installed the file.
+2017-08-11 12:31:55.542   -- File entry --
+2017-08-11 12:31:55.542   Dest filename: C:\Program Files\KMSpico\cert\kmscert2010\Standard\StandardVLReg32.reg
+2017-08-11 12:31:55.543   Time stamp of our file: 2010-07-12 06:02:00.000
+2017-08-11 12:31:55.543   Installing the file.
+2017-08-11 12:31:55.546   Successfully installed the file.
+2017-08-11 12:31:55.547   -- File entry --
+2017-08-11 12:31:55.547   Dest filename: C:\Program Files\KMSpico\cert\kmscert2010\Standard\StandardVLReg64.reg
+2017-08-11 12:31:55.547   Time stamp of our file: 2010-07-12 06:03:06.000
+2017-08-11 12:31:55.547   Installing the file.
+2017-08-11 12:31:55.551   Successfully installed the file.
+2017-08-11 12:31:55.551   -- File entry --
+2017-08-11 12:31:55.551   Dest filename: C:\Program Files\KMSpico\cert\kmscert2010\Standard\StandardVLRegWOW.reg
+2017-08-11 12:31:55.552   Time stamp of our file: 2010-07-12 06:02:36.000
+2017-08-11 12:31:55.552   Installing the file.
+2017-08-11 12:31:55.556   Successfully installed the file.
+2017-08-11 12:31:55.556   -- File entry --
+2017-08-11 12:31:55.558   Dest filename: C:\Program Files\KMSpico\cert\kmscert2010\Standard\Standard_KMS_Client.OOB.xrm-ms
+2017-08-11 12:31:55.558   Time stamp of our file: 2010-05-20 20:51:16.000
+2017-08-11 12:31:55.558   Installing the file.
+2017-08-11 12:31:55.562   Successfully installed the file.
+2017-08-11 12:31:55.563   -- File entry --
+2017-08-11 12:31:55.563   Dest filename: C:\Program Files\KMSpico\cert\kmscert2010\Standard\Standard_KMS_Client.PL.xrm-ms
+2017-08-11 12:31:55.563   Time stamp of our file: 2010-05-20 20:51:16.000
+2017-08-11 12:31:55.563   Installing the file.
+2017-08-11 12:31:55.567   Successfully installed the file.
+2017-08-11 12:31:55.567   -- File entry --
+2017-08-11 12:31:55.568   Dest filename: C:\Program Files\KMSpico\cert\kmscert2010\Standard\Standard_KMS_Client.PPDLIC.xrm-ms
+2017-08-11 12:31:55.568   Time stamp of our file: 2010-05-20 20:51:16.000
+2017-08-11 12:31:55.568   Installing the file.
+2017-08-11 12:31:55.572   Successfully installed the file.
+2017-08-11 12:31:55.572   -- File entry --
+2017-08-11 12:31:55.572   Dest filename: C:\Program Files\KMSpico\cert\kmscert2010\Standard\Standard_KMS_Client.RAC_Priv.xrm-ms
+2017-08-11 12:31:55.572   Time stamp of our file: 2010-05-20 20:51:16.000
+2017-08-11 12:31:55.572   Installing the file.
+2017-08-11 12:31:55.586   Successfully installed the file.
+2017-08-11 12:31:55.587   -- File entry --
+2017-08-11 12:31:55.588   Dest filename: C:\Program Files\KMSpico\cert\kmscert2010\Standard\Standard_KMS_Client.RAC_Pub.xrm-ms
+2017-08-11 12:31:55.588   Time stamp of our file: 2010-05-20 20:51:16.000
+2017-08-11 12:31:55.588   Installing the file.
+2017-08-11 12:31:55.589   Successfully installed the file.
+2017-08-11 12:31:55.589   -- File entry --
+2017-08-11 12:31:55.590   Dest filename: C:\Program Files\KMSpico\cert\kmscert2010\Visio\VisioPrem_KMS_Client.OOB.xrm-ms
+2017-08-11 12:31:55.590   Time stamp of our file: 2010-05-20 20:51:52.000
+2017-08-11 12:31:55.590   Installing the file.
+2017-08-11 12:31:55.650   Successfully installed the file.
+2017-08-11 12:31:55.651   -- File entry --
+2017-08-11 12:31:55.653   Dest filename: C:\Program Files\KMSpico\cert\kmscert2010\Visio\VisioPrem_KMS_Client.PL.xrm-ms
+2017-08-11 12:31:55.653   Time stamp of our file: 2010-05-20 20:51:52.000
+2017-08-11 12:31:55.653   Installing the file.
+2017-08-11 12:31:55.667   Successfully installed the file.
+2017-08-11 12:31:55.669   -- File entry --
+2017-08-11 12:31:55.670   Dest filename: C:\Program Files\KMSpico\cert\kmscert2010\Visio\VisioPrem_KMS_Client.PPDLIC.xrm-ms
+2017-08-11 12:31:55.670   Time stamp of our file: 2010-05-20 20:51:52.000
+2017-08-11 12:31:55.670   Installing the file.
+2017-08-11 12:31:55.677   Successfully installed the file.
+2017-08-11 12:31:55.677   -- File entry --
+2017-08-11 12:31:55.678   Dest filename: C:\Program Files\KMSpico\cert\kmscert2010\Visio\VisioPrem_KMS_Client.RAC_Priv.xrm-ms
+2017-08-11 12:31:55.678   Time stamp of our file: 2010-05-20 20:51:52.000
+2017-08-11 12:31:55.678   Installing the file.
+2017-08-11 12:31:55.686   Successfully installed the file.
+2017-08-11 12:31:55.686   -- File entry --
+2017-08-11 12:31:55.687   Dest filename: C:\Program Files\KMSpico\cert\kmscert2010\Visio\VisioPrem_KMS_Client.RAC_Pub.xrm-ms
+2017-08-11 12:31:55.687   Time stamp of our file: 2010-05-20 20:51:52.000
+2017-08-11 12:31:55.687   Installing the file.
+2017-08-11 12:31:55.689   Successfully installed the file.
+2017-08-11 12:31:55.689   -- File entry --
+2017-08-11 12:31:55.690   Dest filename: C:\Program Files\KMSpico\cert\kmscert2010\Visio\VisioPro_KMS_Client.OOB.xrm-ms
+2017-08-11 12:31:55.690   Time stamp of our file: 2010-05-20 20:51:52.000
+2017-08-11 12:31:55.690   Installing the file.
+2017-08-11 12:31:55.735   Successfully installed the file.
+2017-08-11 12:31:55.736   -- File entry --
+2017-08-11 12:31:55.738   Dest filename: C:\Program Files\KMSpico\cert\kmscert2010\Visio\VisioPro_KMS_Client.PL.xrm-ms
+2017-08-11 12:31:55.738   Time stamp of our file: 2010-05-20 20:51:52.000
+2017-08-11 12:31:55.738   Installing the file.
+2017-08-11 12:31:55.753   Successfully installed the file.
+2017-08-11 12:31:55.754   -- File entry --
+2017-08-11 12:31:55.754   Dest filename: C:\Program Files\KMSpico\cert\kmscert2010\Visio\VisioPro_KMS_Client.PPDLIC.xrm-ms
+2017-08-11 12:31:55.755   Time stamp of our file: 2010-05-20 20:51:52.000
+2017-08-11 12:31:55.755   Installing the file.
+2017-08-11 12:31:55.762   Successfully installed the file.
+2017-08-11 12:31:55.763   -- File entry --
+2017-08-11 12:31:55.764   Dest filename: C:\Program Files\KMSpico\cert\kmscert2010\Visio\VisioPro_KMS_Client.RAC_Priv.xrm-ms
+2017-08-11 12:31:55.764   Time stamp of our file: 2010-05-20 20:51:52.000
+2017-08-11 12:31:55.764   Installing the file.
+2017-08-11 12:31:55.773   Successfully installed the file.
+2017-08-11 12:31:55.773   -- File entry --
+2017-08-11 12:31:55.774   Dest filename: C:\Program Files\KMSpico\cert\kmscert2010\Visio\VisioPro_KMS_Client.RAC_Pub.xrm-ms
+2017-08-11 12:31:55.774   Time stamp of our file: 2010-05-20 20:51:52.000
+2017-08-11 12:31:55.774   Installing the file.
+2017-08-11 12:31:55.778   Successfully installed the file.
+2017-08-11 12:31:55.779   -- File entry --
+2017-08-11 12:31:55.780   Dest filename: C:\Program Files\KMSpico\cert\kmscert2010\Visio\VisioStd_KMS_Client.OOB.xrm-ms
+2017-08-11 12:31:55.780   Time stamp of our file: 2010-05-20 20:51:52.000
+2017-08-11 12:31:55.780   Installing the file.
+2017-08-11 12:31:55.786   Successfully installed the file.
+2017-08-11 12:31:55.787   -- File entry --
+2017-08-11 12:31:55.787   Dest filename: C:\Program Files\KMSpico\cert\kmscert2010\Visio\VisioStd_KMS_Client.PL.xrm-ms
+2017-08-11 12:31:55.787   Time stamp of our file: 2010-05-20 20:51:52.000
+2017-08-11 12:31:55.787   Installing the file.
+2017-08-11 12:31:55.793   Successfully installed the file.
+2017-08-11 12:31:55.793   -- File entry --
+2017-08-11 12:31:55.794   Dest filename: C:\Program Files\KMSpico\cert\kmscert2010\Visio\VisioStd_KMS_Client.PPDLIC.xrm-ms
+2017-08-11 12:31:55.794   Time stamp of our file: 2010-05-20 20:51:52.000
+2017-08-11 12:31:55.794   Installing the file.
+2017-08-11 12:31:55.799   Successfully installed the file.
+2017-08-11 12:31:55.800   -- File entry --
+2017-08-11 12:31:55.800   Dest filename: C:\Program Files\KMSpico\cert\kmscert2010\Visio\VisioStd_KMS_Client.RAC_Priv.xrm-ms
+2017-08-11 12:31:55.800   Time stamp of our file: 2010-05-20 20:51:52.000
+2017-08-11 12:31:55.800   Installing the file.
+2017-08-11 12:31:55.806   Successfully installed the file.
+2017-08-11 12:31:55.807   -- File entry --
+2017-08-11 12:31:55.807   Dest filename: C:\Program Files\KMSpico\cert\kmscert2010\Visio\VisioStd_KMS_Client.RAC_Pub.xrm-ms
+2017-08-11 12:31:55.807   Time stamp of our file: 2010-05-20 20:51:52.000
+2017-08-11 12:31:55.807   Installing the file.
+2017-08-11 12:31:55.809   Successfully installed the file.
+2017-08-11 12:31:55.809   -- File entry --
+2017-08-11 12:31:55.809   Dest filename: C:\Program Files\KMSpico\cert\kmscert2010\Visio\VisioVLReg32.reg
+2017-08-11 12:31:55.810   Time stamp of our file: 2010-07-12 06:04:20.000
+2017-08-11 12:31:55.810   Installing the file.
+2017-08-11 12:31:55.815   Successfully installed the file.
+2017-08-11 12:31:55.815   -- File entry --
+2017-08-11 12:31:55.816   Dest filename: C:\Program Files\KMSpico\cert\kmscert2010\Visio\VisioVLReg64.reg
+2017-08-11 12:31:55.816   Time stamp of our file: 2010-07-12 06:05:28.000
+2017-08-11 12:31:55.816   Installing the file.
+2017-08-11 12:31:55.821   Successfully installed the file.
+2017-08-11 12:31:55.821   -- File entry --
+2017-08-11 12:31:55.822   Dest filename: C:\Program Files\KMSpico\cert\kmscert2010\Visio\VisioVLRegWOW.reg
+2017-08-11 12:31:55.822   Time stamp of our file: 2010-07-12 06:04:56.000
+2017-08-11 12:31:55.822   Installing the file.
+2017-08-11 12:31:55.829   Successfully installed the file.
+2017-08-11 12:31:55.829   -- File entry --
+2017-08-11 12:31:55.830   Dest filename: C:\Program Files\KMSpico\cert\kmscert2010\Word\WordVLReg32.reg
+2017-08-11 12:31:55.830   Time stamp of our file: 2010-07-12 06:06:36.000
+2017-08-11 12:31:55.830   Installing the file.
+2017-08-11 12:31:55.835   Successfully installed the file.
+2017-08-11 12:31:55.835   -- File entry --
+2017-08-11 12:31:55.836   Dest filename: C:\Program Files\KMSpico\cert\kmscert2010\Word\WordVLReg64.reg
+2017-08-11 12:31:55.836   Time stamp of our file: 2010-07-12 06:07:52.000
+2017-08-11 12:31:55.836   Installing the file.
+2017-08-11 12:31:55.841   Successfully installed the file.
+2017-08-11 12:31:55.841   -- File entry --
+2017-08-11 12:31:55.842   Dest filename: C:\Program Files\KMSpico\cert\kmscert2010\Word\WordVLRegWOW.reg
+2017-08-11 12:31:55.842   Time stamp of our file: 2010-07-12 06:07:22.000
+2017-08-11 12:31:55.842   Installing the file.
+2017-08-11 12:31:55.847   Successfully installed the file.
+2017-08-11 12:31:55.847   -- File entry --
+2017-08-11 12:31:55.848   Dest filename: C:\Program Files\KMSpico\cert\kmscert2010\Word\Word_KMS_Client.OOB.xrm-ms
+2017-08-11 12:31:55.848   Time stamp of our file: 2010-05-20 20:52:16.000
+2017-08-11 12:31:55.848   Installing the file.
+2017-08-11 12:31:55.854   Successfully installed the file.
+2017-08-11 12:31:55.855   -- File entry --
+2017-08-11 12:31:55.855   Dest filename: C:\Program Files\KMSpico\cert\kmscert2010\Word\Word_KMS_Client.PL.xrm-ms
+2017-08-11 12:31:55.855   Time stamp of our file: 2010-05-20 20:52:16.000
+2017-08-11 12:31:55.855   Installing the file.
+2017-08-11 12:31:55.862   Successfully installed the file.
+2017-08-11 12:31:55.862   -- File entry --
+2017-08-11 12:31:55.862   Dest filename: C:\Program Files\KMSpico\cert\kmscert2010\Word\Word_KMS_Client.PPDLIC.xrm-ms
+2017-08-11 12:31:55.862   Time stamp of our file: 2010-05-20 20:52:16.000
+2017-08-11 12:31:55.862   Installing the file.
+2017-08-11 12:31:55.868   Successfully installed the file.
+2017-08-11 12:31:55.868   -- File entry --
+2017-08-11 12:31:55.868   Dest filename: C:\Program Files\KMSpico\cert\kmscert2010\Word\Word_KMS_Client.RAC_Priv.xrm-ms
+2017-08-11 12:31:55.868   Time stamp of our file: 2010-05-20 20:52:16.000
+2017-08-11 12:31:55.868   Installing the file.
+2017-08-11 12:31:55.874   Successfully installed the file.
+2017-08-11 12:31:55.874   -- File entry --
+2017-08-11 12:31:55.874   Dest filename: C:\Program Files\KMSpico\cert\kmscert2010\Word\Word_KMS_Client.RAC_Pub.xrm-ms
+2017-08-11 12:31:55.874   Time stamp of our file: 2010-05-20 20:52:16.000
+2017-08-11 12:31:55.874   Installing the file.
+2017-08-11 12:31:55.875   Successfully installed the file.
+2017-08-11 12:31:55.875   -- File entry --
+2017-08-11 12:31:55.876   Dest filename: C:\Program Files\KMSpico\cert\kmscert2013\Licenses.sl.ISSUANCE.CLIENT_BRIDGE_OFFICE.xrm-ms
+2017-08-11 12:31:55.876   Time stamp of our file: 2012-10-02 07:43:16.000
+2017-08-11 12:31:55.876   Installing the file.
+2017-08-11 12:31:55.880   Successfully installed the file.
+2017-08-11 12:31:55.880   -- File entry --
+2017-08-11 12:31:55.880   Dest filename: C:\Program Files\KMSpico\cert\kmscert2013\Licenses.sl.ISSUANCE.CLIENT_ROOT.xrm-ms
+2017-08-11 12:31:55.880   Time stamp of our file: 2012-10-02 07:43:16.000
+2017-08-11 12:31:55.880   Installing the file.
+2017-08-11 12:31:55.884   Successfully installed the file.
+2017-08-11 12:31:55.884   -- File entry --
+2017-08-11 12:31:55.885   Dest filename: C:\Program Files\KMSpico\cert\kmscert2013\Licenses.sl.ISSUANCE.CLIENT_ROOT_BRIDGE_TEST.xrm-ms
+2017-08-11 12:31:55.885   Time stamp of our file: 2012-10-02 07:43:16.000
+2017-08-11 12:31:55.885   Installing the file.
+2017-08-11 12:31:55.889   Successfully installed the file.
+2017-08-11 12:31:55.889   -- File entry --
+2017-08-11 12:31:55.889   Dest filename: C:\Program Files\KMSpico\cert\kmscert2013\Licenses.sl.ISSUANCE.CLIENT_STIL.xrm-ms
+2017-08-11 12:31:55.889   Time stamp of our file: 2012-10-02 07:43:16.000
+2017-08-11 12:31:55.889   Installing the file.
+2017-08-11 12:31:55.893   Successfully installed the file.
+2017-08-11 12:31:55.893   -- File entry --
+2017-08-11 12:31:55.893   Dest filename: C:\Program Files\KMSpico\cert\kmscert2013\Licenses.sl.ISSUANCE.CLIENT_UL.xrm-ms
+2017-08-11 12:31:55.894   Time stamp of our file: 2012-10-02 07:43:16.000
+2017-08-11 12:31:55.894   Installing the file.
+2017-08-11 12:31:55.897   Successfully installed the file.
+2017-08-11 12:31:55.897   -- File entry --
+2017-08-11 12:31:55.898   Dest filename: C:\Program Files\KMSpico\cert\kmscert2013\Licenses.sl.ISSUANCE.CLIENT_UL_OOB.xrm-ms
+2017-08-11 12:31:55.898   Time stamp of our file: 2012-10-02 07:43:16.000
+2017-08-11 12:31:55.898   Installing the file.
+2017-08-11 12:31:55.901   Successfully installed the file.
+2017-08-11 12:31:55.902   -- File entry --
+2017-08-11 12:31:55.902   Dest filename: C:\Program Files\KMSpico\cert\kmscert2013\pkeyconfig-office.xrm-ms
+2017-08-11 12:31:55.902   Time stamp of our file: 2012-10-02 07:41:50.000
+2017-08-11 12:31:55.902   Installing the file.
+2017-08-11 12:31:55.918   Successfully installed the file.
+2017-08-11 12:31:55.918   -- File entry --
+2017-08-11 12:31:55.918   Dest filename: C:\Program Files\KMSpico\cert\kmscert2013\Access\AccessVL_KMS_Client_OOB.xrm-ms
+2017-08-11 12:31:55.918   Time stamp of our file: 2012-10-02 07:41:50.000
+2017-08-11 12:31:55.918   Installing the file.
+2017-08-11 12:31:55.922   Successfully installed the file.
+2017-08-11 12:31:55.923   -- File entry --
+2017-08-11 12:31:55.923   Dest filename: C:\Program Files\KMSpico\cert\kmscert2013\Access\AccessVL_KMS_Client_PL.xrm-ms
+2017-08-11 12:31:55.923   Time stamp of our file: 2012-10-02 07:41:50.000
+2017-08-11 12:31:55.923   Installing the file.
+2017-08-11 12:31:55.927   Successfully installed the file.
+2017-08-11 12:31:55.927   -- File entry --
+2017-08-11 12:31:55.927   Dest filename: C:\Program Files\KMSpico\cert\kmscert2013\Access\AccessVL_KMS_Client_PPDLIC.xrm-ms
+2017-08-11 12:31:55.927   Time stamp of our file: 2012-10-02 07:41:50.000
+2017-08-11 12:31:55.927   Installing the file.
+2017-08-11 12:31:55.931   Successfully installed the file.
+2017-08-11 12:31:55.931   -- File entry --
+2017-08-11 12:31:55.932   Dest filename: C:\Program Files\KMSpico\cert\kmscert2013\Excel\LicenseSetData._F7461D52_7C2B_43B2_8744_EA958E0BD09A.OOB.xrm-ms
+2017-08-11 12:31:55.932   Time stamp of our file: 2012-10-02 07:43:16.000
+2017-08-11 12:31:55.932   Installing the file.
+2017-08-11 12:31:55.936   Successfully installed the file.
+2017-08-11 12:31:55.936   -- File entry --
+2017-08-11 12:31:55.936   Dest filename: C:\Program Files\KMSpico\cert\kmscert2013\Excel\LicenseSetData._F7461D52_7C2B_43B2_8744_EA958E0BD09A.PL.xrm-ms
+2017-08-11 12:31:55.936   Time stamp of our file: 2012-10-02 07:43:16.000
+2017-08-11 12:31:55.936   Installing the file.
+2017-08-11 12:31:55.985   Successfully installed the file.
+2017-08-11 12:31:55.986   -- File entry --
+2017-08-11 12:31:55.986   Dest filename: C:\Program Files\KMSpico\cert\kmscert2013\Excel\LicenseSetData._F7461D52_7C2B_43B2_8744_EA958E0BD09A.PPDLIC.xrm-ms
+2017-08-11 12:31:55.986   Time stamp of our file: 2012-10-02 07:43:16.000
+2017-08-11 12:31:55.986   Installing the file.
+2017-08-11 12:31:55.991   Successfully installed the file.
+2017-08-11 12:31:55.991   -- File entry --
+2017-08-11 12:31:55.991   Dest filename: C:\Program Files\KMSpico\cert\kmscert2013\InfoPath\LicenseSetData._A30B8040_D68A_423F_B0B5_9CE292EA5A8F.OOB.xrm-ms
+2017-08-11 12:31:55.991   Time stamp of our file: 2012-10-02 07:38:36.000
+2017-08-11 12:31:55.991   Installing the file.
+2017-08-11 12:31:56.014   Successfully installed the file.
+2017-08-11 12:31:56.015   -- File entry --
+2017-08-11 12:31:56.016   Dest filename: C:\Program Files\KMSpico\cert\kmscert2013\InfoPath\LicenseSetData._A30B8040_D68A_423F_B0B5_9CE292EA5A8F.PL.xrm-ms
+2017-08-11 12:31:56.016   Time stamp of our file: 2012-10-02 07:38:36.000
+2017-08-11 12:31:56.016   Installing the file.
+2017-08-11 12:31:56.020   Successfully installed the file.
+2017-08-11 12:31:56.020   -- File entry --
+2017-08-11 12:31:56.020   Dest filename: C:\Program Files\KMSpico\cert\kmscert2013\InfoPath\LicenseSetData._A30B8040_D68A_423F_B0B5_9CE292EA5A8F.PPDLIC.xrm-ms
+2017-08-11 12:31:56.020   Time stamp of our file: 2012-10-02 07:38:36.000
+2017-08-11 12:31:56.020   Installing the file.
+2017-08-11 12:31:56.024   Successfully installed the file.
+2017-08-11 12:31:56.024   -- File entry --
+2017-08-11 12:31:56.024   Dest filename: C:\Program Files\KMSpico\cert\kmscert2013\Lync\LicenseSetData._1B9F11E3_C85C_4E1B_BB29_879AD2C909E3.OOB.xrm-ms
+2017-08-11 12:31:56.024   Time stamp of our file: 2012-10-02 07:43:22.000
+2017-08-11 12:31:56.024   Installing the file.
+2017-08-11 12:31:56.029   Successfully installed the file.
+2017-08-11 12:31:56.030   -- File entry --
+2017-08-11 12:31:56.030   Dest filename: C:\Program Files\KMSpico\cert\kmscert2013\Lync\LicenseSetData._1B9F11E3_C85C_4E1B_BB29_879AD2C909E3.PL.xrm-ms
+2017-08-11 12:31:56.030   Time stamp of our file: 2012-10-02 07:43:22.000
+2017-08-11 12:31:56.030   Installing the file.
+2017-08-11 12:31:56.034   Successfully installed the file.
+2017-08-11 12:31:56.034   -- File entry --
+2017-08-11 12:31:56.034   Dest filename: C:\Program Files\KMSpico\cert\kmscert2013\Lync\LicenseSetData._1B9F11E3_C85C_4E1B_BB29_879AD2C909E3.PPDLIC.xrm-ms
+2017-08-11 12:31:56.034   Time stamp of our file: 2012-10-02 07:43:22.000
+2017-08-11 12:31:56.034   Installing the file.
+2017-08-11 12:31:56.038   Successfully installed the file.
+2017-08-11 12:31:56.038   -- File entry --
+2017-08-11 12:31:56.039   Dest filename: C:\Program Files\KMSpico\cert\kmscert2013\OneNote\LicenseSetData._EFE1F3E6_AEA2_4144_A208_32AA872B6545.OOB.xrm-ms
+2017-08-11 12:31:56.039   Time stamp of our file: 2012-10-02 07:38:54.000
+2017-08-11 12:31:56.039   Installing the file.
+2017-08-11 12:31:56.043   Successfully installed the file.
+2017-08-11 12:31:56.043   -- File entry --
+2017-08-11 12:31:56.043   Dest filename: C:\Program Files\KMSpico\cert\kmscert2013\OneNote\LicenseSetData._EFE1F3E6_AEA2_4144_A208_32AA872B6545.PL.xrm-ms
+2017-08-11 12:31:56.044   Time stamp of our file: 2012-10-02 07:38:54.000
+2017-08-11 12:31:56.044   Installing the file.
+2017-08-11 12:31:56.047   Successfully installed the file.
+2017-08-11 12:31:56.047   -- File entry --
+2017-08-11 12:31:56.048   Dest filename: C:\Program Files\KMSpico\cert\kmscert2013\OneNote\LicenseSetData._EFE1F3E6_AEA2_4144_A208_32AA872B6545.PPDLIC.xrm-ms
+2017-08-11 12:31:56.048   Time stamp of our file: 2012-10-02 07:38:54.000
+2017-08-11 12:31:56.048   Installing the file.
+2017-08-11 12:31:56.051   Successfully installed the file.
+2017-08-11 12:31:56.051   -- File entry --
+2017-08-11 12:31:56.052   Dest filename: C:\Program Files\KMSpico\cert\kmscert2013\Outlook\LicenseSetData._771C3AFA_50C5_443F_B151_FF2546D863A0.OOB.xrm-ms
+2017-08-11 12:31:56.052   Time stamp of our file: 2012-10-02 07:39:10.000
+2017-08-11 12:31:56.052   Installing the file.
+2017-08-11 12:31:56.056   Successfully installed the file.
+2017-08-11 12:31:56.056   -- File entry --
+2017-08-11 12:31:56.056   Dest filename: C:\Program Files\KMSpico\cert\kmscert2013\Outlook\LicenseSetData._771C3AFA_50C5_443F_B151_FF2546D863A0.PL.xrm-ms
+2017-08-11 12:31:56.056   Time stamp of our file: 2012-10-02 07:39:10.000
+2017-08-11 12:31:56.056   Installing the file.
+2017-08-11 12:31:56.060   Successfully installed the file.
+2017-08-11 12:31:56.061   -- File entry --
+2017-08-11 12:31:56.061   Dest filename: C:\Program Files\KMSpico\cert\kmscert2013\Outlook\LicenseSetData._771C3AFA_50C5_443F_B151_FF2546D863A0.PPDLIC.xrm-ms
+2017-08-11 12:31:56.061   Time stamp of our file: 2012-10-02 07:39:10.000
+2017-08-11 12:31:56.061   Installing the file.
+2017-08-11 12:31:56.086   Successfully installed the file.
+2017-08-11 12:31:56.087   -- File entry --
+2017-08-11 12:31:56.087   Dest filename: C:\Program Files\KMSpico\cert\kmscert2013\PowerPoint\LicenseSetData._8C762649_97D1_4953_AD27_B7E2C25B972E.OOB.xrm-ms
+2017-08-11 12:31:56.087   Time stamp of our file: 2012-10-02 07:43:34.000
+2017-08-11 12:31:56.087   Installing the file.
+2017-08-11 12:31:56.092   Successfully installed the file.
+2017-08-11 12:31:56.092   -- File entry --
+2017-08-11 12:31:56.092   Dest filename: C:\Program Files\KMSpico\cert\kmscert2013\PowerPoint\LicenseSetData._8C762649_97D1_4953_AD27_B7E2C25B972E.PL.xrm-ms
+2017-08-11 12:31:56.092   Time stamp of our file: 2012-10-02 07:43:34.000
+2017-08-11 12:31:56.092   Installing the file.
+2017-08-11 12:31:56.096   Successfully installed the file.
+2017-08-11 12:31:56.096   -- File entry --
+2017-08-11 12:31:56.097   Dest filename: C:\Program Files\KMSpico\cert\kmscert2013\PowerPoint\LicenseSetData._8C762649_97D1_4953_AD27_B7E2C25B972E.PPDLIC.xrm-ms
+2017-08-11 12:31:56.097   Time stamp of our file: 2012-10-02 07:43:34.000
+2017-08-11 12:31:56.097   Installing the file.
+2017-08-11 12:31:56.100   Successfully installed the file.
+2017-08-11 12:31:56.100   -- File entry --
+2017-08-11 12:31:56.101   Dest filename: C:\Program Files\KMSpico\cert\kmscert2013\ProjectPro\LicenseSetData._4A5D124A_E620_44BA_B6FF_658961B33B9A.OOB.xrm-ms
+2017-08-11 12:31:56.101   Time stamp of our file: 2012-10-02 07:43:22.000
+2017-08-11 12:31:56.101   Installing the file.
+2017-08-11 12:31:56.105   Successfully installed the file.
+2017-08-11 12:31:56.105   -- File entry --
+2017-08-11 12:31:56.106   Dest filename: C:\Program Files\KMSpico\cert\kmscert2013\ProjectPro\LicenseSetData._4A5D124A_E620_44BA_B6FF_658961B33B9A.PL.xrm-ms
+2017-08-11 12:31:56.106   Time stamp of our file: 2012-10-02 07:43:22.000
+2017-08-11 12:31:56.106   Installing the file.
+2017-08-11 12:31:56.110   Successfully installed the file.
+2017-08-11 12:31:56.110   -- File entry --
+2017-08-11 12:31:56.110   Dest filename: C:\Program Files\KMSpico\cert\kmscert2013\ProjectPro\LicenseSetData._4A5D124A_E620_44BA_B6FF_658961B33B9A.PPDLIC.xrm-ms
+2017-08-11 12:31:56.110   Time stamp of our file: 2012-10-02 07:43:22.000
+2017-08-11 12:31:56.110   Installing the file.
+2017-08-11 12:31:56.114   Successfully installed the file.
+2017-08-11 12:31:56.114   -- File entry --
+2017-08-11 12:31:56.114   Dest filename: C:\Program Files\KMSpico\cert\kmscert2013\ProjectStd\LicenseSetData._427A28D1_D17C_4ABF_B717_32C780BA6F07.OOB.xrm-ms
+2017-08-11 12:31:56.114   Time stamp of our file: 2012-10-02 06:55:52.000
+2017-08-11 12:31:56.114   Installing the file.
+2017-08-11 12:31:56.118   Successfully installed the file.
+2017-08-11 12:31:56.118   -- File entry --
+2017-08-11 12:31:56.119   Dest filename: C:\Program Files\KMSpico\cert\kmscert2013\ProjectStd\LicenseSetData._427A28D1_D17C_4ABF_B717_32C780BA6F07.PL.xrm-ms
+2017-08-11 12:31:56.119   Time stamp of our file: 2012-10-02 06:55:52.000
+2017-08-11 12:31:56.119   Installing the file.
+2017-08-11 12:31:56.124   Successfully installed the file.
+2017-08-11 12:31:56.124   -- File entry --
+2017-08-11 12:31:56.124   Dest filename: C:\Program Files\KMSpico\cert\kmscert2013\ProjectStd\LicenseSetData._427A28D1_D17C_4ABF_B717_32C780BA6F07.PPDLIC.xrm-ms
+2017-08-11 12:31:56.124   Time stamp of our file: 2012-10-02 06:55:52.000
+2017-08-11 12:31:56.124   Installing the file.
+2017-08-11 12:31:56.149   Successfully installed the file.
+2017-08-11 12:31:56.149   -- File entry --
+2017-08-11 12:31:56.150   Dest filename: C:\Program Files\KMSpico\cert\kmscert2013\ProPlus\LicenseSetData._B322DA9C_A2E2_4058_9E4E_F59A6970BD69.OOB.xrm-ms
+2017-08-11 12:31:56.150   Time stamp of our file: 2012-10-02 07:46:56.000
+2017-08-11 12:31:56.150   Installing the file.
+2017-08-11 12:31:56.154   Successfully installed the file.
+2017-08-11 12:31:56.154   -- File entry --
+2017-08-11 12:31:56.155   Dest filename: C:\Program Files\KMSpico\cert\kmscert2013\ProPlus\LicenseSetData._B322DA9C_A2E2_4058_9E4E_F59A6970BD69.PL.xrm-ms
+2017-08-11 12:31:56.155   Time stamp of our file: 2012-10-02 07:46:56.000
+2017-08-11 12:31:56.155   Installing the file.
+2017-08-11 12:31:56.158   Successfully installed the file.
+2017-08-11 12:31:56.159   -- File entry --
+2017-08-11 12:31:56.159   Dest filename: C:\Program Files\KMSpico\cert\kmscert2013\ProPlus\LicenseSetData._B322DA9C_A2E2_4058_9E4E_F59A6970BD69.PPDLIC.xrm-ms
+2017-08-11 12:31:56.159   Time stamp of our file: 2012-10-02 07:46:56.000
+2017-08-11 12:31:56.159   Installing the file.
+2017-08-11 12:31:56.163   Successfully installed the file.
+2017-08-11 12:31:56.163   -- File entry --
+2017-08-11 12:31:56.163   Dest filename: C:\Program Files\KMSpico\cert\kmscert2013\ProPlus\proplus.reg
+2017-08-11 12:31:56.163   Time stamp of our file: 2012-11-03 22:14:14.000
+2017-08-11 12:31:56.163   Installing the file.
+2017-08-11 12:31:56.167   Successfully installed the file.
+2017-08-11 12:31:56.168   -- File entry --
+2017-08-11 12:31:56.168   Dest filename: C:\Program Files\KMSpico\cert\kmscert2013\Publisher\LicenseSetData._00C79FF1_6850_443D_BF61_71CDE0DE305F.OOB.xrm-ms
+2017-08-11 12:31:56.168   Time stamp of our file: 2012-10-02 07:47:48.000
+2017-08-11 12:31:56.168   Installing the file.
+2017-08-11 12:31:56.221   Successfully installed the file.
+2017-08-11 12:31:56.221   -- File entry --
+2017-08-11 12:31:56.222   Dest filename: C:\Program Files\KMSpico\cert\kmscert2013\Publisher\LicenseSetData._00C79FF1_6850_443D_BF61_71CDE0DE305F.PL.xrm-ms
+2017-08-11 12:31:56.223   Time stamp of our file: 2012-10-02 07:47:48.000
+2017-08-11 12:31:56.223   Installing the file.
+2017-08-11 12:31:56.235   Successfully installed the file.
+2017-08-11 12:31:56.237   -- File entry --
+2017-08-11 12:31:56.239   Dest filename: C:\Program Files\KMSpico\cert\kmscert2013\Publisher\LicenseSetData._00C79FF1_6850_443D_BF61_71CDE0DE305F.PPDLIC.xrm-ms
+2017-08-11 12:31:56.239   Time stamp of our file: 2012-10-02 07:47:48.000
+2017-08-11 12:31:56.239   Installing the file.
+2017-08-11 12:31:56.253   Successfully installed the file.
+2017-08-11 12:31:56.254   -- File entry --
+2017-08-11 12:31:56.255   Dest filename: C:\Program Files\KMSpico\cert\kmscert2013\Standard\LicenseSetData._B13AFB38_CD79_4AE5_9F7F_EED058D750CA.OOB.xrm-ms
+2017-08-11 12:31:56.256   Time stamp of our file: 2012-10-01 20:43:52.000
+2017-08-11 12:31:56.256   Installing the file.
+2017-08-11 12:31:56.265   Successfully installed the file.
+2017-08-11 12:31:56.265   -- File entry --
+2017-08-11 12:31:56.265   Dest filename: C:\Program Files\KMSpico\cert\kmscert2013\Standard\LicenseSetData._B13AFB38_CD79_4AE5_9F7F_EED058D750CA.PL.xrm-ms
+2017-08-11 12:31:56.266   Time stamp of our file: 2012-10-01 20:43:52.000
+2017-08-11 12:31:56.266   Installing the file.
+2017-08-11 12:31:56.272   Successfully installed the file.
+2017-08-11 12:31:56.272   -- File entry --
+2017-08-11 12:31:56.272   Dest filename: C:\Program Files\KMSpico\cert\kmscert2013\Standard\LicenseSetData._B13AFB38_CD79_4AE5_9F7F_EED058D750CA.PPDLIC.xrm-ms
+2017-08-11 12:31:56.272   Time stamp of our file: 2012-10-01 20:43:52.000
+2017-08-11 12:31:56.272   Installing the file.
+2017-08-11 12:31:56.278   Successfully installed the file.
+2017-08-11 12:31:56.279   -- File entry --
+2017-08-11 12:31:56.279   Dest filename: C:\Program Files\KMSpico\cert\kmscert2013\VisioPro\LicenseSetData._E13AC10E_75D0_4AFF_A0CD_764982CF541C.OOB.xrm-ms
+2017-08-11 12:31:56.280   Time stamp of our file: 2012-10-02 07:43:34.000
+2017-08-11 12:31:56.280   Installing the file.
+2017-08-11 12:31:56.286   Successfully installed the file.
+2017-08-11 12:31:56.287   -- File entry --
+2017-08-11 12:31:56.287   Dest filename: C:\Program Files\KMSpico\cert\kmscert2013\VisioPro\LicenseSetData._E13AC10E_75D0_4AFF_A0CD_764982CF541C.PL.xrm-ms
+2017-08-11 12:31:56.287   Time stamp of our file: 2012-10-02 07:43:34.000
+2017-08-11 12:31:56.287   Installing the file.
+2017-08-11 12:31:56.293   Successfully installed the file.
+2017-08-11 12:31:56.293   -- File entry --
+2017-08-11 12:31:56.293   Dest filename: C:\Program Files\KMSpico\cert\kmscert2013\VisioPro\LicenseSetData._E13AC10E_75D0_4AFF_A0CD_764982CF541C.PPDLIC.xrm-ms
+2017-08-11 12:31:56.294   Time stamp of our file: 2012-10-02 07:43:34.000
+2017-08-11 12:31:56.294   Installing the file.
+2017-08-11 12:31:56.298   Successfully installed the file.
+2017-08-11 12:31:56.298   -- File entry --
+2017-08-11 12:31:56.299   Dest filename: C:\Program Files\KMSpico\cert\kmscert2013\VisioPro\visio.reg
+2017-08-11 12:31:56.299   Time stamp of our file: 2012-11-03 22:12:58.000
+2017-08-11 12:31:56.299   Installing the file.
+2017-08-11 12:31:56.303   Successfully installed the file.
+2017-08-11 12:31:56.303   -- File entry --
+2017-08-11 12:31:56.303   Dest filename: C:\Program Files\KMSpico\cert\kmscert2013\VisioStd\LicenseSetData._AC4EFAF0_F81F_4F61_BDF7_EA32B02AB117.OOB.xrm-ms
+2017-08-11 12:31:56.303   Time stamp of our file: 2012-10-02 08:07:26.000
+2017-08-11 12:31:56.303   Installing the file.
+2017-08-11 12:31:56.331   Successfully installed the file.
+2017-08-11 12:31:56.331   -- File entry --
+2017-08-11 12:31:56.331   Dest filename: C:\Program Files\KMSpico\cert\kmscert2013\VisioStd\LicenseSetData._AC4EFAF0_F81F_4F61_BDF7_EA32B02AB117.PL.xrm-ms
+2017-08-11 12:31:56.332   Time stamp of our file: 2012-10-02 08:07:26.000
+2017-08-11 12:31:56.332   Installing the file.
+2017-08-11 12:31:56.362   Successfully installed the file.
+2017-08-11 12:31:56.362   -- File entry --
+2017-08-11 12:31:56.362   Dest filename: C:\Program Files\KMSpico\cert\kmscert2013\VisioStd\LicenseSetData._AC4EFAF0_F81F_4F61_BDF7_EA32B02AB117.PPDLIC.xrm-ms
+2017-08-11 12:31:56.362   Time stamp of our file: 2012-10-02 08:07:26.000
+2017-08-11 12:31:56.362   Installing the file.
+2017-08-11 12:31:56.367   Successfully installed the file.
+2017-08-11 12:31:56.367   -- File entry --
+2017-08-11 12:31:56.367   Dest filename: C:\Program Files\KMSpico\cert\kmscert2013\Word\LicenseSetData._D9F5B1C6_5386_495A_88F9_9AD6B41AC9B3.OOB.xrm-ms
+2017-08-11 12:31:56.367   Time stamp of our file: 2012-10-02 08:09:02.000
+2017-08-11 12:31:56.367   Installing the file.
+2017-08-11 12:31:56.371   Successfully installed the file.
+2017-08-11 12:31:56.372   -- File entry --
+2017-08-11 12:31:56.372   Dest filename: C:\Program Files\KMSpico\cert\kmscert2013\Word\LicenseSetData._D9F5B1C6_5386_495A_88F9_9AD6B41AC9B3.PL.xrm-ms
+2017-08-11 12:31:56.372   Time stamp of our file: 2012-10-02 08:09:02.000
+2017-08-11 12:31:56.372   Installing the file.
+2017-08-11 12:31:56.377   Successfully installed the file.
+2017-08-11 12:31:56.377   -- File entry --
+2017-08-11 12:31:56.378   Dest filename: C:\Program Files\KMSpico\cert\kmscert2013\Word\LicenseSetData._D9F5B1C6_5386_495A_88F9_9AD6B41AC9B3.PPDLIC.xrm-ms
+2017-08-11 12:31:56.378   Time stamp of our file: 2012-10-02 08:09:02.000
+2017-08-11 12:31:56.378   Installing the file.
+2017-08-11 12:31:56.382   Successfully installed the file.
+2017-08-11 12:31:56.382   -- File entry --
+2017-08-11 12:31:56.383   Dest filename: C:\Program Files\KMSpico\cert\kmscert2016\client-issuance-bridge-office.xrm-ms
+2017-08-11 12:31:56.383   Time stamp of our file: 2015-08-09 23:44:40.000
+2017-08-11 12:31:56.383   Installing the file.
+2017-08-11 12:31:56.384   Successfully installed the file.
+2017-08-11 12:31:56.384   -- File entry --
+2017-08-11 12:31:56.385   Dest filename: C:\Program Files\KMSpico\cert\kmscert2016\client-issuance-root-bridge-test.xrm-ms
+2017-08-11 12:31:56.385   Time stamp of our file: 2015-08-10 02:42:28.000
+2017-08-11 12:31:56.385   Installing the file.
+2017-08-11 12:31:56.389   Successfully installed the file.
+2017-08-11 12:31:56.389   -- File entry --
+2017-08-11 12:31:56.390   Dest filename: C:\Program Files\KMSpico\cert\kmscert2016\client-issuance-root.xrm-ms
+2017-08-11 12:31:56.390   Time stamp of our file: 2015-08-10 02:42:28.000
+2017-08-11 12:31:56.390   Installing the file.
+2017-08-11 12:31:56.394   Successfully installed the file.
+2017-08-11 12:31:56.394   -- File entry --
+2017-08-11 12:31:56.394   Dest filename: C:\Program Files\KMSpico\cert\kmscert2016\client-issuance-stil.xrm-ms
+2017-08-11 12:31:56.395   Time stamp of our file: 2015-08-10 02:42:14.000
+2017-08-11 12:31:56.395   Installing the file.
+2017-08-11 12:31:56.398   Successfully installed the file.
+2017-08-11 12:31:56.398   -- File entry --
+2017-08-11 12:31:56.399   Dest filename: C:\Program Files\KMSpico\cert\kmscert2016\client-issuance-ul-oob.xrm-ms
+2017-08-11 12:31:56.399   Time stamp of our file: 2015-08-10 02:42:28.000
+2017-08-11 12:31:56.399   Installing the file.
+2017-08-11 12:31:56.402   Successfully installed the file.
+2017-08-11 12:31:56.402   -- File entry --
+2017-08-11 12:31:56.403   Dest filename: C:\Program Files\KMSpico\cert\kmscert2016\client-issuance-ul.xrm-ms
+2017-08-11 12:31:56.403   Time stamp of our file: 2015-08-10 02:42:14.000
+2017-08-11 12:31:56.403   Installing the file.
+2017-08-11 12:31:56.407   Successfully installed the file.
+2017-08-11 12:31:56.407   -- File entry --
+2017-08-11 12:31:56.407   Dest filename: C:\Program Files\KMSpico\cert\kmscert2016\pkeyconfig-office.xrm-ms
+2017-08-11 12:31:56.407   Time stamp of our file: 2015-06-19 07:20:32.000
+2017-08-11 12:31:56.407   Installing the file.
+2017-08-11 12:31:56.427   Successfully installed the file.
+2017-08-11 12:31:56.427   -- File entry --
+2017-08-11 12:31:56.428   Dest filename: C:\Program Files\KMSpico\cert\kmscert2016\Access\AccessVL_KMS_Client-ppd.xrm-ms
+2017-08-11 12:31:56.428   Time stamp of our file: 2015-08-10 02:42:14.000
+2017-08-11 12:31:56.428   Installing the file.
+2017-08-11 12:31:56.431   Successfully installed the file.
+2017-08-11 12:31:56.432   -- File entry --
+2017-08-11 12:31:56.432   Dest filename: C:\Program Files\KMSpico\cert\kmscert2016\Access\AccessVL_KMS_Client-ul-oob.xrm-ms
+2017-08-11 12:31:56.432   Time stamp of our file: 2015-08-10 02:42:14.000
+2017-08-11 12:31:56.432   Installing the file.
+2017-08-11 12:31:56.436   Successfully installed the file.
+2017-08-11 12:31:56.436   -- File entry --
+2017-08-11 12:31:56.436   Dest filename: C:\Program Files\KMSpico\cert\kmscert2016\Access\AccessVL_KMS_Client-ul.xrm-ms
+2017-08-11 12:31:56.437   Time stamp of our file: 2015-08-10 02:42:14.000
+2017-08-11 12:31:56.437   Installing the file.
+2017-08-11 12:31:56.441   Successfully installed the file.
+2017-08-11 12:31:56.441   -- File entry --
+2017-08-11 12:31:56.441   Dest filename: C:\Program Files\KMSpico\cert\kmscert2016\Excel\ExcelVL_KMS_Client-ppd.xrm-ms
+2017-08-11 12:31:56.441   Time stamp of our file: 2015-08-10 02:42:18.000
+2017-08-11 12:31:56.441   Installing the file.
+2017-08-11 12:31:56.445   Successfully installed the file.
+2017-08-11 12:31:56.445   -- File entry --
+2017-08-11 12:31:56.446   Dest filename: C:\Program Files\KMSpico\cert\kmscert2016\Excel\ExcelVL_KMS_Client-ul-oob.xrm-ms
+2017-08-11 12:31:56.446   Time stamp of our file: 2015-08-10 02:42:16.000
+2017-08-11 12:31:56.446   Installing the file.
+2017-08-11 12:31:56.465   Successfully installed the file.
+2017-08-11 12:31:56.465   -- File entry --
+2017-08-11 12:31:56.465   Dest filename: C:\Program Files\KMSpico\cert\kmscert2016\Excel\ExcelVL_KMS_Client-ul.xrm-ms
+2017-08-11 12:31:56.466   Time stamp of our file: 2015-08-10 02:42:16.000
+2017-08-11 12:31:56.466   Installing the file.
+2017-08-11 12:31:56.470   Successfully installed the file.
+2017-08-11 12:31:56.470   -- File entry --
+2017-08-11 12:31:56.471   Dest filename: C:\Program Files\KMSpico\cert\kmscert2016\Mondo\MondoVL_KMS_Client-ppd.xrm-ms
+2017-08-11 12:31:56.471   Time stamp of our file: 2015-08-10 02:42:18.000
+2017-08-11 12:31:56.471   Installing the file.
+2017-08-11 12:31:56.475   Successfully installed the file.
+2017-08-11 12:31:56.475   -- File entry --
+2017-08-11 12:31:56.475   Dest filename: C:\Program Files\KMSpico\cert\kmscert2016\Mondo\MondoVL_KMS_Client-ul-oob.xrm-ms
+2017-08-11 12:31:56.476   Time stamp of our file: 2015-08-10 02:42:18.000
+2017-08-11 12:31:56.476   Installing the file.
+2017-08-11 12:31:56.480   Successfully installed the file.
+2017-08-11 12:31:56.480   -- File entry --
+2017-08-11 12:31:56.480   Dest filename: C:\Program Files\KMSpico\cert\kmscert2016\Mondo\MondoVL_KMS_Client-ul.xrm-ms
+2017-08-11 12:31:56.480   Time stamp of our file: 2015-08-10 02:42:18.000
+2017-08-11 12:31:56.480   Installing the file.
+2017-08-11 12:31:56.484   Successfully installed the file.
+2017-08-11 12:31:56.484   -- File entry --
+2017-08-11 12:31:56.485   Dest filename: C:\Program Files\KMSpico\cert\kmscert2016\OneNote\OneNoteVL_KMS_Client-ppd.xrm-ms
+2017-08-11 12:31:56.485   Time stamp of our file: 2015-08-10 02:42:20.000
+2017-08-11 12:31:56.485   Installing the file.
+2017-08-11 12:31:56.489   Successfully installed the file.
+2017-08-11 12:31:56.489   -- File entry --
+2017-08-11 12:31:56.489   Dest filename: C:\Program Files\KMSpico\cert\kmscert2016\OneNote\OneNoteVL_KMS_Client-ul-oob.xrm-ms
+2017-08-11 12:31:56.490   Time stamp of our file: 2015-08-10 02:42:20.000
+2017-08-11 12:31:56.490   Installing the file.
+2017-08-11 12:31:56.493   Successfully installed the file.
+2017-08-11 12:31:56.493   -- File entry --
+2017-08-11 12:31:56.494   Dest filename: C:\Program Files\KMSpico\cert\kmscert2016\OneNote\OneNoteVL_KMS_Client-ul.xrm-ms
+2017-08-11 12:31:56.494   Time stamp of our file: 2015-08-10 02:42:20.000
+2017-08-11 12:31:56.494   Installing the file.
+2017-08-11 12:31:56.498   Successfully installed the file.
+2017-08-11 12:31:56.498   -- File entry --
+2017-08-11 12:31:56.499   Dest filename: C:\Program Files\KMSpico\cert\kmscert2016\Outlook\OutlookVL_KMS_Client-ppd.xrm-ms
+2017-08-11 12:31:56.499   Time stamp of our file: 2015-08-10 02:42:20.000
+2017-08-11 12:31:56.499   Installing the file.
+2017-08-11 12:31:56.503   Successfully installed the file.
+2017-08-11 12:31:56.503   -- File entry --
+2017-08-11 12:31:56.504   Dest filename: C:\Program Files\KMSpico\cert\kmscert2016\Outlook\OutlookVL_KMS_Client-ul-oob.xrm-ms
+2017-08-11 12:31:56.504   Time stamp of our file: 2015-08-10 02:42:20.000
+2017-08-11 12:31:56.504   Installing the file.
+2017-08-11 12:31:56.508   Successfully installed the file.
+2017-08-11 12:31:56.509   -- File entry --
+2017-08-11 12:31:56.509   Dest filename: C:\Program Files\KMSpico\cert\kmscert2016\Outlook\OutlookVL_KMS_Client-ul.xrm-ms
+2017-08-11 12:31:56.509   Time stamp of our file: 2015-08-10 02:42:20.000
+2017-08-11 12:31:56.509   Installing the file.
+2017-08-11 12:31:56.513   Successfully installed the file.
+2017-08-11 12:31:56.513   -- File entry --
+2017-08-11 12:31:56.514   Dest filename: C:\Program Files\KMSpico\cert\kmscert2016\PowerPoint\PowerPointVL_KMS_Client-ppd.xrm-ms
+2017-08-11 12:31:56.514   Time stamp of our file: 2015-08-10 02:42:20.000
+2017-08-11 12:31:56.514   Installing the file.
+2017-08-11 12:31:56.518   Successfully installed the file.
+2017-08-11 12:31:56.518   -- File entry --
+2017-08-11 12:31:56.518   Dest filename: C:\Program Files\KMSpico\cert\kmscert2016\PowerPoint\PowerPointVL_KMS_Client-ul-oob.xrm-ms
+2017-08-11 12:31:56.519   Time stamp of our file: 2015-08-10 02:42:20.000
+2017-08-11 12:31:56.519   Installing the file.
+2017-08-11 12:31:56.523   Successfully installed the file.
+2017-08-11 12:31:56.523   -- File entry --
+2017-08-11 12:31:56.523   Dest filename: C:\Program Files\KMSpico\cert\kmscert2016\PowerPoint\PowerPointVL_KMS_Client-ul.xrm-ms
+2017-08-11 12:31:56.523   Time stamp of our file: 2015-08-10 02:42:20.000
+2017-08-11 12:31:56.523   Installing the file.
+2017-08-11 12:31:56.527   Successfully installed the file.
+2017-08-11 12:31:56.527   -- File entry --
+2017-08-11 12:31:56.528   Dest filename: C:\Program Files\KMSpico\cert\kmscert2016\ProjectPro\ProjectProVL_KMS_Client-ppd.xrm-ms
+2017-08-11 12:31:56.528   Time stamp of our file: 2015-06-23 02:52:32.000
+2017-08-11 12:31:56.528   Installing the file.
+2017-08-11 12:31:56.532   Successfully installed the file.
+2017-08-11 12:31:56.532   -- File entry --
+2017-08-11 12:31:56.532   Dest filename: C:\Program Files\KMSpico\cert\kmscert2016\ProjectPro\ProjectProVL_KMS_Client-ul-oob.xrm-ms
+2017-08-11 12:31:56.532   Time stamp of our file: 2015-06-23 02:52:32.000
+2017-08-11 12:31:56.532   Installing the file.
+2017-08-11 12:31:56.537   Successfully installed the file.
+2017-08-11 12:31:56.537   -- File entry --
+2017-08-11 12:31:56.537   Dest filename: C:\Program Files\KMSpico\cert\kmscert2016\ProjectPro\ProjectProVL_KMS_Client-ul.xrm-ms
+2017-08-11 12:31:56.537   Time stamp of our file: 2015-06-23 02:52:32.000
+2017-08-11 12:31:56.537   Installing the file.
+2017-08-11 12:31:56.541   Successfully installed the file.
+2017-08-11 12:31:56.541   -- File entry --
+2017-08-11 12:31:56.542   Dest filename: C:\Program Files\KMSpico\cert\kmscert2016\ProjectStd\ProjectStdVL_KMS_Client-ppd.xrm-ms
+2017-08-11 12:31:56.542   Time stamp of our file: 2015-08-10 02:42:22.000
+2017-08-11 12:31:56.542   Installing the file.
+2017-08-11 12:31:56.546   Successfully installed the file.
+2017-08-11 12:31:56.546   -- File entry --
+2017-08-11 12:31:56.546   Dest filename: C:\Program Files\KMSpico\cert\kmscert2016\ProjectStd\ProjectStdVL_KMS_Client-ul-oob.xrm-ms
+2017-08-11 12:31:56.546   Time stamp of our file: 2015-08-10 02:42:22.000
+2017-08-11 12:31:56.546   Installing the file.
+2017-08-11 12:31:56.550   Successfully installed the file.
+2017-08-11 12:31:56.551   -- File entry --
+2017-08-11 12:31:56.551   Dest filename: C:\Program Files\KMSpico\cert\kmscert2016\ProjectStd\ProjectStdVL_KMS_Client-ul.xrm-ms
+2017-08-11 12:31:56.551   Time stamp of our file: 2015-08-10 02:42:22.000
+2017-08-11 12:31:56.551   Installing the file.
+2017-08-11 12:31:56.555   Successfully installed the file.
+2017-08-11 12:31:56.555   -- File entry --
+2017-08-11 12:31:56.556   Dest filename: C:\Program Files\KMSpico\cert\kmscert2016\ProPlus\ProPlusVL_KMS_Client-ppd.xrm-ms
+2017-08-11 12:31:56.556   Time stamp of our file: 2015-06-23 02:52:32.000
+2017-08-11 12:31:56.556   Installing the file.
+2017-08-11 12:31:56.559   Successfully installed the file.
+2017-08-11 12:31:56.559   -- File entry --
+2017-08-11 12:31:56.560   Dest filename: C:\Program Files\KMSpico\cert\kmscert2016\ProPlus\ProPlusVL_KMS_Client-ul-oob.xrm-ms
+2017-08-11 12:31:56.560   Time stamp of our file: 2015-06-23 02:52:32.000
+2017-08-11 12:31:56.560   Installing the file.
+2017-08-11 12:31:56.564   Successfully installed the file.
+2017-08-11 12:31:56.564   -- File entry --
+2017-08-11 12:31:56.565   Dest filename: C:\Program Files\KMSpico\cert\kmscert2016\ProPlus\ProPlusVL_KMS_Client-ul.xrm-ms
+2017-08-11 12:31:56.565   Time stamp of our file: 2015-06-23 02:52:32.000
+2017-08-11 12:31:56.565   Installing the file.
+2017-08-11 12:31:56.569   Successfully installed the file.
+2017-08-11 12:31:56.569   -- File entry --
+2017-08-11 12:31:56.569   Dest filename: C:\Program Files\KMSpico\cert\kmscert2016\Publisher\PublisherVL_KMS_Client-ppd.xrm-ms
+2017-08-11 12:31:56.569   Time stamp of our file: 2015-08-10 02:42:24.000
+2017-08-11 12:31:56.569   Installing the file.
+2017-08-11 12:31:56.573   Successfully installed the file.
+2017-08-11 12:31:56.573   -- File entry --
+2017-08-11 12:31:56.573   Dest filename: C:\Program Files\KMSpico\cert\kmscert2016\Publisher\PublisherVL_KMS_Client-ul-oob.xrm-ms
+2017-08-11 12:31:56.573   Time stamp of our file: 2015-08-10 02:42:24.000
+2017-08-11 12:31:56.573   Installing the file.
+2017-08-11 12:31:56.577   Successfully installed the file.
+2017-08-11 12:31:56.578   -- File entry --
+2017-08-11 12:31:56.578   Dest filename: C:\Program Files\KMSpico\cert\kmscert2016\Publisher\PublisherVL_KMS_Client-ul.xrm-ms
+2017-08-11 12:31:56.578   Time stamp of our file: 2015-08-10 02:42:24.000
+2017-08-11 12:31:56.578   Installing the file.
+2017-08-11 12:31:56.582   Successfully installed the file.
+2017-08-11 12:31:56.582   -- File entry --
+2017-08-11 12:31:56.583   Dest filename: C:\Program Files\KMSpico\cert\kmscert2016\SkypeforBusiness\SkypeforBusinessVL_KMS_Client-ppd.xrm-ms
+2017-08-11 12:31:56.583   Time stamp of our file: 2015-08-10 02:42:24.000
+2017-08-11 12:31:56.583   Installing the file.
+2017-08-11 12:31:56.586   Successfully installed the file.
+2017-08-11 12:31:56.587   -- File entry --
+2017-08-11 12:31:56.587   Dest filename: C:\Program Files\KMSpico\cert\kmscert2016\SkypeforBusiness\SkypeforBusinessVL_KMS_Client-ul-oob.xrm-ms
+2017-08-11 12:31:56.587   Time stamp of our file: 2015-08-10 02:42:24.000
+2017-08-11 12:31:56.587   Installing the file.
+2017-08-11 12:31:56.591   Successfully installed the file.
+2017-08-11 12:31:56.591   -- File entry --
+2017-08-11 12:31:56.592   Dest filename: C:\Program Files\KMSpico\cert\kmscert2016\SkypeforBusiness\SkypeforBusinessVL_KMS_Client-ul.xrm-ms
+2017-08-11 12:31:56.592   Time stamp of our file: 2015-08-10 02:42:24.000
+2017-08-11 12:31:56.592   Installing the file.
+2017-08-11 12:31:56.596   Successfully installed the file.
+2017-08-11 12:31:56.596   -- File entry --
+2017-08-11 12:31:56.596   Dest filename: C:\Program Files\KMSpico\cert\kmscert2016\Standard\StandardVL_KMS_Client-ppd.xrm-ms
+2017-08-11 12:31:56.596   Time stamp of our file: 2015-08-10 02:42:24.000
+2017-08-11 12:31:56.596   Installing the file.
+2017-08-11 12:31:56.600   Successfully installed the file.
+2017-08-11 12:31:56.600   -- File entry --
+2017-08-11 12:31:56.600   Dest filename: C:\Program Files\KMSpico\cert\kmscert2016\Standard\StandardVL_KMS_Client-ul-oob.xrm-ms
+2017-08-11 12:31:56.600   Time stamp of our file: 2015-08-10 02:42:24.000
+2017-08-11 12:31:56.600   Installing the file.
+2017-08-11 12:31:56.631   Successfully installed the file.
+2017-08-11 12:31:56.632   -- File entry --
+2017-08-11 12:31:56.633   Dest filename: C:\Program Files\KMSpico\cert\kmscert2016\Standard\StandardVL_KMS_Client-ul.xrm-ms
+2017-08-11 12:31:56.633   Time stamp of our file: 2015-08-10 02:42:24.000
+2017-08-11 12:31:56.633   Installing the file.
+2017-08-11 12:31:56.637   Successfully installed the file.
+2017-08-11 12:31:56.637   -- File entry --
+2017-08-11 12:31:56.637   Dest filename: C:\Program Files\KMSpico\cert\kmscert2016\VisioPro\VisioProVL_KMS_Client-ppd.xrm-ms
+2017-08-11 12:31:56.638   Time stamp of our file: 2015-06-23 02:52:34.000
+2017-08-11 12:31:56.638   Installing the file.
+2017-08-11 12:31:56.641   Successfully installed the file.
+2017-08-11 12:31:56.641   -- File entry --
+2017-08-11 12:31:56.642   Dest filename: C:\Program Files\KMSpico\cert\kmscert2016\VisioPro\VisioProVL_KMS_Client-ul-oob.xrm-ms
+2017-08-11 12:31:56.642   Time stamp of our file: 2015-06-23 02:52:34.000
+2017-08-11 12:31:56.642   Installing the file.
+2017-08-11 12:31:56.646   Successfully installed the file.
+2017-08-11 12:31:56.646   -- File entry --
+2017-08-11 12:31:56.646   Dest filename: C:\Program Files\KMSpico\cert\kmscert2016\VisioPro\VisioProVL_KMS_Client-ul.xrm-ms
+2017-08-11 12:31:56.646   Time stamp of our file: 2015-06-23 02:52:34.000
+2017-08-11 12:31:56.646   Installing the file.
+2017-08-11 12:31:56.650   Successfully installed the file.
+2017-08-11 12:31:56.650   -- File entry --
+2017-08-11 12:31:56.651   Dest filename: C:\Program Files\KMSpico\cert\kmscert2016\VisioStd\VisioStdVL_KMS_Client-ppd.xrm-ms
+2017-08-11 12:31:56.651   Time stamp of our file: 2015-08-10 02:42:26.000
+2017-08-11 12:31:56.651   Installing the file.
+2017-08-11 12:31:56.654   Successfully installed the file.
+2017-08-11 12:31:56.655   -- File entry --
+2017-08-11 12:31:56.655   Dest filename: C:\Program Files\KMSpico\cert\kmscert2016\VisioStd\VisioStdVL_KMS_Client-ul-oob.xrm-ms
+2017-08-11 12:31:56.655   Time stamp of our file: 2015-08-10 02:42:26.000
+2017-08-11 12:31:56.655   Installing the file.
+2017-08-11 12:31:56.678   Successfully installed the file.
+2017-08-11 12:31:56.678   -- File entry --
+2017-08-11 12:31:56.678   Dest filename: C:\Program Files\KMSpico\cert\kmscert2016\VisioStd\VisioStdVL_KMS_Client-ul.xrm-ms
+2017-08-11 12:31:56.679   Time stamp of our file: 2015-08-10 02:42:26.000
+2017-08-11 12:31:56.679   Installing the file.
+2017-08-11 12:31:56.683   Successfully installed the file.
+2017-08-11 12:31:56.683   -- File entry --
+2017-08-11 12:31:56.683   Dest filename: C:\Program Files\KMSpico\cert\kmscert2016\Word\WordVL_KMS_Client-ppd.xrm-ms
+2017-08-11 12:31:56.683   Time stamp of our file: 2015-08-10 02:42:26.000
+2017-08-11 12:31:56.683   Installing the file.
+2017-08-11 12:31:56.709   Successfully installed the file.
+2017-08-11 12:31:56.709   -- File entry --
+2017-08-11 12:31:56.710   Dest filename: C:\Program Files\KMSpico\cert\kmscert2016\Word\WordVL_KMS_Client-ul-oob.xrm-ms
+2017-08-11 12:31:56.710   Time stamp of our file: 2015-08-10 02:42:26.000
+2017-08-11 12:31:56.710   Installing the file.
+2017-08-11 12:31:56.714   Successfully installed the file.
+2017-08-11 12:31:56.714   -- File entry --
+2017-08-11 12:31:56.714   Dest filename: C:\Program Files\KMSpico\cert\kmscert2016\Word\WordVL_KMS_Client-ul.xrm-ms
+2017-08-11 12:31:56.714   Time stamp of our file: 2015-08-10 02:42:26.000
+2017-08-11 12:31:56.714   Installing the file.
+2017-08-11 12:31:56.718   Successfully installed the file.
+2017-08-11 12:31:56.719   -- File entry --
+2017-08-11 12:31:56.719   Dest filename: C:\Program Files\KMSpico\cert\kmscertW10\pkeyconfig.xrm-ms
+2017-08-11 12:31:56.719   Time stamp of our file: 2015-07-10 13:00:46.000
+2017-08-11 12:31:56.719   Installing the file.
+2017-08-11 12:31:56.737   Successfully installed the file.
+2017-08-11 12:31:56.737   -- File entry --
+2017-08-11 12:31:56.737   Dest filename: C:\Program Files\KMSpico\cert\kmscertW10\Core\Core-Volume-GVLK-1-ul-oob-rtm.xrm-ms
+2017-08-11 12:31:56.738   Time stamp of our file: 2015-07-10 18:34:28.000
+2017-08-11 12:31:56.738   Installing the file.
+2017-08-11 12:31:56.741   Successfully installed the file.
+2017-08-11 12:31:56.742   -- File entry --
+2017-08-11 12:31:56.742   Dest filename: C:\Program Files\KMSpico\cert\kmscertW10\Core\Core-Volume-GVLK-1-ul-rtm.xrm-ms
+2017-08-11 12:31:56.742   Time stamp of our file: 2015-07-10 18:34:28.000
+2017-08-11 12:31:56.742   Installing the file.
+2017-08-11 12:31:56.746   Successfully installed the file.
+2017-08-11 12:31:56.746   -- File entry --
+2017-08-11 12:31:56.746   Dest filename: C:\Program Files\KMSpico\cert\kmscertW10\Education\Education-Volume-GVLK-1-ul-oob-rtm.xrm-ms
+2017-08-11 12:31:56.746   Time stamp of our file: 2015-07-10 18:28:12.000
+2017-08-11 12:31:56.746   Installing the file.
+2017-08-11 12:31:56.751   Successfully installed the file.
+2017-08-11 12:31:56.751   -- File entry --
+2017-08-11 12:31:56.752   Dest filename: C:\Program Files\KMSpico\cert\kmscertW10\Education\Education-Volume-GVLK-1-ul-rtm.xrm-ms
+2017-08-11 12:31:56.752   Time stamp of our file: 2015-07-10 18:28:12.000
+2017-08-11 12:31:56.752   Installing the file.
+2017-08-11 12:31:56.795   Successfully installed the file.
+2017-08-11 12:31:56.795   -- File entry --
+2017-08-11 12:31:56.796   Dest filename: C:\Program Files\KMSpico\cert\kmscertW10\Enterprise\Enterprise-Volume-GVLK-1-ul-oob-rtm.xrm-ms
+2017-08-11 12:31:56.796   Time stamp of our file: 2015-07-10 18:46:56.000
+2017-08-11 12:31:56.796   Installing the file.
+2017-08-11 12:31:56.800   Successfully installed the file.
+2017-08-11 12:31:56.800   -- File entry --
+2017-08-11 12:31:56.800   Dest filename: C:\Program Files\KMSpico\cert\kmscertW10\Enterprise\Enterprise-Volume-GVLK-1-ul-rtm.xrm-ms
+2017-08-11 12:31:56.800   Time stamp of our file: 2015-07-10 18:46:56.000
+2017-08-11 12:31:56.800   Installing the file.
+2017-08-11 12:31:56.804   Successfully installed the file.
+2017-08-11 12:31:56.804   -- File entry --
+2017-08-11 12:31:56.805   Dest filename: C:\Program Files\KMSpico\cert\kmscertW10\EnterpriseS\EnterpriseS-Volume-GVLK-1-ul-oob-rtm.xrm-ms
+2017-08-11 12:31:56.805   Time stamp of our file: 2015-07-10 18:28:06.000
+2017-08-11 12:31:56.805   Installing the file.
+2017-08-11 12:31:56.809   Successfully installed the file.
+2017-08-11 12:31:56.809   -- File entry --
+2017-08-11 12:31:56.809   Dest filename: C:\Program Files\KMSpico\cert\kmscertW10\EnterpriseS\EnterpriseS-Volume-GVLK-1-ul-rtm.xrm-ms
+2017-08-11 12:31:56.809   Time stamp of our file: 2015-07-10 18:28:06.000
+2017-08-11 12:31:56.809   Installing the file.
+2017-08-11 12:31:56.814   Successfully installed the file.
+2017-08-11 12:31:56.814   -- File entry --
+2017-08-11 12:31:56.814   Dest filename: C:\Program Files\KMSpico\cert\kmscertW10\EnterpriseS\EnterpriseS-Volume-GVLK-2-ul-oob.xrm-ms
+2017-08-11 12:31:56.814   Time stamp of our file: 2015-07-10 18:28:06.000
+2017-08-11 12:31:56.814   Installing the file.
+2017-08-11 12:31:56.819   Successfully installed the file.
+2017-08-11 12:31:56.819   -- File entry --
+2017-08-11 12:31:56.819   Dest filename: C:\Program Files\KMSpico\cert\kmscertW10\EnterpriseS\EnterpriseS-Volume-GVLK-2-ul.xrm-ms
+2017-08-11 12:31:56.819   Time stamp of our file: 2015-07-10 18:28:06.000
+2017-08-11 12:31:56.819   Installing the file.
+2017-08-11 12:31:56.823   Successfully installed the file.
+2017-08-11 12:31:56.823   -- File entry --
+2017-08-11 12:31:56.824   Dest filename: C:\Program Files\KMSpico\cert\kmscertW10\Professional\Professional-Volume-GVLK-1-ul-oob-rtm.xrm-ms
+2017-08-11 12:31:56.824   Time stamp of our file: 2015-07-10 18:34:52.000
+2017-08-11 12:31:56.824   Installing the file.
+2017-08-11 12:31:56.842   Successfully installed the file.
+2017-08-11 12:31:56.842   -- File entry --
+2017-08-11 12:31:56.842   Dest filename: C:\Program Files\KMSpico\cert\kmscertW10\Professional\Professional-Volume-GVLK-1-ul-rtm.xrm-ms
+2017-08-11 12:31:56.842   Time stamp of our file: 2015-07-10 18:34:50.000
+2017-08-11 12:31:56.842   Installing the file.
+2017-08-11 12:31:56.846   Successfully installed the file.
+2017-08-11 12:31:56.846   -- File entry --
+2017-08-11 12:31:56.847   Dest filename: C:\Program Files\KMSpico\cert\kmscertW6\pkeyconfig.xrm-ms
+2017-08-11 12:31:56.847   Time stamp of our file: 2009-04-11 15:15:22.000
+2017-08-11 12:31:56.847   Installing the file.
+2017-08-11 12:31:56.868   Successfully installed the file.
+2017-08-11 12:31:56.869   -- File entry --
+2017-08-11 12:31:56.870   Dest filename: C:\Program Files\KMSpico\cert\kmscertW6\Business\Security-Licensing-SLC-Component-SKU-Business-ul-oob.xrm-ms
+2017-08-11 12:31:56.870   Time stamp of our file: 2008-01-21 04:23:52.000
+2017-08-11 12:31:56.870   Installing the file.
+2017-08-11 12:31:56.874   Successfully installed the file.
+2017-08-11 12:31:56.874   -- File entry --
+2017-08-11 12:31:56.875   Dest filename: C:\Program Files\KMSpico\cert\kmscertW6\Business\Security-Licensing-SLC-Component-SKU-Business-ul-phn.xrm-ms
+2017-08-11 12:31:56.875   Time stamp of our file: 2009-04-11 15:19:28.000
+2017-08-11 12:31:56.875   Installing the file.
+2017-08-11 12:31:56.880   Successfully installed the file.
+2017-08-11 12:31:56.880   -- File entry --
+2017-08-11 12:31:56.881   Dest filename: C:\Program Files\KMSpico\cert\kmscertW6\Business\Security-Licensing-SLC-Component-SKU-Business-VL-BYPASS-RAC-private.xrm-ms
+2017-08-11 12:31:56.881   Time stamp of our file: 2008-01-21 04:23:52.000
+2017-08-11 12:31:56.881   Installing the file.
+2017-08-11 12:31:56.885   Successfully installed the file.
+2017-08-11 12:31:56.885   -- File entry --
+2017-08-11 12:31:56.885   Dest filename: C:\Program Files\KMSpico\cert\kmscertW6\Business\Security-Licensing-SLC-Component-SKU-Business-VL-BYPASS-RAC-public.xrm-ms
+2017-08-11 12:31:56.885   Time stamp of our file: 2008-01-21 04:23:52.000
+2017-08-11 12:31:56.885   Installing the file.
+2017-08-11 12:31:56.907   Successfully installed the file.
+2017-08-11 12:31:56.908   -- File entry --
+2017-08-11 12:31:56.908   Dest filename: C:\Program Files\KMSpico\cert\kmscertW6\Business\Security-Licensing-SLC-Component-SKU-Business-VL-BYPASS-ul-oob.xrm-ms
+2017-08-11 12:31:56.908   Time stamp of our file: 2008-01-21 04:23:52.000
+2017-08-11 12:31:56.908   Installing the file.
+2017-08-11 12:31:56.912   Successfully installed the file.
+2017-08-11 12:31:56.913   -- File entry --
+2017-08-11 12:31:56.913   Dest filename: C:\Program Files\KMSpico\cert\kmscertW6\Business\Security-Licensing-SLC-Component-SKU-Business-VL-BYPASS-ul.xrm-ms
+2017-08-11 12:31:56.913   Time stamp of our file: 2008-01-21 04:23:52.000
+2017-08-11 12:31:56.913   Installing the file.
+2017-08-11 12:31:56.917   Successfully installed the file.
+2017-08-11 12:31:56.917   -- File entry --
+2017-08-11 12:31:56.918   Dest filename: C:\Program Files\KMSpico\cert\kmscertW6\Business\Security-Licensing-SLC-Component-SKU-Business-VL-KMS-pl.xrm-ms
+2017-08-11 12:31:56.918   Time stamp of our file: 2008-01-21 04:23:52.000
+2017-08-11 12:31:56.918   Installing the file.
+2017-08-11 12:31:56.922   Successfully installed the file.
+2017-08-11 12:31:56.922   -- File entry --
+2017-08-11 12:31:56.922   Dest filename: C:\Program Files\KMSpico\cert\kmscertW6\Business\Security-Licensing-SLC-Component-SKU-Business-VL-KMS-ul-oob.xrm-ms
+2017-08-11 12:31:56.922   Time stamp of our file: 2008-01-21 04:23:52.000
+2017-08-11 12:31:56.923   Installing the file.
+2017-08-11 12:31:56.926   Successfully installed the file.
+2017-08-11 12:31:56.927   -- File entry --
+2017-08-11 12:31:56.927   Dest filename: C:\Program Files\KMSpico\cert\kmscertW6\Business\Security-Licensing-SLC-Component-SKU-Business-VL-KMS-ul-phn.xrm-ms
+2017-08-11 12:31:56.927   Time stamp of our file: 2009-04-11 15:19:28.000
+2017-08-11 12:31:56.927   Installing the file.
+2017-08-11 12:31:56.931   Successfully installed the file.
+2017-08-11 12:31:56.931   -- File entry --
+2017-08-11 12:31:56.931   Dest filename: C:\Program Files\KMSpico\cert\kmscertW6\Business\Security-Licensing-SLC-Component-SKU-Business-VL-KMS1-pl.xrm-ms
+2017-08-11 12:31:56.931   Time stamp of our file: 2009-04-11 15:19:28.000
+2017-08-11 12:31:56.931   Installing the file.
+2017-08-11 12:31:56.936   Successfully installed the file.
+2017-08-11 12:31:56.936   -- File entry --
+2017-08-11 12:31:56.937   Dest filename: C:\Program Files\KMSpico\cert\kmscertW6\Business\Security-Licensing-SLC-Component-SKU-Business-VL-KMS1-ul-oob.xrm-ms
+2017-08-11 12:31:56.937   Time stamp of our file: 2009-04-11 15:19:28.000
+2017-08-11 12:31:56.937   Installing the file.
+2017-08-11 12:31:56.941   Successfully installed the file.
+2017-08-11 12:31:56.941   -- File entry --
+2017-08-11 12:31:56.941   Dest filename: C:\Program Files\KMSpico\cert\kmscertW6\Business\Security-Licensing-SLC-Component-SKU-Business-VL-KMS1-ul-phn.xrm-ms
+2017-08-11 12:31:56.941   Time stamp of our file: 2009-04-11 15:19:28.000
+2017-08-11 12:31:56.941   Installing the file.
+2017-08-11 12:31:56.945   Successfully installed the file.
+2017-08-11 12:31:56.945   -- File entry --
+2017-08-11 12:31:56.946   Dest filename: C:\Program Files\KMSpico\cert\kmscertW6\BusinessN\Security-Licensing-SLC-Component-SKU-BusinessN-ul-oob.xrm-ms
+2017-08-11 12:31:56.946   Time stamp of our file: 2008-01-21 04:23:36.000
+2017-08-11 12:31:56.946   Installing the file.
+2017-08-11 12:31:56.950   Successfully installed the file.
+2017-08-11 12:31:56.950   -- File entry --
+2017-08-11 12:31:56.951   Dest filename: C:\Program Files\KMSpico\cert\kmscertW6\BusinessN\Security-Licensing-SLC-Component-SKU-BusinessN-ul-phn.xrm-ms
+2017-08-11 12:31:56.951   Time stamp of our file: 2009-04-11 15:19:52.000
+2017-08-11 12:31:56.951   Installing the file.
+2017-08-11 12:31:56.956   Successfully installed the file.
+2017-08-11 12:31:56.956   -- File entry --
+2017-08-11 12:31:56.957   Dest filename: C:\Program Files\KMSpico\cert\kmscertW6\BusinessN\Security-Licensing-SLC-Component-SKU-BusinessN-VL-BYPASS-RAC-private.xrm-ms
+2017-08-11 12:31:56.957   Time stamp of our file: 2008-01-21 04:23:36.000
+2017-08-11 12:31:56.957   Installing the file.
+2017-08-11 12:31:57.023   Successfully installed the file.
+2017-08-11 12:31:57.026   -- File entry --
+2017-08-11 12:31:57.029   Dest filename: C:\Program Files\KMSpico\cert\kmscertW6\BusinessN\Security-Licensing-SLC-Component-SKU-BusinessN-VL-BYPASS-RAC-public.xrm-ms
+2017-08-11 12:31:57.030   Time stamp of our file: 2008-01-21 04:23:36.000
+2017-08-11 12:31:57.030   Installing the file.
+2017-08-11 12:31:57.045   Successfully installed the file.
+2017-08-11 12:31:57.046   -- File entry --
+2017-08-11 12:31:57.046   Dest filename: C:\Program Files\KMSpico\cert\kmscertW6\BusinessN\Security-Licensing-SLC-Component-SKU-BusinessN-VL-BYPASS-ul-oob.xrm-ms
+2017-08-11 12:31:57.047   Time stamp of our file: 2008-01-21 04:23:36.000
+2017-08-11 12:31:57.047   Installing the file.
+2017-08-11 12:31:57.056   Successfully installed the file.
+2017-08-11 12:31:57.057   -- File entry --
+2017-08-11 12:31:57.058   Dest filename: C:\Program Files\KMSpico\cert\kmscertW6\BusinessN\Security-Licensing-SLC-Component-SKU-BusinessN-VL-BYPASS-ul.xrm-ms
+2017-08-11 12:31:57.058   Time stamp of our file: 2008-01-21 04:23:36.000
+2017-08-11 12:31:57.058   Installing the file.
+2017-08-11 12:31:57.071   Successfully installed the file.
+2017-08-11 12:31:57.072   -- File entry --
+2017-08-11 12:31:57.072   Dest filename: C:\Program Files\KMSpico\cert\kmscertW6\BusinessN\Security-Licensing-SLC-Component-SKU-BusinessN-VL-KMS-pl.xrm-ms
+2017-08-11 12:31:57.073   Time stamp of our file: 2008-01-21 04:23:36.000
+2017-08-11 12:31:57.073   Installing the file.
+2017-08-11 12:31:57.082   Successfully installed the file.
+2017-08-11 12:31:57.083   -- File entry --
+2017-08-11 12:31:57.084   Dest filename: C:\Program Files\KMSpico\cert\kmscertW6\BusinessN\Security-Licensing-SLC-Component-SKU-BusinessN-VL-KMS-ul-oob.xrm-ms
+2017-08-11 12:31:57.084   Time stamp of our file: 2008-01-21 04:23:36.000
+2017-08-11 12:31:57.084   Installing the file.
+2017-08-11 12:31:57.147   Successfully installed the file.
+2017-08-11 12:31:57.149   -- File entry --
+2017-08-11 12:31:57.150   Dest filename: C:\Program Files\KMSpico\cert\kmscertW6\BusinessN\Security-Licensing-SLC-Component-SKU-BusinessN-VL-KMS-ul-phn.xrm-ms
+2017-08-11 12:31:57.151   Time stamp of our file: 2009-04-11 15:19:52.000
+2017-08-11 12:31:57.151   Installing the file.
+2017-08-11 12:31:57.165   Successfully installed the file.
+2017-08-11 12:31:57.166   -- File entry --
+2017-08-11 12:31:57.167   Dest filename: C:\Program Files\KMSpico\cert\kmscertW6\BusinessN\Security-Licensing-SLC-Component-SKU-BusinessN-VL-KMS1-pl.xrm-ms
+2017-08-11 12:31:57.168   Time stamp of our file: 2009-04-11 15:19:52.000
+2017-08-11 12:31:57.168   Installing the file.
+2017-08-11 12:31:57.177   Successfully installed the file.
+2017-08-11 12:31:57.177   -- File entry --
+2017-08-11 12:31:57.178   Dest filename: C:\Program Files\KMSpico\cert\kmscertW6\BusinessN\Security-Licensing-SLC-Component-SKU-BusinessN-VL-KMS1-ul-oob.xrm-ms
+2017-08-11 12:31:57.178   Time stamp of our file: 2009-04-11 15:19:52.000
+2017-08-11 12:31:57.178   Installing the file.
+2017-08-11 12:31:57.212   Successfully installed the file.
+2017-08-11 12:31:57.212   -- File entry --
+2017-08-11 12:31:57.212   Dest filename: C:\Program Files\KMSpico\cert\kmscertW6\BusinessN\Security-Licensing-SLC-Component-SKU-BusinessN-VL-KMS1-ul-phn.xrm-ms
+2017-08-11 12:31:57.212   Time stamp of our file: 2009-04-11 15:19:52.000
+2017-08-11 12:31:57.212   Installing the file.
+2017-08-11 12:31:57.227   Successfully installed the file.
+2017-08-11 12:31:57.227   -- File entry --
+2017-08-11 12:31:57.227   Dest filename: C:\Program Files\KMSpico\cert\kmscertW6\Enterprise\Security-Licensing-SLC-Component-SKU-Enterprise-ul-oob.xrm-ms
+2017-08-11 12:31:57.227   Time stamp of our file: 2008-01-21 04:23:14.000
+2017-08-11 12:31:57.227   Installing the file.
+2017-08-11 12:31:57.227   Successfully installed the file.
+2017-08-11 12:31:57.243   -- File entry --
+2017-08-11 12:31:57.243   Dest filename: C:\Program Files\KMSpico\cert\kmscertW6\Enterprise\Security-Licensing-SLC-Component-SKU-Enterprise-ul-phn.xrm-ms
+2017-08-11 12:31:57.243   Time stamp of our file: 2009-04-11 15:14:50.000
+2017-08-11 12:31:57.243   Installing the file.
+2017-08-11 12:31:57.243   Successfully installed the file.
+2017-08-11 12:31:57.243   -- File entry --
+2017-08-11 12:31:57.243   Dest filename: C:\Program Files\KMSpico\cert\kmscertW6\Enterprise\Security-Licensing-SLC-Component-SKU-Enterprise-VL-BYPASS-RAC-private.xrm-ms
+2017-08-11 12:31:57.243   Time stamp of our file: 2008-01-21 04:23:14.000
+2017-08-11 12:31:57.243   Installing the file.
+2017-08-11 12:31:57.264   Successfully installed the file.
+2017-08-11 12:31:57.266   -- File entry --
+2017-08-11 12:31:57.267   Dest filename: C:\Program Files\KMSpico\cert\kmscertW6\Enterprise\Security-Licensing-SLC-Component-SKU-Enterprise-VL-BYPASS-RAC-public.xrm-ms
+2017-08-11 12:31:57.268   Time stamp of our file: 2008-01-21 04:23:14.000
+2017-08-11 12:31:57.268   Installing the file.
+2017-08-11 12:31:57.274   Successfully installed the file.
+2017-08-11 12:31:57.274   -- File entry --
+2017-08-11 12:31:57.274   Dest filename: C:\Program Files\KMSpico\cert\kmscertW6\Enterprise\Security-Licensing-SLC-Component-SKU-Enterprise-VL-BYPASS-ul-oob.xrm-ms
+2017-08-11 12:31:57.274   Time stamp of our file: 2008-01-21 04:23:14.000
+2017-08-11 12:31:57.274   Installing the file.
+2017-08-11 12:31:57.274   Successfully installed the file.
+2017-08-11 12:31:57.274   -- File entry --
+2017-08-11 12:31:57.274   Dest filename: C:\Program Files\KMSpico\cert\kmscertW6\Enterprise\Security-Licensing-SLC-Component-SKU-Enterprise-VL-BYPASS-ul.xrm-ms
+2017-08-11 12:31:57.274   Time stamp of our file: 2008-01-21 04:23:14.000
+2017-08-11 12:31:57.274   Installing the file.
+2017-08-11 12:31:57.289   Successfully installed the file.
+2017-08-11 12:31:57.289   -- File entry --
+2017-08-11 12:31:57.289   Dest filename: C:\Program Files\KMSpico\cert\kmscertW6\Enterprise\Security-Licensing-SLC-Component-SKU-Enterprise-VL-KMS-pl.xrm-ms
+2017-08-11 12:31:57.289   Time stamp of our file: 2008-01-21 04:23:14.000
+2017-08-11 12:31:57.289   Installing the file.
+2017-08-11 12:31:57.289   Successfully installed the file.
+2017-08-11 12:31:57.289   -- File entry --
+2017-08-11 12:31:57.289   Dest filename: C:\Program Files\KMSpico\cert\kmscertW6\Enterprise\Security-Licensing-SLC-Component-SKU-Enterprise-VL-KMS-ul-oob.xrm-ms
+2017-08-11 12:31:57.289   Time stamp of our file: 2008-01-21 04:23:14.000
+2017-08-11 12:31:57.289   Installing the file.
+2017-08-11 12:31:57.305   Successfully installed the file.
+2017-08-11 12:31:57.305   -- File entry --
+2017-08-11 12:31:57.305   Dest filename: C:\Program Files\KMSpico\cert\kmscertW6\Enterprise\Security-Licensing-SLC-Component-SKU-Enterprise-VL-KMS-ul-phn.xrm-ms
+2017-08-11 12:31:57.305   Time stamp of our file: 2009-04-11 15:14:50.000
+2017-08-11 12:31:57.305   Installing the file.
+2017-08-11 12:31:57.305   Successfully installed the file.
+2017-08-11 12:31:57.305   -- File entry --
+2017-08-11 12:31:57.305   Dest filename: C:\Program Files\KMSpico\cert\kmscertW6\Enterprise\Security-Licensing-SLC-Component-SKU-Enterprise-VL-KMS1-pl.xrm-ms
+2017-08-11 12:31:57.305   Time stamp of our file: 2009-04-11 15:14:50.000
+2017-08-11 12:31:57.305   Installing the file.
+2017-08-11 12:31:57.336   Successfully installed the file.
+2017-08-11 12:31:57.336   -- File entry --
+2017-08-11 12:31:57.336   Dest filename: C:\Program Files\KMSpico\cert\kmscertW6\Enterprise\Security-Licensing-SLC-Component-SKU-Enterprise-VL-KMS1-ul-oob.xrm-ms
+2017-08-11 12:31:57.336   Time stamp of our file: 2009-04-11 15:14:50.000
+2017-08-11 12:31:57.336   Installing the file.
+2017-08-11 12:31:57.336   Successfully installed the file.
+2017-08-11 12:31:57.336   -- File entry --
+2017-08-11 12:31:57.336   Dest filename: C:\Program Files\KMSpico\cert\kmscertW6\Enterprise\Security-Licensing-SLC-Component-SKU-Enterprise-VL-KMS1-ul-phn.xrm-ms
+2017-08-11 12:31:57.336   Time stamp of our file: 2009-04-11 15:14:50.000
+2017-08-11 12:31:57.336   Installing the file.
+2017-08-11 12:31:57.336   Successfully installed the file.
+2017-08-11 12:31:57.336   -- File entry --
+2017-08-11 12:31:57.336   Dest filename: C:\Program Files\KMSpico\cert\kmscertW7\Embedded\pkeyconfig-embedded.xrm-ms
+2017-08-11 12:31:57.336   Time stamp of our file: 2010-12-10 20:15:58.000
+2017-08-11 12:31:57.336   Installing the file.
+2017-08-11 12:31:57.352   Successfully installed the file.
+2017-08-11 12:31:57.352   -- File entry --
+2017-08-11 12:31:57.352   Dest filename: C:\Program Files\KMSpico\cert\kmscertW7\Embedded\Security-SPP-Component-SKU-Embedded-pl.xrm-ms
+2017-08-11 12:31:57.352   Time stamp of our file: 2010-04-02 05:40:12.000
+2017-08-11 12:31:57.352   Installing the file.
+2017-08-11 12:31:57.352   Successfully installed the file.
+2017-08-11 12:31:57.352   -- File entry --
+2017-08-11 12:31:57.352   Dest filename: C:\Program Files\KMSpico\cert\kmscertW7\Embedded\Security-SPP-Component-SKU-Embedded-ul-oob.xrm-ms
+2017-08-11 12:31:57.352   Time stamp of our file: 2010-04-02 05:40:12.000
+2017-08-11 12:31:57.352   Installing the file.
+2017-08-11 12:31:57.389   Successfully installed the file.
+2017-08-11 12:31:57.389   -- File entry --
+2017-08-11 12:31:57.389   Dest filename: C:\Program Files\KMSpico\cert\kmscertW7\Embedded\Security-SPP-Component-SKU-Embedded-ul-phn.xrm-ms
+2017-08-11 12:31:57.389   Time stamp of our file: 2010-04-02 05:40:12.000
+2017-08-11 12:31:57.389   Installing the file.
+2017-08-11 12:31:57.389   Successfully installed the file.
+2017-08-11 12:31:57.389   -- File entry --
+2017-08-11 12:31:57.389   Dest filename: C:\Program Files\KMSpico\cert\kmscertW7\Embedded\Security-SPP-Component-SKU-Embedded-VLBA-ul-oob.xrm-ms
+2017-08-11 12:31:57.389   Time stamp of our file: 2010-04-02 05:40:14.000
+2017-08-11 12:31:57.389   Installing the file.
+2017-08-11 12:31:57.389   Successfully installed the file.
+2017-08-11 12:31:57.389   -- File entry --
+2017-08-11 12:31:57.389   Dest filename: C:\Program Files\KMSpico\cert\kmscertW7\Embedded\Security-SPP-Component-SKU-Embedded-VLBA-ul.xrm-ms
+2017-08-11 12:31:57.389   Time stamp of our file: 2010-04-02 05:40:14.000
+2017-08-11 12:31:57.389   Installing the file.
+2017-08-11 12:31:57.405   Successfully installed the file.
+2017-08-11 12:31:57.405   -- File entry --
+2017-08-11 12:31:57.405   Dest filename: C:\Program Files\KMSpico\cert\kmscertW7\Professional\pkeyconfig.xrm-ms
+2017-08-11 12:31:57.405   Time stamp of our file: 2010-11-20 23:29:06.000
+2017-08-11 12:31:57.405   Installing the file.
+2017-08-11 12:31:57.436   Successfully installed the file.
+2017-08-11 12:31:57.436   -- File entry --
+2017-08-11 12:31:57.436   Dest filename: C:\Program Files\KMSpico\cert\kmscertW7\Professional\Security-SPP-Component-SKU-Professional-ul-oob.xrm-ms
+2017-08-11 12:31:57.436   Time stamp of our file: 2009-07-14 03:26:04.000
+2017-08-11 12:31:57.436   Installing the file.
+2017-08-11 12:31:57.436   Successfully installed the file.
+2017-08-11 12:31:57.436   -- File entry --
+2017-08-11 12:31:57.436   Dest filename: C:\Program Files\KMSpico\cert\kmscertW7\Professional\Security-SPP-Component-SKU-Professional-ul-phn.xrm-ms
+2017-08-11 12:31:57.436   Time stamp of our file: 2009-07-14 03:26:04.000
+2017-08-11 12:31:57.436   Installing the file.
+2017-08-11 12:31:57.436   Successfully installed the file.
+2017-08-11 12:31:57.436   -- File entry --
+2017-08-11 12:31:57.436   Dest filename: C:\Program Files\KMSpico\cert\kmscertW7\Professional\Security-SPP-Component-SKU-Professional-VL-BYPASS-RAC-private.xrm-ms
+2017-08-11 12:31:57.436   Time stamp of our file: 2009-07-14 03:26:08.000
+2017-08-11 12:31:57.436   Installing the file.
+2017-08-11 12:31:57.451   Successfully installed the file.
+2017-08-11 12:31:57.451   -- File entry --
+2017-08-11 12:31:57.451   Dest filename: C:\Program Files\KMSpico\cert\kmscertW7\Professional\Security-SPP-Component-SKU-Professional-VL-BYPASS-RAC-public.xrm-ms
+2017-08-11 12:31:57.451   Time stamp of our file: 2009-07-14 03:26:08.000
+2017-08-11 12:31:57.451   Installing the file.
+2017-08-11 12:31:57.451   Successfully installed the file.
+2017-08-11 12:31:57.451   -- File entry --
+2017-08-11 12:31:57.451   Dest filename: C:\Program Files\KMSpico\cert\kmscertW7\Professional\Security-SPP-Component-SKU-Professional-VL-BYPASS-ul-oob.xrm-ms
+2017-08-11 12:31:57.451   Time stamp of our file: 2009-07-14 03:26:08.000
+2017-08-11 12:31:57.451   Installing the file.
+2017-08-11 12:31:57.451   Successfully installed the file.
+2017-08-11 12:31:57.451   -- File entry --
+2017-08-11 12:31:57.451   Dest filename: C:\Program Files\KMSpico\cert\kmscertW7\Professional\Security-SPP-Component-SKU-Professional-VL-BYPASS-ul.xrm-ms
+2017-08-11 12:31:57.451   Time stamp of our file: 2009-07-14 03:26:08.000
+2017-08-11 12:31:57.451   Installing the file.
+2017-08-11 12:31:57.490   Successfully installed the file.
+2017-08-11 12:31:57.490   -- File entry --
+2017-08-11 12:31:57.490   Dest filename: C:\Program Files\KMSpico\cert\kmscertW7\Professional\Security-SPP-Component-SKU-Professional-VLKMS1-pl.xrm-ms
+2017-08-11 12:31:57.506   Time stamp of our file: 2009-07-14 03:26:08.000
+2017-08-11 12:31:57.506   Installing the file.
+2017-08-11 12:31:57.506   Successfully installed the file.
+2017-08-11 12:31:57.506   -- File entry --
+2017-08-11 12:31:57.506   Dest filename: C:\Program Files\KMSpico\cert\kmscertW7\Professional\Security-SPP-Component-SKU-Professional-VLKMS1-ul-oob.xrm-ms
+2017-08-11 12:31:57.506   Time stamp of our file: 2009-07-14 03:26:08.000
+2017-08-11 12:31:57.506   Installing the file.
+2017-08-11 12:31:57.506   Successfully installed the file.
+2017-08-11 12:31:57.506   -- File entry --
+2017-08-11 12:31:57.506   Dest filename: C:\Program Files\KMSpico\cert\kmscertW7\Professional\Security-SPP-Component-SKU-Professional-VLKMS1-ul-phn.xrm-ms
+2017-08-11 12:31:57.506   Time stamp of our file: 2009-07-14 03:26:08.000
+2017-08-11 12:31:57.506   Installing the file.
+2017-08-11 12:31:57.506   Successfully installed the file.
+2017-08-11 12:31:57.506   -- File entry --
+2017-08-11 12:31:57.506   Dest filename: C:\Program Files\KMSpico\cert\kmscertW8\pkeyconfig.xrm-ms
+2017-08-11 12:31:57.506   Time stamp of our file: 2012-07-26 05:46:48.000
+2017-08-11 12:31:57.506   Installing the file.
+2017-08-11 12:31:57.521   Successfully installed the file.
+2017-08-11 12:31:57.521   -- File entry --
+2017-08-11 12:31:57.521   Dest filename: C:\Program Files\KMSpico\cert\kmscertW8\Core\Core-Volume-GVLK-1-ul-oob-rtm.xrm-ms
+2017-08-11 12:31:57.521   Time stamp of our file: 2012-07-26 05:46:58.000
+2017-08-11 12:31:57.521   Installing the file.
+2017-08-11 12:31:57.537   Successfully installed the file.
+2017-08-11 12:31:57.537   -- File entry --
+2017-08-11 12:31:57.537   Dest filename: C:\Program Files\KMSpico\cert\kmscertW8\Core\Core-Volume-GVLK-1-ul-rtm.xrm-ms
+2017-08-11 12:31:57.537   Time stamp of our file: 2012-07-26 05:46:58.000
+2017-08-11 12:31:57.537   Installing the file.
+2017-08-11 12:31:57.574   Successfully installed the file.
+2017-08-11 12:31:57.574   -- File entry --
+2017-08-11 12:31:57.574   Dest filename: C:\Program Files\KMSpico\cert\kmscertW8\CoreN\CoreN-Volume-GVLK-1-ul-oob-rtm.xrm-ms
+2017-08-11 12:31:57.574   Time stamp of our file: 2012-07-26 05:47:06.000
+2017-08-11 12:31:57.574   Installing the file.
+2017-08-11 12:31:57.574   Successfully installed the file.
+2017-08-11 12:31:57.574   -- File entry --
+2017-08-11 12:31:57.574   Dest filename: C:\Program Files\KMSpico\cert\kmscertW8\CoreN\CoreN-Volume-GVLK-1-ul-rtm.xrm-ms
+2017-08-11 12:31:57.574   Time stamp of our file: 2012-07-26 05:47:06.000
+2017-08-11 12:31:57.574   Installing the file.
+2017-08-11 12:31:57.574   Successfully installed the file.
+2017-08-11 12:31:57.574   -- File entry --
+2017-08-11 12:31:57.574   Dest filename: C:\Program Files\KMSpico\cert\kmscertW8\CoreSingleLanguage\CoreSingleLanguage-Volume-GVLK-1-ul-oob-rtm.xrm-ms
+2017-08-11 12:31:57.574   Time stamp of our file: 2012-07-26 07:01:58.000
+2017-08-11 12:31:57.574   Installing the file.
+2017-08-11 12:31:57.590   Successfully installed the file.
+2017-08-11 12:31:57.590   -- File entry --
+2017-08-11 12:31:57.590   Dest filename: C:\Program Files\KMSpico\cert\kmscertW8\CoreSingleLanguage\CoreSingleLanguage-Volume-GVLK-1-ul-rtm.xrm-ms
+2017-08-11 12:31:57.590   Time stamp of our file: 2012-07-26 07:01:58.000
+2017-08-11 12:31:57.590   Installing the file.
+2017-08-11 12:31:57.605   Successfully installed the file.
+2017-08-11 12:31:57.605   -- File entry --
+2017-08-11 12:31:57.605   Dest filename: C:\Program Files\KMSpico\cert\kmscertW8\Enterprise\Enterprise-Volume-GVLK-1-ul-oob-rtm.xrm-ms
+2017-08-11 12:31:57.605   Time stamp of our file: 2012-07-26 05:47:46.000
+2017-08-11 12:31:57.605   Installing the file.
+2017-08-11 12:31:57.621   Successfully installed the file.
+2017-08-11 12:31:57.621   -- File entry --
+2017-08-11 12:31:57.621   Dest filename: C:\Program Files\KMSpico\cert\kmscertW8\Enterprise\Enterprise-Volume-GVLK-1-ul-rtm.xrm-ms
+2017-08-11 12:31:57.621   Time stamp of our file: 2012-07-26 05:47:46.000
+2017-08-11 12:31:57.621   Installing the file.
+2017-08-11 12:31:57.637   Successfully installed the file.
+2017-08-11 12:31:57.637   -- File entry --
+2017-08-11 12:31:57.637   Dest filename: C:\Program Files\KMSpico\cert\kmscertW8\EnterpriseN\EnterpriseN-Volume-GVLK-1-ul-oob-rtm.xrm-ms
+2017-08-11 12:31:57.637   Time stamp of our file: 2012-07-26 05:47:50.000
+2017-08-11 12:31:57.637   Installing the file.
+2017-08-11 12:31:57.637   Successfully installed the file.
+2017-08-11 12:31:57.637   -- File entry --
+2017-08-11 12:31:57.637   Dest filename: C:\Program Files\KMSpico\cert\kmscertW8\EnterpriseN\EnterpriseN-Volume-GVLK-1-ul-rtm.xrm-ms
+2017-08-11 12:31:57.637   Time stamp of our file: 2012-07-26 05:47:50.000
+2017-08-11 12:31:57.637   Installing the file.
+2017-08-11 12:31:57.652   Successfully installed the file.
+2017-08-11 12:31:57.652   -- File entry --
+2017-08-11 12:31:57.652   Dest filename: C:\Program Files\KMSpico\cert\kmscertW8\Professional\Professional-Volume-GVLK-1-ul-oob-rtm.xrm-ms
+2017-08-11 12:31:57.652   Time stamp of our file: 2012-07-26 05:47:56.000
+2017-08-11 12:31:57.652   Installing the file.
+2017-08-11 12:31:57.652   Successfully installed the file.
+2017-08-11 12:31:57.652   -- File entry --
+2017-08-11 12:31:57.652   Dest filename: C:\Program Files\KMSpico\cert\kmscertW8\Professional\Professional-Volume-GVLK-1-ul-rtm.xrm-ms
+2017-08-11 12:31:57.652   Time stamp of our file: 2012-07-26 05:47:56.000
+2017-08-11 12:31:57.652   Installing the file.
+2017-08-11 12:31:57.652   Successfully installed the file.
+2017-08-11 12:31:57.652   -- File entry --
+2017-08-11 12:31:57.652   Dest filename: C:\Program Files\KMSpico\cert\kmscertW8\ProfessionalN\ProfessionalN-Volume-GVLK-1-ul-oob-rtm.xrm-ms
+2017-08-11 12:31:57.652   Time stamp of our file: 2012-07-26 05:48:00.000
+2017-08-11 12:31:57.652   Installing the file.
+2017-08-11 12:31:57.652   Successfully installed the file.
+2017-08-11 12:31:57.652   -- File entry --
+2017-08-11 12:31:57.652   Dest filename: C:\Program Files\KMSpico\cert\kmscertW8\ProfessionalN\ProfessionalN-Volume-GVLK-1-ul-rtm.xrm-ms
+2017-08-11 12:31:57.652   Time stamp of our file: 2012-07-26 05:48:00.000
+2017-08-11 12:31:57.652   Installing the file.
+2017-08-11 12:31:57.672   Successfully installed the file.
+2017-08-11 12:31:57.672   -- File entry --
+2017-08-11 12:31:57.672   Dest filename: C:\Program Files\KMSpico\cert\kmscertW8\ProfessionalWMC\ProfessionalWMC-Volume-GVLK-1-ul-oob-rtm.xrm-ms
+2017-08-11 12:31:57.672   Time stamp of our file: 2012-07-26 05:48:02.000
+2017-08-11 12:31:57.672   Installing the file.
+2017-08-11 12:31:57.675   Successfully installed the file.
+2017-08-11 12:31:57.675   -- File entry --
+2017-08-11 12:31:57.675   Dest filename: C:\Program Files\KMSpico\cert\kmscertW8\ProfessionalWMC\ProfessionalWMC-Volume-GVLK-1-ul-rtm.xrm-ms
+2017-08-11 12:31:57.675   Time stamp of our file: 2012-07-26 05:48:02.000
+2017-08-11 12:31:57.675   Installing the file.
+2017-08-11 12:31:57.675   Successfully installed the file.
+2017-08-11 12:31:57.691   -- File entry --
+2017-08-11 12:31:57.691   Dest filename: C:\Program Files\KMSpico\cert\kmscertW81\pkeyconfig.xrm-ms
+2017-08-11 12:31:57.691   Time stamp of our file: 2014-11-21 04:21:30.000
+2017-08-11 12:31:57.691   Installing the file.
+2017-08-11 12:31:57.706   Successfully installed the file.
+2017-08-11 12:31:57.706   -- File entry --
+2017-08-11 12:31:57.706   Dest filename: C:\Program Files\KMSpico\cert\kmscertW81\Core\Core-Volume-GVLK-1-ul-oob-rtm.xrm-ms
+2017-08-11 12:31:57.706   Time stamp of our file: 2014-11-21 04:21:30.000
+2017-08-11 12:31:57.706   Installing the file.
+2017-08-11 12:31:57.706   Successfully installed the file.
+2017-08-11 12:31:57.706   -- File entry --
+2017-08-11 12:31:57.706   Dest filename: C:\Program Files\KMSpico\cert\kmscertW81\Core\Core-Volume-GVLK-1-ul-rtm.xrm-ms
+2017-08-11 12:31:57.706   Time stamp of our file: 2014-11-21 04:21:30.000
+2017-08-11 12:31:57.706   Installing the file.
+2017-08-11 12:31:57.706   Successfully installed the file.
+2017-08-11 12:31:57.706   -- File entry --
+2017-08-11 12:31:57.706   Dest filename: C:\Program Files\KMSpico\cert\kmscertW81\CoreConnectedSingleLanguage\CoreConnectedSingleLanguage-Volume-GVLK-1-ul-oob-rtm.xrm-ms
+2017-08-11 12:31:57.706   Time stamp of our file: 2014-03-18 12:24:40.000
+2017-08-11 12:31:57.706   Installing the file.
+2017-08-11 12:31:57.722   Successfully installed the file.
+2017-08-11 12:31:57.722   -- File entry --
+2017-08-11 12:31:57.738   Dest filename: C:\Program Files\KMSpico\cert\kmscertW81\CoreConnectedSingleLanguage\CoreConnectedSingleLanguage-Volume-GVLK-1-ul-rtm.xrm-ms
+2017-08-11 12:31:57.738   Time stamp of our file: 2014-03-18 12:24:40.000
+2017-08-11 12:31:57.738   Installing the file.
+2017-08-11 12:31:57.738   Successfully installed the file.
+2017-08-11 12:31:57.738   -- File entry --
+2017-08-11 12:31:57.738   Dest filename: C:\Program Files\KMSpico\cert\kmscertW81\EmbeddedIndustry\EmbeddedIndustry-Volume-GVLK-1-ul-oob-rtm.xrm-ms
+2017-08-11 12:31:57.738   Time stamp of our file: 2014-03-18 09:43:48.000
+2017-08-11 12:31:57.738   Installing the file.
+2017-08-11 12:31:57.738   Successfully installed the file.
+2017-08-11 12:31:57.738   -- File entry --
+2017-08-11 12:31:57.738   Dest filename: C:\Program Files\KMSpico\cert\kmscertW81\EmbeddedIndustry\EmbeddedIndustry-Volume-GVLK-1-ul-rtm.xrm-ms
+2017-08-11 12:31:57.738   Time stamp of our file: 2014-03-18 09:43:48.000
+2017-08-11 12:31:57.738   Installing the file.
+2017-08-11 12:31:57.738   Successfully installed the file.
+2017-08-11 12:31:57.738   -- File entry --
+2017-08-11 12:31:57.738   Dest filename: C:\Program Files\KMSpico\cert\kmscertW81\Enterprise\Enterprise-Volume-GVLK-1-ul-oob-rtm.xrm-ms
+2017-08-11 12:31:57.738   Time stamp of our file: 2014-11-21 00:44:14.000
+2017-08-11 12:31:57.738   Installing the file.
+2017-08-11 12:31:57.753   Successfully installed the file.
+2017-08-11 12:31:57.753   -- File entry --
+2017-08-11 12:31:57.753   Dest filename: C:\Program Files\KMSpico\cert\kmscertW81\Enterprise\Enterprise-Volume-GVLK-1-ul-rtm.xrm-ms
+2017-08-11 12:31:57.753   Time stamp of our file: 2014-11-21 00:44:14.000
+2017-08-11 12:31:57.753   Installing the file.
+2017-08-11 12:31:57.772   Successfully installed the file.
+2017-08-11 12:31:57.773   -- File entry --
+2017-08-11 12:31:57.773   Dest filename: C:\Program Files\KMSpico\cert\kmscertW81\Professional\Professional-Volume-GVLK-1-ul-oob-rtm.xrm-ms
+2017-08-11 12:31:57.773   Time stamp of our file: 2014-11-21 04:20:48.000
+2017-08-11 12:31:57.773   Installing the file.
+2017-08-11 12:31:57.775   Successfully installed the file.
+2017-08-11 12:31:57.775   -- File entry --
+2017-08-11 12:31:57.775   Dest filename: C:\Program Files\KMSpico\cert\kmscertW81\Professional\Professional-Volume-GVLK-1-ul-rtm.xrm-ms
+2017-08-11 12:31:57.775   Time stamp of our file: 2014-11-21 04:20:48.000
+2017-08-11 12:31:57.775   Installing the file.
+2017-08-11 12:31:57.775   Successfully installed the file.
+2017-08-11 12:31:57.775   -- File entry --
+2017-08-11 12:31:57.775   Dest filename: C:\Program Files\KMSpico\cert\kmscertW81\ProfessionalWMC\ProfessionalWMC-Volume-GVLK-1-ul-oob-rtm.xrm-ms
+2017-08-11 12:31:57.775   Time stamp of our file: 2014-12-23 01:59:50.000
+2017-08-11 12:31:57.775   Installing the file.
+2017-08-11 12:31:57.775   Successfully installed the file.
+2017-08-11 12:31:57.775   -- File entry --
+2017-08-11 12:31:57.775   Dest filename: C:\Program Files\KMSpico\cert\kmscertW81\ProfessionalWMC\ProfessionalWMC-Volume-GVLK-1-ul-rtm.xrm-ms
+2017-08-11 12:31:57.775   Time stamp of our file: 2014-12-23 01:59:50.000
+2017-08-11 12:31:57.775   Installing the file.
+2017-08-11 12:31:57.791   Successfully installed the file.
+2017-08-11 12:31:57.791   -- File entry --
+2017-08-11 12:31:57.791   Dest filename: C:\Program Files\KMSpico\cert\kmscertW81\ServerDatacenter\ServerDatacenter-Volume-GVLK-1-ul-oob-rtm.xrm-ms
+2017-08-11 12:31:57.791   Time stamp of our file: 2014-11-21 10:50:22.000
+2017-08-11 12:31:57.791   Installing the file.
+2017-08-11 12:31:57.791   Successfully installed the file.
+2017-08-11 12:31:57.791   -- File entry --
+2017-08-11 12:31:57.791   Dest filename: C:\Program Files\KMSpico\cert\kmscertW81\ServerDatacenter\ServerDatacenter-Volume-GVLK-1-ul-rtm.xrm-ms
+2017-08-11 12:31:57.791   Time stamp of our file: 2014-11-21 10:50:22.000
+2017-08-11 12:31:57.791   Installing the file.
+2017-08-11 12:31:57.791   Successfully installed the file.
+2017-08-11 12:31:57.791   -- File entry --
+2017-08-11 12:31:57.791   Dest filename: C:\Program Files\KMSpico\cert\kmscertW81\ServerStandard\ServerStandard-Volume-GVLK-1-ul-oob-rtm.xrm-ms
+2017-08-11 12:31:57.791   Time stamp of our file: 2014-11-21 10:50:00.000
+2017-08-11 12:31:57.791   Installing the file.
+2017-08-11 12:31:57.791   Successfully installed the file.
+2017-08-11 12:31:57.806   -- File entry --
+2017-08-11 12:31:57.806   Dest filename: C:\Program Files\KMSpico\cert\kmscertW81\ServerStandard\ServerStandard-Volume-GVLK-1-ul-rtm.xrm-ms
+2017-08-11 12:31:57.806   Time stamp of our file: 2014-11-21 10:50:02.000
+2017-08-11 12:31:57.806   Installing the file.
+2017-08-11 12:31:57.806   Successfully installed the file.
+2017-08-11 12:31:57.806   -- File entry --
+2017-08-11 12:31:57.806   Dest filename: C:\Program Files\KMSpico\driver\Cert.cmd
+2017-08-11 12:31:57.806   Time stamp of our file: 2013-11-17 23:07:08.000
+2017-08-11 12:31:57.806   Installing the file.
+2017-08-11 12:31:57.806   Successfully installed the file.
+2017-08-11 12:31:57.806   -- File entry --
+2017-08-11 12:31:57.806   Dest filename: C:\Program Files\KMSpico\driver\certELDI.pfx
+2017-08-11 12:31:57.806   Time stamp of our file: 2013-11-17 21:03:14.000
+2017-08-11 12:31:57.806   Installing the file.
+2017-08-11 12:31:57.806   Successfully installed the file.
+2017-08-11 12:31:57.806   -- File entry --
+2017-08-11 12:31:57.806   Dest filename: C:\Program Files\KMSpico\driver\OpenVPN.cer
+2017-08-11 12:31:57.806   Time stamp of our file: 2013-11-12 23:32:38.000
+2017-08-11 12:31:57.806   Installing the file.
+2017-08-11 12:31:57.806   Successfully installed the file.
+2017-08-11 12:31:57.806   -- File entry --
+2017-08-11 12:31:57.806   Dest filename: C:\Program Files\KMSpico\driver\tap-windows-9.21.0.exe
+2017-08-11 12:31:57.806   Time stamp of our file: 2014-07-17 15:35:02.000
+2017-08-11 12:31:57.806   Installing the file.
+2017-08-11 12:31:58.518   Successfully installed the file.
+2017-08-11 12:31:58.518   -- File entry --
+2017-08-11 12:31:58.518   Dest filename: C:\Program Files\KMSpico\driver\UnInstallDriver.cmd
+2017-08-11 12:31:58.518   Time stamp of our file: 2013-12-11 00:32:48.000
+2017-08-11 12:31:58.518   Installing the file.
+2017-08-11 12:31:58.518   Successfully installed the file.
+2017-08-11 12:31:58.518   -- File entry --
+2017-08-11 12:31:58.518   Dest filename: C:\Program Files\KMSpico\icons\Error.png
+2017-08-11 12:31:58.518   Time stamp of our file: 2013-10-09 06:38:36.000
+2017-08-11 12:31:58.518   Installing the file.
+2017-08-11 12:31:58.518   Successfully installed the file.
+2017-08-11 12:31:58.518   -- File entry --
+2017-08-11 12:31:58.518   Dest filename: C:\Program Files\KMSpico\icons\Information.png
+2017-08-11 12:31:58.518   Time stamp of our file: 2013-10-09 06:38:28.000
+2017-08-11 12:31:58.518   Installing the file.
+2017-08-11 12:31:58.518   Successfully installed the file.
+2017-08-11 12:31:58.518   -- File entry --
+2017-08-11 12:31:58.518   Dest filename: C:\Program Files\KMSpico\icons\Question.png
+2017-08-11 12:31:58.518   Time stamp of our file: 2013-10-09 06:38:12.000
+2017-08-11 12:31:58.518   Installing the file.
+2017-08-11 12:31:58.518   Successfully installed the file.
+2017-08-11 12:31:58.518   -- File entry --
+2017-08-11 12:31:58.518   Dest filename: C:\Program Files\KMSpico\icons\Warning.png
+2017-08-11 12:31:58.518   Time stamp of our file: 2013-10-09 06:38:58.000
+2017-08-11 12:31:58.518   Installing the file.
+2017-08-11 12:31:58.518   Successfully installed the file.
+2017-08-11 12:31:58.518   -- File entry --
+2017-08-11 12:31:58.518   Dest filename: C:\Program Files\KMSpico\logs\AutoPico.log
+2017-08-11 12:31:58.518   Time stamp of our file: 2014-10-09 00:34:08.000
+2017-08-11 12:31:58.518   Installing the file.
+2017-08-11 12:31:58.518   Successfully installed the file.
+2017-08-11 12:31:58.518   -- File entry --
+2017-08-11 12:31:58.518   Dest filename: C:\Program Files\KMSpico\logs\KMSELDI.log
+2017-08-11 12:31:58.518   Time stamp of our file: 2016-01-12 00:29:12.000
+2017-08-11 12:31:58.518   Installing the file.
+2017-08-11 12:31:58.518   Successfully installed the file.
+2017-08-11 12:31:58.533   -- File entry --
+2017-08-11 12:31:58.533   Dest filename: C:\Program Files\KMSpico\logs\Service_KMS.log
+2017-08-11 12:31:58.533   Time stamp of our file: 2013-08-22 03:14:34.000
+2017-08-11 12:31:58.533   Installing the file.
+2017-08-11 12:31:58.533   Successfully installed the file.
+2017-08-11 12:31:58.533   -- File entry --
+2017-08-11 12:31:58.533   Dest filename: C:\Program Files\KMSpico\scripts\AddExceptionsWD.reg
+2017-08-11 12:31:58.533   Time stamp of our file: 2014-08-25 21:13:06.000
+2017-08-11 12:31:58.533   Installing the file.
+2017-08-11 12:31:58.533   Successfully installed the file.
+2017-08-11 12:31:58.533   -- File entry --
+2017-08-11 12:31:58.533   Dest filename: C:\Program Files\KMSpico\scripts\AddExceptions_Defender.cmd
+2017-08-11 12:31:58.533   Time stamp of our file: 2014-08-25 21:26:54.000
+2017-08-11 12:31:58.533   Installing the file.
+2017-08-11 12:31:58.533   Successfully installed the file.
+2017-08-11 12:31:58.533   -- File entry --
+2017-08-11 12:31:58.533   Dest filename: C:\Program Files\KMSpico\scripts\DisableSmartScreen.reg
+2017-08-11 12:31:58.533   Time stamp of our file: 2013-10-27 05:04:24.000
+2017-08-11 12:31:58.533   Installing the file.
+2017-08-11 12:31:58.533   Successfully installed the file.
+2017-08-11 12:31:58.533   -- File entry --
+2017-08-11 12:31:58.533   Dest filename: C:\Program Files\KMSpico\scripts\EnableSmartScreen.cmd
+2017-08-11 12:31:58.533   Time stamp of our file: 2013-10-27 05:28:30.000
+2017-08-11 12:31:58.533   Installing the file.
+2017-08-11 12:31:58.533   Successfully installed the file.
+2017-08-11 12:31:58.533   -- File entry --
+2017-08-11 12:31:58.533   Dest filename: C:\Program Files\KMSpico\scripts\EnableSmartScreen.reg
+2017-08-11 12:31:58.549   Time stamp of our file: 2013-10-27 05:04:24.000
+2017-08-11 12:31:58.549   Installing the file.
+2017-08-11 12:31:58.552   Successfully installed the file.
+2017-08-11 12:31:58.552   -- File entry --
+2017-08-11 12:31:58.552   Dest filename: C:\Program Files\KMSpico\scripts\Install_Service.cmd
+2017-08-11 12:31:58.553   Time stamp of our file: 2013-10-24 20:57:26.000
+2017-08-11 12:31:58.553   Installing the file.
+2017-08-11 12:31:58.633   Successfully installed the file.
+2017-08-11 12:31:58.633   -- File entry --
+2017-08-11 12:31:58.633   Dest filename: C:\Program Files\KMSpico\scripts\Install_Task.cmd
+2017-08-11 12:31:58.649   Time stamp of our file: 2014-08-25 21:06:56.000
+2017-08-11 12:31:58.649   Installing the file.
+2017-08-11 12:31:58.718   Successfully installed the file.
+2017-08-11 12:31:58.718   -- File entry --
+2017-08-11 12:31:58.718   Dest filename: C:\Program Files\KMSpico\scripts\Log.cmd
+2017-08-11 12:31:58.718   Time stamp of our file: 2013-10-24 23:18:04.000
+2017-08-11 12:31:58.718   Installing the file.
+2017-08-11 12:31:58.718   Successfully installed the file.
+2017-08-11 12:31:58.718   -- File entry --
+2017-08-11 12:31:58.718   Dest filename: C:\Program Files\KMSpico\scripts\RemoveExceptionsWD.reg
+2017-08-11 12:31:58.718   Time stamp of our file: 2014-08-25 21:18:10.000
+2017-08-11 12:31:58.718   Installing the file.
+2017-08-11 12:31:58.718   Successfully installed the file.
+2017-08-11 12:31:58.718   -- File entry --
+2017-08-11 12:31:58.718   Dest filename: C:\Program Files\KMSpico\scripts\Restore_Watermark.cmd
+2017-08-11 12:31:58.718   Time stamp of our file: 2014-10-08 16:19:02.000
+2017-08-11 12:31:58.718   Installing the file.
+2017-08-11 12:31:58.733   Successfully installed the file.
+2017-08-11 12:31:58.733   -- File entry --
+2017-08-11 12:31:58.733   Dest filename: C:\Program Files\KMSpico\scripts\Silent.cmd
+2017-08-11 12:31:58.733   Time stamp of our file: 2013-10-24 20:58:46.000
+2017-08-11 12:31:58.733   Installing the file.
+2017-08-11 12:31:58.733   Successfully installed the file.
+2017-08-11 12:31:58.749   -- File entry --
+2017-08-11 12:31:58.749   Dest filename: C:\Program Files\KMSpico\scripts\UnInstall_Service.cmd
+2017-08-11 12:31:58.749   Time stamp of our file: 2013-10-24 20:53:12.000
+2017-08-11 12:31:58.749   Installing the file.
+2017-08-11 12:31:58.802   Successfully installed the file.
+2017-08-11 12:31:58.802   -- File entry --
+2017-08-11 12:31:58.802   Dest filename: C:\Program Files\KMSpico\sounds\affirmative.mp3
+2017-08-11 12:31:58.802   Time stamp of our file: 2013-02-09 20:24:20.000
+2017-08-11 12:31:58.802   Installing the file.
+2017-08-11 12:31:58.818   Successfully installed the file.
+2017-08-11 12:31:58.818   -- File entry --
+2017-08-11 12:31:58.818   Dest filename: C:\Program Files\KMSpico\sounds\begin.mp3
+2017-08-11 12:31:58.818   Time stamp of our file: 2013-02-09 19:54:26.000
+2017-08-11 12:31:58.818   Installing the file.
+2017-08-11 12:31:58.818   Successfully installed the file.
+2017-08-11 12:31:58.818   -- File entry --
+2017-08-11 12:31:58.818   Dest filename: C:\Program Files\KMSpico\sounds\complete.mp3
+2017-08-11 12:31:58.818   Time stamp of our file: 2013-02-09 16:18:50.000
+2017-08-11 12:31:58.818   Installing the file.
+2017-08-11 12:31:58.818   Successfully installed the file.
+2017-08-11 12:31:58.818   -- File entry --
+2017-08-11 12:31:58.818   Dest filename: C:\Program Files\KMSpico\sounds\diagnostic.mp3
+2017-08-11 12:31:58.818   Time stamp of our file: 2015-02-01 02:03:02.000
+2017-08-11 12:31:58.818   Installing the file.
+2017-08-11 12:31:58.818   Successfully installed the file.
+2017-08-11 12:31:58.818   -- File entry --
+2017-08-11 12:31:58.818   Dest filename: C:\Program Files\KMSpico\sounds\enterauthorizationcode.mp3
+2017-08-11 12:31:58.818   Time stamp of our file: 2013-10-09 03:22:10.000
+2017-08-11 12:31:58.818   Installing the file.
+2017-08-11 12:31:58.833   Successfully installed the file.
+2017-08-11 12:31:58.833   -- File entry --
+2017-08-11 12:31:58.833   Dest filename: C:\Program Files\KMSpico\sounds\incomingtransmission.mp3
+2017-08-11 12:31:58.833   Time stamp of our file: 2013-10-09 03:19:24.000
+2017-08-11 12:31:58.833   Installing the file.
+2017-08-11 12:31:58.855   Successfully installed the file.
+2017-08-11 12:31:58.855   -- File entry --
+2017-08-11 12:31:58.855   Dest filename: C:\Program Files\KMSpico\sounds\inputfailed.mp3
+2017-08-11 12:31:58.855   Time stamp of our file: 2013-10-09 03:40:42.000
+2017-08-11 12:31:58.855   Installing the file.
+2017-08-11 12:31:58.871   Successfully installed the file.
+2017-08-11 12:31:58.871   -- File entry --
+2017-08-11 12:31:58.871   Dest filename: C:\Program Files\KMSpico\sounds\inputok.mp3
+2017-08-11 12:31:58.871   Time stamp of our file: 2013-10-09 03:19:44.000
+2017-08-11 12:31:58.871   Installing the file.
+2017-08-11 12:31:58.871   Successfully installed the file.
+2017-08-11 12:31:58.871   -- File entry --
+2017-08-11 12:31:58.871   Dest filename: C:\Program Files\KMSpico\sounds\processing.mp3
+2017-08-11 12:31:58.871   Time stamp of our file: 2013-10-09 03:21:10.000
+2017-08-11 12:31:58.871   Installing the file.
+2017-08-11 12:31:58.871   Successfully installed the file.
+2017-08-11 12:31:58.871   -- File entry --
+2017-08-11 12:31:58.871   Dest filename: C:\Program Files\KMSpico\sounds\transfer.mp3
+2017-08-11 12:31:58.871   Time stamp of our file: 2013-02-09 16:18:50.000
+2017-08-11 12:31:58.871   Installing the file.
+2017-08-11 12:31:58.871   Successfully installed the file.
+2017-08-11 12:31:58.871   -- File entry --
+2017-08-11 12:31:58.871   Dest filename: C:\Program Files\KMSpico\sounds\verified.mp3
+2017-08-11 12:31:58.871   Time stamp of our file: 2013-02-09 16:18:50.000
+2017-08-11 12:31:58.871   Installing the file.
+2017-08-11 12:31:58.871   Successfully installed the file.
+2017-08-11 12:31:58.871   -- File entry --
+2017-08-11 12:31:58.871   Dest filename: C:\Program Files\KMSpico\sounds\warning.mp3
+2017-08-11 12:31:58.871   Time stamp of our file: 2013-02-09 19:54:26.000
+2017-08-11 12:31:58.871   Installing the file.
+2017-08-11 12:31:58.887   Successfully installed the file.
+2017-08-11 12:31:58.887   -- Icon entry --
+2017-08-11 12:31:58.887   Dest filename: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\KMSpico\KMSpico.lnk
+2017-08-11 12:31:58.887   Creating directory: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\KMSpico
+2017-08-11 12:31:58.887   Creating the icon.
+2017-08-11 12:31:58.952   Successfully created the icon.
+2017-08-11 12:31:58.953   -- Icon entry --
+2017-08-11 12:31:58.953   Dest filename: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\KMSpico\Log KMSpico.lnk
+2017-08-11 12:31:58.954   Creating the icon.
+2017-08-11 12:31:58.955   Successfully created the icon.
+2017-08-11 12:31:58.955   -- Icon entry --
+2017-08-11 12:31:58.955   Dest filename: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\KMSpico\AutoPico.lnk
+2017-08-11 12:31:58.955   Creating the icon.
+2017-08-11 12:31:59.087   Successfully created the icon.
+2017-08-11 12:31:59.087   -- Icon entry --
+2017-08-11 12:31:59.087   Dest filename: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\KMSpico\Uninstall KMSpico.lnk
+2017-08-11 12:31:59.087   Creating the icon.
+2017-08-11 12:31:59.102   Successfully created the icon.
+2017-08-11 12:31:59.171   Installation process succeeded.
+2017-08-11 12:31:59.171   -- Run entry --
+2017-08-11 12:31:59.171   Run as: Current user
+2017-08-11 12:31:59.171   Type: Exec
+2017-08-11 12:31:59.171   Filename: C:\Program Files\KMSpico\scripts\Install_Service.cmd
+2017-08-11 12:31:59.187   -- Run entry --
+2017-08-11 12:31:59.187   Run as: Current user
+2017-08-11 12:31:59.187   Type: Exec
+2017-08-11 12:31:59.187   Filename: C:\Program Files\KMSpico\scripts\Install_Task.cmd
+2017-08-11 12:31:59.187   -- Run entry --
+2017-08-11 12:31:59.187   Run as: Current user
+2017-08-11 12:31:59.187   Type: Exec
+2017-08-11 12:31:59.187   Filename: C:\Program Files\KMSpico\UninsHs.exe
+2017-08-11 12:31:59.187   Parameters: /r0=KMSpico,default,E:\KMSpico 10.2.0 FINAL + Portable (Office and Windows 10 Activator) [TechTools.NET]\KMSpico 10.2.0 FINAL + Portable (Office and Windows 10 Activator) [TechTools.NET]\KMSpico Install\KMSpico_setup.exe
+2017-08-11 12:31:59.218   Process exit code: 0
+2017-08-11 12:31:59.218   -- Run entry --
+2017-08-11 12:31:59.218   Run as: Current user
+2017-08-11 12:31:59.218   Type: Exec
+2017-08-11 12:31:59.218   Filename: C:\Program Files\KMSpico\KMSELDI.exe
+2017-08-11 12:31:59.218   Parameters: /silent /backup
+2017-08-11 12:32:06.794   Process exit code: 4294967295
+2017-08-11 12:32:06.810   Need to restart Windows? No
+2017-08-11 12:32:06.810   -- Run entry --
+2017-08-11 12:32:06.810   Run as: Current user
+2017-08-11 12:32:06.810   Type: Exec
+2017-08-11 12:32:06.810   Filename: C:\Program Files\KMSpico\AutoPico.exe
+2017-08-11 12:32:06.810   Parameters: /silent
+2017-08-11 12:32:07.185   Process exit code: 0
+2017-08-11 12:32:07.201   Deinitializing Setup.
+2017-08-11 12:32:07.201   Log closed.
